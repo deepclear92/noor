@@ -1,66 +1,310 @@
 {
   "slug": "duaa-apres",
-  "order": 20,
+  "order": 21,
   "category": "cloture",
   "ar": "دعاء يقرأ عقب دلائل الخيرات",
   "fr": "Du'a après la lecture",
   "hint": "Bouclage du khatm",
-  "source": "https://www.dalailalkhayrat.com/duas.php?dua=completion",
+  "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299",
   "lines": [
     {
-      "id": "duaa-apres-001",
-      "num": 1,
-      "ar": "اللَّهُمَّ\r\n\r\n\r\n\r\n اشْرَحْ بِالصَّلَاةِ عَلَيْهِ صُدُورَنَا، وَيَسِّرْ بِهَا أُمُورَنَا، وَفَرِّجْ بِهَا هُمُومَنَا، وَاكْشِفْ بِهَا غُمُومَنَا، وَاغْفِرْ بِهَا ذُنُوبَنَا، وَاقْضِ بِهَا دُيُونَنَا، وَأَصْلِحْ بِهَا أَحْوَالَنَا، وَبَلِّغْ بِهَا آمَالَنَا، وَتَقَبَّلْ بِهَا تَوْبَتَنَا، وَاغْسِلْ بِهَا حَوْبَتَنَا، وَانْصُرْ بِهَا حُجَّتَنَا، وَطَهِّرْ بِهَا أَلْسِنَتَنَا، وَآنِسْ بِهَا وَحْشَتَنَا، وَارْحَمْ بِهَا غُرْبَتَنَا، وَاجْعَلْهَا نُورًا بَيْنَ أَيْدِينَا، وَمِنْ خَلْفِنَا، وَعَنْ أَيْمَانِنَا، وَعَنْ شَمَائِلِنَا، وَمِنْ فَوْقِنَا، وَمِنْ تَحْتِنَا، وَفِي حَيَاتِنَا، وَمَوْتِنَا، وَفِي قُبُورِنَا، وَحَشْرِنَا، وَنَشْرِنَا، وَظِلًّا فِي يَوْمِ القِيَامَةِ عَلَی رُؤُوسِنَا، وَثَقِّلْ بِهَا مَوَازِينَ حَسَنَاتِنَا، وَأَدِمْ بَرَكَاتِهَا عَلَيْنَا حَتَّى نَلْقَى نَبِيَّنَا وَسَيِّدَنَا مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَنَحْنُ آمِنُونَ مُطْمَئِنُّونَ فَرِحُونَ مُسْتَبْشِرُونَ، وَلَا تُفَرِّقْ بَيْنَنَا وَبَيْنَهُ حَتَّى تُدْخِلَنَا مُدْخَلَهُ، وَتُؤْوِيَنَا إِلَی جِوَارِهِ الكَرِيمِ مَعَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ \r\n &#64831;\r\nمِّنَ النَّبِيِّـنَ وَالصِّدِّيقِينَ وَالشُّهَدَآءِ وَالصَّـٰلِحِينَ ۚ وَحَسُنَ أُوْلَـٰٓئِكَ رَفِيقًا\r\n\r\n &#64830;.",
-      "translit": "Allāhummashraḥ biṣṣalāti ʿalayhi sudūrana, wa yassir bihā umūranā, wa farrij bihā humūmanā, wakshif bihā ghumūmanā, waghfir bihā dhunūbanā, waqḍi bihā duyūnanā, wa aṣliḥ bihā aḥwālanā, wa balligh bihā āmālanā, wa taqabbal bihā tawbatanā, waghsil bihā ḥawbatanā, wanṣur bihā ḥujjatanā, wa ṭahhir bihā al sinatanā, wa ānis bihā waḥshatanā, warḥam bihā ghurbatanā, wajʿalhā nūran bayna aydīnā wa min khalfinā wa ʿan aymānina wa ʿan shamāʾilinā, wa min fawqinā wa min taḥtinā, wa fī ḥayātina wa mawtinā, wa fī qubūrinā wa ḥashrinā wa nashrinā, wa ẓillan fī yawmal qiyāmati ʿalā ruʾūsina, wa thaqqil bihā ya rabbi mawāzīna ḥasanātinā, wa adim barakātihā ʿalaynā ḥattā nalqa nabiyyinā wa sayyidinā Muḥammadan ṣallAllahu ʿalayhi wa ṣallama, wa naḥnu āminūna muṭmaʾinnūna fariḥūna mustabshirūna, wa lā tufarriq baynanā wa baynahu ḥattā tudkhilanā madkhalahu, wa taʿwiyanā ilā jiwārihil karīmi maʿalladhīna anʿamta ʿalayhim min annabiyyīna waṣ ṣiddīqīna wash shuhadāʾi waṣ ṣāliḥīna, wa ḥasuna ūlāʾika rafīqa.",
-      "tr": {
-        "id": "Ya Allah dengan membaca shalawat atas Nabi SAW, lapangkanlah dada kami, mudahkanlah urusan kami, hilangkanlah susah kami dan bukakanlah keprihatinan kami. Ampunilah dosa kami, bayarkanlah hutang kami. Baguskanlah tingkah kami. Sampaikanlah apa yang menjadi keinginan kami. Terimalah taubat kami. Sucikanlah (basuhilah) perbuatan dosa kami, jadikanlah Nur dihadapan kami, belakang kami, kanan kami, kiri kami, atas kami dan bawah kami. Dalam hidup dan mati kami. Dalam kubur dan di padang Mahysar kami, kehidupan sesudah mati kami, naungan di hari kiamat di atas kepala kami. Beratkanlah timbangan kami yaitu timbangan kebajikan. Kekalkanlah Barokah shalawat atas diri kami sehingga kami bertemu Nabi kami dan Baginda kami yaitu Muhammad SAW. Kami selamat dan tenang, bergembira yang digembirakan. Janganlah kami dipisahkan antara beliau, sehingga Engkau masukkan tempat masuk beliau.Tempatkanlah kami jadi tetangga beliau yang mulia beserta orang yang Engkau beri nikmat atas mereka, dari para Nabi, siddiqin, syuhada dan shalihin. Demikianlah sebaik-baik teman.",
-        "en": "O Allah, through our exaltation of him, may Allah exalt and preserve him, expand our hearts; ease our affairs; dispel our worries; remove our sorrows; forgive our sins; discharge our debts; rectify our states; fulfill our hopes; accept our repentance; wash away our vile deeds; cause our proofs to prevail; purify our tongues; put an end to our desolation; and have mercy on our state of alienation. Make it a light in front of us and behind us, to our right and to our left, above us and beneath us, in our lives and in our deaths, in our graves, in our gathering and in our resurrection, and a shade over our heads on the Day of Resurrection. By means of [our exaltation] weigh down the Scales with our good actions. Cause its blessings to endure for us until we meet our Prophet and our Master Muḥammad, may Allah exalt and preserve him, in safety, reassured and rejoicing. Do not separate us from him before You admit us by his way of entry and accommodate us in his noble neighbourhood with those You have favoured with bliss among the Prophets, those of perfected sincerity (ṣiddīqūn), the martyrs, and the righteous; and what excellent companions are they!",
-        "fa": "ای خدا بکشا بوسیلۂ درود بر پیغمبر سینهای ما و آسان کن بسبب ان کارهای ما و کشاده کن بسبب او مشکلات ما  و برطرف کن غمهای ما و بیامرز بسبب او گناه های و اداکن بسبب او قرضهای ما و درست کنی بسب او احوال ما و برسان بوسیلۂ او آرزوهای مارا و بپذیر بجهت او توبۂ مارا و بشو بذریعۂ او گناه مارا و مدد کن بسبب او دلیل ما و پاک کُن بطفیل او زبان های مارا و جمع کِن بسبب او پریشانی ما و رحم کن بجهت او غربت مارا و کن اورا نور روبروی ما و پس ما و جانب راست ما و جانب چپ ما و بالای ما وزیر ما و در زندگی ما و موت ما و در گورهای ما و در قیامت ما و وقت برانگیخته شدن ما و سایه بروز قیامت برسر های ما و گران کُن بسبب او وزن نکوئی های ما و همیشه از برکات او برما تا آنکه ملاقات کنیم نبی ما و سردار ما محمد را درود فرستد خدا بروی و سلام در حالی که بی ترس باشیم اطمینان کننده خوش شونده خوشی طلبیده و نه جدائی درمیان ما و درمیان او تا آنکه داخل کُنی ما را بجای او و جا دهی مارا به همسایۂ او بزرگ با آن کسانی که انعام کردۂ بر ایشان از انبیاؑ و صدیقان و شهدا و نکوکاران و کسانیکه اند این گروه برای رفاقت",
-        "fr": "Ô Allah à travers nos prières au prophète, soulage nos cœurs, facilite nos situations, résolu nos problèmes, élimine nos douleurs, absout nos fautes, allège nos dettes, traite nos situations, réalise nos espoirs, accepte nos repentance, purifie nos méfaits, aide nos supplications, purifie nos langues, en fait un moyen de compagnie à notre solitude, soulage nos séparations, en fait une lumière devant nous et derrière nous, à notre droite et à notre gauche, au-dessus et en dessous de nous, dans nos vies et dans nos morts, dans nos tombes, dans notre rassemblement et dans notre résurrection, en fait un ombre pour nous au jour du jugement sur nos têtes, pèse y à travers nos balance par de bonnes actions, laisse nous profiter de ses bénédictions d’une façon permanente jusqu’à notre rencontre avec le prophète et sayidina Muhammed, que la paix et les bénédictions de dieu soient sur lui et sa famille, en étant croyants, certains, heureux et destinataires de bonnes nouvelles, ne nous sépare pas de lui avant que Tu ne nous admettes à sa destination; accueille-nous à sa compagnie avec ceux que Tu as favorisés parmi les prophètes, les véridiques, les martyrs et les justes, ça sera la meilleur compagnie.",
-        "tr": "Allah'ım! Ona (Resûlullah'a) getirdiğimiz salavat-ı şerifeler hürmetine gönüllerimize inşirah ver, işlerimizi kolaylaştır, sıkıntılarımızı gider, kederlerimizi dağıt, günahlarımızı bağışla, borçlarımızı ödemeyi nasip et, hâllerimizi ıslah eyle ve bizleri umduklarımıza ulaştır. Bu salavatlar bereketiyle tövbemizi kabul buyur, günah kirlerimizi yıkayıp temizle, hüccetimizi (delilimizi) üstün kıl, dillerimizi pak eyle, ıssızlığımızı giderip bize yoldaş ol ve garipliğimize merhamet et. Bu salavatları önümüzde, arkamızda, sağımızda, solumuzda, üstümüzde, altımızda, hayatımızda, ölümümüzde, kabrimizde, haşrimizde ve neşrimizde bizim için bir nur eyle; kıyamet gününde başlarımızın üzerinde bir gölge kıl. Onunla sevap terazilerimizi ağırlaştır ve bizler güven içinde, mutmain, sevinçli ve müjdeli bir hâlde Peygamberimiz ve Efendimiz Muhammed (sallallahu aleyhi ve sellem) ile kavuşuncaya dek bu salavatların bereketini üzerimizde daim eyle. Bizi onun gireceği o yüce makama (cennete) dâhil edinceye ve nimet verdiğin o kutlu kimselerle (peygamberler, sıddıklar, şehitler ve salihlerle) beraber onun o keremli civarına (yanına) yerleştirinceye kadar bizimle onun arasını ayırma."
-      },
+      "id": "duaa-apres-l001",
+      "ar": "بسم الله الرحمن الرحيم وصلى الله على سيدنا محمد وآله أجمعين وسلم تسليما",
       "kind": "prose"
     },
     {
-      "id": "duaa-apres-002",
-      "num": 2,
-      "ar": "اللَّهُمَّ\r\n\r\n\r\n \r\n\r\nإِنَّا آمَنَّا بهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَلَمْ نَرَهُ، فَمَتِّعْنَا\r\n اللَّهُمَّ\r\n\r\n\r\n فِي الدَّارَيْنِ بِرُؤْيَتِهِ، وَثَبِّتْ قُلُوبَنَا عَلَى مَحَبَّتِهِ، وَاسْتَعْمِلْنَا عَلَى سُنَّتِهِ، وَتَوَفَّنَا عَلَى مِلَّتِهِ وَاحْشُرْنَا فِي زُمْرَتِهِ النَّاجِيَةِ وَحِزْبِهِ المُفْلِحِينَ، وَانْفَعْنَا بِمَا انْطَوَتْ عَلَيْهِ قُلُوبُنَا مِنْ مَحَبَّتِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ لَا جَدَّ وَلَا مَالَ وَلَا بَنِينَ، وَأَوْرِدْنَا حَوْضَهُ الأَصْفَى، وَاسْقِنَا بِكَأْسِهِ الأَوْفَى، وَيَسِّرْ عَلَيْنَا زِيَارَةَ حَرَمِكَ وَحَرَمِهِ مِنْ قَبْلِ أَنْ تُمِيتَنَا، وَأَدِمْ عَلَيْنَا الإِقَامَةَ بِحَرَمِكَ وَحَرَمِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى أَنْ نُتَوَفَّى.",
-      "translit": "Allāhumma innā āmannā bihi ṣallAllahu ʿalayhi wa ṣallama wa lam narahu, famattiʿnAllahuma fiddāraini biruʾyatihi, wa thabbit qulūbana ʿalā maḥabbatihi, wastaʿmilna ʿalā sunnatihi, wa tawaffanā ʿalā millatihi, waḥshurna fī zumratihin nājiyati wa ḥizbihil mufliḥīna, wanfaʿna biman ṭawat ʿalayhi qulūbuna min maḥabbatihi ṣallAllahu ʿalayhi wa ṣallama yawma lā jadda wa lā māla wa lā banīn, wa awridnā ḥawḍahul aṣfa, wasqinā bikaʾ sihil awfa, wa yassir ʿalaynā ziyārata ḥaramika wa ḥaramihi min qabli an tumītana, wa adim ʿalaynal iqāmata biḥaramika wa ḥaramihi ṣallAllahu ʿalayhi wasṣallama ilā an natawaffa.",
-      "tr": {
-        "id": "Ya Allah sesungguhnya kami beriman dengan beliau SAW meskipun kami belum pernah melihat beliau maka gembirakanlah kami Ya Allah di dua desa (dua akherat) dengan melihat beliau. Tetapkanlah ahti kami di atas mencintai beliau. Tolonglah kami mengerjakan sunnah-sunnahnya. Matikanlah kami di atas agamanya. Kumpulkanlah kami dalam golongan yang selamat. Dan tentaranya yang bahagia. Berilah manfaat kepada kami dalam hati kami mencintai beliau. Mudah-mudahan Rahmat, Salam Allah tetap terlimpah atas beliau SAW. Pada tiada nasi baik, harta benda dan anak. Sampaikanlah kami pada telaha beliau yang bersih. Minumilah kami dengan gelas beliau yang dijanjikan. Mudahkanlah kami berziarah ke Tanah Haram Engkau dan Tanah Haram beliau sebelum kami wafat. Kekalkanlah kami mendirikan kewajiban di Tanah Haram Engkau dan Tanah Haram Nabi Engkau sampai kami wafat.",
-        "en": "O Allah, we have believed in him, may Allah exalt and preserve him, without having seen him; so grant, O Allah, vision of him in both worlds. Keep our hearts firm in love for him and in practicing his Sunna. Let us pass away adhering to his religion. Resurrect us in his saving circle and in his faction, that of the prosperous. Let us benefit from the love for him, may Allah exalt and preserve him, which is enwrapped in our hearts, on the Day when no ancestors, wealth, or sons [can avail us]. Bring us to his pure Celestial Pool, and give us to drink from his all-sufficing chalice. Facilitate for us a visit to Your Sanctuary and to his Sanctuary before You cause us to die; and let our stay at Your Sanctuary and his Sanctuary, may Allah exalt and preserve him, continue until we pass away.",
-        "fa": "ای خدا بتحقیق گرویده ایم بآن درود فرستد خدا بروی و سلام و حالانکه ندیده ایم اورا پس برخودار کن مارا او خدا در هر دوجهان از دیدار او و پاینده دار دلهای مارا بر محبت او و روان کن مارا بر سنت او و بمیران مارا بردین او وحشرکُن مارا درگروه او نجات پاینده درگروه او بمراد رسنده و نفع ده مارا بچیزی که مشتمل ست بر او دلهای ما از محبت آن درود فرستد خدا بروی و سلام روزی که کارنیاید کوشش و نه مال و نه پسران و دار کُن مارا بر حوض صافی او و بنوشان مارا از پیالۂ او تمام و آسان کن بر ما زیارت حرم خود و حرم او پیش ازین که بمیرانی مارا و همیشه کن برما ماندن در حرم تو وحرم او درود فرستد خدا بروی و سلام تا وقتیکه موت دهی مارا۔",
-        "fr": "Ô Allah, prie sur celui que nous avons cru en lui même si nous ne l'avons pas vu. Ô Allah, Nous te demandons de nous permettre le voir dans les deux vies, de fixer nos cœurs sur son amour, de nous guider selon sa Sunnah, de prendre nos âmes en étant musulman, de nous faire réunir dans son groupe de survivants et son parti des vainqueurs lors du jugement dernier. Ô Allah, prie pour celui lequel nous avons attaché son amour à nos coeurs. Ô Allah, nous te demandons de nous faire bénéficier de cette amour le jour lequel ni parents ni argent ni enfants pourront nous aider. Ô Allah, nous te demandons de boir de son Haoud le plus plein avec de l'eau le plus pur, de faciliter à visiter votre sanctuaire et le sien avant notre mort. Ô Allah nous te demandons une résidence permanente au sein de vos sanctuaires jusqu'à la mort.",
-        "tr": "Allah'ım! Bizler onu (sallallahu aleyhi ve sellem) görmeden iman ettik. Öyleyse Allah'ım, her iki cihanda da bizi onu görme nimetiyle şereflendir. Kalplerimizi onun muhabbeti üzere sabit kıl, bizleri onun sünneti üzere amel edenlerden eyle, onun dini üzere canımızı al ve bizleri onun kurtuluşa eren zümresi ile felaha kavuşan topluluğu içinde haşret. Soyun sopun, malın mülkün ve evlatların fayda vermeyeceği o günde, kalplerimizin derinliklerinde sakladığımız o nebi (sallallahu aleyhi ve sellem) sevgisini hakkımızda faydalı kıl. Bizi onun o en saf ve tertemiz havzına (Kevser'e) ulaştır, onun en dolu kâsesinden bize kana kana içir. Bizleri vefat ettirmeden evvel Senin Harem'ini (Mekke) ve Onun Harem'ini (Medine) ziyaret etmeyi bizlere kolaylaştır ve ruhumuzu teslim edene dek Senin Harem'inde ve Onun (sallallahu aleyhi ve sellem) Harem'inde yaşamayı bizlere daim eyle."
-      },
+      "id": "duaa-apres-l002",
+      "ar": "واغفر بها ذنوبنا واقض بها ديوننا واصلح",
       "kind": "prose"
     },
     {
-      "id": "duaa-apres-003",
-      "num": 3,
-      "ar": "اللَّهُمَّ\r\n\r\n\r\n إِنَّا نَسْتَشْفِعُ بِهِ إِلَيْكَ إِذْ هُوَ أَوْجَهُ الشُّفَعَاءِ إِلَيْكَ، وَنُقْسِمُ بِهِ عَلَيْكَ إِذْ هُوَ أَعْظَمُ مَنْ أُقْسِمَ بِحَقِّهِ عَلَيْكَ، وَنَتَوَسَّلُ بِهِ إِلَيْكَ إِذْ هُوَ أَقْرَبُ الوَسَائِلِ إِلَيْكَ، نَشْكُو إِلَيْكَ يَا رَبِّ قَسْوَةَ قُلُوبِنَا، وَكَثْرَةَ ذُنُوبِنَا، وَطُولَ آمَالِنَا، وَتَكَاسُلَنَا عَنِ الطَّاعَاتِ، وَهُجُومَنَا عَلَى المُخَالَفَاتِ، فَنِعْمَ المُشْتَكَى إِلَيْهِ أَنْتَ يَا رَبِّ، بِكَ نَسْتَنْصِرُ عَلَى أَعْدَائِنَا وَأَنْفُسِنَا فَانْصُرْنَا، وَعَلَى فَضْلِكَ نَتَوَكَّلُ فِي صَلَاحِنَا، فَلَا تَكِلْنَا إِلَى غَيْرِكَ يَا رَبَّنَا، وَإِلَى جَنَابِ رَسُولِكَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَنْتَسِبُ فَلَا تُبَعِّدْنَا، وَبِبَابِكَ نَقِفُ فَلَا تَطْرُدْنَا، وَإِيَّاكَ نَسْأَلُ فَلَا تُخَيِّبْنَا.",
-      "translit": "Allāhumma innā nastashfiʿu bihi ilayka idh huwa awjahush shufaʿāi ilayka, wa nuqsimu bihi ʿalayka idh huwa aʿẓamu man uqsima bi ḥaqqihi ʿalayka, wa natawassalu bihi ilayka idh huwa aqrabul wasāʾili ilayka, nashkū ilayka yā rabbi qaswata qulūbina, wa kathrata dhunūbinā, wa ṭūla āmālinā, wa fasada ʿāmālina, wa takasulanā ʿaniṭṭāʿāti, wa hujūmanā ʿalal mukhālafāti, faniʿmal mushtaka ilayhi anta yā rabbi bika nastanṣiru ʿalā aʿdāʾinā wa anfusinā fanṣurnā, wa ʿalā faḍlika natawakkalu fī ṣalāḥinā,falā takilnā ilā ghayrika yā rabbana, wa ilā janābi rasūlika ṣallAllahu ʿalayhi wa ṣallama nantasibu falā tubaʿidnā, wa bibābika naqifufalā taṭrudnā, wa iyyāka nasʾalu falā tukhayyibnā.",
-      "tr": {
-        "id": "Ya Allah, sesungguhnya kami mohon syafa'at melalui Perantaraan Nabi kepada Engkau sebab beliaulah sebaik-baik orang yang memberi syafa'at kepada Engkau dan diberi bagian atas Engkau. Karena beliau adalah seagung-agung orang yang diberi bagian dengan haknya atas Engkau. Dan kami bertawasul dengannya kepada Engkau sebab beliaulah sedekat-dekat Perantara kepada Engkau. Kami mengadukan kepada Engkau Ya Tuhan kerasnya hati kami, banyaknya dosa kami, panjangnya angan-angan kami, rusaknya amal kami, kemalasan kami dari mentaati Engkau dan melanggarnya kami atas sumpah-sumpah. Maka sebaik-baik pengaduan adalah Engkau. Ya Tuhan kami, dengan Engkau kami mohon kemenangan atas musuh-musuh kami dan nafsu-nafsu kami, maka berilah kami kemenangan. Dan atas anugerah Engkau kami bertawakal. Dalam kebaikan kami, janganlah Engkau menyerahkan kami kepada selain Engkau. Ya Tuhan kami dan pada sebelah Rasulullah SAW kami jadi satu keturunan/keluarga, maka dari itu jangalah Engkau jauhkan kami. Ya Tuhan kami, dengan pintu-pintu Engkau kami berdiri maka janganlah Engkau mengusir kami. Ya Tuhan kami, hanya kepada Engkau kami memohon maka janganlah sia-siakan kami.",
-        "en": "O Allah, we seek his intercession with You, for he is the most acceptable of intercessors to You. We adjure You through him, for he is the mightiest one to adjure You by his entitlement in Your sight. We seek access to You through him, for he is the closest means of access to You. We lament to You, O Lord, the hardness of our hearts, the abundance of our sins, the long extent of our hopes, our indolence concerning acts of worshipful obedience, and our haste in committing wrongful deeds. How excellent a One You are to complain to! O Lord, we seek Your help against our enemies and our selves; so grant us help and victory. We rely entirely upon Your favour to put ourselves right, so do not cause us to rely upon anyone but You, our Lord. It is with Your venerable Emissary, may Allah exalt and preserve him, that we associate ourselves, so do not separate us. And it is at Your door that we stand, so do not turn us away. It is You alone that we entreat, so do not disappoint us.",
-        "fa": "ای خدا بتحقیق ما طلب سفارش میکنیم با وی جانب تو زیراکه اولائق تر سفارش کنندگان ست بجانب تو وسوگندمی دهیم بر توچه او بزرگتر آن کس ست که سوگند داده شود و بحق او بر تو و وسیله میکینم باد طرف تو چراکه او نزدیک تر سیلهاست جانب تو شکایت میکینم طرف تو ای پروردگار ما از سختی دلهای خود و بسیاری گناه های خود و درازی آرزوهای خود و فساد اعمال خود و کاهلی خود از بندی و زیادتی خود بر خلاف ورزی پس بهترین شکوه کرده شده جانب او توست بتو طلب مدد می کنیم بر دشمنان خود و زاهای خود و پس مدد کُن مارا و بر فضل تو اعتماد می کنیم در صلاح خود و پس نه سپرد کن مارا بجانب خود ای پروردگار ما و بسوی بارگاه رسول تو درود فرستد خدا بروی وسلام نسبت میکنیم پس درودکن مارا و بدر تو استاده ایم پس مران مارا او بخاص تو سوال میکینم پس محروم مکن مارا",
-        "fr": "Ô Allah, en te demande ton intercession à travers ton prophète tant qu’il est le plus intercesseurs à toi, on jure y avec vue qu’il est le meilleur qui t’a juré. On t’accède y travers car il le plus proche moyen à toi. On se plaint sur la solidité de nos cœurs, l’abondance de nos fautes, la longueur de nos espoirs, nos paresses envers ton obéissance, notre attraction à commettre de mauvaises actions ! Ô le meilleur destinataire envers lequel on se plaint, toi seigneur à travers toi, on peut vaincre nos ennemies nous-mêmes, alors aide nous et par ta grâce nous nous améliorons vers le bien et fais nous de ne compter que sur toi Ô notre Seigneur. Ô Seigneur, nous nous associons à l'honneur de Ton messager alors ne nous éloigne pas, Et nous nous arrêtons à Ta porte, alors ne nous repousse pas, nous Te le demandons à Toi seul, alors ne nous déçois pas.",
-        "tr": "Allah'ım! O, Sana yönelen şefaatçilerin en itibarlısı olduğu için onunla Senden şefaat diliyoruz. O, hakkı için Sana yemin edileceklerin en büyüğü olduğu için onun hakkı için Sana ant veriyoruz. O, Sana ulaştıran vesilelerin en yakını olduğu için onunla Sana tevessül ediyoruz. Ya Rabbi! Kalplerimizin katılığını, günahlarımızın çokluğunu, bitmek bilmeyen tûl-i emelimizi (dünyevi arzularımızı), itaatlerdeki tembelliğimizi ve isyana olan (cüretkârane) atılganlığımızı Sana şikâyet (arz) ediyoruz. Ya Rabbi, kendisine şikâyette bulunulacak ne güzel sığınaksın Sen! Düşmanlarımıza ve kendi nefislerimize karşı Senden yardım diliyoruz; bize yardım et. Hâlimizin düzelmesi hususunda ancak Senin fazlına ve keremine tevekkül ediyoruz; Rabbimiz, bizi Senden başkasına bırakma. Resûlünün (sallallahu aleyhi ve sellem) o yüce makamına intisap ediyoruz; bizi uzaklaştırma. Senin kapında duruyoruz; bizi kovma. Yalnızca Senden istiyoruz; ne olur bizi eli boş çevirme."
-      },
+      "id": "duaa-apres-l003",
+      "ar": "س) 5 وميم سسةه؟ دسم تسيجم شجيمة؟ ا م مهسي",
       "kind": "prose"
     },
     {
-      "id": "duaa-apres-004",
-      "num": 4,
-      "ar": "اللَّهُمَّ\r\n\r\n\r\n ارْحَمْ تَضَرُّعَنَا، وَآمِنْ خَوْفَنَا، وَتَقَبَّلْ أَعْمَالَنَا، وَأَصْلِحْ أَحْوَالَنَا، وَاجْعَلْ بِطَاعَتِكَ اشْتِغَالَنَا، وَإِلَى الخَيْرِ مَآلَنَا، وَحَقِّقْ بِالزِّيَادَةِ آمَالَنَا، وَاخْتِمْ بِالسَّعَادَةِ آجَالَنَا. هَذَا ذُلُّنَا ظَاهِرٌ بَيْنَ يَدَيْكَ، وَحَالُنَا لَا يَخْفَى عَلَيْكَ، أَمَرْتَنَا فَتَرَكْنَا، وَنَهَيْتَنَا فَارْتَكَبْنَا، وَلَا يَسَعُنَا إِلَّا عَفْوُكَ فَاعْفُ عَنَّا يَا خَيْرَ مَأْمُولٍ، وَأَكْرَمَ مَسْئُولٍ، إِنَّكَ عَفُوٌّ غَفُورٌ رَؤُوفٌ رَحِيمٌ يَا أَرْحَمَ الرَّاحِمِينَ. وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبهِ وَسَلَّمَ تَسْلِيمًا، وَالحَمْدُ لِلَّهِ رَبِّ العَالَمِينَ.",
-      "translit": "Allāhummarḥam taḍarruʿanā, wa āmin khawfanā, wa taqabbal ʿamālanā, wa aṣliḥ aḥwālanā, wajʾal biṭāʿatikash tighālanā, wa ilāl khayri mālanā, wa ḥaqqiq bizziyādati āmālanā, wakhtim bissaʿādati ājālanā, hadhā dhullunā ẓāhirun bayna yadayka, wa ḥālunā la yakhfa ʿalayka, amartanā fataraknā, wa nahaytanā fartakabnā, wa lā yasʿunā illā ʿafwuka, faʿfu ʿannā yā khayra maʾmūlin, wa akrami masʾūlin, innaka ʿafuwwun ghafūrun raʾūfun raḥīmun, yā arḥamar raḥimīna, wa ṣallAllahu ʿalā sayyidinā Muḥammadin wa ʿalā ālihi wa ṣaḥbihi wa ṣallama taslīman, walḥamduliLlahi rabbil ʿālamīn.",
-      "tr": {
-        "id": "Ya Allah, kasihanilah kerendahan dan permohonan kami. Dan selamatkanlah takut kami, terimalah amal kami, baguskanlah tingkah kami, jadikanlah dengan ketaatan kepada Engkau sebagai kesibukkan kami, kepada kebajikan menjadi angan-angan kami, nyatakanlah angan-angan kami dengan tambahan, tutuplah ajal kami dengan kebahagiaan. Inilah kehinaan kami yang nampak dihadapan Engkau dan tingkah kami yang tak ada kesamaran atas Engkau. Engkau telah memerintahkan kamu, lalu kami meninggalkannya. Engkau melarangnya maka kami melanggarnya. Dan tiada yang melapangkan kami kecuali ampunan Engkau maka ampunilah kami wahai sebaik-baik Dzat yang diangan-angan dan semulia-mulia Dzat yang dimintai. Sesungguhnya Engkau Maha Pengampun, Maha Penyantun dan Maha Pengasih. Wahai Dzat Pengasih diantara orang-orang yang kasih. Mudah-mudahan Rahmat dan Salam Allah tetap atas junjungan kami Nabi Muhammad, keluarga dan sahabatnya. Segala puji bagi Allah Tuhan sekalian Alam.",
-        "en": "O Allah, have mercy upon our beseeching, and allay our fear. Accept our actions and rectify our states, make obedience to You our preoccupation and our wealth a means of doing good, realise and exceed our hopes, and seal our dying moments with [the promise of] eternal felicity. This lowliness of ours is manifest before You, and our condition is not hidden from You. You have commanded us and we have been remiss; You have forbidden and we have transgressed. Nothing can save us but Your pardon; so pardon us, O Best Source of Hopes and Most Generous Recipient of Petitions. You are Pardoning, Much-Forgiving, Kindly, and Merciful, O Most Merciful of those who show mercy. May Allah exalt and preserve, with abundant salutations, Our Master Muḥammad and his Family and Companions. And praise be to Allah, Lord of the Worlds.",
-        "fa": "ای خدا رحم کُن عاجزی مارا و ایمن کُن ترس مارا و بپذیر اعمال ما و درست گردان احوال ما و گردان به بندگی خود شغل کردن ما و بسوی نکوئی انجام ما و ثابت کُن بزیارت آرزوهای ما و ختم کن به نکوئی  این ذلت ما ظاهرست روبروی تو و حال ما پوشیده نیست بر تو حُکم کردی مارا پس ترک کردیم و منع کردی مارا پس اختیار کرو-دیم و گنجایش نداریم مگر بمعافی تو پس معاف کُن از ما ای بهترین از روکرده شدگان و بزرگتر سوال کرده شدگان بتحقیقی تو معاف کننده بخشنده مهربان رحم کننده ای رحم کننده تراز رحم کنندگان و درود فرستد خدا برسردار  ما محمدؐ و بر آل او و یاران او و سلام فرستد سلام فرستادنی و همه ستایش مر خدایراکه پروردگار عالمهاست",
-        "fr": "Ô Allah, aie pitié de nous en implorant et apaise notre peur, accepte nos actions et rends-nous justes ! Fais de l'obéissance à toi notre occupation principale, fais-nous utiliser nos richesses uniquement pour le bien, réalise nos espoirs, rempli notre destination finale avec du bonheur, notre humilité est mise en évidence devant toi et nos situations ne t'est pas cachée, tu nous as commandés et nous avons été négligents, tu nous as interdit et nous avons transgressé, rien n'est plus énorme que ton pardon, alors pardonne-nous. Ô le meilleur combleur d'espoir et le plus généreux des receveurs de demandes. Tu es le Pardonneur, le Miséricordieux, ô le Miséricordieux des Miséricordieux ! Et que les bénédictions et la paix d'Allah soient sur Sayyidina Muhammad et sur sa famille et ses compagnons, et louange à Allah, Seigneur des univers !",
-        "tr": "Allah'ım! Sana olan yakarışımıza merhamet et, korkularımızdan bizi emin kıl, amellerimizi kabul buyur ve hâllerimizi ıslah eyle. Meşguliyetimizi Sana itaat eyle, varış noktamızı ve akıbetimizi hayır kıl, umduklarımıza bizi fazlasıyla ulaştır ve ömrümüzü saadetle (imanla) nihayete erdir. İşte acizliğimiz ve zilletimiz Senin huzurunda apaçık ortadadır, hâlimiz Sana gizli değildir. Sen emrettin biz terk ettik, Sen yasakladın biz işledik. Şimdi bizi Senin affından başka sığınacak hiçbir yer kurtaramaz; öyleyse bizi affet ey umut bağlananların en hayırlısı ve kendisinden istenenlerin en keremlisi! Şüphesiz Sen Afuvv'sun (çok affedicisin), Ğafûr'sun (çok bağışlayıcısın), Raûf'sun (çok şefkatlisin), Rahîm'sin (çok merhametlisin), ey merhametlilerin en merhametlisi! Allah'ın salâtı ve çokça selâmı Efendimiz Muhammed'e, onun âline ve ashabına olsun. Hamd, âlemlerin Rabbi olan Allah'a mahsustur."
-      },
+      "id": "duaa-apres-l004",
+      "ar": "بها احوالنًا وَبَلعَ بها امَالنَا وَتقبّل بها توبتنا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l005",
+      "ar": "بها السنتنا وانس بها وحشتنا وارحم بها",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l006",
+      "ar": "عرَبتنًا واجعلها نورًا بَيْنَ أيدينا ومن خلفتا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l007",
+      "ar": "وعن ايماننا وعن شمائلنا ومن فوقنا ومن",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l008",
+      "ar": "تحتنا وفي حَيَاتنا وموتنا وفي قبورنا وحشرنا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l009",
+      "ar": "ونشرنا وَظلا يَومَ القيَامَة على رؤوسنا وَثقل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l010",
+      "ar": "بها يَا رب مَوَازين حسناتنا وادم بركاتها",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l011",
+      "ar": "لله عليه وسلم ونحن اميولن مطمئنون",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l012",
+      "ar": "فرحون مستبْشرون ولا تفرق بَيَْنَا وَبَيَنَه حتى",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l013",
+      "ar": "تدخلنا مدخله وَتاوِينَا إلى جواره الكريم مع",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l014",
+      "ar": "الذ انعمت لصد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l015",
+      "ar": "دين عليهم من النبيين والصديقين",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l016",
+      "ar": "َ ليرا | 5 ل - تند اس فى 1 : آعاء 2",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l017",
+      "ar": "والشهداء و لصالحين وحسن أو لك رفيقا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l018",
+      "ar": "للهم إنا امنا به صلى الله عليه وَسَلمْ وَلم",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l019",
+      "ar": "نره فمتعنا اللهم في الدارين برؤيته وتثبت",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l020",
+      "ar": "قلوينا عَلَى م ]سد لَنَا ع1 سشتته وَتَوَكْنَا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l021",
+      "ar": "على ملته واحشرنا فى تك الناحتة نك",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l022",
+      "ar": "ذ بير م ب وَاسقّ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l023",
+      "ar": "١ و دن حوضه الاصفى سقنا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l024",
+      "ar": "مال ولا بنين واور 0",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l025",
+      "ar": "3 2ه .م سا سالظ هم ٠ رار أ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l026",
+      "ar": "| َبْنَا لاقام لخر",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l027",
+      "ar": "من قبل مينا وَأَدمَْ عَلَيْنَا أَلْإِقَامَةَ بِحَرَّمَكَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l028",
+      "ar": "ص الله عليه و !",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l029",
+      "ar": "7 نَستشفع به إِلَيْكَ إِذْ هو أَوْجَهُ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l030",
+      "ar": "هو اقرب -- 1 سل نا دَقَيَادَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l031",
+      "ar": "فَسْوَةٌ فُلَوبنا وَكَثْرَةَ ذُنُوبنا وَطُولَ آمَالنَا وَهَسَا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l032",
+      "ar": "تَمْمَةَّ 3[ 5 وَكرة ذنوبنا و ١",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l033",
+      "ar": "تَكَاسَلنَا عن الطاعات وهجو",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l034",
+      "ar": "اعمالتا . جوم 22",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l035",
+      "ar": "ُمُخَائَقَ 5 لمشْتَىَ لَبْه انت يا رب",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l036",
+      "ar": "بك نَسَتَنْصٌ على أعدَائنًا 8",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l037",
+      "ar": "' فَضْلكَ تَتَوَكْل فى صَلاَحِنَا قَلَا تكلا !",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l038",
+      "ar": "فَضْلكَ تَتَوَكْل في صلا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l039",
+      "ar": "200 تَنْتَسبٌ قَلَا تَبْعَدَنًا وَبِبَاٍ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l040",
+      "ar": "تَقف فلا تَطرْدْنًا وَإِيَاكَ تَشأل قلا تَحَييْنَا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l041",
+      "ar": "وم م تَحَدْعَنَا وآمنْ خَْقَنَا وَتَفَكَلُ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l042",
+      "ar": "أَعْمَالََا وَأَصْلِح أَحْوَالَنَا وَأجْعَلُ بطاعَتكَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l043",
+      "ar": "َشْتعَالَنَا وَإلى الخَيْر مَآلَنَا وَحَفَقْ بِأَلرٌيَادَة",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l044",
+      "ar": "1 1 ذل ل ىذا ذلتا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l045",
+      "ar": "آَمَالَنَا وأختم بالسَعَادَة آجَالَنَا . هد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l046",
+      "ar": "آَمَالَنَا وَآَخْتمْ بِألسَعَادَة 1",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l047",
+      "ar": "ذاهرٌ بَنَ يَدَنْكَ وَحَالنَا لآ يَحْفَى عَلَيْكَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l048",
+      "ar": "أَمَرْتَنَا فَتَرْكْنَا وَنَهَيْتَنَا فَأَرْتَكَيْنَا وَلآ يَسَعْنَا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l049",
+      "ar": "6 دنهم لم همس مام ل وَأكْرَمَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l050",
+      "ar": "أَرْحَمَ ألرَاحمينَ . وَصَلَ أَللَّهُ عَلَى سَيّ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l051",
+      "ar": "أَرْحَمَ ألرَاحمينَ . 3",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l052",
+      "ar": "ارحم م فى سىس",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l053",
+      "ar": "محمد وعلى اله وصحبه تسريه",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l054",
+      "ar": "وَألْحَمْدُ لله رَبّ الْعَالَمِينَ . أللَهُمَ يَا مَنْ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l055",
+      "ar": "لَطَفْتَ بِحَلقٍ أَلسَّمّاوَات والأرض وَلَطَفْتَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l056",
+      "ar": "بِآلأجنّة في بُطُونٍ أُمْهَاتهَا ألطف يتا في",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l057",
+      "ar": "وَآمنًا في أَوْطَاننَا وَوَلٌ أُمُورَنَا خِيَّارنَا وَل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l058",
+      "ar": "تَوَلُ أُمُورَنَا هَرَارَنَا وَأَرْفَعْ مَقْتَكَ وَعَضَبِكَ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l059",
+      "ar": "عَنَا ولآ تَسَلَطْ عَلَيْنَا ِذَّنُوينَا مَنْ لآ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-apres-l060",
+      "ar": "يَخَافْكَ ولا يَرْحَمُنَا يَارَبَ ألْعَالمِينَ..",
       "kind": "prose"
     }
   ]

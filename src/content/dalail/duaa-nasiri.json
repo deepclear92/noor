@@ -9,7 +9,7 @@
     "ar": "الإمام العارف سيدي محمد بن ناصر الدرعي",
     "fr": "Imam Muhammad b. Nāṣir al-Darʿī (m. 1085 H / 1674)"
   },
-  "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor), en prose claire à partir de l'arabe",
+  "source": "Prélude (Coran 33:56) + 10 premiers distiques : texte arabe domaine public, traduction française originale (projet Noor). Suite (distiques 11-71) : OCR du PDF source, tashkeel préservé.",
   "description": {
     "fr": "Connu sous le nom de « La Prière de l'opprimé », ce du'a en 71 distiques est récité dans toute l'Afrique du Nord et la confrérie shadhilie. Il est lu chaque vendredi à al-Qarawiyyīn (Fès) et après Dalail al-Khayrat dans la tradition marocaine.",
     "ar": "دعاء مشهور للإمام العارف سيدي محمد بن ناصر الدرعي رحمه الله، يُقرأ يوم الجمعة في القرويين بفاس وعقب دلائل الخيرات"
@@ -37,7 +37,9 @@
       "num": 0,
       "ar": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ.",
       "translit": "Aʿūdhu bi-llāhi mina sh-shayṭāni r-rajīm.",
-      "tr": { "fr": "Je cherche refuge auprès d'Allah contre Satan le lapidé." },
+      "tr": {
+        "fr": "Je cherche refuge auprès d'Allah contre Satan le lapidé."
+      },
       "kind": "prose"
     },
     {
@@ -45,7 +47,9 @@
       "num": 0,
       "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ.",
       "translit": "Bismi llāhi r-Raḥmāni r-Raḥīm.",
-      "tr": { "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux." },
+      "tr": {
+        "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux."
+      },
       "kind": "basmala"
     },
     {
@@ -159,12 +163,383 @@
       "kind": "poetry"
     },
     {
-      "id": "duaa-nasiri-note",
-      "ar": "…",
-      "translit": "(suite du Du'a — à compléter)",
-      "tr": {
-        "fr": "Les distiques 11 à 71, ainsi que la clôture, restent à transcrire depuis le PDF source à partir d'une numérisation propre. Cette section reproduit le prélude (Coran 33:56) et les premiers vers, avec une traduction française en prose. Le texte intégral est accessible via la vidéo YouTube ci-dessus."
-      },
+      "id": "duaa-nasiri-ocr-014",
+      "ar": "يَامَنْ إلى رَحْمّته الْمَفَرٌّ * وَمَنْ إليّْه يَلجَأ المَضْطرٌ",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-015",
+      "ar": "يا من إلى رز مله لمفر يمل إليةث لد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-016",
+      "ar": "بك استعثنا تامغيث الضعفا د فحسينا يا رربت آنت وكفى",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-017",
+      "ar": "3 يامعي 2 بنا يا رب :",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-018",
+      "ar": "فلآ أَجَلّ منْ عظيم قُرْرَتكَ * ولآ أَعَنَّ من عزيز سَطْوَتكَ",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-019",
+      "ar": "َل من عظيم فَدرَتك * ولا أعز من عزيز سَطوَد",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-020",
+      "ar": "لعز ملكك الملوك تحصع د تخحفقص قد تشا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-021",
+      "ar": "الا كله إلبك 0 بك حله عقد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-022",
+      "ar": "وا لامر !ل رده عد و بيل د و 0",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-023",
+      "ar": "وكل در مر له د وقل ١",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-024",
+      "ar": "رحمنا يَامَن لاير لما ده بيضعفنا ولايزال راحما",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-025",
+      "ar": "نظر ! مسنا من الوَرَى ©« من بيُنهم كماترَى",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-026",
+      "ar": "قد قل جَمعنا وَفل وَفَرَنا 4د وانحط ما بين جموع قل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-027",
+      "ar": "3 شوكة شد سسقصو ١ -",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-028",
+      "ar": "ته في لالد اه وكج* وبيو 5ه و 0 ََ ىك الل لايغلت",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-029",
+      "ar": "الك عوتب لفقر تلستئل عد 0 1 هيف هه سا أ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-030",
+      "ar": "عه حلت لسش الوو",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-031",
+      "ar": "يم 7 ٠ م الغمان” عد أذ - الل لد ال ات",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-032",
+      "ar": "ان تالذى ندعولكشف! #07 اننا الد ي لرجو ل - سر",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-033",
+      "ar": "انت العناية نرتجي * حَمَايَهُ من غير بابها تجي",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-034",
+      "ar": "6ه سا صلالى -ه ا 0 0 . اذا زَلَلنَا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-035",
+      "ar": "وسع” مَاخلقت علما © افك وَرَحمَهة و",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-036",
+      "ar": "سه 500 م الْوَحُود أده د ولا لما عندك منا أفقر",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-037",
+      "ar": "وَلَيْسَ منا في الوجود لما ع",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-038",
+      "ar": "لاس سا سه عسان يَامَنْ حَيْرُهِ “د عم ألْوَرَى ولآى يتادى غيره",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-039",
+      "ar": "با واسع ََ ل يامن حير 7 - 4 2",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-040",
+      "ar": "ا 0 0د الْهَلىَ هَ امنا\"",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-041",
+      "ar": "يامنقل ولاخبال 7*4 لامدكي 9 مال",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-042",
+      "ar": "قد مددنا رَننا الاكف د ومنك رئنا للطف",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-043",
+      "ar": "5 ذا رد 3 ربما رجو",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-044",
+      "ar": "فالطف با فيمًا به قضئت 4د و وَضنًا مما به رض\"",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-045",
+      "ar": "لما كيم 0 4 الات 1 ر صيسا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-046",
+      "ar": "واجعل لنا علي لبعاة لغلبّة وَاقَصر اذى الشر على مَن طلبّه",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-047",
+      "ar": "وَافْهر عدانا تاعزيز قهرًا د ويصمى الظهرا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-048",
+      "ar": "واعحس مرادهم وحيب سعيهم + واهزم جيوشهم وا كسد رايهم",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-049",
+      "ar": "7-9 للهم عيهم 2 ظإ لهم يعجرول ر",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-050",
+      "ar": "قَوّهَ للذفع * و عيلة للنفع",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-051",
+      "ar": "ما نا تابنك ١ 0 فضلك",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-052",
+      "ar": "مَارَجَتْ مِن حَبْركَ آلظُْون * بتفس ما تقول كن يكُوة",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-053",
+      "ar": "رجت من حير ل 2# بلقم يخوال",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-054",
+      "ar": "يَارَبٌ يَارَبٌ بِكَ التَّوَصّلُ *« لما لَدَيْكَ وَبِكَ التَوَسْل",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-055",
+      "ar": "يارب يارب د ل يك ود",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-056",
+      "ar": "َارَتَ أَنْتَ رُكثْنَا آلرفيمٌ ©« يَارَبُ أَنْتَ حِضْئنًا المنية",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-057",
+      "ar": "5 5 انلنا الامنا د إذا| ارتحلنا قمنا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-058",
+      "ar": "يَارْب واحفظ زرعنا وَضرعنًا ده واحفظ تجارنا ووَفرَ جمعنا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-059",
+      "ar": "احْعَل لها بَنَ الللآد صَوْلَةَ +",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-060",
+      "ar": "9< بين 5 د صو اج و حر مه و منعك ود و5",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-061",
+      "ar": "واجعل من السر الموصون عزها * واجعل من الستر الجميل حر",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-062",
+      "ar": "واجعل بصاد وبقاف وبئنون د الف جح ب من ورَائَها يَكون",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-063",
+      "ar": "بجَاه نُور وَحَهك لكريم * وَجَاهِ سر مُلَككَ لْعَظيم",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-064",
+      "ar": "وَجَاه مَابِهُ دَعَاكَ آَلآنبِيّاء * وجاه مَابِهُ دعاك َلأوْليّاءٌ",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-065",
+      "ar": "وَجَاد قَدر ألقطب 3 واد وَجَاهِ حال لْجَرْس وَآلْأفْرَاد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-066",
+      "ar": "وَجَاه كل من رععب قدره © ممن سارت اونشرت ذْكْرَه",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-067",
+      "ar": "وَجَاهِ آيَاتِ الكتاب الْمُحْكّم * وَجَاهِ الاشم الأغظم الْمُعَظُْم",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-068",
+      "ar": "5 رب 5 رب وَقفنا فقرًا عد نين يديك ضعفاءء حقرًا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-069",
+      "ar": "سه اسده هي قسج لاه سدم دك ح 5 بوث داه سم",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-070",
+      "ar": "قد دعوناك دعاء مَن دعى بد رَبَا كرما لايرد من سَعى",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-071",
+      "ar": "فَاقْبَلُ ذُعَاءَنَا مخض الْفَضْل + قَبُولَ مَنْ آلْعَى حسَاب الْعَدْل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-072",
+      "ar": "9 وو يارج ر له 5 وو وو سوه 2",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-073",
+      "ar": "غر لنا سَائر الأقوَال يد واختر لا فى سَائر الأافعا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-074",
+      "ar": "وخر لنا في سائَر الاقوال ا واختر لنا في سائر 3",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-075",
+      "ar": "احعل لنا ما عمل يد وا الى دار ا لقا منا ١",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-076",
+      "ar": "19> بين ع و “د وا صرف إلى دار : لامل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-077",
+      "ar": "١ بنا نا السعدا يد واختم لنا نا : 7",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-078",
+      "ar": "19> للد ع 0 علماء عا ملين نصحا",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-079",
+      "ar": "- ع هه ص اورم ا موه ه لس له صج كآاور لهم مس 01 5",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-080",
+      "ar": "و أضلح أللَّهُمَ خَالَ الأَهْل * وَيَسّر أ لشَّمْل",
+      "kind": "poetry"
+    },
+    {
+      "id": "duaa-nasiri-ocr-081",
+      "ar": "َأنْصُرْدُ يَا ا الطّْل وََنْصْدْ حَرْبَهُ >« و أُمْلأ مَايدْضك عَنْهُ قَلْبَهُ",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-082",
+      "ar": "والصره د ف وانصر حربة 3 35 مايرصي عنك قل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-083",
+      "ar": "نا نص دئنا لمحمد اك حعل خا كما دل",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-084",
+      "ar": "واحفظه يَارَتُ بحفظ العلمًا 3 وازفع مَنَارَ نوره إلى السما",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-085",
+      "ar": "واعف وعاف وا واغفر ذنينا © وذنت مسلم يارد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-086",
+      "ar": "صل نا على المختار بد صلاتك الكاملة المقد",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-087",
+      "ar": "صلاتك التى نقفى بامره “د كما يليق بارتفاع قدره",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-088",
+      "ar": "- لهم 8 2 - رماع و 1 ب ل الى",
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-nasiri-ocr-089",
+      "ar": "وَالحمد لله الذى بحمده 30 يبلع دو القصد نمام قصده",
       "kind": "prose"
     }
   ]

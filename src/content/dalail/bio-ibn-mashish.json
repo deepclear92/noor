@@ -1,73 +1,110 @@
 {
   "slug": "bio-ibn-mashish",
-  "order": 21,
+  "order": 34,
   "category": "qasaid",
   "ar": "ترجمة سيدي عبد السلام بن مشيش",
   "fr": "Biographie d'Ibn Mashish",
   "hint": "Auteur de la Mashishiyya",
-  "pages": [
-    261,
-    263
-  ],
+  "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299",
   "lines": [
     {
-      "id": "bio-ibn-mashish-l0001",
-      "ar": "عبد السلام بن مَشيش الإدريسىّ الحسَينىّ",
+      "id": "bio-ibn-mashish-l001",
+      "ar": "عتك ى بن للسيسلن",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0002",
-      "ar": "لعبادة والنسك وبلع مبلغ الفتيّان . خرج",
+      "id": "bio-ibn-mashish-l002",
+      "ar": "عر دس > ىر 1 5 و كو و راس د لاس",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0003",
-      "ar": "كا هر الله داتماءء",
+      "id": "bio-ibn-mashish-l003",
+      "ar": "عبد السلام بن مشيش الإدريسي الحسيني",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0004",
-      "ar": "وَلَمَا جَالَ أو أَلْحَسَن ألشَّاذْلٌ الْمَغْريُ",
+      "id": "bio-ibn-mashish-l004",
+      "ar": ". كان رضي الله عنه في العلم في العاية",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0005",
-      "ar": "أرشده الشْبح الصا أنو لقث الوَاسطىٌ من",
+      "id": "bio-ibn-mashish-l005",
+      "ar": "كسم\" ره»ه سا له 0",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0006",
-      "ar": "‎٠‏ يها أيه بهد",
+      "id": "bio-ibn-mashish-l006",
+      "ar": "كا الله داتما » حلا حَمَا",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0007",
-      "ar": "لْكَرَامَات وَآْلْإمْلآءَات أُلدَبَانيَة » منها ها",
+      "id": "bio-ibn-mashish-l007",
+      "ar": "وََنَا حَالَ 3 ألحت: ألشَاذلُ لم ١",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0008",
-      "ar": "الصلاة النورانيهة التى ترَقرّقفت من ينو",
+      "id": "bio-ibn-mashish-l008",
+      "ar": "وَلما جال ابو الحسن ذلي المغربي",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0009",
-      "ar": "الاحدية بالتضراع ما تلز آداب لعبود يه",
+      "id": "bio-ibn-mashish-l009",
+      "ar": "أرشده الشْيحَ الصا أنو لقث الوَاسطىٌ من",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0010",
-      "ar": "وَالأَخْلآق ألسْئئّة أُلّتى تَفْتَضِهًا الْوَاسطَةٌ",
+      "id": "bio-ibn-mashish-l010",
+      "ar": "لْكَرَامَات وَآلإمْلآءات ألدَّبَانيَة . منْهًا ها",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0011",
-      "ar": "لْمنْهَاجِيّة لإِرْقَادِيّة ألنَّبَويّة لإسْتطابّة مَقَا",
+      "id": "bio-ibn-mashish-l011",
+      "ar": "نا و ءات درك ٠2 هدهر",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-mashish-l0012",
-      "ar": "وقد ختم الله تعالى حَيَاهْ هذا الشيخ",
+      "id": "bio-ibn-mashish-l012",
+      "ar": "- ع - 6 ساءهة ها - أ[ لله",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l013",
+      "ar": "الصلاة النورانيهة التى ترقرّقفتف من ينو",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l014",
+      "ar": "الأحديّة بِألتَصَدُ ع ما يَلْرَهُ من آدَاب ألَخثوديّة",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l015",
+      "ar": "صهوه ص باس ص 0 صه ماعو",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l016",
+      "ar": "َالأَخْلآق ألسْئئّة ألّتى تَفْتَضيهًا أالْوَاسطَةٌ",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l017",
+      "ar": "ح أ و رهلا ضيه ه*ه 6",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l018",
+      "ar": "قد ختم الله تعال حََاة هذا الشد",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l019",
+      "ar": "زع 3\" يو نا كت -_ و ّ د و ذآ#اه سسا ا سس",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l020",
+      "ar": "هجرية تقريبًا رحمه الله وَرَضيَ",
       "kind": "prose"
     }
   ]

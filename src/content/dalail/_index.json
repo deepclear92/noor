@@ -221,8 +221,9 @@
       "ar": "ختم دلائل الخيرات",
       "fr": "Clôture de Dalail",
       "hint": "Khatm",
-      "durationMin": 1,
-      "hasAudio": false
+      "durationMin": 2,
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "duaa-apres",
@@ -231,9 +232,9 @@
       "ar": "دعاء يقرأ عقب دلائل الخيرات",
       "fr": "Du'a après la lecture",
       "hint": "Bouclage du khatm",
-      "durationMin": 1,
+      "durationMin": 6,
       "hasAudio": false,
-      "source": "https://www.dalailalkhayrat.com/duas.php?dua=completion"
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "bio-ibn-nasir",
@@ -243,7 +244,8 @@
       "fr": "Biographie d'Ibn Nasir al-Dar'i",
       "hint": "Auteur du Du'a Nasiri",
       "durationMin": 1,
-      "hasAudio": false
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "duaa-nasiri",
@@ -252,9 +254,9 @@
       "ar": "الدعاء الناصري",
       "fr": "Du'a Nasiri",
       "hint": "Imam Muhammad b. Nāṣir al-Darʿī (m. 1085 H / 1674)",
-      "durationMin": 1,
+      "durationMin": 9,
       "hasAudio": false,
-      "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor), en prose claire à partir de l'arabe"
+      "source": "Prélude (Coran 33:56) + 10 premiers distiques : texte arabe domaine public, traduction française originale (projet Noor). Suite (distiques 11-71) : OCR du PDF source, tashkeel préservé."
     },
     {
       "slug": "bio-ibn-nahwi",
@@ -264,7 +266,8 @@
       "fr": "Biographie d'Ibn an-Nahwi",
       "hint": "Auteur d'al-Munfarija",
       "durationMin": 2,
-      "hasAudio": false
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "munfarija",
@@ -273,7 +276,7 @@
       "ar": "قصيدة المنفرجة",
       "fr": "Qasida al-Munfarija",
       "hint": "Sidi Ibn an-Nahwi al-Tūzarī (m. 513 H / 1119)",
-      "durationMin": 1,
+      "durationMin": 4,
       "hasAudio": false,
       "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor)"
     },
@@ -284,8 +287,9 @@
       "ar": "ترجمة سيدي عبد السلام بن مشيش",
       "fr": "Biographie d'Ibn Mashish",
       "hint": "Auteur de la Mashishiyya",
-      "durationMin": 1,
-      "hasAudio": false
+      "durationMin": 2,
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "salat-mashishiyya",
@@ -306,17 +310,19 @@
       "fr": "Zajr al-Mashishiyya",
       "hint": "Réfutation et défense",
       "durationMin": 2,
-      "hasAudio": false
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "bio-jilani",
       "order": 37,
       "category": "qasaid",
       "ar": "ترجمة سيدي عبد القادر الجيلاني",
-      "fr": "Biographie de Sidi Abdul-Qadir al-Jilani",
+      "fr": "Biographie d'al-Jilani",
       "hint": "Auteur du Hizb an-Nasr",
       "durationMin": 1,
-      "hasAudio": false
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "hizb-nasr",
@@ -324,9 +330,10 @@
       "category": "qasaid",
       "ar": "حزب النصر",
       "fr": "Hizb an-Nasr",
-      "hint": "Sidi Abdul-Qadir al-Jilani",
-      "durationMin": 4,
-      "hasAudio": false
+      "hint": "Sidi 'Abd al-Qadir al-Jilani (m. 561 H)",
+      "durationMin": 5,
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "bio-busiri",
@@ -336,7 +343,8 @@
       "fr": "Biographie de l'Imam al-Busiri",
       "hint": "Auteur de la Burda",
       "durationMin": 3,
-      "hasAudio": false
+      "hasAudio": false,
+      "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299"
     },
     {
       "slug": "burda",

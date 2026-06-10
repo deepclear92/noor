@@ -1,53 +1,65 @@
 {
   "slug": "bio-ibn-nasir",
-  "order": 17,
+  "order": 30,
   "category": "qasaid",
   "ar": "ترجمة سيدي ابن ناصر الدرعي",
   "fr": "Biographie d'Ibn Nasir al-Dar'i",
   "hint": "Auteur du Du'a Nasiri",
-  "pages": [
-    242,
-    243
-  ],
+  "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299",
   "lines": [
     {
-      "id": "bio-ibn-nasir-l0001",
-      "ar": "لوكمك ‏ سدال 7",
+      "id": "bio-ibn-nasir-l001",
+      "ar": "ثن تاصر أللَّر اِمَامُ عَالمٌ عَامِلٌ",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0002",
-      "ar": "نْن تاصر ألدز إِمَاهٌ عَالمَ عامل",
+      "id": "bio-ibn-nasir-l002",
+      "ar": "بد ال20 لل كسيل في ر حي وَلما",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0003",
-      "ar": "بن ناصر الدرعي . إِمَامم عالم عام",
+      "id": "bio-ibn-nasir-l003",
+      "ar": "رودو ؟ُ راب 3 هه هد | «ه إلى",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0004",
-      "ar": "‏وَسَلكَ الطريقة الشاذليّة على يَد الشيخ",
+      "id": "bio-ibn-nasir-l004",
+      "ar": "أَلشَيْخْ أَحْمَدْ زَرُوقْ بسّتده إلى أَلإمَام أ",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0005",
-      "ar": "‏بلع اشده وَاكْتَمَل . صَارَ مجددا لها فى",
+      "id": "bio-ibn-nasir-l005",
+      "ar": "يخ احمد زروق بسنده إلى الإمام ابي",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0006",
-      "ar": "ربوع المغرب . وَسَنده فيها ينتهي إلى",
+      "id": "bio-ibn-nasir-l006",
+      "ar": "الناصربية الشاذلية بإقيَال العديد من",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0007",
-      "ar": "ليخ أَحْمَن ؛أدفقٌ سربّده ‎1١‏ ألَامَام أ",
+      "id": "bio-ibn-nasir-l007",
+      "ar": "ء على سلوكها . ومنهم العلا",
       "kind": "prose"
     },
     {
-      "id": "bio-ibn-nasir-l0008",
-      "ar": "الشى احمد رروق بسنده إلى مام فى",
+      "id": "bio-ibn-nasir-l008",
+      "ar": "َلْمُتَقَننُ : الْحَسَنُ أليُوبى أَلَّذي مَدَعَ",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-nasir-l009",
+      "ar": "دداليه 6 . توق الشيخ رحمه الله",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-nasir-l010",
+      "ar": "بدالية مشهورة . لوي السشيح ر-",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-nasir-l011",
+      "ar": "وَرَضْيَّ عَنْهَ عَامَ ٠١80 هجرية.",
       "kind": "prose"
     }
   ]

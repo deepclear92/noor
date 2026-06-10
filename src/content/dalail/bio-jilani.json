@@ -1,73 +1,80 @@
 {
   "slug": "bio-jilani",
-  "order": 24,
+  "order": 37,
   "category": "qasaid",
   "ar": "ترجمة سيدي عبد القادر الجيلاني",
-  "fr": "Biographie de Sidi Abdul-Qadir al-Jilani",
+  "fr": "Biographie d'al-Jilani",
   "hint": "Auteur du Hizb an-Nasr",
-  "pages": [
-    269,
-    270
-  ],
+  "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299",
   "lines": [
     {
-      "id": "bio-jilani-l0001",
-      "ar": "لوكمك لسيتك",
+      "id": "bio-jilani-l001",
+      "ar": "دود بن مَوسَى بن عبّد الله ابن مَوسى الجَوَن",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0002",
-      "ar": "عَنْد أللّهِ أن الراهد بن مُحَمَّد",
+      "id": "bio-jilani-l002",
+      "ar": "نْن عَبْد أللّه ألكامل بن ألْحَسَن أَلْمُتْنَى ث:",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0003",
-      "ar": "‎١‏ مونى بن عبد الله ان\" الحون",
+      "id": "bio-jilani-l003",
+      "ar": "ألحىه الشئط 5 عل وَقاطَةٌ ألكمْاء دض",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0004",
-      "ar": "53 بل موسى بن عبد الله ابن موسى الجور",
+      "id": "bio-jilani-l004",
+      "ar": "الله عنهما . ولد سنك الاع هحربة بإقليم",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0005",
-      "ar": "حلان ودخل تغداد سنةه هجريه بقصل",
+      "id": "bio-jilani-l005",
+      "ar": "حلانٌ وَدَخَلَ تَغْدَاد سَنَةَ 8ع هخرنة بقّصد",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0006",
-      "ar": "وبرح كيك . صحف برَاهل حفيقة",
+      "id": "bio-jilani-l006",
+      "ar": "وبرّع يه . حت برَاهل الحقيقة",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0007",
-      "ar": "وخاصة الشيخ آنا حَماد الدئاس . ثم تصد",
+      "id": "bio-jilani-l007",
+      "ar": "بِيَهُ والتذ ى ٠. ل",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0008",
-      "ar": "‎٠‏ سَريعَ ألذَّمْعَة . مُجَابَ أِلذَّعْوَة . كَرِيم",
+      "id": "bio-jilani-l008",
+      "ar": "ضىَ الله عنه شديد الهيبه . كثيرَ الخشية",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0009",
-      "ar": "الاخلاق مناقيه اعظم من أن تحَحّى وَاجَل",
+      "id": "bio-jilani-l009",
+      "ar": "الاخلاق مناقبه أعظم من ان تحصى واحل",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0010",
-      "ar": "من أن تستقصى . بلغت القطع وَالتَوَاتِرَ .",
+      "id": "bio-jilani-l010",
+      "ar": "0 2ه اعىد هم و ب 7 كع سكع تت لوي يس",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0011",
-      "ar": ". ودفن بمدرسته ببتغداد . ومن اثاره هذا",
+      "id": "bio-jilani-l011",
+      "ar": "من ان تستقكّى . بلغت القطع والتَوَاترَ",
       "kind": "prose"
     },
     {
-      "id": "bio-jilani-l0012",
-      "ar": "الحزث المبارك المَعّوف بحزب النصر.",
+      "id": "bio-jilani-l012",
+      "ar": "عو ع بر رع كصيلاو .لم معو",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l013",
+      "ar": "وَدفْنَ ممدرسَته بِبَغْدَاد . ومن آثاره هذا",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l014",
+      "ar": "الحزب | لممَارَك المعروف بحزب النصر.",
       "kind": "prose"
     }
   ]

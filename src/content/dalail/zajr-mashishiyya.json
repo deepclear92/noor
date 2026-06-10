@@ -1,93 +1,125 @@
 {
   "slug": "zajr-mashishiyya",
-  "order": 23,
+  "order": 36,
   "category": "qasaid",
   "ar": "زجر الصلاة المشيشية",
   "fr": "Zajr al-Mashishiyya",
   "hint": "Réfutation et défense",
-  "pages": [
-    267,
-    268
-  ],
+  "source": "OCR du PDF source (Dalil A4-1.pdf) — tashkeel préservé · pages 236-299",
   "lines": [
     {
-      "id": "zajr-mashishiyya-l0001",
-      "ar": "‏الصراة المششة‎",
+      "id": "zajr-mashishiyya-l001",
+      "ar": "لصراة المششة",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0002",
-      "ar": "إلهَى بحا ندك ومكانته لديك وَمَحَنَتكَ",
+      "id": "zajr-mashishiyya-l002",
+      "ar": "له ومحيتكه لك . أسالك ان تصلى وتسلم",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0003",
-      "ar": "لحاهكه عند 29 م",
+      "id": "zajr-mashishiyya-l003",
+      "ar": "على سيدنا محمد وعلى اله . وضاعف",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0004",
-      "ar": "له ومحيته لك . اسالك ان تصلى وتسلم",
+      "id": "zajr-mashishiyya-l004",
+      "ar": "ووقففى لاتمتاعه والقيّام بادابه واداء سنته",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0005",
-      "ar": "ووقفى لإتتاعه وَالقيّام بادابه واداء سنته",
+      "id": "zajr-mashishiyya-l005",
+      "ar": "هم مه لس © ساعىع ل سمالظاه و8 - لل 6",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0006",
-      "ar": "واجمعنى معة ومتعنى بروؤيتك 2 وكربنىي",
+      "id": "zajr-mashishiyya-l006",
+      "ar": "اجمعنى معك ومتعى لكك ٠2",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0007",
-      "ar": "2 ‏ئقّ وَالعَوَائَقَ وَالوَسَائَطٌ وَالحَجَتَ‎",
+      "id": "zajr-mashishiyya-l007",
+      "ar": "٠ واجمعبى و معي لرويه وعرببي",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0008",
-      "ar": "2ه اده لزن أأخطان هف",
+      "id": "zajr-mashishiyya-l008",
+      "ar": "حَدْبته 0 زف مكالمت أذ كد 2",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0009",
-      "ar": "وسشنفا سمعى منك بل | نا وهسى",
+      "id": "zajr-mashishiyya-l009",
+      "ar": "لق 3 لقف 3 . ولحجحكبا 0",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0010",
-      "ar": "للتلقى منه وأهلنى للأخذ عَنه » وَاخْعَل صَلآق",
+      "id": "zajr-mashishiyya-l010",
+      "ar": "كه اده بايذ الخطات دَثك",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0011",
-      "ar": "عَلَنْه نُورًا نَائرًا كاملا طاهرًا مَطهرًا ‎٠‏ مَاحيًا",
+      "id": "zajr-mashishiyya-l011",
+      "ar": "وشنئنفا سمعى منك بلدذيك خحطاب وهيسى",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0012",
-      "ar": "كُلّ ظلم وَظَلْمَةٍ وَمَكُ وَدِرْكِ » وَإِفْكِ وَوزْرٍ",
+      "id": "zajr-mashishiyya-l012",
+      "ar": "للتلّقى مئْهُ وَأَمْلْنى للآخذ عَنْهُ » وَأجْعَلُ صَلاق",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0013",
-      "ar": "‎٠‏ حَنّى لآ تَقى ف رَبَانَِةُ عَِكَ » وَحَنَى أضلح",
+      "id": "zajr-mashishiyya-l013",
+      "ar": "عَلَنْه نُورًا نَائرًا كاملا طاهرًا مَطهرًا ٠ مَاحيًا",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0014",
-      "ar": "‏لحَضْرَتَكَ وَأَكُونَ مِنْ أَهْلٍ خْصُوصِيَتِكَ مُتَمَسّدَ",
+      "id": "zajr-mashishiyya-l014",
+      "ar": "و رهلا لور در 0# هر ١ ذا هو",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0015",
-      "ar": "‏مِنْ آذَابِهِ صَلَى أللَهُ عَلبْهِ وَسَلْمَ بِالْحَبرٍ",
+      "id": "zajr-mashishiyya-l015",
+      "ar": "كل < وَظلمَةَ وشك وشاك . وافك ووز",
       "kind": "prose"
     },
     {
-      "id": "zajr-mashishiyya-l0016",
-      "ar": "‏َلْمَتينِ » مُسْتَمِدًا مِنْ حَطْرَته ألْعَلِيّة في كُلّ",
+      "id": "zajr-mashishiyya-l016",
+      "ar": "لح ام اي 6 ]امه ايل دل ماع 05",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l017",
+      "ar": "و شر وخر وحفدد واجعلها سبي لشسدمخيص.»",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l018",
+      "ar": "وَمَرْقَى لأثَالَ أَعَلَى مَرَاتب الإخلآص وَالتَخْصيص",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l019",
+      "ar": "حى : في رز-ة خير وحى >",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l020",
+      "ar": "نْ آدَابهِ صَلَى اللَّهُ عَلَيْه وَسَلُمَ بِالْحَبْل",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l021",
+      "ar": "من - ميك 535 ا لحيل",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l022",
+      "ar": "أ« هر 0# من خصرنه زه« للا ره»",
+      "kind": "prose"
+    },
+    {
+      "id": "zajr-mashishiyya-l023",
+      "ar": "قت . دا الله نا نا حق نا مين",
       "kind": "prose"
     }
   ]
