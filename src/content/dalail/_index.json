@@ -1,0 +1,353 @@
+{
+  "slug": "dalail",
+  "ar": "دلائل الخيرات",
+  "fr": "Dalail al-Khayrat",
+  "author": {
+    "ar": "الإمام محمد بن سليمان الجزولي",
+    "fr": "Imam Muhammad ibn Sulayman al-Jazuli (m. 870 H / 1465)"
+  },
+  "description": {
+    "fr": "Recueil de prières sur le Prophète ﷺ, complété par des qasaid (Burda, Munfarija, Mashishiyya), des du'as (Nasiri, ouverture, clôture) et le Hizb an-Nasr.",
+    "ar": "كتاب في الصلاة على النبي ﷺ للإمام أبي عبد الله محمد بن سليمان الجزولي"
+  },
+  "sources": [
+    {
+      "name": "quran.com",
+      "url": "https://quran.com",
+      "uses": "Texte coranique des sourates introductives"
+    },
+    {
+      "name": "dalailalkhayrat.com",
+      "url": "https://www.dalailalkhayrat.com/",
+      "uses": "Ahzab + audio synchronisé + traductions"
+    },
+    {
+      "name": "qasidaburda.com",
+      "url": "https://www.qasidaburda.com/",
+      "uses": "Qasidat al-Burda + audio par chapitre"
+    }
+  ],
+  "sectionsMeta": [
+    {
+      "slug": "ya-sin",
+      "order": 0,
+      "category": "intro",
+      "ar": "سورة يس",
+      "fr": "Sourate Ya-Sin",
+      "hint": "Sourate introductive",
+      "durationMin": 8,
+      "hasAudio": true,
+      "source": "https://quran.com/ar/36"
+    },
+    {
+      "slug": "al-fath",
+      "order": 1,
+      "category": "intro",
+      "ar": "سورة الفتح",
+      "fr": "Sourate Al-Fath",
+      "hint": "Sourate introductive",
+      "durationMin": 3,
+      "hasAudio": true,
+      "source": "https://quran.com/ar/48"
+    },
+    {
+      "slug": "al-waqia",
+      "order": 2,
+      "category": "intro",
+      "ar": "سورة الواقعة",
+      "fr": "Sourate Al-Waqi'a",
+      "hint": "Sourate introductive",
+      "durationMin": 10,
+      "hasAudio": true,
+      "source": "https://quran.com/ar/56"
+    },
+    {
+      "slug": "iftitah",
+      "order": 3,
+      "category": "preambule",
+      "ar": "افتتاح دلائل الخيرات",
+      "fr": "Ouverture de Dalail al-Khayrat",
+      "hint": "Préambule",
+      "durationMin": 1,
+      "hasAudio": false,
+      "source": "https://www.dalailalkhayrat.com/duas.php?dua=opening"
+    },
+    {
+      "slug": "duaa-niyya",
+      "order": 4,
+      "category": "preambule",
+      "ar": "نية القراءة",
+      "fr": "Du'a d'intention",
+      "hint": "Intention de lecture",
+      "durationMin": 1,
+      "hasAudio": false,
+      "source": "https://www.dalailalkhayrat.com/duas.php?dua=intention"
+    },
+    {
+      "slug": "fasl",
+      "order": 5,
+      "category": "preambule",
+      "ar": "فصل",
+      "fr": "Chapitre",
+      "hint": "Vertus de la salat",
+      "durationMin": 12,
+      "hasAudio": false
+    },
+    {
+      "slug": "asma-nabi",
+      "order": 6,
+      "category": "preambule",
+      "ar": "أسماء سيدنا محمد ﷺ",
+      "fr": "Les noms du Prophète ﷺ",
+      "hint": "Pré-récitation (203 noms)",
+      "durationMin": 20,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/names.php?names=RasoolSAW"
+    },
+    {
+      "slug": "asma-allah",
+      "order": 7,
+      "category": "preambule",
+      "ar": "أسماء الله الحسنى",
+      "fr": "Les noms d'Allah",
+      "hint": "99 noms divins",
+      "durationMin": 10,
+      "hasAudio": false,
+      "source": "https://www.dalailalkhayrat.com/names.php?names=Allah"
+    },
+    {
+      "slug": "duaa-bidayah",
+      "order": 8,
+      "category": "preambule",
+      "ar": "دعاء بدء دلائل الخيرات",
+      "fr": "Du'a d'ouverture",
+      "hint": "Avant le hizb",
+      "durationMin": 1,
+      "hasAudio": false,
+      "source": "https://www.dalailalkhayrat.com/duas.php?dua=intention"
+    },
+    {
+      "slug": "hizb-1-lundi",
+      "order": 10,
+      "category": "ahzab",
+      "ar": "الحزب الأول",
+      "fr": "Hizb 1 — Lundi",
+      "hint": "Lundi (الإثنين)",
+      "durationMin": 5,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=1"
+    },
+    {
+      "slug": "hizb-2-mardi",
+      "order": 11,
+      "category": "ahzab",
+      "ar": "الحزب الثاني",
+      "fr": "Hizb 2 — Mardi",
+      "hint": "Mardi (الثلاثاء)",
+      "durationMin": 14,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=2"
+    },
+    {
+      "slug": "hizb-3-mercredi",
+      "order": 12,
+      "category": "ahzab",
+      "ar": "الحزب الثالث",
+      "fr": "Hizb 3 — Mercredi",
+      "hint": "Mercredi (الأربعاء)",
+      "durationMin": 4,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=3"
+    },
+    {
+      "slug": "hizb-4-jeudi",
+      "order": 13,
+      "category": "ahzab",
+      "ar": "الحزب الرابع",
+      "fr": "Hizb 4 — Jeudi",
+      "hint": "Jeudi (الخميس)",
+      "durationMin": 5,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=4"
+    },
+    {
+      "slug": "hizb-5-vendredi",
+      "order": 14,
+      "category": "ahzab",
+      "ar": "الحزب الخامس",
+      "fr": "Hizb 5 — Vendredi",
+      "hint": "Vendredi (الجمعة)",
+      "durationMin": 5,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=5"
+    },
+    {
+      "slug": "hizb-6-samedi",
+      "order": 15,
+      "category": "ahzab",
+      "ar": "الحزب السادس",
+      "fr": "Hizb 6 — Samedi",
+      "hint": "Samedi (السبت)",
+      "durationMin": 2,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=6"
+    },
+    {
+      "slug": "hizb-7-dimanche",
+      "order": 16,
+      "category": "ahzab",
+      "ar": "الحزب السابع",
+      "fr": "Hizb 7 — Dimanche",
+      "hint": "Dimanche (الأحد)",
+      "durationMin": 2,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=7"
+    },
+    {
+      "slug": "hizb-8-lundi-2",
+      "order": 17,
+      "category": "ahzab",
+      "ar": "الجزء الثامن",
+      "fr": "Hizb 8 — Lundi (2e tour)",
+      "hint": "Conclusion hebdomadaire",
+      "durationMin": 1,
+      "hasAudio": true,
+      "source": "https://www.dalailalkhayrat.com/parts.php?part=8"
+    },
+    {
+      "slug": "khatm",
+      "order": 20,
+      "category": "cloture",
+      "ar": "ختم دلائل الخيرات",
+      "fr": "Clôture de Dalail",
+      "hint": "Khatm",
+      "durationMin": 1,
+      "hasAudio": false
+    },
+    {
+      "slug": "duaa-apres",
+      "order": 21,
+      "category": "cloture",
+      "ar": "دعاء يقرأ عقب دلائل الخيرات",
+      "fr": "Du'a après la lecture",
+      "hint": "Bouclage du khatm",
+      "durationMin": 1,
+      "hasAudio": false,
+      "source": "https://www.dalailalkhayrat.com/duas.php?dua=completion"
+    },
+    {
+      "slug": "bio-ibn-nasir",
+      "order": 30,
+      "category": "qasaid",
+      "ar": "ترجمة سيدي ابن ناصر الدرعي",
+      "fr": "Biographie d'Ibn Nasir al-Dar'i",
+      "hint": "Auteur du Du'a Nasiri",
+      "durationMin": 1,
+      "hasAudio": false
+    },
+    {
+      "slug": "duaa-nasiri",
+      "order": 31,
+      "category": "qasaid",
+      "ar": "الدعاء الناصري",
+      "fr": "Du'a Nasiri",
+      "hint": "Imam Muhammad b. Nāṣir al-Darʿī (m. 1085 H / 1674)",
+      "durationMin": 1,
+      "hasAudio": false,
+      "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor), en prose claire à partir de l'arabe"
+    },
+    {
+      "slug": "bio-ibn-nahwi",
+      "order": 32,
+      "category": "qasaid",
+      "ar": "ترجمة سيدي ابن النحوي",
+      "fr": "Biographie d'Ibn an-Nahwi",
+      "hint": "Auteur d'al-Munfarija",
+      "durationMin": 2,
+      "hasAudio": false
+    },
+    {
+      "slug": "munfarija",
+      "order": 33,
+      "category": "qasaid",
+      "ar": "قصيدة المنفرجة",
+      "fr": "Qasida al-Munfarija",
+      "hint": "Sidi Ibn an-Nahwi al-Tūzarī (m. 513 H / 1119)",
+      "durationMin": 1,
+      "hasAudio": false,
+      "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor)"
+    },
+    {
+      "slug": "bio-ibn-mashish",
+      "order": 34,
+      "category": "qasaid",
+      "ar": "ترجمة سيدي عبد السلام بن مشيش",
+      "fr": "Biographie d'Ibn Mashish",
+      "hint": "Auteur de la Mashishiyya",
+      "durationMin": 1,
+      "hasAudio": false
+    },
+    {
+      "slug": "salat-mashishiyya",
+      "order": 35,
+      "category": "qasaid",
+      "ar": "الصلاة المشيشية",
+      "fr": "Salat al-Mashishiyya",
+      "hint": "Sidi 'Abd al-Salam Ibn Mashish (m. 622 H / 1228)",
+      "durationMin": 3,
+      "hasAudio": false,
+      "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor)"
+    },
+    {
+      "slug": "zajr-mashishiyya",
+      "order": 36,
+      "category": "qasaid",
+      "ar": "زجر الصلاة المشيشية",
+      "fr": "Zajr al-Mashishiyya",
+      "hint": "Réfutation et défense",
+      "durationMin": 2,
+      "hasAudio": false
+    },
+    {
+      "slug": "bio-jilani",
+      "order": 37,
+      "category": "qasaid",
+      "ar": "ترجمة سيدي عبد القادر الجيلاني",
+      "fr": "Biographie de Sidi Abdul-Qadir al-Jilani",
+      "hint": "Auteur du Hizb an-Nasr",
+      "durationMin": 1,
+      "hasAudio": false
+    },
+    {
+      "slug": "hizb-nasr",
+      "order": 38,
+      "category": "qasaid",
+      "ar": "حزب النصر",
+      "fr": "Hizb an-Nasr",
+      "hint": "Sidi Abdul-Qadir al-Jilani",
+      "durationMin": 4,
+      "hasAudio": false
+    },
+    {
+      "slug": "bio-busiri",
+      "order": 39,
+      "category": "qasaid",
+      "ar": "ترجمة الإمام البوصيري",
+      "fr": "Biographie de l'Imam al-Busiri",
+      "hint": "Auteur de la Burda",
+      "durationMin": 3,
+      "hasAudio": false
+    },
+    {
+      "slug": "burda",
+      "order": 40,
+      "category": "qasaid",
+      "ar": "قصيدة البردة",
+      "fr": "Qasidat al-Burda",
+      "hint": "Imam al-Busiri — 10 chapitres avec audio synchronisé",
+      "durationMin": 18,
+      "hasAudio": false,
+      "source": "https://www.qasidaburda.com/"
+    }
+  ]
+}

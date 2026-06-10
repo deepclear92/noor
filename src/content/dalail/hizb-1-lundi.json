@@ -1,0 +1,844 @@
+{
+  "slug": "hizb-1-lundi",
+  "order": 10,
+  "category": "ahzab",
+  "ar": "الحزب الأول",
+  "fr": "Hizb 1 — Lundi",
+  "hint": "Lundi (الإثنين)",
+  "source": "https://www.dalailalkhayrat.com/parts.php?part=1",
+  "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+  "lines": [
+    {
+      "id": "hizb-1-lundi-001",
+      "num": 1,
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+      "translit": "BismiLlāhir Raḥmānir Raḥīm.",
+      "tr": {
+        "id": "Dengan menyebut nama Allah yang Maha Pengasih dan Penyayang",
+        "en": "In the Name of Allah, the All-Merciful, the Most Merciful.",
+        "fa": "بنام خدای که بسیار بخشنده و بسیار مهربان است",
+        "fr": "Au nom d'Allah, le Clément dans sa puissance, le Miséricordieux.",
+        "tr": "Rahman ve Rahim olan Allah'ın adıyla"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 0
+    },
+    {
+      "id": "hizb-1-lundi-002",
+      "num": 1,
+      "ar": "صَلَّى اللَّهُ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.",
+      "translit": "ṢallaLlāhu ʿalā sayyidinā wa mawlānā Muḥammadin wa ʿalā ālihi wa ṣaḥbihi wa sallam.",
+      "tr": {
+        "id": "Mudah-mudahan Rahmat dan kesejahteraan Allah tetap terlimpah atas junjungan kita Nabi Muhammad SAW, keluarga dan sahabatnya.",
+        "en": "May Allah exalt and preserve our Master and Patron Muḥammad and his Family and Companions.",
+        "fa": "درود فرستد خدا بر سردار مایان و مالک مایان محمد و بر آل وی وا یاران وی و سلام۔",
+        "fr": "Et prière d'Allah et son Salut sur Saïdina Mohammad, sa famille et ses compagnons.",
+        "tr": "Allâh-u Teâlâ efendimiz ve sahibimiz Hz. Muhammed'e onun âl-i ve ashabına salât ve selam eylesin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 6.5
+    },
+    {
+      "id": "hizb-1-lundi-003",
+      "num": 2,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa azwājihi wa dhuriyyatihi kamā ṣallayta ʿalā sayyidinā Ibrāhīma wa bārik ʿalā sayyidinā Muḥammadin wa azwājihi wa dhurriyyatihi kamā bārakta ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad, isteri-isteri Beliau dan keturunannya sebagaimana Engkau melimpahkan Rahmat atas Nabi Ibrahim as. Dan limpahkanlah berkah atas Muhammad, isteri-isteri beliau dan keturunannya, sebagaimana Engkau telah melimpahkan berkah atas Nabi Ibrahim as. Sesungguhnya Engkau adalah Maha terpuji dan muliah.",
+        "en": "O Allah, exalt Muḥammad and his wives and descendants as You exalted Abraham; and bless Muḥammad and his wives and descendants as You blessed the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا دورد بٖفرست بر محمد و زنان وی و ذرّیت وی چنانچه درود فرستادۂ بر ابرایمؑ و برکت ده بر محمد و زنان وی و ذرّیت وی چنانچه برکت دادۂ تو بر آل ابراهیم بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, ses épouses et sa descendance, comme tu as prié sur Saïdina Ibrahim. Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz Hz. İbrahim'e salât ettiğin gibi Efendimiz Hz. Muhammed'e zevcelerine ve zürriyyetine de salat eyle (onlara rahmet eyle). Allahım, Efendimiz Hz. İbrahim'e bereket ihsan ettiğin gibi Efendimiz Hz. Muhammed'e onun zevcelerine ve zürriyyetine de bereket ihsan eyle. Şüphesiz ki sen Hamîdsin, Mecîdsin (methedilmeye layık, azâmet ve şeref sâhibisin.)"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 18.5
+    },
+    {
+      "id": "hizb-1-lundi-004",
+      "num": 3,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي العَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā ālihi kamā ṣallayta ʿalā sayyidinā Ibrāhīma wa bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā bārakta ʿalā āli sayyidinā Ibrāhīma fīl ʿalāmīna innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad dan atas keluarganya sebagaimana Engkau telah melimpahkan Rahmat atas Nabi Ibrahim as. Limpahkanlah berkah atas Muhammad dan atas keluarganya sebagaimana Engkau telah melimpahkan berkah atas keluarga Nabi Ibrahim as. Diseluruh alam sesungguhnya Engkau adalah Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and his Family as You exalted Abraham; and bless Muḥammad and the Family of Muḥammad as You blessed the Family of Abraham in every world. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا درود بفرست بر محمد و بر آل وی چنانچه درود فرستاده تو بر ابرهیم و برکت ده بر محمدؐ و بر آل محمدؐ چنانچه برکت دادۂ بر آل ابرهیمؑ در عالمیان بدرستیکه تو ستوده بزرگواری",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sa famille, comme tu as prié sur Saïdina Ibrahim, et bénis Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as béni la famille de Saïdina Ibrahim parmi les mondes; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz Hz. İbrâhîm'e salât ettiğin gibi, Efendimiz Hz. Muhammed'e ve onun âl-i'ne de salat eyle. Efendimiz Hz. İbrâhîm'e bütün âlemde bereket ihsan ettiğin gibi, Efendimiz Hz. Muhammed'e ve onun âli'ne de bereket ihsan eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 56
+    },
+    {
+      "id": "hizb-1-lundi-005",
+      "num": 4,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa āli sayyidinā Muḥammadin kamā ṣallayta ʿalā sayyidinā Ibrāhīma wa bārik ʿalā sayyidinā Muḥammadin wa āli sayyidinā Muḥammadin kamā bārakta ʿalā sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad dan keluarga Muhammad SAW sebagaimana Engkau telah limpahkan Rahmat atas Nabi Ibrahim as. Dan limpahilah berkah atas Muhammad dan keluarga Muhammad SAW sebagaimana Engkau telah melimpahkan berkah atas Nabi Ibrahim as. Sesungguhnya Engkau adalah Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You exalted Abraham; and bless Muḥammad and the Family of Muḥammad as You blessed Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا درود فرست بر محمدؐ و آل محمدؐ چنانچه درود فرستادۂ تو بر ابراهیمؑ و برکت ده بر محمدؐ و آل محمدؐ پر چنانچه برکت داوۂ تو بر ابرهیم بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu es prié sur Saïdina Ibrahim, et bénis Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as béni Saïdina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz Hz. İbrâhîm'e salât ettiğin gibi, Efendimiz Hz. Muhammed'e ve onun âl-i'ne de salat eyle. Efendimiz Hz. İbrâhîm'e bereket ihsan ettiğin gibi, Efendimiz Hz. Muhammed'e ve onun âl-i'ne de bereket ihsan eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 110.5
+    },
+    {
+      "id": "hizb-1-lundi-006",
+      "num": 5,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الأُمِّيِّ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin nabiyyil ummiyyi wa ʿalā āli sayyidina Muḥammad.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah atas Nabi Muhammad, Nabi yang Ummi (tidak pandai baca tulis) dan keluarga Muhammad SAW.",
+        "en": "O Allah, exalt Muḥammad, the Unlettered Prophet, and the Family of Muḥammad.",
+        "fa": "خدایا درود بفرست بر محمدؐ که پیغمبر ناخوانده و نانویشنده است و بر آل محمدؐ۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad le prophète non-instruit par les hommes, et sur la famille de Saïdina Mohammad.",
+        "tr": "Allahım, efendimiz ümmî olan nebî Muhammed'e ve onun âli'ne salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 148.5
+    },
+    {
+      "id": "hizb-1-lundi-007",
+      "num": 6,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin ʿabdika wa rasūlika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah atas Nabi Muhammad, hamba Engkau dan utusan Engkau",
+        "en": "O Allah, exalt Muḥammad, Your Servant and Emissary.",
+        "fa": "خدایا درود بفرست بر محمؐذ که بندۂ تست و فرستادۂ تست۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad ton Serviteur et ton Messager.",
+        "tr": "Allahım, kulun ve resulün efendimiz Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 162.5
+    },
+    {
+      "id": "hizb-1-lundi-008",
+      "num": 7,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zim atas Nabi Muhammad dan keluarga Muhammad SAW sebagaimana Engkau telah melimpahkannya atas Nabi Ibrahim dan keluarga Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You exalted Abraham and the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا دورد بفرست بر محمدؐ و بر آل محمد چنانچه درود فرستادۂ تو بر ابراهیمؑ و بر آل ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, comme tu as prié sur Saïdina Ibrahim et sur la famille de Saïdina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e ve onun âline salât ettiğin gibi, Efendimiz Muhammed'e ve onun âline de salat eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 170.5
+    },
+    {
+      "id": "hizb-1-lundi-009",
+      "num": 8,
+      "ar": "اللَّهُمَّ بَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kama bārakta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah berkah atas Nabi Muhammad dan keluarga Muhammad SAW sebagaimana Engkau telah melimpahkannya atas Nabi Ibrahim dan keluarga Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, bless Muḥammad and the Family of Muḥammad as You blessed Abraham and the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا برکت ده محمدؐ و بر آل محمد چنانچه برکت دادۂ تو بر ابرهیمؑ و بر آل ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, bénis Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as béni Saïdina Ibrahim et la famille de Saïdina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e ve onun âl-i'ne bereket ihsan ettiğin gibi, Efendimiz Muhammed'e ve onun âline de bereket ihsan eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 201.5
+    },
+    {
+      "id": "hizb-1-lundi-010",
+      "num": 9,
+      "ar": "اللَّهُمَّ وَتَرَحَّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا تَرَحَّمْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma wa taraḥḥam ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā taraḥḥamta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah kasih sayang-Mu atas Nabi Muhammad SAW dan keluarga Muhammad SAW sebagaimana Engkau telah melimpahkan Rahma (kasih sayang) itu atas Nabi Ibrahim as dan keluarga Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, be merciful to Muḥammad and the Family of Muḥammad as You were merciful to Abraham and the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا و رحمت کن بر محمدؐ و بر آل محمدؐ چنانچه رحمت کردۂ تو ابراهیمؑ و بر آل ابرهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, répands ta miséricorde sur Saïdina Mohammad et sur la famille de Saïdina Mohammad,\ncomme tu l'a répandue sur Saïdina Ibrahim et sur la famille de Saïdina Ibrahim; Tu est louable et\nglorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e ve onun âline merhamet ettiğin gibi, Efendimiz Muhammed'e ve onun âline de merhamet eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 229
+    },
+    {
+      "id": "hizb-1-lundi-011",
+      "num": 10,
+      "ar": "اللَّهُمَّ وَتَحَنَّنْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا تَحَنَّنْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma wa taḥannan ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā taḥannanta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah kelembutan kasih sayang-Mu atas Nabi Muhammad SAW dan keluarga Muhammad SAW sebagaimana Engkau telah melimpahkan kelembutan kasih sayang-Mu atas Nabi Ibrahim as dan keluarga Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, be kind to Muḥammad and the Family of Muḥammad as You were kind to Abraham and the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا و مهربانی کن بر محمدؐ و بر آل محمدؐ چنانچه مهربانی کردۂ تو بر ابراهیمؑ و بر آل ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, attendris-toi sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, comme tu t'es attendri sur Saïdina Ibrahim et sur la famille de Saidina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e ve onun âl-i'ne şefkat gösterdiğin gibi, Efendimiz Muhammed'e ve onun âl-i'ne de şefkat göster. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 259.5
+    },
+    {
+      "id": "hizb-1-lundi-012",
+      "num": 11,
+      "ar": "اللَّهُمَّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا سَلَّمْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma wa sallim ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā sallamta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah, dan berkahilah Muhammad SAW dan keluarga Muhammad SAW, sebagaiman Engkau telah melimpahkan Rahmat, kasih sayang dan berkah atas Nabi Ibrahim as dan keluarga Ibrahim as. Di seluruh alam sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, preserve Muḥammad and the Family of Muḥammad as You preserved Abraham and the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا و سلام بفرست بر محمدؐ و بر آل محمدؐ چنانچه سلام فرستادۂ تو بر ابراهیم و بر آل ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, salue Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as salué Saïdina Ibrahim et la Famille de Saïdina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e ve onun âl-i'ne selamet verdiğin gibi, Efendimiz Muhammed'e ve onun âline de selamet ihsan eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 288.5
+    },
+    {
+      "id": "hizb-1-lundi-013",
+      "num": 12,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ وَارْحَمْ سَیِّدَنَا مُحَمَّدًا وَآلَ سَيِّدِنَا مُحَمَّدٍ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّیْتَ وَرَحِمْتَ وَبَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي العَالَمِینَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin warḥam sayyidinā Muḥammadan wa āla sayyidinā Muḥammadin. Wa bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta wa raḥimta wa bārakta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma fīl ʿālamīna innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkan Rahmat Ta'zhim atas Nabi Muhammad SAW dan atas keluarga Muhammad SAW, limpahkanlah kasih sayang-Mu kepada Muhammad SAW dan keluarga Muhammad SAW, Ya Allah, dan berkahilah Muhammad SAW dan keluarga Muhammad SAW, sebagaiman Engkau telah melimpahkan Rahmat, kasih sayang dan berkah atas Nabi Ibrahim as dan keluarga Ibrahim as. Di seluruh alam sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad; have mercy on Muḥammad and the Family of Muḥammad; and bless Muḥammad and the Family of Muḥammad – as You exalted, had mercy on, and blessed Abraham and the Family of Abraham in [all] the realms of Being. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا دورد بفرست بر محمدؐ و بر آل محمدؐ و رحمت کن محمدؐ را و آل محمدؐ را و برکت ده بر محمدؐ و بر آل محمدؐ چنانچه درود فرستادۂ تو رحمت کردۂ تو و برکت دادۂ تو بر ابرهیمؑ و بر آل ابرهیمؑ در عالمیان بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, répands ta\nmiséricorde sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, et bénis Saïdina\nMohammad et la famille de Saïdina Mohammad, comme tu as répandu ta prière, ta miséricorde et ta bénédiction sur Saïdina Ibrahim, et la famille de Saïdina Ibrahim, dans les Univers; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm' ve onun âlini bütün âlemde mübârek kıldığın, onlara rahmet ve salat ettiğin gibi Efendimiz Muhammed'e ve onun âline de salât eyle, Efendimiz Muhammed'e ve onun âline de rahmet eyle, Efendimiz Muhammed'i ve onun âlini de mübarek kıl. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 313
+    },
+    {
+      "id": "hizb-1-lundi-014",
+      "num": 13,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ وَأَزْوَاجِهِ أُمَّهَاتِ المُؤْمِنِينَ وَذُرِّيَّتِهِ وَأَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin nabiyyi wa azwājihi ummahātil muʾminīna wa dhurriyyatihi wa ahli baytihi kamā ṣallayta ʿalā sayyidinā Ibrāhīma innaka hamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zim atas Muhammad yang menjadi Nabi, atas isteri-isterinya yang menjadi ibu orang-orang mukmin, atas keturunannya dan keluarga Ahli Bait Muhammad SAW sebagaimana Engkau melimpahkannya atas nabi Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad the Prophet, and his wives, the Mothers of the Believers, and his descendants and the People of his House, as You exalted Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا دورد بفرست بر محمدؐ که نبی ست و زنان وی که مادران مومنان اند و ذرّیت وی و اهلِ بیت وی چنانچه درود فرستادۂ تو بر ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad le Prophète, ses épouses les mères des croyants, sa\ndescendance et sa famille, comme tu as prié sur Saïdina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e salat ettiğin gibi, Efendimiz Nebî Muhammed'e, mü'minlerin anneleri olan onun zevcelerine, onun zürriyyetine ve Ehl-i Beyti'ne de salat eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 360
+    },
+    {
+      "id": "hizb-1-lundi-015",
+      "num": 14,
+      "ar": "اللَّهُمَّ بَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā bārakta ʿalā sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah berkah atas Nabi Muhammad dan keluarga Muhammad SAW sebagaimana Engkau telah melimpahkan berkah itu atas Nabi Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, bless Muḥammad and the Family of Muḥammad as You blessed Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا برکت ده بر محمدؐ و بر آل محمدؐ چنانچه برکت دادۂ تو بر ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah bénis Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as béni Saidina\nIbrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'i mübarek kıldığın gibi Efendimiz Muhammed'i ve onun âlini de mübarek kıl. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 385.5
+    },
+    {
+      "id": "hizb-1-lundi-016",
+      "num": 15,
+      "ar": "اللَّهُمَّ دَاحِيَ المَدْحُوَّاتِ، وَبَارِئَ المَسْمُوكَاتِ، وَجَبَّارَ القُلُوبِ عَلَى فِطْرَتِهَا شَقِيِّهَا وَسَعِيدِهَا، اجْعَلْ شَرَائِفَ صَلَوَاتِكَ وَنَوَامِيَ بَرَكَاتِكَ وَرَأْفَةَ تَحَنُّنِكَ عَلَى سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ الفَاتِحِ لِمَا أُغْلِقَ، وَالخَاتِمِ لِمَا سَبَقَ، وَالمُعْلِنِ الحَقَّ بِالحَقِّ، وَالدَّامِغِ لِجَيْشَاتِ الأَبَاطِيلِ كَمَا حُمِّلَ، فَاضْطَلَعَ بِأَمْرِكَ بِطَاعَتِكَ، مُسْتَوْفِزًا فِي مَرْضَاتِكَ، وَاعِيًا لِوَحْيِكَ، حَافِظًا لِعَهْدِكَ، مَاضِيًا عَلَى نَفَاذِ أَمْرِكَ، حَتَّى أَوْرَى قَبَسًا لِقَابِسٍ، آلَاءُ اللَّهِ تَصِلُ بِأَهْلِهِ أَسْبَابَهُ، بِهِ هُدِيَتِ القُلُوبُ بَعْدَ خَوْضَاتِ الفِتَنِ وَالإِثْمِ، وَأَبْهَجَ مُوضِحَاتِ الأَعْلَامِ، وَنَائِرَاتِ الأَحْكَامِ، وَمُنِيرَاتِ الإِسْلَامِ، فَهُوَ أَمِينُكَ المَأْمُونُ، وَخَازِنُ عِلْمِكَ المَخْزُونِ، وَشَهِيدُكَ يَوْمَ الدِّينِ، وَبَعِيثُكَ نِعْمَةً، وَرَسُولُكَ بِالْحَقِّ رَحْمَةً.",
+      "translit": "Allāhumma dāḥiyal madḥuwwāti, wa bāriʾal masmūkāti, wa jabbāral qulūbi ʿalā fiṭratihā shaqiyyihā wa saʿīdihā, ijʿal sharāʾifa ṣalawātika wa nawāmiya barakātika wa raʾfata taḥannunika ʿalā sayyidinā Muḥammadin ʿabdika wa rasūlika alfātiḥi limā ughliqa wal khātimi limā sabaqa, wal muʿlinil ḥaqqa bilḥaqqi, waddāmighi lijayshātil abāṭīl kamā ḥummila, faḍṭalāʿa biʾamrika biṭāʿatika, mustawfizan fī marḍātika, wāʿiyan liwaḥyika, ḥāfiẓan liʿahdika, māḍiyan ʿalā nafādhi amrika, ḥatta awrā qabasan liqābisin, ʾalāʾuLlahi taṣilu biʾahlihi asbābuhu, bihi hudiyatil qulūbu baʿda khawḍātil fitani wal ithmi, wa abhaja mūḍiḥātil aʿlāmi, wa nāʾīratil aḥkāmi, wa munīratil islāmi, fahuwa amīnukal maʾmūnu, wa khāzinu ʿilmikal makhzūni, wa shahīduka yawmaddini, wa baʿīthuka niʿmatan, wa rasūluka bil ḥaqqi raḥmah.",
+      "tr": {
+        "id": "Ya Allah Yang Maha luas pemberiannya, Pencipta yang tinggi (langit), Maha Pemaksa Hati atas Fitrah-Nya, celaka maupun bahagia, jadikanlah kemuliaan shalawat Engkau, bertambahnya berkah Engkau, kelembutan kasih sayang Engkau atas Nabi Muhammad, hamba dan utusan Engkau yaitu sebagai pembuka sesuatu yang tertutup (terkunci). Penutup Nabi yang telah berlalu melahirkan kebenaran dengan kebenaran, perusak bala tentara yang batil seperti halnya ia tanggung, maka nampaklah dengan perintahmu, ketaatan kepada Engkau. Dan bangkit karena mencari Ridho-Mu, tanpa belenggu kuat di telapak kaki, tidak pernah melemah kehendaknya karena menjaga wahyu Engkau dan memelihara janji Engkau telah selesai sempurna melaksanakan perintah Engkau sehingga berlindung bagi pencari cahaya api kebenaran nikmat Allah sampai pada Ahlinya karena tabligh Beliau SAW. Dan dengan Nabi Muhammad SAW pula, hati diberi petunjuk setelah berlumuran finah dan dosa dan menyenangkan karena nampaknya berbagai ilmu dan hukum. Dan nampaknya undang-undang Islam. Dia adalah kepercayaan Engkau yang terpercaya, gudang ilmu Engkau yang tersimpan, saksi engkau yang hak karena bertugas dengan kasih sayang.",
+        "en": "O Allah, Leveller of the Plains, Fashioner of the Firmament, and Compeller of Hearts in accordance with their primal nature, be they destined for happiness or for damnation; grant Your noblest exaltations, most fruitful blessings, and most tender kindness to Muḥammad, Your Slave and Emissary, the Opener of what was locked and Seal of what went before, Proclaimer of Truth with truth, and Refuter of the forces of falsehood. For he was charged with taking responsibility for Your Command in obedience to You, speedily seeking Your good pleasure, earnestly heeding Your Revelation, abiding by Your Covenant, and carrying out and executing Your Command so that, by kindling a burning brand for the seeker of Allah's bounties, the means of attaining them might reach his people. Hearts were guided through him after having been plunged in corruption and sin; and he displayed in their full beauty the explicatory signs, enlightening [Divine] Decrees, and enlightening [principles] of Islam. He is Your Trustworthy, Trusted One, Treasurer of Your stored-up Knowledge, Your Witness on the Day of Judgement, the one You sent as a blessing, and Your Emissary, sent to us with Truth as a mercy.",
+        "fa": "خدایا گسترانندۂ همچو فرش زمین ها و بر آرندۂ همچو سقف آسمانها و بغلیه کار فرمای دلها بر آفرینش آن بدبخت آن و نیکبخت آن نازل گردان بزرگ ترین درود هائی خودرا و خیره نمعت برکتهای خود که افزون شوند و بخشایش مهربانی خودرا بر محمدؐکه بندۂ تست و فرستادۂ تست غلام و رسول تو، باز كننده قفل ها، مُهر آنچه پيش از آن است، اعلام كننده حق به وسيله حق، و پيروز بر لشكريان فاسق، آن گونه كه به او دستور داده شده است. او فرمان تو را با اطاعت از تو و شتاب در خشنودى تو و اطاعت از وحى و حفظ عهد تو و اجراى فرمان تو به عهده گرفت. برای خواهان آتش آتش افروخت تا به وسیله آن صلوات خداوند به اهلش برسد. دلها پس از غرق در وسوسه و گناه، به وسیله آن هدایت می شود. او با نشانه های آشکار و احکام درخشان و چراغ های اسلام شادمان می شود. او ولی امین تو و خزانه دار علم محفوظ تو و شاهد تو در روز قیامت است. او از جانب تو به عنوان نعمت فرستاده شده است. رسول تو در حقيقت رحمت است.",
+        "fr": "Ô Allah, étendeur des étendues, Concepteur des sept cieux, qui a obligé les coeurs à rester à l'état de nature, coeur heureux ou malheureux, répands tes plus nobles prières, tes larges bénédictions et ton clément attendrissement sur Saidina Mohammad, ton Serviteur et ton Messager, celui qui a ouvert ce qui était fermé, Qui a parachevé ce qui a précédé, l'annonciateur de la vérité par la vérité, l'anéantisseur des troupes du mensonges comme il a été chargé de le faire. Celui qui a assumé ton ordre d'obéissance, faisant tout pour te satisfaire, comprenant ta révélation, respectant son engagement vis à vis de toi, exécutant ton ordre, jusqu'à ce qu'il aie vu le Jaillissement d'un flux luminescent divin, reliant sa famille à lui. C'est par lui que les coeurs ont été guidés vers la bonne voie, après avoir été plongés dans l'incrédulité et le pêché. C'est lui qui a animé les explications des signes, les éclaircissements des lois, et les luminescences de l'Islam.Il est donc le dépositaire digne de confiance, le garde de ta science secrète, ton témoin le jour du jugement dernier, ton envoyé du bonheur et ton Messager par la vérité, miséricorde.",
+        "tr": "Ey yayılmış olanları (yerleri) döşeyen, yükseltilmiş olanları (gökleri) yoktan yaratan, şakîsi (bedbahtı) ve saîdi (mutlusu) ile kalpleri fıtratları üzere (kudretiyle) düzenleyen Allah'ım; salavatlarının en şereflilerini, bereketlerinin en nâmîlerini (gelişenlerini/artanlarını) ve şefkatinin merhametini; kulun, Resulün, kilitlenmiş olanın fatihi (açıcısı), geçmiş olanın hâtemi (mühürleyicisi/sonuncusu), hakkı hak ile ilan eden ve kendisine yüklendiği gibi batılların ordularını yok eden, (böylece) itaatinde emrini omuzlayan, rızan yolunda süratle harekete geçen, vahyini kavrayıp koruyan, ahdini muhafaza eden, emrinin yerine getirilmesinde (kararlılıkla) yürüyen, ta ki (nur) almak isteyene bir meşale yakan ---ki Allah'ın nimetleri onun vesileleriyle ehline ulaşır---, fitne ve günah (karanlıklarına) dalışlardan sonra kalplerin kendisiyle hidayet bulduğu, (hidayet) sancaklarının açıklayıcılarını, hükümlerin parıltılarını ve İslam'ın nurlarını izhâr eden Efendimiz Muhammed'in üzerine kıl; (zira) o Senin güvenilir eminin, gizli ilminin hazinedarı, din (hesap) gününde şahidin, nimet olarak gönderdiğin (elçin) ve hak ile (gönderilmiş) rahmet peygamberindir."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 407
+    },
+    {
+      "id": "hizb-1-lundi-017",
+      "num": 16,
+      "ar": "اللَّهُمَّ افْسَحْ لَهُ فِي عَدْنِكَ، وَاجْزِهِ مُضَاعَفَاتِ الخَيْرِ مِن فَضْلِكَ مُهَنَّئَاتٍ لَهُ غَيْرَ مُكَدَّرَاتٍ، مِنْ فَوْزِ ثَوَابِكَ المَحْلُولِ، وَجَزِيلِ عَطَائِكَ المَعْلُولِ.",
+      "translit": "Allāhummafsaḥ lahu fī ʿadnika wajzihi muḍāʿafātil khayri min faḍlika muhannaʾātin lahu ghayra mukaddarātin min fawzi thawābikal maḥlūli, wa jazīli ʿaṭāʾikal maʿlūl.",
+      "tr": {
+        "id": "Ya Allah, luaskanlah baginya di surga And-Mu, balaslah baginya dengan kebajikan yang berlipat ganda dari anugerah-Mu dengan mudah, tanpa aib, dengan pembalasan pahala-Mu yang diijabahi dan dengan agungnya pemberian-Mu yang berturut-turut.",
+        "en": "O Allah, make ample room for him in Your Eden ('Adn), and graciously reward him with the best many times over, granting him untarnished felicitations from the attainment of Your boundless Reward and from Your copious and well-earned bestowal.",
+        "fa": "خداوندا در بهشتت برای او فضایی بگشا و نعمتی مضاعف از فضل خود به او پاداش ده. و پاداش‌های بی‌نظیر و لذت‌بخش از کسب پاداش بی‌پایان و هدایای فراوان و نامحدود خود را به او عطا کن.",
+        "fr": "Ô Allah, mets le à son aise dans ton Eden et récompense-le par le grand bien, de ta générosité, lui\nconférant un bonheur non entaché de contrariété, émanant du bénéfice de ta large gratification et\ntes largesses gracieuses.",
+        "tr": "Allahım, Adn cennetinde onun yerini genişlet, fazlından onu kat kat hayırla mükafaatlandır. Herhangi bir sıkıntı olmadan ve ardı arkası kesilmeden, hayırların ona bol bol ulaşmasını ihsan eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 521
+    },
+    {
+      "id": "hizb-1-lundi-018",
+      "num": 17,
+      "ar": "اللَّهُمَّ أَعْلِ عَلَى بِنَاءِ النَّاسِ بِنَاءَهُ، وَأَكْرِمْ مَثْوَاهُ لَدَيْكَ وَنُزُلَهُ، وَأَتْمِمْ لَهُ نُورَهُ، وَاجْزِهِ مِنِ ابْتِعَاثِكَ لَهُ مَقْبُولَ الشَّهَادَةِ، وَمَرْضِيَّ المَقَالَةِ، ذَا مَنْطِقٍ عَدْلٍ، وَخُطَّةٍ فَصْلٍ، وَبُرْهَانٍ عَظِيمٍ، &#64831; \r\n\r\nإِنَّ اللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى النَّبِىِّ ۚ يَـٰٓأَيُّهَا الَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيمًا  &#64830;، لَبَّيْكَ اللَّهُمَّ رَبِّى وَسَعْدَيْكَ صَلَوَاتُ اللَّهِ البَرِّ الرَّحِيمِ، وَالمَلَائِکَةِ المُقَرَّبِينَ، وَالنَّبِيِّينَ وَالصِّدِّيقِينَ، وَالشُّهَدَاءِ وَالصَّالِحِينَ، وَمَا سَبَّحَ لَكَ مِنْ شَيْءٍ يَا رَبَّ العَالَمِينَ، عَلَى سَيِّدِنَا مُحَمَّدِ بْنِ عَبْدِ اللَّهِ، خَاتِمِ النَّبِيِّينَ، وَسَيِّدِ المُرْسَلِينَ، وَإِمَامِ المُتَّقِينَ، وَرَسُولِ رَبِّ العَالَمِينَ، الشَّاهِدِ البَشِيرِ، الدَّاعِي إِلَيْكَ بِإِذْنِكَ، السِّرَاجِ المُنِيرِ، وَعَلَيْهِ السَّلَامُ.",
+      "translit": "Allāhumma aʿli ʿalā bināʾin nāsi bināʾahu, wa akrim mathwahu ladayka wa nuzulahu, wa atmim lahu nūrahu, wajzihi minibtiʿāthika lahu maqbūlash shahādati, wa marḍiyyal maqālati, dhā manṭiqin ʿadlin, wa khuṭatin faṣlin, wa burhānin ʿaẓīm: InnAllaha wa malāʾikatahu yuṣallūna ʿalan nabiyyi yā ayyuhalladhīna āmanū ṣallū ʿalayhi wa sallimū taslīman. Labbayk Allāhumma rabbi wa saʿdayka ṣalawātuLlahil barrir raḥīmi, wal malāʾikatil muqarrabīna, wan nabiyyīna waṣ ṣiddiqīna, wash shuhadāʾi waṣ ṣāliḥīn, wamā sabbaḥa laka min shayʾin yā rabbal ʿālamīn, ʿalā sayyidinā Muḥammadin ibni ʿAbdiLlahi, khatimin nabiyyīna, wa sayyidil mursālīna, wa imāmil muttaqīna, wa rasūli rabbil ʿālamīnash shāhidil bashīr, addāʿī ilayka bi idhnikas sirājil muniri, wa ʿalayhis salām.",
+      "tr": {
+        "id": "Ya Allah tinggikanlah maqam beliau SAW di atas segala maqam. Muliakanlah tempat BeliauSAW di haribaan Engkau, sampaikanlah bagi Beliau SAW di atas utusan-utusanmu dengan diterimanya syafa'at beliau SAW di Mahsyar kelak dan diterimanya syafa'at beliau, karena beliau yang memiliki ucapan adil/luru, Thariqah yang memisahkan antara yang hak dan batil dan memiliki Hujjah yang Agung. \"Sesungguhnya Allah dan para malaikatnya bershalawat kepada Nabi SAW. Wahai orang-orang yang beriman, bershalawatlah kami untuk Nabi dan ucapkanlah salam penghormatan kepadanya\". (Al-Ahzab :56). Ya Allah kupenuhi panggilan Engkau ya Tuhanku, aku datang kepada Engkau, Rahmat Allah yang baik, yang Rahim dan shalawat Malaikat Muqarrabin, shalawat para Nabi, para Syuhada, orang-orang shalih dan apa saja yang bertasbih kepada Engkau wahai Tuhan seluruh alam, mudah-mudahan tetap terlimpah atas Baginda kami Muhammad SAW bin Abdillah, penutup para Nabi, Baginda para Nabi, Imam orang yang bertaqwa, utusan Tuhan sekalian alam, utusan Allah yang menjadi saksi, pemberi peringatan dan penyeru menuju kepada Engkau dengan izin Engkau, dan pelita yang amat terang. Mudah-mudahan kesejahteraan Allah tetap atas Beliau SAW.",
+        "en": "O Allah, raise that which he built up over [all] that mankind has built up. Ennoble his dwelling-place and his home with You. Complete for him his light. Reward him, when You resurrect him, by his testimony being accepted and his words pleasing to You, as one whose speech is just, whose course is distinct, and whose proof is immense. Allah and His angels exalt the Prophet. O you who believe, exalt him and salute him with abundant salutations. Here am I, O Allah, and entirely at Your service. The salutations of Allah, the Beneficent, the Merciful, His closest angels, the Prophets, the Ṣiddīqūn, the Martyrs, the Righteous, and of everything that glorifies You, O Lord of the Worlds, be upon our Master Muḥammad son of 'Abd Allāh, the Seal of the Prophets and Master of the Emissaries, the Leader of the God-Conscious and Emissary of the Lord of the Worlds, the Witness, the Bringer of Good News, the Summoner to You by Your leave, the Illumining Lamp, upon him be peace.",
+        "fa": "خدایا بلند کن بر منزل آدمیان منزل اورا و بزرگ گردان آرامگاه اورا نزد خود و پیشکش اور او تمام و نورش را برایش کامل کن و او را به رضایت خود پاداش ده تا شهادتش پذیرفته شود و گفتارش مورد پسند تو قرار گیرد و او را کسی گردان که گفتارش عادلانه و مسیرش مشخص و حجتش قوی باشد.\n\n\n&#64831;\n \n\n\nبدرستیکه خدا و فرشتگان او درود میگویند بر پیغمبر ای کسانیکه گرویده اید درود گوئید براو و سلام گوئید سلام گفتنی\n\n\n&#64830;\n\nاستاده ام برای خدمت تو ای بار خدایا ای پروردگار من و یاری میدهم وین ترا خدا که نیکوئی کننده و مهربان ست و فرشگان که نزویکان درگاه الهی اند و پیغمبران و راست گویان و کشته شدگان در راهِ خدا و ستودگان در اعمال و چیز یکه تسبیح میگوید ترا ز هر موجووی ای پروردگار عالمیان برسردار مایان محمدؐ پسر عبدالله آخر همه پیغمبران و سردار همه پیغمبران و پیشوای همه پرهیزگاران و رسول پروردگار عالمیان گواه مژده دهنده خواننده بسوی پرستش تو بفرمان تو چراغ روشن بردبار سلام",
+        "fr": "Ô Allah, élève ses édifices au dessus de ceux des hommes, et honore sa demeure chez toi et sa\nrésidence, parfaits sa lumière et récompense-le, sur le fait, qu'il est ton Envoyé, au témoignage\naccepté, à la parole agréée, à la logique équitable, au plan net et à l'argumentation suprême. Allah et ses anges prient sur le prophète, Ô vous qui avez cru, priez sur lui et saluez le abondamment. A ton service Ô Allah. Prière d'Allah le Magnanime, le Miséricordieux, des anges proches, des Prophètes, des sincères, des martyrs et des vertueux et toute chose t'ayant glorifié, Ô Allah, Seigneur des Univers, sur Saïdina Mohammad Ibn Abdillah, Sceau des Prophètes, Maître des Envoyés, Imam des pieux, Messager du Seigneur des Univers. Le témoin, l'heureux présage, le conviant à toi sur ta permission, le luminescent, l'éclairant, et sur lui le Salut.",
+        "tr": "Allahım, O'nun firdevs cennetindeki makamını insanların makamından yüce kıl. O'na senin katındaki has makamını ve ihsanını ikram eyle. Peygamber olarak gönderdiğin için O'nu şehadeti makbul, sözü rızaya uygun, âdil sözlü, konuşması açık ve büyük bir burhan sahibi olarak mükafaatlandır. Şüphesiz Allah ve melekleri bu Nebî'ye çok salât etmektedirler. Ey îmân edenler sizde onun üzerine salat edin. Tam bir teslimiyetle selam verin. Allahım, Davetine icabet ettim. Rabbim, senden saadetler dilerim. Çok merhametli ve iyilikler ihsan eden Allahım! mukarrebûn makamındaki ve Allah'a en yakın meleklerin, nebîlerin, sıddıkların, şehit­lerin, salihlerin okuduğu ve seni tesbîh eden her şeyin salavatı, senin izninle İslam'a davet eden müjdeci, şâhit, âlemlerin Rabbi olan Allah'ın Rasulü takva sahiplerinin imamı, rasullerin efendisi, nebîlerin sonuncusu, efendimiz Abdullah oğlu Muhammed'in üzerine olsun. O'na selam olsun."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 543.5
+    },
+    {
+      "id": "hizb-1-lundi-019",
+      "num": 18,
+      "ar": "اللَّهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ وَرَحْمَتَكَ عَلَى سَيِّدِ المُرْسَلِينَ، وَإِمَامِ المُتَّقِينَ، وَخَاتِمِ النَّبِيِّينَ، سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ وَرَسُولِك، إِمَامِ الخَيْرِ، وَقَائِدِ الخَيْرِ، وَرَسُولِ الرَّحْمَةِ.",
+      "translit": "Allāhumma ajʿal ṣalawātika wa barakātika wa raḥmataka ʿalā sayyidil mursālīna, wa imāmil muttaqīna, wa khātimin nabiyyīna, sayyidinā Muḥammadin ʿabdika wa rasūlika, imāmil khayri, wa qāʾidil khayri, wa rasūlir rahmah.",
+      "tr": {
+        "id": "Ya Allah, jadikanlah shalawat Engkau, berkah Engkau dan Rahmat Engkau terlimpah atas Baginda Rasul, Imam orang-orang taqwa, penutup para Nabi yaitu Nabi Muhammad SAW yang menjadi hamba-Mu, ututsan-Mu dan utusan Pembawa Rahmah.",
+        "en": "O Allah, bestow Your exaltations, blessings, and mercy upon the Master of the Emissaries, the Leader of the Pious, and the Seal of the Prophets, Muḥammad, Your Slave and Emissary, the Leader to Goodness and Guide to Goodness, the Emissary of Mercy.",
+        "fa": "خدایا نازل گردان درودهای خودرا و برکتهای خودرا و رحمت خودرا برسردارپیغمبران و پیشوای پرهیزگاران و ختم کنندۂ پیغمبران محمدؐ که بندۂ تست و فرستاده تست پیشوای نیکی و کشنده خوبی و پیغمبر بخشش ست۔",
+        "fr": "Ô Allah, répands tes prières, tes bénédictions et ta miséricorde sur, le Maître des Envoyés, l'Imam\ndes pieux, et le Sceau des Prophètes, saïdina Mohammad, ton Serviteur et ton Messager, Imam\ndu bien, Commandant du bien, et Messager de la miséricorde.",
+        "tr": "Allahım, Salatlarını, bereketlerini ve rahmetini rasullerin efendisi, takva sahiplerinin imamı, nebîlerin sonuncusu, rahmet peygamberi, hayrın önderi ve imamı olan rasulün ve kulun efendimiz Muhammed'in üzerine ihsân eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 646
+    },
+    {
+      "id": "hizb-1-lundi-020",
+      "num": 19,
+      "ar": "اللَّهُمَّ ابْعَثْهُ مَقَامًا مَّحْمُودًا يَغْبِطُهُ فِيهِ الأَوَّلُونَ وَالآخِرُونَ.",
+      "translit": "Allāhummabʿath-hu maqāman mahmūdan yaghbiṭuhu fīhil awwalūna wal akhirūn.",
+      "tr": {
+        "id": "Ya Allah, bangkitkanlah beliau SAW dalam derajat yang terpuji. Di mana hal itu sangat diharapkan oleh orang-orang terdahulu dan kemudian.",
+        "en": "O Allah, resurrect him to the Most Praised Station, to be rejoiced in by the first and the last.",
+        "fa": "خدایا برانگیز اورابمقامی پسنویده که رشک برند دران پیشینیان و پسینان۔",
+        "fr": "Ô Allah, ressuscite le dans la position louable que lui envieraient, ceux qui ont existé avant lui et\nceux qui existeraient après lui.",
+        "tr": "Allahım, O'nu öncekilerin ve sonrakilerin kendisine gıpta edeceği Makâm-ı Mahmud'a ulaştır."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 671
+    },
+    {
+      "id": "hizb-1-lundi-021",
+      "num": 20,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta ʿalā sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarga beliau SAW sebagaimana Engkau telah melimpahkan Rahmat atas Nabi Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You exalted Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه درود فرستاده تو بر ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur sa famille, comme tu as prié sur Saidina Ibrahim; Tu es\nlouable est glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e salât ettiğin gibi, Efendimiz Muhammed'e ve onun âline de salat eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 680
+    },
+    {
+      "id": "hizb-1-lundi-022",
+      "num": 21,
+      "ar": "اللَّهُمَّ بَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā bārakta ʿalā sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah berkahilah Nabi Muhammad SAW dan keluarga beliau SAW sebagaimana Engkau telah memberkahi Nabi Ibrahim as. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, bless Muḥammad and the Family of Muḥammad as You blessed Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا برکت ده بر محمدؐ و بر آل محمدؐ چنانچه برکت دادۂ تو بر ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, bénis Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as béni Saïdina\nIbrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm'e bereket ettiğin gibi, Efendimiz Muhammed'e ve onun âline de bereket ihsan eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 696.5
+    },
+    {
+      "id": "hizb-1-lundi-023",
+      "num": 22,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَأَصْحَابِهِ وَأَوْلَادِهِ، وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، وَأَهْلِ بَيْتِهِ وَأَصْهَارِهِ، وَأَنْصَارِهِ وَأَشْيَاعِهِ، وَمُحِبِّيهِ وَأُمَّتِهِ وَعَلَيْنَا مَعَهُمْ أَجْمَعِينَ يَا أَرْحَمَ الرَّاحِمِينَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā ālihi wa aṣ-ḥābihi wa awlādihi, wa azwājihi wa dhurriyyatihi, wa ahli baytihi wa aṣ-hārihi, wa anṣārihi wa ashyāʿihi, wa muḥibbīhi wa ummatihi wa ʿalaynā maʿahum ajmaʿīna yā arḥamar rāḥimīn.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW, keluarga, sahabat, dan anak-anak, isteri-isteri, mertua, kaum Ansor, pengikut, penolong, kekasaih dan ummat beliau. Dan atas kami beserta mereka seluruhnya, waha Dzat yang maha Penyayang di antara para penyayang.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad; and his Companions, children, wives, and descendants, the People of his House, and his relations by marriage, his Helpers, his Supporters, those who love him, his Nation, and all of us with them, O Most Merciful of the Merciful.",
+        "fa": "خدایا درود بفرست بر محمد و بر آل او ویاران او و اولاد او و زنان او و ذریت او و اهلِ بیت او و خویشان او و یاری دهندگان او و پیران او و بر دوستان او و بر امت او و مایان با همه آنان  ای بخشاینده ترین بخشایندگان۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, sur sa famille, ses compagnons, ses enfants, ses épouses, sa descendance, sa petite famille, ses gendres, ses beaux-frères, ses beaux-fils, les familles des ses femmes, ses partisans, ses disciples, ceux qui l'aiment, sa communauté et sur nous tous avec eux, Ô Miséricordieux.",
+        "tr": "Allahım, Efendimiz Muhammed'e, onun âl-i'ne, ashabına, evlâdına, zevcelerine, zürriyetine, ehl-i beytine, evlilikten doğan akrabalarına, ensarına, kendisini takip eden fırkalarına, sevenlerine, ümmetine ve onlarla beraber hepimize salât eyle. Ey merhametliler merhametlisi olan Allahım."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 715
+    },
+    {
+      "id": "hizb-1-lundi-024",
+      "num": 23,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَنْ صَلَّى عَلَيْهِ، وَصَلِّ عَلَی سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَنْ لَّمْ يُصَلِّ عَلَيْهِ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ كَمَا أَمَرْتَنَا بِالصَّلاةِ عَلَيْهِ، وَصَلِّ عَلَیْهِ کَمَا يُحِبُّ أَنْ يُصَلَّى عَلَيْهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin ʿadada man ṣalla ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin ʿadada man lam yuṣalli ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin kamā amartanā biṣṣalāti ʿalayhi, wa ṣalli ʿalayhi kamā yuḥibbu an yuṣallū ʿalayhi.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad sebanyak orang yang membaca shalawat atas Beliau SAW. Dan limpahkanlah pula Rahmat Ta'zhim atas Nabi Muhammad sebagaimana Engkau telah memerintahkan kami untuk membaca shalaawat atas beliau. Dan limpahkanlah Rahmat Ta'zhim atas beliau SAW, sebagaimana beliau senang bila dibacakan shalawat atas diri beliau SAW.",
+        "en": "O Allah, exalt Muḥammad by the sum of those who have exalted him, and exalt Muḥammad by the sum of those who have not exalted him. Exalt him in the way that You have ordered us to exalt him, and exalt him as he likes to be exalted.",
+        "fa": "خدایا درود بفرست بر محمدؐ بشمار کسانیکه درود فرستاده اند بروی و درود بفرست بر محمدؐ بشمار کسانیکه درود نفرستاده اند بروی و درود بفرست بر محمدؐ چنانچه فرمودۂ تو مایان را بفرستادن درود بروی و درود بفرست بر محمدؐ چنانچه دوست میدارد آنکه درود فرستاده شود بروی۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad au nombre de ceux qui ont prié sur lui; Prie sur saïdina\nMohammad, au nombre de ceux qui n'ont pas prié sur lui; Prie sur saïdina Mohammad comme tu\nnous as ordonné de prier sur lui, et prie sur saïdina Mohammad, comme il voudrait qu'on prie sur lui.",
+        "tr": "Allahım, Efendimiz Muhammed'e salât edenlerin sayısınca salât eyle. Salât etmeyenlerin sayısınca salât eyle. Allahım, Efendimiz Muhammed'e kendisine salât okumamızı emrettiğin salât gibi salât eyle. Efendimiz Muhammed'e nasıl salât edilmesini istiyorsan o şekilde salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 743.8
+    },
+    {
+      "id": "hizb-1-lundi-025",
+      "num": 24,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ کَمَا أَمَرْتَنَا أَنْ نُصَلِّيَ عَلَیْهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā amartanā an nuṣalliya ʿalayhi.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan atas keluarga beliau sebagaimana Engkau telah memerintahkan kami untuk bershalawat atas beliau SAW.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You have ordered us to exalt him.",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه فرمودۂ تو مایان را که درود گوئیم بر وی۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad et sur la famille de saïdina Mohammad, comme tu nous as\nordonné de prier sur lui.",
+        "tr": "Allahım, kendisine salât etmemizi emrettiğin salât gibi, Efendimiz Muhammed'e ve o'nun âl-i'ne layık olduğu şekilde salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 771.5
+    },
+    {
+      "id": "hizb-1-lundi-026",
+      "num": 25,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا هُوَ أَهْلُهُ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā huwa ahluhu.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW karena beliau SAW adalah ahlinya.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as he deserves.",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه وی سزاوار اوست۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad et sur la famille de saïdina Mohammad comme il le mérite.",
+        "tr": "Allahım, Efendimiz Muhammed'e ve o'nun âline layık oldukları şekilde salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 791
+    },
+    {
+      "id": "hizb-1-lundi-027",
+      "num": 26,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا تُحِبُّ وَتَرْضَاهُ لَهُ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin kamā tuḥibbu wa tarḍāhu lahu.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad dan keluarga beliau SAW sebagaimana Engkau mencintai dan meridhoi kepada beliau SAW.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You like and are pleased with for his sake.",
+        "fa": "خدایا درود بفرست بر محمد و بر آل محمد چنانچه دوست داری تو و خوشنود شوی تو برای وی۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad et sur la famille de Saïdina Mohammad, comme tu le veux et tel\nque tu sois satisfait pour lui.",
+        "tr": "Allahım, sevip razı olacağın şekilde efendimiz Muhammed'e ve o'nun âline salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 800.5
+    },
+    {
+      "id": "hizb-1-lundi-028",
+      "num": 27,
+      "ar": "اللَّهُمَّ یَا رَبَّ سَيِّدِنَا مُحَمَّدٍ وَآلِ سَيِّدِنَا مُحَمَّدٍ، صَلِّ عَلَی سَيِّدِنَا مُحَمَّدٍ وَآلِ سَيِّدِنَا مُحَمَّدٍ وَأَعْطِ سَیِّدَنَا مُحَمَّدًا الدَّرَجَةَ وَالوَسِيلَةَ فِي الجَنَّةِ.",
+      "translit": "Allāhumma ya rabba sayyidinā Muḥammadin wa āli sayyidinā Muḥammadin ṣalli ʿalā sayyidinā Muḥammadin wa āli sayyidinā Muḥammadin wa aʿṭi sayyidanā Muḥammadinid darajata wal wasīlata fīl jannah.",
+      "tr": {
+        "id": "Ya Alllah Ya Tuhan Nabi Muhammad dan keluarganya, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad dan keluarganya. Berilah beliau derajat tinggi dan wasilah di surga.",
+        "en": "O Allah, O Lord of Muḥammad and the Family of Muḥammad, exalt Muḥammad and the Family of Muḥammad; and grant Muḥammad high rank and Wasīla in Paradise.",
+        "fa": "خدایا ای  پرودگار محمدؐ و آل محمدؐ درود بفرست بر محمد و آل محمدؐ و بده محمدؐ را مرتبه و وسیله در بهشت۔",
+        "fr": "Ô Allah. Dieu de saïdina Mohammad et la famille de saïdina Mohammad et accorde lui la considération et l'influence au paradis.",
+        "tr": "Allah'ım! Ey Efendimiz Muhammed'in ve Efendimiz Muhammed'in âlinin (ailesinin) Rabbi! Efendimiz Muhammed'e ve Efendimiz Muhammed'in âline salât eyle (rahmet ve esenlik ver). Ve Efendimiz Muhammed'e Cennet'teki (o yüksek) dereceyi ve Vesîle'yi (en yüce makamı) ihsan eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 813
+    },
+    {
+      "id": "hizb-1-lundi-029",
+      "num": 28,
+      "ar": "اللَّهُمَّ يَا رَبَّ سَيِّدِنَا مُحَمَّدٍ وَآلِ سَيِّدِنَا مُحَمَّدٍ، اجْزِ سَیِّدَنَا مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا هُوَ أَهْلُهُ.",
+      "translit": "Allāhumma ya rabba sayyidinā Muḥammadin wa āli sayyidinā Muḥammadin, ijzi sayyidanā Muḥammadan ṣallAllahu ʿalayhi wa sallama mā huwa ahluhu.",
+      "tr": {
+        "id": "Ya Alllah Ya Tuhan Nabi Muhammad dan keluarganya, berilah balasan pahala yang lebih bagus karena beliau adalah ahlinya.",
+        "en": "O Allah, O Lord of Muḥammad and the Family of Muḥammad, reward Muḥammad, may Allah exalt and preserve him, as he deserves.",
+        "fa": "خدایا ای پروردگار محمَد و آلِ محمدؐ -  سیدنا محمد صلی الله علیه و آله و سلم را آن گونه که شایسته اوست پاداش ده.۔",
+        "fr": "Ô Allah. Dieu de saïdina Mohammad et la famille de saïdina Mohammad, récompense saïdina\nMohammad -prière et salut d'Allah sur lui-, comme il le mérite.",
+        "tr": "Allahım, Efendimiz Muhammed'in ve âlinin rabbi olan Ey Allahım, Efendimiz Muhammed'e layık olduğu şekilde mükafaat ihsan eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 834.5
+    },
+    {
+      "id": "hizb-1-lundi-030",
+      "num": 29,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ وَعَلَى أَهْلِ بَيْتِهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin wa ʿalā ahli baytihi.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarga Muhammad SAW.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad, and the People of his House.",
+        "fa": "خدایا درود بفرست بر محمد و بر آل محمد و بر اهلِ بیت او۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad et sur la famille de saïdina Mohammad et sur sa petite famille.",
+        "tr": "Allahım, Efendimiz Muhammed'e o'nun âli ve ehl-i beytine salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 847.5
+    },
+    {
+      "id": "hizb-1-lundi-031",
+      "num": 30,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ حَتَّى لَا يَبْقَى مِنَ الصَّلَاةِ شَيْءٌ، وَارْحَمْ سَیِّدَنَا مُحَمَّدًا وَآلَ سَيِّدِنَا مُحَمَّدٍ حَتَّى لَا يَبْقَى مِنَ الرَّحْمَةِ شَيْءٌ، وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ حَتَّى لَا يَبْقَى مِنَ البَرَكَةِ شَيْءٌ، وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ حَتَّى لَا يَبْقَى مِنَ السَّلَامِ شَيْءٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin ḥatta lā yabqā minaṣ ṣalāti shayʾ, warḥam sayyidanā Muḥammadan wa āla sayyidinā Muḥammadin ḥatta lā yabqā minar raḥmati shayʾ, wa bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin ḥatta lā yabqā minal barakati shayʾ, wa sallim ʿalā sayyidinā Muḥammadin wa āla sayyidinā Muḥammadin ḥatta la yabqā minas salāmi shayʾ.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi\nMuhammad SAW dan atas keluarga Muhammad\nSAW sehingga tak tertinggal sedikitpun.\nLimpahkanlah kesejahteraan atas beliau SAW dan\nkeluarganya sehingga tak tertinggal sedikitpun.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad until no exaltation remains [ungiven]. Have mercy on Muḥammad and the Family of Muḥammad until no mercy remains [ungiven]. Bless Muḥammad and the Family of Muḥammad until no blessing remains [ungiven]. Salute Muḥammad and the Family of Muḥammad until no salutation remains [ungiven].",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل محمدؐ تا آنکه باقی نماند از دورد چهزی و رحمت کن محمدؐ را و آل محمدؐ را تا آنکه باقی نماند از رحمت چیزی و برکت ده بر محمدؐ و بر آل محمدؐ تا آنکه باقی نماند از برکت چیزی و سلام بفرست بر محمدؐ و بر آل محمدؐ تا آنکه باقی نماند از سلام چیزی۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad et sur la famille de saïdina Mohammad, jusqu'à épuisement de\nla prière. Et répands ta miséricorde sur saïdina Mohammad et sur la famille de saïdina Mohammad,\njusqu'à épuisement de la miséricorde, bénis saïdina Mohammad et la famille de saïdina Mohammad,\njusqu'à épuisement de la bénédiction, et salue saïdina Mohammad et la famille de saïdina Mohammad, jusqu'à épuisement du salut.",
+        "tr": "Allahım, Efendimiz Muhammed'e ve o'nun âl-i'ne salât adına verilmedik hiçbir salât eksik kalmayıncaya kadar salât eyle. Allahım, Efendimiz Muhammed'e ve o'nun âl-i'ne rahmet adına verilmedik hiç bir rahmet eksik kalmayıncaya kadar rahmet ihsan eyle. Allahım, Efendimiz Muhammed'e ve o'nun âl-i'ne bereket adına verilmedik hiçbir bereket eksik kalmayıncaya kadar bereket ihsan eyle. Allahım, Efendimiz Muhammed'e ve o'nun âl-i'ne selam adına verilmedik hiçbir selam eksik kalmayıncaya kadar selam eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 864.5
+    },
+    {
+      "id": "hizb-1-lundi-032",
+      "num": 31,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ فِي الأَوَّلِينَ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ فِي الآخِرِينَ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ فِي النَّبِيِّينَ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ فِي المُرْسَلِينَ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ فِي المَلَإِ الأَعْلَى إِلَى يَوْمِ الدِّينِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin fīl awwalīna, wa ṣalli ʿalā sayyidinā Muḥammadin fīl ākhirīna, wa ṣalli ʿalā sayyidinā Muḥammadin finnabiyyīna. wa ṣalli ʿalā sayyidinā Muḥammadin fīl mursalīna, wa ṣalli ʿalā sayyidinā Muḥammadin fīl malaʾil aʿlā ilā yawmiddīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan kepada orang-orang terdahulu dan limpahkanlah Rahmat atas Nabi Muhammad SAW dan kepada orang-orang kemudian. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan atas para Nabi. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan atas para Rasul. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan atas para Malaikat yang berada di langit sampai kiamat.",
+        "en": "O Allah, exalt Muḥammad above the first, exalt Muḥammad above the last, exalt Muḥammad above the Prophets, exalt Muḥammad above the Emissaries, and exalt Muḥammad in the Supreme Assembly until the Day of Reckoning.",
+        "fa": "خدایا درود بفرست بر محمدؐ در پیشینیاں و درود بفرست بر محمدؐ در پسینیان و درود بفرست بر محمدؐ در پیغمبران و درود بفرست بر محمدؐ در پیغمبران و درود بفرست بر محمدؐ در گروهی بلند تر  تا روزِ قیامت۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad parmi ceux qui sont passés avant lui, prie sur Saïdina Mohammad parmi ceux qui viennent après, prie sur saïdina Mohammad parmi les Prophètes, prie\nsur saïdina Mohammad parmi les Envoyés, et prie sur saïdina Mohammad dans le monde intelligible jusqu'au jour du jugement dernier.",
+        "tr": "Allah'ım! Öncekiler (evvelkiler) arasında Efendimiz Muhammed'e salât eyle. Sonrakiler (ahirdekiler) arasında Efendimiz Muhammed'e salât eyle. Peygamberler arasında Efendimiz Muhammed'e salât eyle. Resuller (elçiler) arasında Efendimiz Muhammed'e salât eyle. Din Günü'ne (Kıyamet gününe) kadar Mele-i A'lâ'da Efendimiz Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 912.5
+    },
+    {
+      "id": "hizb-1-lundi-033",
+      "num": 32,
+      "ar": "اللَّهُمَّ أَعْطِ سَیِّدَنَا مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَالشَّرَفَ وَالدَّرَجَةَ الکَبِیرَةَ.",
+      "translit": "Allāhumma aʿṭi sayyidanā Muḥammadanal wasīlata wal faḍīlata, wash sharafa waddarajatal kabīrah.",
+      "tr": {
+        "id": "Ya Allah karuniakanlah kepada Muhammad Perantara, keutamaan yang sempurna dan derajat yang tinggi dan Agung.",
+        "en": "O Allah, grant Muḥammad Wasīla, Pre-Eminence, [high] honour, and immense status.",
+        "fa": "خدایا بده محمدؐ را وسیله و بزرگی و بلنوی و پایۂ بزرگ۔",
+        "fr": "Ô Allah, accorde à saïdina Mohammad l'influence, l'éminence, l'honneur et la haute considération.",
+        "tr": "Allahım, Efendimiz Muhammed'e (s.a.v.) cennetteki derecelerin en üstünü olan vesîle makamını, fazileti, şerefi ve büyük mertebeyi ihsân eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 947
+    },
+    {
+      "id": "hizb-1-lundi-034",
+      "num": 33,
+      "ar": "اللَّهُمَّ إِنِّي آمَنْتُ بِسَيِّدِنَا مُحَمَّدٍ وَلَمْ أَرَهُ، فَلَا تَحْرِمْنِي فِي الجِنَانِ رُؤْيَتَهُ، وَارْزُقْنِي صُحْبَتَهُ، وَتَوَفَّنِي عَلَى مِلَّتِهِ، وَاسْقِنِي مِنْ حَوْضِهِ مَشْرَبًا رَوِيًّا، سَائِغًا هَنِيًّا، لَا نَظْمَأُ بَعْدَهُ أَبَدًا، إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "translit": "Allāhumma inni āmantu bi sayyidinā Muḥammadin walam arahu, falā taḥrimnī fīl jināni ruʾyatahu, war zuqnī ṣuḥbtahu, wa tawaffanī ʿalā millatihi, wasqinī min ḥawḍihi mashraban rawiyyan, sāʾighan hanīʾan, lā naẓmaʾu baʿdahu abadan, innaka ʿalā kulli shayʾin qadīr.",
+      "tr": {
+        "id": "Ya Allah, aku membenarkan Kerasulan Nabi Muhammad meskipun aku belum pernah melihat beliau SAW, Maka jangan Engkau jadikan sebab terdindingnya aku di surga untuk melihatnya. Karuniakanlah aku menjadi teman Beliau di surga. Wafatkanlah aku di atas agama Beliau. Minumilah aku dari telaga Beliau SAW yaitu berupa minuman yang memuaskan hati, rasanya lezat dan sedap, yang menyebabkan tidak merasakan haus selamanya. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu.",
+        "en": "O Allah, I believe in Muḥammad although I have not seen him, so do not deprive me of seeing him in the Gardens of Paradise. Provide me with his companionship; let me die following his religion; and let me drink from his Sacred Pool a drink that is thirst-quenching, pleasing, and blissful, after which we shall never thirst again. You have power over all things.",
+        "fa": "خدایا بدرستیکه من ایمان آوردم به محمدؐ حال آنکه من نویدم اورا پس محروم نگردان مرا در بهشت از ویدار او و روزی کن مرا صحبت او و بمیران مرا بر وین او و بنوشان مرا از حوض او نوشیدنی سیراب کننده فرورونده گوارنده که تشنه نشویم بعد او هرگز بدرستیکه تو بر هر چیزی توانا هستی۔",
+        "fr": "Ô Allah, j'ai cru en saïdina Mohammad sans le voir, ne me prive donc pas de sa vue aux paradis, et honore moi de sa compagnie, fais-moi mourir sur sa religion, et abreuve-moi de son Haoud, une boisson désaltérante, agréable et bénéfique, qui éteindra ma soif à jamais. Tu es capable de tout.",
+        "tr": "Allah'ım! Ben Efendimiz Muhammed'i (sav) görmediğim halde O'na iman ettim; Cennetlerde O'nu görmekten beni mahrum eyleme. Bana O'nun sohbetini (beraberliğini) nasip et. Beni O'nun milleti (dini/yolu) üzere vefat ettir. Bana O'nun Havuz'undan öyle kanasıya, tatlı ve afiyetli bir içecek içir ki, ondan sonra bir daha ebediyen susamayayım. Şüphesiz Sen her şeye gücü yetensin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 957.5
+    },
+    {
+      "id": "hizb-1-lundi-035",
+      "num": 34,
+      "ar": "اللَّهُمَّ أَبْلِغْ رُوحَ سَيِّدِنَا مُحَمَّدٍ مِنِّي تَحِيَّةً وَسَلَامًا.",
+      "translit": "Allāhumma abligh ruḥa sayyidinā Muḥammadin minnī taḥiyyatan wa salāma.",
+      "tr": {
+        "id": "Ya Allah sampaikanlah kepada Ruh Nabi Muhammad sanjungan dalam salam Ta'zhim dariku.",
+        "en": "O Allah, convey to the spirit of Muḥammad greetings and salutations from me.",
+        "fa": "خدایا برسان جان محمدؐ را ازمن دعای خیر و سلامت۔",
+        "fr": "Ô Allah, transmets à l'âme de saïdina Mohammad mes salutations et mon salut.",
+        "tr": "Allah'ım! Efendimiz Muhammed'in (sav) ruhuna benden bir tahiyye (hürmet/esenlik dileği) ve selam ulaştır."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 996.5
+    },
+    {
+      "id": "hizb-1-lundi-036",
+      "num": 35,
+      "ar": "اللَّهُمَّ وَكَمَا آمَنْتُ بِسَيِّدِنَا مُحَمَّدٍ وَلَمْ أَرَهُ، فَلَا تَحْرِمْنِي فِي الجِنَانِ رُؤْيَتَهُ.",
+      "translit": "Allāhumma wa kamā āmantu bisayyidinā Muḥammadin wa lam arahu, falā taḥrimnī fīl jināni ruʾyatahu.",
+      "tr": {
+        "id": "Ya Allah sebagaimana Aku beriman kepada beliau SAW meskipun aku belum pernah melihat beliau SAW maka janganlah Engkau mendindingku di surga untuk melihat beliau SAW.",
+        "en": "O Allah, as I have believed in him without having seen him, do not deprive me of seeing him in the Gardens of Paradise.",
+        "fa": "خدایا و چنانچه گرویده ام من باو ء حال آنکه نویده ام من اور پس بی نصیب مکن مرا در بهشتها از ویدن او ۔",
+        "fr": "Ô Allah, comme j'ai cru en lui sans le voir, ne me prive pas de sa vue aux paradis.",
+        "tr": "Allahım, Efendimiz Muhammed'e kendisini görmediğim halde îmân ettiğim gibi cennetlerde O'nun cemâlini görmekten beni mahrum eyleme."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1006
+    },
+    {
+      "id": "hizb-1-lundi-037",
+      "num": 36,
+      "ar": "اللَّهُمَّ تَقَبَّلْ شَفَاعَةَ سَيِّدِنَا مُحَمَّدٍ الكُبْرَى، وَارْفَعْ دَرَجَتَهُ العُلْيَا، وَآتِهِ سُؤْلَهُ فِي الآخِرَةِ وَالأُولَى، كَمَا آتَيْتَ سَیِّدَنَا إِبْرَاهِيمَ وَسَیِّدَنَا مُوسَى.",
+      "translit": "Allāhumma taqabbal shafāʿata sayyidinā Muḥammadinil kubra, warfaʿ darajatahul ʿulyā, wa ātihi suʾlahu fīl ākhirati wal ūlā kamā ātayta sayyidanā Ibrāhīma wa sayyidanā Mūsā.",
+      "tr": {
+        "id": "Ya Allah terimalah syafa'at Kubra (dar) Nabi Muhammad SAW. Angkatlah derajat beliau yang tinggi, karuniakanlah permohonan beliau di Akherat dan di Dunia sebagaimana Engkau telah mengkaruniakan kepada Nabi Ibrahim dan Nabi Musa as.",
+        "en": "O Allah, accept the Major Intercession of Muḥammad. Elevate his highest rank, and grant him all that he asks for in the Next Life and in this, as You granted this to Abraham and Moses.",
+        "fa": "خدایا قبول فرما شفاعت محمدؐ را که بزرگترست و بلند کن مرتبه اورا که برترست وبده اورا مطلوب اورا ور آخرت و دنیا چنانچه دادۂ تو سردار ما ابراهیمؑ را و سردار ما موسیٰؑ را۔",
+        "fr": "Allah, accepte la grande intercession de saïdina Mohammad, élève sa haute position, et accorde lui ce qu'il demande, ici-bas et dans l'au-delà, comme tu l'as fait, pour saïdina Ibrahim et saïdina Moussa.",
+        "tr": "Allah'ım! Efendimiz Muhammed'in Şefaat-i Kübrâ'sını (en büyük şefaatini) kabul buyur. O'nun yüce derecesini daha da yükselt. Efendimiz İbrahim'e ve Efendimiz Musa'ya verdiğin gibi, O'na da dünyada ve ahirette istediğini ihsân eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1019
+    },
+    {
+      "id": "hizb-1-lundi-038",
+      "num": 37,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma wa bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā bārakta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah atas Nabi Muhammad dan keluarganya sebagaimana Engkau telah melimpahkannya atas Nabi Ibrahim dan keluarganya. Ya Allah berkahilah atas Nabi Muhammad dan keluarganya sebagaimana Engkau telah memberkahinya atas Nabi Ibrahim dan keluarganya. Sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You exalted Abraham and the Family of Abraham; and bless Muḥammad and the Family of Muḥammad as You blessed Abraham and the Family of Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه درود فرستی بر ابرهیمؑ و بر آلِ ابرهیم و برکت ده بر محمدؐ و بر آلِ محمد چنانچه برکت دادۂ تو بر ابرهیمؑ و بر آل ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad et sur la famille de saïdina Mohammad, comme tu as prié sur saïdina Ibrahim et sur la famille de saïdina Ibrahim, et bénis saïdina Mohammad et la famille de saïdina Mohammad, comme tu as béni saïdina Ibrahim et la famille de saïdina Ibrahim; Tu es louable et glorieux.",
+        "tr": "Allahım, Efendimiz İbrâhîm ve onun âline salât ettiğin gibi, Efendimiz Muhammed'e ve onun âl'ne de salat eyle. Allahım, efendimiz İbrâhîm ve onun âlini mübarek kıldığın gibi, Efendimiz Muhammed'e ve onun âlini mübarek kıl. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1044
+    },
+    {
+      "id": "hizb-1-lundi-039",
+      "num": 38,
+      "ar": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ نَبِيِّكَ وَرَسُولِكَ، وَسَيِّدِنَا إِبْرَاهِيمَ خَلِيلِكَ وَصَفِيِّكَ، وَسَيِّدِنَا مُوسَى كَلِيمِكَ وَنَجِيِّكَ، وَسَيِّدِنَا عِيسَى رُوحِكَ وَكَلِمَتِكَ، وَعَلَى جَمِيعِ مَلَائِکَتِكَ وَرُسُلِكَ وَأَنْبِيَائِكَ، وَخِيرَتِكَ مِنْ خَلْقِكَ وَأَصْفِيَائِكَ، وَخَاصَّتِكَ وَأَوْلِيَائِكَ مِنْ أَهْلِ أَرْضِكَ وَسَمَائِكَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ خَلْقِهِ وَرِضَاءَ نَفْسِهِ، وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ، وَكَمَا هُوَ أَهْلُهُ، وَكُلَّمَا ذَكَرَهُ الذَّاكِرُونَ، وَغَفَلَ عَنْ ذِكْرِهِ الغَافِلُونَ، وَعَلَى أَهْلِ بَيْتِهِ، وَعِتْرَتِهِ الطَّاهِرِينَ وَسَلَّمَ تَسْلِيمًا.",
+      "translit": "Allāhumma ṣalli wa sallim wa bārik ʿalā sayyidinā Muḥammadin nabiyyika wa rasūlika, wa sayyidinā Ibrāhīma khalīlika wa ṣafiyyika, wa sayyidinā Mūsā kalīmika wa najiyyika, wa sayyidinā ʿĪsā rūḥika wa kalimatika, wa ʿalā jamīʿi malāʾikatika wa rusulika wa anbiyāʾika, wa khiyaratika min khalqika wa aṣfiyāʾika, wa khāṣṣatika wa awliyāʾika min ahli arḍika wa samāʾika, wa ṣallAllahu ʿalā sayyidinā Muḥammadin ʿadada khalqihi wa riḍāʾa nafsihi, wa zinata ʿarshihi wa midada kalimātihi, wa kamā huwa ahluhu, wa kullamā dhakarahudh dhākirūna, wa ghafala ʿan dhikrihil ghāfilūna, wa ʿalā ahli baytihi wa ʿitratihiṭ ṭāhirina, wa sallama taslimā.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim, kesejahteraan dan keberkahan atas Muhammad SAW, Nabi Engkau dan utusan Engkau dan atas Nabi Ibrahim as kekasih Engkau yang tulus ikhlas. Dan atas Nabi Musa as seorang yang mendengarkan firman dan sanjungan Engkau. Dan atas Nabi Isa, Ruh dan penerima firman Engkau. Dan atas seluruh para malaikat Engkau. Dan atas para Utusan, para Nabi, orang-orang terpilih, orang yang bersih mahabbahnya, orang-orang pilihan, para wali (kekasih) dari penduduk bumi dan langit Engkau. Mudah-mudahan Rahmat Allah dan kesejahteraan yang sempurna terlimpah atas Nabi Muhammad sebanyak bilangan makhluknya sebesar keridho'an diriNya seberat timbangan arasy-Nya, sebanyak tinta kalimat-kalimat-Nya, Dan Rahmat yang Rasulullah SAW itu ahlinya. Dan selama berdzikir orang-orang yang berdzikir kepada Engkau dan selama orang-orang yang lupa berdzikir kepada Engkau. Dan atas keluarga dan keturunan beliau yang suci-suci.",
+        "en": "O Allah, exalt, bless, and preserve our Master Muḥammad, Your Prophet, Your Emissary; and Abraham, Your Friend and Elect One; and Moses, whom You spoke with and whom You rescued; and Jesus, Your Spirit and Word; and all Your angels, Emissaries and Prophets, the elite of Your creation, Your sincere friends, Your elect, and Your saints – those upon Your Earth and in Your Heaven. May Allah exalt and bestow abundant salutations on our Master Muḥammad by the number of His creation, as is pleasing to Him, by the weight of His Throne and the ink of His Words, and as he deserves, whenever those who remember him remember him, and whenever those who neglect to remember him are neglectful; and on the People of his House and his pure offspring.",
+        "fa": "خدایا درود بفرست و سلام و برکت ده برسردار مایان محمد که پیغمبر تست و فرستادۂ تست و ابراهیم که دوست تست و برگزیدۂ تست و موسیٰ که همسخن تست و همراز تست و عیسیٰ که روح تست و کلمۂ تست و برهمه فرشتگان تو و پیغمبران تو و انبیای تو و برگزیدگان تو از آفرینش تو و برچید های تو و خاصگان تو و دوستان تو از اهلِ زمین تو و آسمان تو و درود فرستد خدا بر سردار مایان محمد بشمار خلق خود و خوشنووی ذات خود و بوزن عرش خود و مقدار سخنان خود و مانند انچرا  او که سزاوار اوست و هرگاه که یاد کننده را یاد کنندگان و غفلت و رزند از یاد او غافلان و بر اهلِ بیت او و اولاد وی که پاک اند و سلام فرستد سلام فرستادنی۔",
+        "fr": "Ô Allah, répands ta prière, ton salut et ta bénédiction sur saïdina Mohammad, ton Prophète et ton Messager, saïdina Ibrahim, ton confident et ton intime, saïdina Moussa, ton interlocuteur et ton « causeur », saïdina Iça, ton esprit et ta parole, et sur tous tes anges, tes Messagers, tes Prophètes, les meilleures de tes créatures et tes intimes, ton élite et tes proches, des habitants de la terre et du ciel. Prière d'Allah, sur saïdina Mohammad, au nombre de ses créatures, jusqu'à ce qu'il soit satisfait, autant que le poids de son Trône, autant que l'encre nécessaire à écrire ses paroles, comme il le mérite, autant que l'ont évoqué les évocateurs et omis de le faire les distraits, et sur sa petite famille et ses descendants purs, et le grand salut sur eux tous.",
+        "tr": "Allah'ım! Nebin ve Resulün Efendimiz Muhammed'e, Halîlin (dostun) ve Safiyy'in (seçkin kulun) Efendimiz İbrahim'e, Kelîmin (seninle konuşan) ve Neciyy'in (sırdaşın) Efendimiz Musa'ya, Ruhun ve Kelimen Efendimiz İsa'ya ve bütün meleklerine, resullerine, peygamberlerine; yarattıklarının en hayırlılarına ve seçkinlerine; yer ve gök ehlinden olan has kullarına ve velilerine salât, selâm ve bereket ihsan eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1085
+    },
+    {
+      "id": "hizb-1-lundi-040",
+      "num": 39,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، وَعَلَى جَمِيعِ النَّبِيِّينَ وَالمُرْسَلِينَ، وَالمَلَائِکَةِ وَالمُقَرَّبِينَ، وَجَمِيعِ عِبَادِ اللَّهِ الصَّالِحِينَ، عَدَدَ مَا أَمْطَرَتِ السَّمَاءُ مُنْذُ بَنَيْتَهَا، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا أَنبَتَتِ الأَرْضُ مُنْذُ دَحَوْتَهَا، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ النُّجُومِ فِي السَّمَاءِ فَإِنَّكَ أَحْصَيْتَهَا، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا تَنَفَّسَتِ الأَرْوَاحُ مُنْذُ خَلَقْتَهَا، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا خَلَقْتَ وَمَا تَخْلُقُ، وَمَا أَحَاطَ بِهِ عِلْمُكَ وَأَضْعَافَ ذَلِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā azwājihi wa dhurriyyatihi, wa ʿalā jamīʿin nabiyyīna wal mursālīna, wal malāʾikati wal muqarrabīna, wa jamīʿi ʿibādiLlāhiṣ ṣāliḥīn, ʿadada mā amṭaratis samāʾu mundhu banaytahā, wa ṣalli ʿalā sayyidinā Muḥammadin ʿadada mā anbatatil arḍu mundhu daḥawtahā, wa ṣalli ʿalā sayyidinā Muḥammadin ʿadadan nujūmi fīssamāʾi fa innaka aḥṣaytaha, wa ṣalli ʿalā sayyidinā Muḥammadin ʿadada ma tanaffasatil arwāḥu mundhu khalaqtahā, wa ṣalli ʿalā sayyidinā Muḥammadin ʿadada mā khalaqta wa mā takhluqu, wa mā aḥāṭa bihi ʿilmuka wa aḍʿāfa dhālika.",
+      "tr": {
+        "id": "Ya Allah, mudah-mudahan Rahmat Allah tetap terlimpah atas Nabi Muhammad, isteri-isteri dan keturunannya. Dan atas seluruh (para Nabi, dan para Rasul), para Malaikat yang dengan Tuhan, seluruh orang-orang shaleh, sebanyak bilangan sesuatu yang terkena air hujan dan langit, semenjak langit diciptakan. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW sebanyak apa yang tumbuh di bumi dibentangkan-Nya. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW sebanyak bilangan bintang-bintang di langit, maka sesungguhnya Engkau yang menjaga/menghilangnya. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW sebanyak bilangan nafas para Arwah, sejak Engkau menciptakannya. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW sebanyak bilangan sesuatu yang Engkau ciptakan dan tidak Engkau ciptakan dan sebanyak apa yang tertulis di Lauh Mahfuzh menurut ilmu Engkau dan yang membandinginya.",
+        "en": "O Allah, exalt Muḥammad and his wives and descendants, and all the Prophets and Emissaries, the angels and those brought near, and all righteous servants of Allah, by the sum of all the rainfall since You built the sky; and exalt Muḥammad by the sum of all that has grown from the Earth since You spread it out; and exalt Muḥammad by the sum of the stars in the sky, which You alone can enumerate; and exalt Muḥammad by the sum of the breaths of all living souls since You created them; and exalt Muḥammad by the sum of all the things You have created and will create, and of all that Your Knowledge encompasses, many times over.",
+        "fa": "خدایا  درود بفرست بر محمدؐ و بر زنان او واولاد او و بر همه پیغمبران و مرسلان و فرشتگان که نزویکان درگاه تو اند و همه بندگان خدا که نیکو کارانند بشمار چیزیکه بارانیده است آنرا آسمان ابتدای ازان زمانیکه بنا کردۂ تو آنرا و درود بفرست بر محمدؐ بشمار چیزی که رویانیده است آنرا زمین از ابتدای وقتیکه گستردۂ آنرا و درود بفرست بر محمدؐ بشمار ستارگان که در آسمانند پس بدرستیکه تو شمردۂ آنهارا و درود بفرست محمدؐ بشمار دم زدن جانوران جاندار از ابتدای وقتیکه پیدا کردۂ تو آنرا و درود بفرست بر محمدؐ بشمار چیزیکه پیدا کردۂ تو وچیزی که پیدا میکنی تو و چیز یکه فرارسیده است بآن علم تو و زیاده بر زیادۂ آن ۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad, sur la famille de saïdina Mohammad, sur ses épouses, sa descendance, sur tous les Prophètes, les Envoyés, les anges proches et sur tous les serviteurs vertueux d'Allah, autant qu'a plu le ciel depuis que tu l'a édifié.",
+        "tr": "Allah'ım! Nebin ve Resulün Efendimiz Muhammed'e, Halîlin (dostun) ve Safiyy'in (seçkin kulun) Efendimiz İbrahim'e, Kelîmin (seninle konuşan) ve Neciyy'in (sırdaşın) Efendimiz Musa'ya, Ruhun ve Kelimen Efendimiz İsa'ya ve bütün meleklerine, resullerine, peygamberlerine; yarattıklarının en hayırlılarına ve seçkinlerine; yer ve gök ehlinden olan has kullarına ve velilerine salât, selâm ve bereket ihsan eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1160.5
+    },
+    {
+      "id": "hizb-1-lundi-041",
+      "num": 40,
+      "ar": "اللَّهُمَّ صَلِّ عَلَيْهِمْ عَدَدَ خَلْقِكَ، وَرِضَاءَ نَفْسِكَ، وَزِنَةَ عَرْشِكَ، وَمِدَادَ كَلِمَاتِكَ، وَمَبْلَغَ عِلْمِكَ وَآيَاتِكَ.",
+      "translit": "Allāhumma ṣalli ʿalayhim ʿadada khalqika, wa riḍāʾa nafsika, wa zinata ʿarshika, wa midāda kalimātika, wa mablagha ʿilmika wa āyātika.",
+      "tr": {
+        "id": "Ridho Engaku, hiasan Arasy Engkau, bilangan\nkalimat-kalimat Engkau, kesudahan ilmu dan ayatayat Engkau.",
+        "en": "O Allah, exalt them by the sum of Your creation and enough to content Yourself, by the weight of Your Throne, the ink of Your Words, and the sum of Your Knowledge and Your Signs.",
+        "fa": "خدایا درود بفرست بر ایشان بشمار آفرینش خود و باندازۂ خوشنووی ذات خود و بوزن عرش خود و بمقدار سخنان خود و رسیدگی علم خود و علامات خود۔",
+        "fr": "Ô Allah, prie sur eux, au nombre de tes créatures et jusqu'à ce que tu sois satisfait, autant que le poids de ton Trône, l'encre nécessaire à écrire tes paroles, le degré de ta science et tes prodiges.",
+        "tr": "Allahım, Bina ettiğin günden bu zamana dek, gökyüzünden yağan yağmurların sayısınca efendimiz Muhammed'e, onun zevcelerine zürriyyetine, nebî, rasul, melek, mukarrebûn makamındaki diğer melekler ve salih kullarının hepsine salat eyle. Allahım, donatıp yaydığın günden bu zamana değin, yeryüzünde biten bitkilerin sayısınca, efendimiz Muhammed'e salat eyle. Sayılarını ancak senin bildiğin semadaki yıldızlar miktarınca, efendimiz Muhammed'e salat eyle. Yarattığın günden bu zamana kadar ruhların nefesleri kadar efendimiz Muhammed'e salat eyle. Ayrıca yaratmış olduğun ve yaratacaklarınla ilminin kuşattığı ve bunların katları kadarınca efendimiz Muhammed'e salat eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1230
+    },
+    {
+      "id": "hizb-1-lundi-042",
+      "num": 41,
+      "ar": "اللَّهُمَّ صَلِّ عَلَيْهِمْ صَلَاةً تَفُوقُ وَتَفْضُلُ صَلَاةَ المُصَلِّينَ عَلَيْهِمْ مِنَ الخَلْقِ أَجْمَعِينَ، كَفَضْلِكَ عَلَى جَمِيعِ خَلْقِكَ.",
+      "translit": "Allāhumma ṣalli ʿalayhim ṣalātan tafūqu wa tafḍulu ṣalātal muṣallina ʿalayhim minal khalqi ajmaʿina, kafaḍlika ʿalā jamīʿi khalqika.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas mereka berupa Rahmat yang lebih Tinggi dan Utama dari Shalawat orang-orang yang bersembahyang dari makhluk seluruhnya seperti halnya keutamaan Engkau atas seluruh makhluk Engkau.",
+        "en": "O Allah, exalt them with an exaltation that outnumbers, exceeds, and excels over the exaltations of them by the totality of those of creation who exalt them, by as much as You excel over the entirety of Your creation.",
+        "fa": "خدایا  درود بفرست بر ایشاں دروویکه بلند و بزرگ بود درود  درود گویندگان رابرآنها از خلایق همه یا مانند بزرگی تو برهمه آفریدگان خود۔",
+        "fr": "Ô Allah, prie sur eux, une prière supérieure et meilleure, que la prière, de ceux, parmi toutes les créatures, qui prient sur eux, comme ta suprématie sur toutes tes créatures.",
+        "tr": "Allah'ım! Yarattıklarının sayısınca, Zâtının rızasınca, Arşının ağırlığınca, kelimelerinin mürekkebince, ilminin ve ayetlerinin ulaştığı (kapsadığı) her şey kadar efendimiz Muhammed'e O'nun zevcelerine, zürriyetine, melek, mukarrebun ve salih kullarına salât et."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1244
+    },
+    {
+      "id": "hizb-1-lundi-043",
+      "num": 42,
+      "ar": "اللَّهُمَّ صَلِّ عَلَيْهِمْ صَلَاةً دَائِمَةً مُسْتَمِرَّةَ الدَّوَامِ، عَلَى مَرِّ اللَّيَالِي وَالأَيَّامِ، مُتَّصِلَةَ الدَّوَامِ، لَا انْقِضَاءَ لَهَا وَلَا انْصِرَامَ، عَلَى مَرِّ اللَّيَالِي وَالأَيَّامِ، عَدَدَ كُلِّ وَابِلٍ وَطَلٍّ.",
+      "translit": "Allāhumma ṣalli ʿalayhim ṣalātan daʾimatan mustamirratad dawāmi, ʿalā marril layāli wal ayyāmi, muttaṣilatad dawāmi, lanqiḍāʾa lahā walānṣirāma, ʿalā marrillayāli wal ayyāmi, ʿadada kulli wābilin wa ṭall.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas mereka berupa Rahmat yang kekal berturut-turut yang sampai pada kekekalan di atas jalannya malam dan siang, dengan berturut kekekalan tanpa batas dan tidak putus di atas jalannya malam dan siang, menurut bilangan tiap-tiap airh hujan dan air gerimis.",
+        "en": "O Allah, exalt them with a constant exaltation that endures perpetually, as long as nights and days pass; uninterrupted and never-ceasing as long as nights and days pass, [as many as] every heavy and gentle rainfall.",
+        "fa": "خدایا  درود بفرست برایشان و دروویکه همیشه باشد جاری بود همیشگی او بر جاری بودن شب ها و روزها پیوسته بود همیشگی و نیست پایان رویدنی مرآنرا و نه شکستگی برگذشتن شبها و روزها بشمار قطرهای باران بزرگ و ضعیف۔",
+        "fr": "Ô Allah, prie sur eux une prière continue et perpétuelle, éternellement nuits et jours; sans interruption, sans fin, ni rupture, durant les nuits et les jours, autant que les averses et les rosées.",
+        "tr": "Allahım, Bütün yarattıklarının üzerinde senin üstünlüğün ve faziletin gibi kendilerine salavat okuyan bütün kullarının salavatından üstün ve faziletli olan salat ile onlara salat eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1259.5
+    },
+    {
+      "id": "hizb-1-lundi-044",
+      "num": 43,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ نَبِيِّكَ، وَسَيِّدِنَا إِبْرَاهِيمَ خَلِيلِكَ، وَعَلَى جَمِيعِ أَنْبِيَائِكَ وَأَصْفِيَائِكَ، مِنْ أَهْلِ أَرْضِكَ وَسَمَائِكَ، عَدَدَ خَلْقِكَ وَرِضَاءَ نَفْسِكَ وَزِنَةَ عَرْشِكَ وَمِدَادَ كَلِمَاتِكَ وَمُنْتَهَى عِلْمِكَ، وَزِنَةَ جَمِيعِ مَخْلُوقَاتِكَ، صَلَاةً مُكَرَّرَةً أَبَدًا، عَدَدَ مَا أَحْصَى عِلْمُكَ، وَمِلْءَ مَا أَحْصَى عِلْمُكَ، وَأَضْعَافَ مَا أَحْصَى عِلْمُكَ، صَلَاةً تَزِيدُ وَتَفُوقُ وَتَفْضُلُ صَلَاةَ المُصَلِّينَ عَلَيْهِمْ مِنَ الخَلْقِ أَجْمَعِينَ، كَفَضْلِكَ عَلَى جَمِيعِ خَلْقِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin nabiyyika, wa sayyidinā Ibrāhīma khālīlika, wa ʿalā jamīʿi anbiyāʾika wa aṣfiyāʾika, min ahli arḍika wa samāʾika, ʿadada khalqika wa riḍāʾa nafsika wa zinata ʿarshika wa midada kalimātika wa muntahā ʿilmika, wa zinata jamīʿi makhluqātika, ṣalātan mukarraratan abadan ʿadada mā aḥsā ʿilmuka, wa milʾa mā aḥṣā ʿilmuka, wa aḍʿāfa mā aḥṣā ʿilmuka, ṣalātan tazidu wa tafūqu wa tafḍulu ṣalātal muṣallīna ʿalayhim minal khalqi ajmaʿīna, kafaḍlika ʿalā jamīʿi khalqika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW yang menjadi Nabi Engkau, atas nabi Ibrahim as yang menjadi kekasih Engkau, atas seluruh para Nabi dan pilihan engkau dari penduduk bumi dan langit Engkau, sebanyak bilangan makhluk Engkau, Ridho Engkau, hiasan Arasy Engkau, sebanyak kalimat Engkau, kesudahan ilmu Engkau, hiasan seluruh makhluk Engkau yaitu Rahmat yang berulang-ulang selamanya dan sebanyak ilmu yang dihitung ilmu Engkau, berlipat gandanya sesuatu yang dihitung Ilmu Engkau yaitu Rahmat yang bertambah dan melebihi Shalawat orang-orang yang bersembahyang dari makhluk seluruhnya seperti halnya keutamaan Engkau melebihi seluruh makhluk Engkau.",
+        "en": "O Allah, exalt our Master Muḥammad, Your Prophet, Abraham, Your Friend, and all Your Prophets and true friends from among the people of Your Earth and Your Heaven, by the number of Your creation and as is pleasing to Yourself, by the weight of Your Throne and the ink of Your Words, to the utmost extent of Your Knowledge and the weight of all You have created; an exaltation repeated forever in the number of [the objects of] all that Your Knowledge enumerates and the content of Your Knowledge, and all that Your Knowledge enumerates, many times over. May that exaltation outnumber, exceed, and excel over the exaltations of them by the totality of those of creation who exalt them, [by as much] as You excel over the entirety of Your creation.",
+        "fa": "خدایا درود بفرست بر محمدؐ که پیغمبر تست و ابرهیم که دوست تست و بر همه پیغمبران خود و برگزیدگان خود از اهلِ زمین تو و آسمان تو بشمار آفرینش خود و باندازۂ خوشنووی ذات خود و بوزن عرش خود و بمقدار سخنان خود و باندازۂ نهایت علم خود و بوزن همه آفرینش خود دروویکه پیهم آمده باشند بشمار چیزی که ضبط کرده است آنرا علم تو و بمقدار چیزی که ضبط کرده است آنرا علم تو و دوچندان چیزیکه شمرده است آنرا علم تو دروویکه زیاده و بلند و بزرگ و بالاتر و درودگویندگان را بر آنها از مخلوقات همه یا مانند بزرگی تو برهمه آفریدگان تو۔",
+        "fr": "Ô Allah, prie sur saïdina Mohammad ton Prophète, sur saïdina Ibrahim ton confident, sur tous tes Prophètes et tes intimes, des habitants de ta terre et ton ciel, autant que tes créatures et au nombre qui te satisfait, autant que le poids de ton Trône et l'encre nécessaire à écrire tes paroles, le degré de ta science et le poids de toutes tes créatures.",
+        "tr": "Allahım, Gece ve gündüzlerin aralıksız devam edip gittiği zaman süresince, gece ve gündüzler boyu, sağnak ve ince ince yağan yağmur tanelerinin sayısınca hiç bir üzüntü ve kesinti olmaksızın biteviye onlara salat eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1287
+    },
+    {
+      "id": "hizb-1-lundi-045",
+      "num": 44,
+      "ar": "اللَّهُمَّ اجْعَلْنِي مِمَّنْ لَزِمَ مِلَّةَ نَبِيِّكَ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَعَظَّمَ حُرْمَتَهُ، وَأَعَزَّ كَلِمَتَهُ، وَحَفِظَ عَهْدَهُ وَذِمَّتَهُ، وَنَصَرَ حِزْبَهُ وَدَعْوَتَهُ، وَكَثَّرَ تَابِعِيهِ وَفِرْقَتَهُ، وَوَافَى زُمْرَتَهُ، وَلَمْ يُخَالِفْ سَبِيلَهُ وَسُنَّتَهُ.",
+      "translit": "Allāhummajʿalnī mimman lazima millata nabiyyika sayyidinā Muḥammadin ṣallAllāhu ʿalayhi wa sallam, wa ʿaẓẓama ḥurmatahu, wa aʿazza kalimatahu, wa ḥafiẓa ʿahdahu wa dhimmatahu, wa naṣara ḥizbahu wa daʿwatahu, wa kathara tābiʿīhi wa firqatahu, wa wāfā zumratahu, wa lam yukhālif sabīlahu wa sunnatahu.",
+      "tr": {
+        "id": "Ya Allah, jadikanlah kami dari golongan orang yang menetapi agama Nabi Engkau Muhammad SAW. Dan tetap mengagungkan kemuliaannya, memuliakan kalimatnya, menjaga janji dan tanggungannya dan ajakannya, dan memperbanyak pengikut dan jamaahnya dan bertemu di Akherat dengan jamaahnya dan tidak menentang perjalanan/Toriqoh dan sunnah-sunnahnya.",
+        "en": "O Allah, make me one of those who adhere to the religion of Your Prophet, may Allah exalt and preserve him, make his sanctity immense and his words mighty, preserve his covenant and guaranteed protection, and give victory to his party and his [mission of] calling, increase his followers and supporters, multiply his company, and [make me one of those who] never contravene his Sunna or his way.",
+        "fa": "خدایا گردان مرا از کسانیکه لازم گرفته اند وین پیغمبر تو محمدؐ درود فرستد خدا بروی - و سلام و بزرگ داشتن مرتبۂ بزرگی او را و بزرگی دادند کلمه او را و نگاه داشتند پیمان اورا و ذمت اودرا و یاری دادند لشکر اورا و خواندن او را و زیاده گردانیدند پیروان اورا و کرده او را و موافقت کردند گروه او را و مخالفت نکردند راه او را و طریقۂ او را۔",
+        "fr": "Ô Allah, place moi parmi ceux, qui se sont attachés à la religion de ton prophète Saïdina Mohammad -prière d'Allah et son salut sur lui -, ont vénéré sa dignité, ont fortifié sa parole, ont respecté son pacte et son alliance, ont soutenu son parti et sa prédication, ont augmenté le nombre de ses suiveurs et son équipe, ont intégré son groupe et qui n'ont pas dévié de sa voie et de sa sounna.",
+        "tr": "Allah'ım! Peygamberin Efendimiz Muhammed'e, Dostun (Halîlin) Efendimiz İbrahim'e ve yer ile gök ehlinden olan tüm peygamberlerine ve seçkin kullarına; yarattıklarının sayısınca, Zâtının rızasınca, Arşının ağırlığınca, kelimelerinin mürekkebince, ilminin nihayetince ve tüm yarattıklarının ağırlığınca salât et."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1363
+    },
+    {
+      "id": "hizb-1-lundi-046",
+      "num": 45,
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الاسْتِمْسَاكَ بِسُنَّتِهِ، وَأَعُوذُ بِكَ مِنَ الانْحِرَافِ عَمَّا جَاءَ بِهِ.",
+      "translit": "Allāhumma inni asʾalukal istimsāka bisunnatihi, wa aʿūdhu bika minal inḥirāfi ʿammā jāʾa bihi.",
+      "tr": {
+        "id": "Ya Allah, aku bermohon kepada Engkau, berpegang teguh dengan sunnah-sunnahnya. Dan aku berlindung dengan Engkau dari berpaling dari apa yang dibawah oleh Beliau SAW.",
+        "en": "O Allah, I ask You that I hold fast to his Sunna and I seek refuge in You from deviating from what he came to teach us.",
+        "fa": "خدایا بدرستیکه من  سوال میکنم ترا -  چنگ زدن بطریقۂ وی و پناه میگیرم تو از رد گردانیدن از چیزیکه آ ورده است آنرا۔",
+        "fr": "Ô Allah, je te demande le cramponnement à sa sunna et je me protège par toi contre la digression de ces règles.",
+        "tr": "Allah'ım, beni Peygamberin Efendimiz Muhammed'in dinine bağlanan, hürmetini yücelten, kelimesini aziz kılan, ahdini ve zimmetini koruyan, hizbine ve davetine yardım eden, tabi olanlarını ve fırkasını çoğaltan, zümresine kavuşan, yoluna ve sünnetine muhalefet etmeyenlerden kıl."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1395.5
+    },
+    {
+      "id": "hizb-1-lundi-047",
+      "num": 46,
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ سَیِّدُنَا مُحَمَّدٌ نَّبِيُّكَ وَرَسُولُكَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَكَ مِنْهُ سَیِّدُنَا مُحَمَّدٌ نَّبِيُّكَ وَرَسُولُكَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+      "translit": "Allāhumma inni asʾaluka min khayri mā saʾalaka minhu sayyidunā Muḥammadun nabiyyuka wa rasūluka ṣallAllāhu ʿalayhi wa sallama, wa aʿūdhu bika min sharri mastaʿādhaka minhu sayyidunā Muḥammadun nabiyyuka wa rasūluka ṣallAllāhu ʿalayhi wa sallam.",
+      "tr": {
+        "id": "Ya Allah, sesungguhnya aku memohon kepada engkau kebaikan yang dimohon oleh Nabi dan Rasul Engkau Muhammad SAW. Dan aku berlindung dengan Engkau dari kejelekan yang dimohon perlindungannya oleh Nabi dan Rasul Engkau Muhammad SAW.",
+        "en": "O Allah, I ask You for the best of what Your Prophet and Emissary, our Master Muḥammad, may Allah exalt and preserve him, asked You; and I seek refuge in You from the worst of what Your Prophet and Emissary, our Master Muḥammad, may Allah exalt and preserve him, sought refuge in You from.",
+        "fa": "خدایا بدرستیکه سوال میکنم ترا از نیکوی آن چیزیکه سوال کرده است ترا از ان چیز محمدؐ که پیغمبر تست و رسول تست۔ فرستد خدا بروی و سلام و پناه میگیرم بتو از بوی چیزیکه پناه گرفته است بتو از آن چیز محمدؐ که پیغمبر تست و رسول تست درود فرستد خدا بروی و سلام۔",
+        "fr": "Ô Allah, je te demande du meilleur de ce que t'a demandé Saïdina Mohammad ton prophète et ton Messager -prière d'Allah et son Salut sur lui - et je me réfugie auprès de toi contre le mal pour lequel s'est réfugié auprès de toi Saïdina Mohammad ton prophète et ton Messager - prière d'Allah et son salut sur lui -.",
+        "tr": "Allah'ım, ben Senden onun sünnetine sımsıkı sarılmayı istiyorum ve getirdiği şeyden sapmaktan Sana sığınıyorum."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1414
+    },
+    {
+      "id": "hizb-1-lundi-048",
+      "num": 47,
+      "ar": "اللَّهُمَّ اعْصِمْنِي مِنْ شَرِّ الفِتَنِ، وَعَافِنِي مِنْ جَمِيعِ المِحَنِ، وَأَصْلِحْ مِنِّي مَا ظَهَرَ وَمَا بَطَنَ، وَنَقِّ قَلْبِي مِنَ الحِقْدِ وَالحَسَدِ، وَلَا تَجْعَلْ عَلَيَّ تِبَاعَةً لِأَحَدٍ.",
+      "translit": "Allāhummaʿṣimnī min sharril fitani, wa ʿāfinī min jamīʿil miḥani, wa aṣliḥ minnī mā ẓahara wa mā baṭana, wa naqqi qalbī minal ḥiqdi wal ḥasadi, wa lā tajʿal ʿalayya tibāʿatan li aḥad.",
+      "tr": {
+        "id": "Jagalah diri kami dari kejahatan fitnah dan selamatkanlah kami dari berbagai cobaan. Baguskanlah kami lahir dan batin Dan bersihkanlah hati/jiwa kami dari dendam dan dengki, Janganlah Engkau jadikan atas diriku mengikuti seseorang yang berbuat diluar syareat.",
+        "en": "O Allah, protect me from the evil of tribulations, grant me well-being from all trials, and set right whatever is outward and inward in me. Cleanse my heart of rancour and envy, and do not make me guilty of a wrong against anyone.",
+        "fa": "خدایا نگاهدار مرا از شر فتنها و سلامت دار مرا از همه محنتها و آراسته گردان از من چیزیکه ظاهر ست و چیز یکه پوشیده است و پاک کن دل مرا از کینه و بدخواهی و  به کسی اجازه نده که به من ظلم کند.",
+        "fr": "Ô Allah, préserve moi du mal des tourments, sauve moi de tous les malheurs, purifie mon extérieur et mon intérieur, élimine de mon coeur toute rancoeur et toute jalousie et ne me laisse redevoir à personne quoique ce soit.",
+        "tr": "Allahım, efendimiz, nebîn, rasulün Muhammed (salllahu aleyhi ve sellem) senden ne hayır dilemişse ben de senden onu diliyorum; efendimiz, nebîn, rasulün Muhammed (salllahu aleyhi ve sellem) neyin şerriden sana sığınmışsa ben de o şeylerin şerrinden sana sığınıyorum."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1439.5
+    },
+    {
+      "id": "hizb-1-lundi-049",
+      "num": 48,
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الأَخْذَ بِأَحْسَنِ مَا تَعْلَمُ، وَالتَّرْكَ لِسَیِّئِ مَا تَعْلَمُ، وَأَسْأَلُكَ التَّكَفُّلَ بِالرِّزْقِ وَالزُّهْدَ فِي الكَفَافِ وَالمَخْرَجَ بِالْبَيَانِ مِنْ كُلِّ شُبْهَةٍ، وَالفَلَجَ بِالصَّوَابِ فِي كُلِّ حُجَّةٍ، وَالعَدْلَ فِي الغَضَبِ وَالرِّضَىٰ، وَالتَّسْلِيمَ لِمَا يَجْرِي بِهِ القَضَا، وَالاقْتِصَادَ فِي الفَقْرِ وَالغِنَىٰ، وَالتَّوَاضُعَ فِي القَوْلِ وَالفِعْلِ، وَالصِّدْقَ فِي الجِدِّ وَالهَزْلِ.",
+      "translit": "Allāhumma inni asʾalukal akhdha biʾaḥsani mā taʿlamu, wattarka lisayyiʾi mā taʿlamu, wa asʾalukat takaffula birrizqi waz zuhda filkafāfi, wal makhraja bil bayāni min kulli shubhatin, wal falaja biṣṣawābi fī kulli ḥujjatin, wal ʿadla fīl ghaḍabi war riḍāʾi, wat taslīma limā yajrī bihil qaḍāʾu, wal iqtiṣāda fīl faqri wal ghinā, wat tawaḍuʿa filqawli wal fiʿli, waṣ ṣidqa fīl jiddi wal hazli.",
+      "tr": {
+        "id": "Ya Allah sesungguhnya kami memohonkan Engkau berpegang teguh dengan sebaik-baiknya yang Engkau ketahui. Dan meninggalkan pada kejelekan kami yang engkau mengetahui dan tidak meridhoinya. Dan aku memohon kepada Engkau sebagai Penanggung Rizqi dan kezuhudan i) Beserta kecukupan i) Zuhuh ialah meskipun memiliki harta tetapi harta tersebut tidak tertambat di dalam hati. Demikin jga watak dan tabiatnya, sehingga dalam dirinya berzuhud menerangi apa saja selain Allah. Dan kami memohon keluar dengan sebab jelasnya dalil dan syubhat, menang dengan benar dalam tiap-tiap Hujjah, Adil (tetap berjalan luru) di dalam marah, Ridho serta menyerah dengan apa yang sesuai jalan ketentuan Allah. Dan kami memohon kepada Engkau tengah-tengah perkara (Alwsatha) dalam keadaan fakir dan kaya. Dan bertawado' (merendahkan diri) dalam ucapan dan perbuatan Dan kami memohon berlaku benar dalam sungguh-sungguh dan main-main.",
+        "en": "O Allah, I ask You to take [only] the best of what You know, to leave [only] the worst of what You know, to provide for me and [grant me] contentment in sufficiency, [and to grant me] a way out through clarity from every confusion, success through the truth in every argument, justice in both anger and satisfaction, submission to what destiny brings, moderation in poverty and in wealth, humility in speech and deed, and truthfulness in earnest and in jest.",
+        "fa": "خدایا بدرستیکه من سوال میکنم ترا توفیق گرفتن نیکو ترین چیزیکه   از تو می خواهم خیری را که می دانی و از شری که می دانی دوری کنم. و از تو می‌خواهم که روزی مرا تضمین کنی، برای زهد در کفایت، راه روشنی برای برون‌رفتن از هر بلاتکلیفی، توفیق با عمل شایسته در هر بحثی، عدالت در خشم و لذت، تسلیم در برابر آنچه را که فرمان می‌دهی، میانه‌روی در فقر و ثروت، تواضع در گفتار و کردار، و اخلاص در جاذبه و شوخی.میدانی تو و گذاشتن بد و ناخوش چیزی که میدانی - سوال میکنم۔",
+        "fr": "Ô Allah, je te demande de suivre le mieux de ce que tu sais et d'éviter le pire de ce que tu sais. Je te demande la garantie des moyens de subsistance, l'abstinence dans le strict nécessaire, l'issue avec argumentation de toute compromission, la conviction dans toute preuve, *l'équité dans la colère et dans la satisfaction, la résignation à ce que dicte le destin, l'économie dans la pauvreté et l'opulence, la modestie dans les paroles et les actes et la sincérité dans le sérieux et la plaisanterie.",
+        "tr": "Allahım, beni fitnelerin şerrinden koru. Bütün meşakkatlerden bana âfiyet ihsân eyle. Benden görünür ve görünmez meydana gelen işleri ıslâh eyle. Kalbimi kin ve hasetten temizle. Üzerimde kimsenin hakkını bırakma."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1461.5
+    },
+    {
+      "id": "hizb-1-lundi-050",
+      "num": 49,
+      "ar": "اللَّهُمَّ إِنَّ لِي ذُنُوبًا فِيمَا بَيْنِي وَبَيْنَكَ، وَذُنُوبًا فِيمَا بَيْنِي وَبَيْنَ خَلْقِكَ.",
+      "translit": "Allāhumma inna lī dhunuban fimā baynī wa baynaka, wa dhunūban fimā baynī wa bayna khalqika.",
+      "tr": {
+        "id": "Ya Allah, sesungguhnya kami memiliki berbagai dosa dalam perbuatan antara kami dengan Engkau dan dosa antara kami dan makhluk Engkau.",
+        "en": "O Allah, I have sins between me and You, and sins between me and Your creation.",
+        "fa": "خدایا من در آنچه میان من و توست اعمال نادرست دارم و در آنچه میان من و خلقت است اعمال نادرست.",
+        "fr": "Ô Allah, j'ai des pêchés envers toi et des pêches envers tes créatures.",
+        "tr": "Allahım, Sen'den senin bildiğin hayırların en güzeline yapışmak, senin kötü olarak bildiğin şeyleri terk etmeyi diliyorum. (Allah'ım, senden) Rızkıma kefîl olmanı, yeterli olana kanaat edebilmeyi, her türlü şüpheden açık bir beyân ile çıkışı, her delilde hak olanı gerçekleştirmeyi, öfke ve rızâ hâlinde âdil olmayı, kaderin cereyân ettiği işlerde teslîm olabilmeyi, zenginlik ve fakirlik hâlinde ölçülü davranmayı, sözde ve fiilde tevazû göstermeyi, ciddî veyâ şaka bütün sözlerde dosdoğru olmayı diliyorum."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1502.5
+    },
+    {
+      "id": "hizb-1-lundi-051",
+      "num": 50,
+      "ar": "اللَّهُمَّ مَا كَانَ لَكَ مِنْهَا فَاغْفِرْهُ لِي، وَمَا كَانَ مِنْهَا لِخَلْقِكَ فَتَحَمَّلْهُ عَنِّي، وَأَغْنِنِي بِفَضْلِكَ إِنَّكَ وَاسِعُ المَغْفِرَةِ.",
+      "translit": "Allāhumma mā kana laka minha faghfirhu lī, wa mā kāna minhā likhalqika fataḥammalhu ʿannī, wa aghninī bifaḍlika innaka wāsiʿul maghfirah.",
+      "tr": {
+        "id": "Ya Allah dosa apa saja terhadap Engkau maka ampunkanlah bagiku. Sedang dosa antara aku dan makhluk Engkau maka tanggungkanlah dari aku maka cukupilah/kayakanlah dengan anugerah Engkau. Sesungguhnya Engkau paling luas ampunannya.",
+        "en": "O Allah, whatever [sins] there are between me and You, forgive them for me; and whatever [sins] there are between me and Your creation, take on the burden of them on my behalf; and enrich me from Your grace. You are All-Encompassing in forgiveness.",
+        "fa": "خدایا انچه باشد مر ترا از ان گناهان پس به بخش آنرا و انچه باشد از ان گناهان بر ای آفریدگان تو پس بر دار بار آنرا از من و بی نیاز کن مرا به فضل خود بدرستیکه تو صاحب آ مرزش هستی۔",
+        "fr": "Ô Allah, ce qui est envers toi pardonne le, et ce qui est envers tes créatures supporte-le à ma place et enrichit moi par ta générosité. Ton absolution est immense.",
+        "tr": "Allah'ım! Benim Seninle aramda olan günahlarım da var, Senin kullarınla aramda olan günahlarım da var."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1514.5
+    },
+    {
+      "id": "hizb-1-lundi-052",
+      "num": 51,
+      "ar": "اللَّهُمَّ نَوِّرْ بِالْعِلْمِ قَلْبِي، وَاسْتَعْمِلْ بِطَاعَتِكَ بَدَنِي، وَخَلِّصْ مِنَ الفِتَنِ سِرِّي، وَاشْغَلْ بِالاعْتِبَارِ فِكْرِي، وَقِنِي شَرَّ وَسَاوِسِ الشَّيْطَانِ، وَأَجِرْنِي مِنْهُ يَا رَحْمٰنُ حَتَّى لَا يَكُونَ لَهُ عَلَيَّ سُلْطَانٌ.",
+      "translit": "Allāhumma nawwir bil ʿilmi qalbī wastaʿmil biṭāʿatika badanī, wa khalliṣ minal fitani sirrī, washghal bilʿitibāri fikri, wa qinī sharra wasāwisish shayṭān, wa ajirnī minhu yā raḥmanu ḥatta la yākūna lahu ʿalayya sulṭān.",
+      "tr": {
+        "id": "Ya Allah terangilah hati kami dengan Ilmu. Jadikanlah badan kami mengamalkannya taat kepada Engkau, selamatkanlah sirri kami dari fitnah, sibukkanlah pikiran kami untuk beri'tibar. Selamatkanlah kami dari kejahatan syaitan dan jagalah kami daripadanya. Wahai Tuhan yang Maha Pengasih sehingga tidak ada kekuasaan baginya atas diri kami.",
+        "en": "O Allah, illuminate my heart with knowledge, employ my body in obedience to You, free my innermost self from tribulations, occupy my thoughts with contemplation, preserve me from the evil of satanic whisperings, and give me refuge from him, O Most Merciful, so that he may have no power over me.",
+        "fa": "خدایا قلبم را به علم نورانی کن و جسمم را مطیع خود قرار ده و راز مرا از وسوسه ها پاک گردان و انویشه هایم را به تفکر مشغول کن و مرا از شر نجواهای شیطان حفظ کن و مرا حفظ کن ای مهربان، از او تا زمانی که بر من قدرتی نداشته باشد.",
+        "fr": "Ô Allah, éclaire par le savoir mon coeur, utilise mon corps à ton obéissance, délivre mon âme des\ntroubles, occupe mon esprit par une méditation considérative pieuse, protège-moi des mauvaises\nsuggestions de Satan et préserve moi de lui Ô Clément dans sa Puissance tel qu'il ne puisse avoir aucune influence sur moi.",
+        "tr": "Allahım, bu günahlardan seninle aramda olanı bağışla. İnsanlarla aramda olan günahlarımı benden al. Fazlınla beni başkalarına muhtaç olmaktan koru. Şüphesiz sen mağfireti geniş olansın."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-1-lundi.mp3",
+      "audioStart": 1530.5
+    }
+  ]
+}

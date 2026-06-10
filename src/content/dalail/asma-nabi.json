@@ -1,0 +1,2851 @@
+{
+  "slug": "asma-nabi",
+  "order": 5,
+  "category": "preambule",
+  "ar": "أسماء سيدنا محمد ﷺ",
+  "fr": "Les noms du Prophète ﷺ",
+  "hint": "Pré-récitation (203 noms)",
+  "source": "https://www.dalailalkhayrat.com/names.php?names=RasoolSAW",
+  "audio": "/content/audio/dalail/asma-nabi.mp3",
+  "lines": [
+    {
+      "id": "asma-nabi-001",
+      "num": 1,
+      "ar": "&#64831;إِنَّ اللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى النَّبِىِّ ۚ يَـٰٓأَيُّهَا الَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيمًا&#64830;",
+      "tr": {
+        "id": "Dan tidaklah pantas bagi laki-laki yang mukmin dan perempuan yang mukmin, apabila Allah dan Rasul-Nya telah menetapkan suatu ketetapan, akan ada pilihan (yang lain) bagi mereka tentang urusan mereka. Dan barangsiapa mendurhakai Allah dan Rasul-Nya, maka sungguh, dia telah tersesat, dengan kesesatan yang nyata.",
+        "en": "'Allah and His Angels exalt the Prophet. O you who believe, invoke abundant blessings and salutations upon him.'</span"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-002",
+      "num": 2,
+      "ar": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى مَنْ أَشْرَفُ الأَسْمَاءِ سَيِّدُنَا مُحَمَّدٌ  صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Allāhumma ṣalli wa sallim wa bārik ʿalā man ashraful asmāʾi sayyidunā Muḥammadun ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muhammad SAW",
+        "en": "O Allah, exalt, preserve and bless the one to whom belong the noblest of names, our Master Much-Praised (Muḥammad), may Allah exalt and preserve him.",
+        "fa": "سردار ما محمد خداوند او را درود فرست",
+        "fr": "Ô Allah, répands ta prière, ton salut et ta bénédiction sur celui dont le nom est le plus noble des noms Mohammad."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-003",
+      "num": 3,
+      "ar": "سَیِّدُنَا أَحْمَدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Aḥmed ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ahmad SAW",
+        "en": "Our Master, Most Praised (Aḥmad), may Allah exalt and preserve him.",
+        "fa": "سردار ما ستوده تر خداوند او را درود فرست",
+        "fr": "Saïdina Le Plus Loué Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-004",
+      "num": 4,
+      "ar": "سَیِّدُنَا حَامِدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ḥāmid ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Hamid SAW",
+        "en": "Our Master, Praiser (Ḥāmid), may Allah exalt and preserve him.",
+        "fa": "سردار ما ستائش کننده خداوند او را درود فرست",
+        "fr": "Saïdina Reconnaissant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-005",
+      "num": 5,
+      "ar": "سَیِّدُنَا مَحْمُودٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Maḥmūd ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mahmud SAW",
+        "en": "Our Master, Praised (Maḥmūd), may Allah exalt and preserve him.",
+        "fa": "سردار ما ستوده شده خداوند او را درود فرست",
+        "fr": "Saïdina Louable Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-006",
+      "num": 6,
+      "ar": "سَیِّدُنَا أَحِيدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʾAḥīd ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ahid SAW",
+        "en": "Our Master, Repeller (Aḥīd), may Allah exalt and preserve him.",
+        "fa": "سردار ما یکسو کننده خداوند او را درود فرست",
+        "fr": "Saïdina Annihileur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-007",
+      "num": 7,
+      "ar": "سَیِّدُنَا وَحِيدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Waḥīd ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Wahid SAW",
+        "en": "Our Master, Unique (Waḥīd), may Allah exalt and preserve him.",
+        "fa": "سردار ما یگانه خداوند او را درود فرست",
+        "fr": "Saïdina Unique Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-008",
+      "num": 8,
+      "ar": "سَیِّدُنَا مَاحٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Māḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mahin SAW",
+        "en": "Our Master, Obliterator (Māḥī), may Allah exalt and preserve him.",
+        "fa": "سردار ما محو کننده کفر خداوند او را درود فرست",
+        "fr": "Saïdina Réformateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-009",
+      "num": 9,
+      "ar": "سَیِّدُنَا حَاشِرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ḥāshir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Hasyir SAW",
+        "en": "Our Master, Gatherer (Ḥāshir), may Allah exalt and preserve him.",
+        "fa": "سردار ما بردارنده مردگان را خداوند او را درود فرست",
+        "fr": "Saïdina Réunisseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-010",
+      "num": 10,
+      "ar": "سَیِّدُنَا عَاقِبٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿĀqib ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Aqib SAW",
+        "en": "Our Master, Successor ('Āqib), may Allah exalt and preserve him.",
+        "fa": "سردار ما پس آئنده از همه انبیا خداوند او را درود فرست",
+        "fr": "Saïdina Successeur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-011",
+      "num": 11,
+      "ar": "سَیِّدُنَا طَهَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṭaha ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Thaha SAW",
+        "en": "Our Master, Ṭāhā, may Allah exalt and preserve him.",
+        "fa": "سردار ما طالب شفاعت و هاوی شریعت خداوند او را درود فرست",
+        "fr": "Saïdina Taha Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-012",
+      "num": 12,
+      "ar": "سَیِّدُنَا يَسٓ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Yāsīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Yasin SAW",
+        "en": "Our Master, Yāsīn, may Allah exalt and preserve him.",
+        "fa": "سردار ما یاسین خداوند او را درود فرست",
+        "fr": "Saïdina Yasin Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-013",
+      "num": 13,
+      "ar": "سَیِّدُنَا طَاهِرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā  Ṭāhir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Thohir SAW",
+        "en": "Our Master, Pure (Ṭāhir), may Allah exalt and preserve him.",
+        "fa": "سردار ما پاک خداوند او را درود فرست",
+        "fr": "Saïdina Pur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-014",
+      "num": 14,
+      "ar": "سَیِّدُنَا مُطَهَّرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mūṭahhar ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muthahhar SAW",
+        "en": "Our Master, Purified (Muṭahhar), may Allah exalt and preserve him.",
+        "fa": "سردار ما پاک کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Purifié Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-015",
+      "num": 15,
+      "ar": "سَیِّدُنَا طَيِّبٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṭayyib ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Thayyib SAW",
+        "en": "Our Master, Good (Ṭayyib), may Allah exalt and preserve him.",
+        "fa": "سردار ما پاکیزه خداوند او را درود فرست",
+        "fr": "Saïdina Bon Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-016",
+      "num": 16,
+      "ar": "سَیِّدُنَا سَيِّدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sayyid ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sayyid SAW",
+        "en": "Our Master, Master (Sayyid), may Allah exalt and preserve him.",
+        "fa": "سردار ما بزرگ تر خداوند او را درود فرست",
+        "fr": "Saïdina Maître Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-017",
+      "num": 17,
+      "ar": "سَیِّدُنَا رَسُولٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rasūl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rasul SAW",
+        "en": "Our Master, Emissary (Rasūl), may Allah exalt and preserve him.",
+        "fa": "سردار ما فرستاده شده خداوند او را درود فرست",
+        "fr": "Saïdina Messager Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-018",
+      "num": 18,
+      "ar": "سَیِّدُنَا نَبِيٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nabiyy ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nabiyyun SAW",
+        "en": "Our Master, Prophet (Nabī), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبر خداوند او را درود فرست",
+        "fr": "Saïdina Prophète Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-019",
+      "num": 19,
+      "ar": "سَیِّدُنَا رَسُولُ الرَّحْمَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rasūlūr Rahmah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rasulurrahmah SAW",
+        "en": "Our Master, Emissary of Mercy (Rasūl al-Raḥma), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبر صاحب بخشایش خداوند او را درود فرست",
+        "fr": "Saïdina Messager de la Miséricorde Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-020",
+      "num": 20,
+      "ar": "سَیِّدُنَا قَيِّـمٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Qayyim ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Qayyim SAW",
+        "en": "Our Master, Upright (Qayyim), may Allah exalt and preserve him.",
+        "fa": "سردار ما برپا کننده خداوند او را درود فرست",
+        "fr": "Saïdina Droit et Honnête Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-021",
+      "num": 21,
+      "ar": "سَیِّدُنَا جَامِعٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Jāmiʿ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Jami' SAW",
+        "en": "Our Master, Collector (Jāmi'), may Allah exalt and preserve him.",
+        "fa": "سردار ما جمع کننده خداوند او را درود فرست",
+        "fr": "Saïdina Rassembleur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-022",
+      "num": 22,
+      "ar": "سَیِّدُنَا مُـقْتَفِي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mūqtafī ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muqtaf SAW",
+        "en": "Our Master, Follower (Muqtafī), may Allah exalt and preserve him.",
+        "fa": "سردار ما آخر همه پیغمبران خداوند او را درود فرست",
+        "fr": "Saïdina Suiveur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-023",
+      "num": 23,
+      "ar": "سَیِّدُنَا مُـقَـفَّى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mūqaffā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muqaffa SAW",
+        "en": "Our Master, Followed (Muqaffā), may Allah exalt and preserve him.",
+        "fa": "سردار ما پس آئنده خداوند او را درود فرست",
+        "fr": "Saïdina Suivi Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-024",
+      "num": 24,
+      "ar": "سَیِّدُنَا رَسُولُ المَلَاحِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rasūlul Malāḥim ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rasululmalahim SAW",
+        "en": "Our Master, Emissary of Fierce Battles (Rasūl al-Malāḥim), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبر معرکها خداوند او را درود فرست",
+        "fr": "Saïdina Messager des épopées Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-025",
+      "num": 25,
+      "ar": "سَیِّدُنَا رَسُولُ الرَّاحَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā  Rasūlul Rāḥah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rasulurraha SAW",
+        "en": "Our Master, Emissary of Rest (Rasūl al-Rāḥa), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبریکه آرام یافت بسبب او اُمتش خداوند او را درود فرست",
+        "fr": "Saïdina Messager de la quiétude Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-026",
+      "num": 26,
+      "ar": "سَیِّدُنَا كَامِلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Kāmil ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Kamil SAW",
+        "en": "Our Master, Perfect (Kāmil), may Allah exalt and preserve him.",
+        "fa": "سردار ما مُتصف بکمال خداوند او را درود فرست",
+        "fr": "Saïdina Parfait Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-027",
+      "num": 27,
+      "ar": "سَیِّدُنَا إِكْلِيلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Iklīl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Iklil SAW",
+        "en": "Our Master, Crown (Iklīl), may Allah exalt and preserve him.",
+        "fa": "سردار ما تاج مرضع بجواهر خداوند او را درود فرست",
+        "fr": "Saïdina Couronne Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-028",
+      "num": 28,
+      "ar": "سَیِّدُنَا مُـدَّثِّرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mūddaththir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muddatstsir SAW",
+        "en": "Our Master, Wrapped in a Cloak (Muddaththir), may Allah exalt and preserve him.",
+        "fa": "سردار ما جماعه نبوت و ربر پوشیده خداوند او را درود فرست",
+        "fr": "Saïdina Enveloppé dans ses vêtements Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-029",
+      "num": 29,
+      "ar": "سَیِّدُنَا مُـزَّمِّلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mūzzammil ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muzammil SAW",
+        "en": "Our Master, Enwrapped (Muzzammil), may Allah exalt and preserve him.",
+        "fa": "سردار ما گلیم رسالت درخود پیچیده خداوند او را درود فرست",
+        "fr": "Saïdina Enroulé dans ses vêtements Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-030",
+      "num": 30,
+      "ar": "سَیِّدُنَا عَبْدُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAbdūLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Abdullah SAW",
+        "en": "Our Master, Slave of Allah ('Abd Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما بنده خدا خداوند او را درود فرست",
+        "fr": "Saïdina Serviteur d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-031",
+      "num": 31,
+      "ar": "سَیِّدُنَا حَبِيبُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ḤabibūLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Habibullah SAW",
+        "en": "Our Master, Beloved of Allah (Ḥabīb Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما دوستِ خُدا خداوند او را درود فرست",
+        "fr": "Saïdina Bien-aimé d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-032",
+      "num": 32,
+      "ar": "سَیِّدُنَا صَفِيُّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ṢafiyyuLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shafiyullah SAW",
+        "en": "Our Master, Intimate of Allah (Ṣafī Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما چیدۂ خدا خداوند او را درود فرست",
+        "fr": "Saïdina Intime d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-033",
+      "num": 33,
+      "ar": "سَیِّدُنَا نَجِيُّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā NajiyyūLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Najiyullah SAW",
+        "en": "Our Master, Confidant of Allah (Najī Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما همراز خدا خداوند او را درود فرست",
+        "fr": "Saïdina Confiant envers Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-034",
+      "num": 34,
+      "ar": "سَیِّدُنَا كَلِيمُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā KalīmūLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Kalimullah SAW",
+        "en": "Our Master, Spoken to by Allah (Kalīm Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما هم سُخن خدا خداوند او را درود فرست",
+        "fr": "Saïdina Interlocuteur d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-035",
+      "num": 35,
+      "ar": "سَیِّدُنَا خَاتِمُ الأَنْبِيَاءِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Khātimul ʾAnbiyāʾ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Khatamul Anbiya SAW",
+        "en": "Our Master, Seal of the Prophets (Khātim al-Anbiyā'), may Allah exalt and preserve him.",
+        "fa": "سردار ما مهر پیغمبران خداوند او را درود فرست",
+        "fr": "Saïdina Ultime prophète Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-036",
+      "num": 36,
+      "ar": "سَیِّدُنَا خَاتِمُ الرُّسُلِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Khātimur Rūsl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Khatamurrasul SAW",
+        "en": "Our Master, Seal of the Emissaries (Khātim al-Rusul), may Allah exalt and preserve him.",
+        "fa": "سردار ما آخر همه پیغمبران خداوند او را درود فرست",
+        "fr": "Saïdina Ultime messager Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-037",
+      "num": 37,
+      "ar": "سَیِّدُنَا مُحْيي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muḥyī ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muhyi SAW",
+        "en": "Our Master, Reviver (Muḥyī), may Allah exalt and preserve him.",
+        "fa": "سردار ما زنده کننده بمعجزه خداوند او را درود فرست",
+        "fr": "Saïdina Revivificateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-038",
+      "num": 38,
+      "ar": "سَیِّدُنَا مُنْجٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Munji ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Munji SAW",
+        "en": "Our Master, Rescuer (Munjī), may Allah exalt and preserve him.",
+        "fa": "سردار ما خلاص کننده خداوند او را درود فرست",
+        "fr": "Saïdina Sauveur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-039",
+      "num": 39,
+      "ar": "سَیِّدُنَا مُذَكِّرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mudhakkir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mudhakkir SAW",
+        "en": "Our Master, Reminder (Mudhakkir), may Allah exalt and preserve him.",
+        "fa": "سردار ما پند دهنده خداوند او را درود فرست",
+        "fr": "Saïdina Évocateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-040",
+      "num": 40,
+      "ar": "سَیِّدُنَا نَاصِرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nāṣir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nashir SAW",
+        "en": "Our Master, Helper (Nāṣir), may Allah exalt and preserve him.",
+        "fa": "سردار ما یاری دهنده خداوند او را درود فرست",
+        "fr": "Saïdina Défenseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-041",
+      "num": 41,
+      "ar": "سَیِّدُنَا مَنْصُورٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Manṣūr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Manshur SAW",
+        "en": "Our Master, Victorious (Manṣūr), may Allah exalt and preserve him.",
+        "fa": "سردار ما یاری داده شده خداوند او را درود فرست",
+        "fr": "Saïdina Victorieux Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-042",
+      "num": 42,
+      "ar": "سَیِّدُنَا نَبِيُّ الرَّحْمَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nabiyyur Rahmāh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nabiyurrahma SAW",
+        "en": "Our Master, Prophet of Mercy (Nabī al-Raḥma), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبر صاحب بخشایش خداوند او را درود فرست",
+        "fr": "Saïdina Prophète de la miséricorde Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-043",
+      "num": 43,
+      "ar": "سَیِّدُنَا نَبِيُّ التَّوْبَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nabiyyut Tawbāh ṣallAllahu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nabiyuttaubah SAW",
+        "en": "Our Master, Prophet of Repentance (Nabī al-Tawba), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبریکه توبه کردند خلق بردست او خداوند او را درود فرست",
+        "fr": "Saïdina Prophète du repentir Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-044",
+      "num": 44,
+      "ar": "سَیِّدُنَا حَرِيصٌ عَلَيْكُمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Harīṣūn ʿĀlāykūm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Hariishun'alaikum SAW",
+        "en": "Our Master, Watchful Over You (Ḥarīṣ 'alaykum), may Allah exalt and preserve him.",
+        "fa": "سردار ما حرص کننده بر اسلام شما خداوند او را درود فرست",
+        "fr": "Saïdina Plein de prévenance pour vous Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-045",
+      "num": 45,
+      "ar": "سَیِّدُنَا مَعْلُومٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Maʿlūm ṣallAllahu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ma'luumun SAW",
+        "en": "Our Master, Known (Ma'lūm), may Allah exalt and preserve him.",
+        "fa": "سردار ما دانسته شده خداوند او را درود فرست",
+        "fr": "Saïdina Bien-Connu Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-046",
+      "num": 46,
+      "ar": "سَیِّدُنَا شَهِيرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Shahīr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Syahiir SAW",
+        "en": "Our Master, Famous (Shahīr), may Allah exalt and preserve him.",
+        "fa": "سردار ما مشهور خداوند او را درود فرست",
+        "fr": "Saïdina Célèbre Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-047",
+      "num": 47,
+      "ar": "سَیِّدُنَا شَاهِدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Shāhid ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sahid SAW",
+        "en": "Our Master, Attestor (Shāhid), may Allah exalt and preserve him.",
+        "fa": "سردار ما گواهی دهنده خداوند او را درود فرست",
+        "fr": "Saïdina Certificateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-048",
+      "num": 48,
+      "ar": "سَیِّدُنَا شَهِيدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Shahīd ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sahiid SAW",
+        "en": "Our Master, Witness (Shahīd), may Allah exalt and preserve him.",
+        "fa": "سردار ما گواه خداوند او را درود فرست",
+        "fr": "Saïdina Témoin Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-049",
+      "num": 49,
+      "ar": "سَیِّدُنَا مَشْهُودٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mash-hūd ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Masyhud SAW",
+        "en": "Our Master, Attested To (Mashhūd), may Allah exalt and preserve him.",
+        "fa": "سردار ما گواهی داده شده خداوند او را درود فرست",
+        "fr": "Saïdina Qui a des témoins Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-050",
+      "num": 50,
+      "ar": "سَیِّدُنَا بَشِيرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Bashīr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Basyiir SAW",
+        "en": "Our Master, Bringer of Good News (Bashīr), may Allah exalt and preserve him.",
+        "fa": "سردار ما مژده دهنده خداوند او را درود فرست",
+        "fr": "Saïdina Apporteur de bonnes nouvelles Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-051",
+      "num": 51,
+      "ar": "سَیِّدُنَا مُبَشِّرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mubashshir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mubasysyir SAW",
+        "en": "Our Master, Spreader of Good News (Mubashshir), may Allah exalt and preserve him.",
+        "fa": "سردار ما مژده داده شده خداوند او را درود فرست",
+        "fr": "Saïdina Annonciateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-052",
+      "num": 52,
+      "ar": "سَیِّدُنَا نَذِيرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nadhīr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nadzir SAW",
+        "en": "Our Master, Warner (Nadhīr), may Allah exalt and preserve him.",
+        "fa": "سردار ما بیم کننده خداوند او را درود فرست",
+        "fr": "Saïdina Avertisseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-053",
+      "num": 53,
+      "ar": "سَیِّدُنَا مُنْذِرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mundhīr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mundir SAW",
+        "en": "Our Master, Admonisher (Mundhir), may Allah exalt and preserve him.",
+        "fa": "سردار ما بیم کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Avertissant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-054",
+      "num": 54,
+      "ar": "سَیِّدُنَا نُورٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nūr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nuurun SAW",
+        "en": "Our Master, Light (Nūr), may Allah exalt and preserve him.",
+        "fa": "سردار ما روشنائی خداوند او را درود فرست",
+        "fr": "Saïdina Lumière Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-055",
+      "num": 55,
+      "ar": "سَیِّدُنَا سِرَاجٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sirāj ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Siraajun SAW",
+        "en": "Our Master, Lamp (Sirāj), may Allah exalt and preserve him.",
+        "fa": "سردار ما چراغ خداوند او را درود فرست",
+        "fr": "Saïdina Lampe Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-056",
+      "num": 56,
+      "ar": "سَیِّدُنَا مِصْبَاحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Miṣbāh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mishbahun SAW",
+        "en": "Our Master, Lantern (Miṣbāḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما چراغ روشن خداوند او را درود فرست",
+        "fr": "Saïdina Lanterne Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-057",
+      "num": 57,
+      "ar": "سَیِّدُنَا هُدَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Hudā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Huda SAW",
+        "en": "Our Master, Guidance (Hudā), may Allah exalt and preserve him.",
+        "fa": "سردار ما راهنما خداوند او را درود فرست",
+        "fr": "Saïdina Guidée Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-058",
+      "num": 58,
+      "ar": "سَیِّدُنَا مَهْدِيٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mahdī ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mahdiyun SAW",
+        "en": "Our Master, Guided (Mahdī), may Allah exalt and preserve him.",
+        "fa": "سردار ما راه نموده شده خداوند او را درود فرست",
+        "fr": "Saïdina Bien Guidé Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-059",
+      "num": 59,
+      "ar": "سَیِّدُنَا مُنِيرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Munīr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muniirun SAW",
+        "en": "Our Master, Illuminer (Munīr), may Allah exalt and preserve him.",
+        "fa": "سردار ما روشن خداوند او را درود فرست",
+        "fr": "Saïdina Étincelant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-060",
+      "num": 60,
+      "ar": "سَیِّدُنَا دَاعٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dāʿi ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Daa'in SAW",
+        "en": "Our Master, Summoner (Dā'ī), may Allah exalt and preserve him.",
+        "fa": "سردار ما خواننده خداوند او را درود فرست",
+        "fr": "Saïdina Appellant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-061",
+      "num": 61,
+      "ar": "سَیِّدُنَا مَدْعُوٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Madʿuww ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mad'uuwun SAW",
+        "en": "Our Master, Called Upon (Mad'ū), may Allah exalt and preserve him.",
+        "fa": "سردار ما خوانده شده خداوند او را درود فرست",
+        "fr": "Saïdina Appelé Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-062",
+      "num": 62,
+      "ar": "سَیِّدُنَا مُجِيبٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mujīb ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mujiib SAW",
+        "en": "Our Master, Responsive (Mujīb), may Allah exalt and preserve him.",
+        "fa": "سردار ما قبول کننده خداوند او را درود فرست",
+        "fr": "Saïdina Exauçant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-063",
+      "num": 63,
+      "ar": "سَیِّدُنَا مُجَابٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mujāb ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mujaab SAW",
+        "en": "Our Master, Responded To (Mujāb), may Allah exalt and preserve him.",
+        "fa": "سردار ما قبول کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Exaucé Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-064",
+      "num": 64,
+      "ar": "سَیِّدُنَا حَفِيٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Hafiyy ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Hafiyyun SAW",
+        "en": "Our Master, Welcoming (Ḥafī), may Allah exalt and preserve him.",
+        "fa": "سردار ما مهربان خداوند او را درود فرست",
+        "fr": "Saïdina Accueillant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-065",
+      "num": 65,
+      "ar": "سَیِّدُنَا عَفُوٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿĀfuww ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Afwun SAW",
+        "en": "Our Master, Much-Pardoning ('Afuww), may Allah exalt and preserve him.",
+        "fa": "سردار ما بخشنده خداوند او را درود فرست",
+        "fr": "Saïdina Pardonnant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-066",
+      "num": 66,
+      "ar": "سَیِّدُنَا وَلِيٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Waliyy ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Waliyy SAW",
+        "en": "Our Master, Friend and Patron (Walī), may Allah exalt and preserve him.",
+        "fa": "سردار ما دوست خدا خداوند او را درود فرست",
+        "fr": "Saïdina Ami Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-067",
+      "num": 67,
+      "ar": "سَیِّدُنَا حَقٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Haqq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Haqqun SAW",
+        "en": "Our Master, Truth (Ḥaqq), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیغمبر راست و درست خداوند او را درود فرست",
+        "fr": "Saïdina Vérité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-068",
+      "num": 68,
+      "ar": "سَیِّدُنَا قَوِيٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Qawiyy ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Qowiyuun SAW",
+        "en": "Our Master, Mighty (Qawī), may Allah exalt and preserve him.",
+        "fa": "سردار ما توانا خداوند او را درود فرست",
+        "fr": "Saïdina Fort Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-069",
+      "num": 69,
+      "ar": "سَیِّدُنَا أَمِينٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Amīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Amiinun SAW",
+        "en": "Our Master, Trustworthy (Amīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما با امانت خداوند او را درود فرست",
+        "fr": "Saïdina Digne de Confiance Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-070",
+      "num": 70,
+      "ar": "سَیِّدُنَا مَأْمُونٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Maʾmūn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ma'muun SAW",
+        "en": "Our Master, Trusted (Ma'mūn), may Allah exalt and preserve him.",
+        "fa": "سردار ما ایمن کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Fiable Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-071",
+      "num": 71,
+      "ar": "سَیِّدُنَا كَرِيمٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Karīm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Kariim SAW",
+        "en": "Our Master, Noble and Generous (Karīm), may Allah exalt and preserve him.",
+        "fa": "سردار ما بزرگوار خداوند او را درود فرست",
+        "fr": "Saïdina Généreux Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-072",
+      "num": 72,
+      "ar": "سَیِّدُنَا مُكَرَّمٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mukarrām ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mukarramun SAW",
+        "en": "Our Master, Ennobled (Mukarram), may Allah exalt and preserve him.",
+        "fa": "سردار ما بزرگ کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Honoré Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-073",
+      "num": 73,
+      "ar": "سَیِّدُنَا مَكِينٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Makīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Makiinun SAW",
+        "en": "Our Master, Powerful (Makīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما باجاه و منزلت خداوند او را درود فرست",
+        "fr": "Saïdina Solide Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-074",
+      "num": 74,
+      "ar": "سَیِّدُنَا مَتِينٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Matīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Matiinun SAW",
+        "en": "Our Master, Firm (Matīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما استوار خداوند او را درود فرست",
+        "fr": "Saïdina Consistant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-075",
+      "num": 75,
+      "ar": "سَیِّدُنَا مُبِينٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mubīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mubiinun Saw",
+        "en": "Our Master, Evident, Clarifier (Mubīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما ظاهر خداوند او را درود فرست",
+        "fr": "Saïdina Limpide Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-076",
+      "num": 76,
+      "ar": "سَیِّدُنَا مُؤَمِّلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muʾammil ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muammal SAW",
+        "en": "Our Master, Hoped-For (Mu'ammal), may Allah exalt and preserve him.",
+        "fa": "سردار ما امیدوار خداوند او را درود فرست",
+        "fr": "Saïdina Attendu Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-077",
+      "num": 77,
+      "ar": "سَیِّدُنَا وَصُولٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Waṣūl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Washuulun SAW",
+        "en": "Our Master, Maintainer of Ties (Waṣūl), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیوند کننده خداوند او را درود فرست",
+        "fr": "Saïdina Communiquant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-078",
+      "num": 78,
+      "ar": "سَیِّدُنَا ذُو قُوَّةٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dhū Quwwah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Dzuu-Quwwah SAW",
+        "en": "Our Master, Possessor of Power (Dhū Quwwa), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب توانائی خداوند او را درود فرست",
+        "fr": "Saïdina Qui détient le pouvoir Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-079",
+      "num": 79,
+      "ar": "سَیِّدُنَا ذُو حُرْمَةٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dhū Hurmah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Dzuu Hurmah SAW",
+        "en": "Our Master, Possessor of Sanctity (Dhū Ḥurma), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب بزرگی خداوند او را درود فرست",
+        "fr": "Saïdina À qui revient l'honneur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-080",
+      "num": 80,
+      "ar": "سَیِّدُنَا ذُو مَكَانَةٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dhū Makānah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Dzuu Makanah SAW",
+        "en": "Our Master, Possessor of High Status (Dhū Makāna), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب مرتبۂ بلند خداوند او را درود فرست",
+        "fr": "Saïdina Doté de fermeté Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-081",
+      "num": 81,
+      "ar": "سَیِّدُنَا ذُو عِزٍّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dhū ʿIzz ṣallAllahu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Dzuu'izzin SAW",
+        "en": "Our Master, Possessor of Glory (Dhū 'Izz), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب عزت خداوند او را درود فرست",
+        "fr": "Saïdina Qui détient la puissance Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-082",
+      "num": 82,
+      "ar": "سَیِّدُنَا ذُو فَضْلٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dhū Fadl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Dzuu' Fadhlin SAW",
+        "en": "Our Master, Possessor of Virtue (Dhū Faḍl), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب کمال خداوند او را درود فرست",
+        "fr": "Saïdina À qui la grâce est accordée Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-083",
+      "num": 83,
+      "ar": "سَیِّدُنَا مُطَاعٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muṭāʿ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muthaa' SAW",
+        "en": "Our Master, Obeyed (Muṭā'), may Allah exalt and preserve him.",
+        "fa": "سردار ما فرمان برده شده خداوند او را درود فرست",
+        "fr": "Saïdina Obéi Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-084",
+      "num": 84,
+      "ar": "سَیِّدُنَا مُطِيعٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muṭīʿ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muthi'i SAW",
+        "en": "Our Master, Obedient (Muṭī'), may Allah exalt and preserve him.",
+        "fa": "سردار ما فرمانبردار خدا تعالیٰ را خداوند او را درود فرست",
+        "fr": "Saïdina Obéissant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-085",
+      "num": 85,
+      "ar": "سَیِّدُنَا قَدَمُ صِدْقٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Qadamu Sīdq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Qadamushidqin SAW",
+        "en": "Our Master, Foremost in Sincerity (Qadam Ṣidq), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیشرو نیک خداوند او را درود فرست",
+        "fr": "Saïdina À qui revient le réel mérite Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-086",
+      "num": 86,
+      "ar": "سَیِّدُنَا رَحْمَةٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rahmah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rahmatun SAW",
+        "en": "Our Master, Mercy (Raḥma), may Allah exalt and preserve him.",
+        "fa": "سردار ما بخشایش خداوند او را درود فرست",
+        "fr": "Saïdina Miséricorde Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-087",
+      "num": 87,
+      "ar": "سَیِّدُنَا بُشْرَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Bushrā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Busyra SAW",
+        "en": "Our Master, Good News (Bushrā), may Allah exalt and preserve him.",
+        "fa": "سردار ما مژده دهنده خداوند او را درود فرست",
+        "fr": "Saïdina Bonnes nouvelles Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-088",
+      "num": 88,
+      "ar": "سَیِّدُنَا غَوْثٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ghawth ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ghautsun SAW",
+        "en": "Our Master, Aid (Ghawth), may Allah exalt and preserve him.",
+        "fa": "سردار ما فریاد رسنده خداوند او را درود فرست",
+        "fr": "Saïdina Secours Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-089",
+      "num": 89,
+      "ar": "سَیِّدُنَا غَيْثٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ghayth ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ghaitsin SAW",
+        "en": "Our Master, Bringer of Relief (Ghayth), may Allah exalt and preserve him.",
+        "fa": "سردار ما باران خداوند او را درود فرست",
+        "fr": "Saïdina Rescousse Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-090",
+      "num": 90,
+      "ar": "سَیِّدُنَا غِيَاثٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ghiyāth ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ghiyaats SAW",
+        "en": "Our Master, Succour (Ghiyāth), may Allah exalt and preserve him.",
+        "fa": "سردار ما فریاد رس خداوند او را درود فرست",
+        "fr": "Saïdina Aide Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-091",
+      "num": 91,
+      "ar": "سَیِّدُنَا نِعْمَةُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā NiʿmātuLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ni'matullah SAW",
+        "en": "Our Master, Bounty of Allah (Ni'mat Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما نعمت خدایتعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Bienfait d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-092",
+      "num": 92,
+      "ar": "سَیِّدُنَا هَدِيَّةُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā HādīyatuLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Hadiyatullah SAW",
+        "en": "Our Master, Gift of Allah (Hadiyyat Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما تحفه خدایتعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Cadeau d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-093",
+      "num": 93,
+      "ar": "سَیِّدُنَا عُرْوَةٌ وُثْقَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿUrwatun Wuthqā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Urwatanwatsuqya SAW",
+        "en": "Our Master, Most Sure Handhold ('Urwa Wuthqā), may Allah exalt and preserve him.",
+        "fa": "سردار ما دستاویز استوار خداوند او را درود فرست",
+        "fr": "Saïdina Lien indéfectible Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-094",
+      "num": 94,
+      "ar": "سَیِّدُنَا صِرَاطُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ṢirāṭuLlāh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shiratullah SAW",
+        "en": "Our Master, Path to Allah (Sirāṭ Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما راه خدای تعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Voie d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-095",
+      "num": 95,
+      "ar": "سَیِّدُنَا صِرَاطٌ مُسْتَقِيمٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sirāṭul Mustaqīm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shiraatumustaqiim SAW",
+        "en": "Our Master, Straight Path (Ṣirāṭ Mustaqīm), may Allah exalt and preserve him.",
+        "fa": "سردار ما راهِ راست خداوند او را درود فرست",
+        "fr": "Saïdina Droit chemin Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-096",
+      "num": 96,
+      "ar": "سَیِّدُنَا ذِكْرُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā DhikruLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Dzikrullah SAW",
+        "en": "Our Master, Remembrance of Allah (Dhikr Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما سبب یاد خدایتعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Évocation d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-097",
+      "num": 97,
+      "ar": "سَیِّدُنَا سَيْفُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā SayfuLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Saifullah SAW",
+        "en": "Our Master, Sword of Allah (Sayf Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما شمشیر خدایتعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Glaive d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-098",
+      "num": 98,
+      "ar": "سَیِّدُنَا حِزْبُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ḥizbuLlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Hizbullah SAW",
+        "en": "Our Master, Faction of Allah (Ḥizb Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما لشکر خدایتعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Parti d'Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-099",
+      "num": 99,
+      "ar": "سَیِّدُنَا النَّجْمُ الثَّاقِبُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā An-Najmuth Thāqib ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Annajmutsataqib SAM",
+        "en": "Our Master, The Piercing Star (al-Najm al-Thāqib), may Allah exalt and preserve him.",
+        "fa": "سردار ما ستارۂ درخشان خداوند او را درود فرست",
+        "fr": "Saïdina Astre perçant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-100",
+      "num": 100,
+      "ar": "سَیِّدُنَا مُصْطَفَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muṣtafā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mushthafa SAW",
+        "en": "Our Master, Chosen (Muṣṭafā), may Allah exalt and preserve him.",
+        "fa": "سردار ما برگزیده خداوند او را درود فرست",
+        "fr": "Saïdina Élu Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-101",
+      "num": 101,
+      "ar": "سَیِّدُنَا مُجْتَبَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mujtabā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mujtabba SAW",
+        "en": "Our Master, Select (Mujtabā), may Allah exalt and preserve him.",
+        "fa": "سردار ما چیده شده خداوند او را درود فرست",
+        "fr": "Saïdina Choisi Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-102",
+      "num": 102,
+      "ar": "سَیِّدُنَا مُنْتَقَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muntaqā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muntaqa SAW",
+        "en": "Our Master, Elect (Muntaqā), may Allah exalt and preserve him.",
+        "fa": "سردار ما پاک برگزیده خداوند او را درود فرست",
+        "fr": "Saïdina Éloquent Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-103",
+      "num": 103,
+      "ar": "سَیِّدُنَا أُمِّيٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Umīyy ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ummiyun SAW",
+        "en": "Our Master, Unlettered (Ummī), may Allah exalt and preserve him.",
+        "fa": "سردار ما نانویشنده و ناخوانده خداوند او را درود فرست",
+        "fr": "Saïdina Illettré Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-104",
+      "num": 104,
+      "ar": "سَیِّدُنَا مُخْتَارٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mukhtār ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mukhtaar SAW",
+        "en": "Our Master, Preferred (Mukhtār), may Allah exalt and preserve him.",
+        "fa": "سردار ما برگزیده خداوند او را درود فرست",
+        "fr": "Saïdina Meilleur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-105",
+      "num": 105,
+      "ar": "سَیِّدُنَا أَجِيرٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ajīr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ajiir SAW",
+        "en": "Our Master, Refuge-Giver (Ajīr), may Allah exalt and preserve him.",
+        "fa": "سردار ما مزد داده شده خداوند او را درود فرست",
+        "fr": "Saïdina Récompensé Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-106",
+      "num": 106,
+      "ar": "سَیِّدُنَا جَبَّارٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Jabbār ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Jabbar SAW",
+        "en": "Our Master, Rectifier (Jabbār), may Allah exalt and preserve him.",
+        "fa": "سردار ما نیکو کننده خداوند او را درود فرست",
+        "fr": "Saïdina Coercitif Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-107",
+      "num": 107,
+      "ar": "سَیِّدُنَا أَبُو القَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Abūl Qāsīm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Abulqasim SAW",
+        "en": "Our Master, Father of Qāsim (Abū al-Qāsim), may Allah exalt and preserve him.",
+        "fa": "سردار ما پدر قاسم خداوند او را درود فرست",
+        "fr": "Saïdina Père de Kacem Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-108",
+      "num": 108,
+      "ar": "سَیِّدُنَا أَبُو الطَّاهِرِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Abūṭ ṭāhir ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Abuththohir SAW",
+        "en": "Our Master, Father of Ṭāhir (Abū al-Ṭāhir), may Allah exalt and preserve him.",
+        "fa": "سردار ما پدر طاهر خداوند او را درود فرست",
+        "fr": "Saïdina Père de Tahir Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-109",
+      "num": 109,
+      "ar": "سَیِّدُنَا أَبُو الطَّيِّبِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Abūṭ ṭāyyīb ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Abuthoyyib SAW",
+        "en": "Our Master, Father of Ṭayyib (Abū al-Ṭayyib), may Allah exalt and preserve him.",
+        "fa": "سردار ما پدر طیب خداوند او را درود فرست",
+        "fr": "Saïdina Père de Tayyib Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-110",
+      "num": 110,
+      "ar": "سَیِّدُنَا أَبُو إِبْرَاهِيمَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Abū Ibrāhīm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Abuibrahim SAW",
+        "en": "Our Master, Father of Ibrāhīm (Abū Ibrāhīm), may Allah exalt and preserve him.",
+        "fa": "سردار ما پدر ابراهیم خداوند او را درود فرست",
+        "fr": "Saïdina Père de Ibrahim Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-111",
+      "num": 111,
+      "ar": "سَیِّدُنَا مُشَفَّعٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mūshāffāʿ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Musyaffa SAW",
+        "en": "Our Master, Appointed Intercessor (Mushaffa'), may Allah exalt and preserve him.",
+        "fa": "سردار ما شفاعت قبول کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Agrée à intercéder Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-112",
+      "num": 112,
+      "ar": "سَیِّدُنَا شَفِيعٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Shafīʿ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Syafii' SAW",
+        "en": "Our Master, Intercessor (Shafī'), may Allah exalt and preserve him.",
+        "fa": "سردار ما عذر خواه خداوند او را درود فرست",
+        "fr": "Saïdina Intercesseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-113",
+      "num": 113,
+      "ar": "سَیِّدُنَا صَالِحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ṣāliḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shaalih SAW",
+        "en": "Our Master, Righteous (Ṣāliḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما نیکوکار خداوند او را درود فرست",
+        "fr": "Saïdina Vertueux Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-114",
+      "num": 114,
+      "ar": "سَیِّدُنَا مُصْلِحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muṣliḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mushlih SAW",
+        "en": "Our Master, Conciliator (Muṣliḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما نیکو کننده خداوند او را درود فرست",
+        "fr": "Saïdina Redresseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-115",
+      "num": 115,
+      "ar": "سَیِّدُنَا مُهَيْمِنٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muhāymin ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muhaimin SAW",
+        "en": "Our Master, Supervisor (Muhaymin), may Allah exalt and preserve him.",
+        "fa": "سردار ما نگهبان خداوند او را درود فرست",
+        "fr": "Saïdina Prédominant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-116",
+      "num": 116,
+      "ar": "سَیِّدُنَا صَادِقٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣādiq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shaadiqun SAW",
+        "en": "Our Master, Truthful (Ṣādiq), may Allah exalt and preserve him.",
+        "fa": "سردار ما راستگو خداوند او را درود فرست",
+        "fr": "Saïdina Véridique Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-117",
+      "num": 117,
+      "ar": "سَیِّدُنَا مُصَدَّقٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muṣaddaq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mushaddaqun SAW",
+        "en": "Our Master, Confirmer of Truth (Muṣaddiq), may Allah exalt and preserve him.",
+        "fa": "سردار ما تصویق کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Sincère Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-118",
+      "num": 118,
+      "ar": "سَیِّدُنَا صِدْقٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣidq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shidqun SAW",
+        "en": "Our Master, Sincerity and Truthfulness (Ṣidq), may Allah exalt and preserve him.",
+        "fa": "سردار ما راستی خداوند او را درود فرست",
+        "fr": "Saïdina Sincérité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-119",
+      "num": 119,
+      "ar": "سَیِّدُنَا سَيِّدُ المُرْسَلِينَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sayyidul Mursalīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sayyidulmursalim SAW",
+        "en": "Our Master, Chief of the Emissaries (Sayyid al-Mursalīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما سردار پیغمبران خداوند او را درود فرست",
+        "fr": "Saïdina Maître des Envoyés Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-120",
+      "num": 120,
+      "ar": "سَیِّدُنَا إِمَامُ المُتَّقِينَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Imāmul Muttaqīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Imaamul Muttaqin SAW",
+        "en": "Our Master, Leader of the Godly (Imām al-Muttaqīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیشوای پرهیزگاران خداوند او را درود فرست",
+        "fr": "Saïdina Imam des pieux Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-121",
+      "num": 121,
+      "ar": "سَیِّدُنَا قَائِدُ الغُرِّ المُحَجَّلِينَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Qāʾidul Ghurril Muḥajjalīn ṣallAllahu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Qaidulghurri Almuhajjaliin SAW",
+        "en": "Our Master, Leader of Those with Shining Highlights (Qā'id al-Ghurr al-Muḥajjalīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما برنده به بهشت کسانی را که دست و پا و پیشانیشان می درخشد  خداوند او را درود فرست",
+        "fr": "Saïdina Commandant des purifiés Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-122",
+      "num": 122,
+      "ar": "سَیِّدُنَا خَلِيلُ الرَّحْمَـٰنِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Khalīlul Raḥmān ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Khalilirrahman SAW",
+        "en": "Our Master, Close Friend of the All-Merciful (Khalīl al-Raḥmān), may Allah exalt and preserve him.",
+        "fa": "سردار ما دوست خدا خداوند او را درود فرست",
+        "fr": "Saïdina Ami du Tout Miséricordieux Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-123",
+      "num": 123,
+      "ar": "سَیِّدُنَا بَرٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Barr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Barrun SAW",
+        "en": "Our Master, Dutiful (Barr), may Allah exalt and preserve him.",
+        "fa": "سردار ما نیکوکار خداوند او را درود فرست",
+        "fr": "Saïdina Magnanime Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-124",
+      "num": 124,
+      "ar": "سَیِّدُنَا مَبَرٌّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mubirr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mabarrun SAW",
+        "en": "Our Master, Fulfiller of Vows (Mubarr), may Allah exalt and preserve him.",
+        "fa": "سردار ما نیکوئی کننده خداوند او را درود فرست",
+        "fr": "Saïdina Charitable Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-125",
+      "num": 125,
+      "ar": "سَیِّدُنَا وَجِيهٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Wajīh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Wajiihun SAW",
+        "en": "Our Master, Eminent (Wajīh), may Allah exalt and preserve him.",
+        "fa": "سردار ما روشن خداوند او را درود فرست",
+        "fr": "Saïdina Notable Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-126",
+      "num": 126,
+      "ar": "سَیِّدُنَا نَصِيحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Naṣīḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Nashiihun SAW",
+        "en": "Our Master, Well-Wisher (Naṣīḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما پند دهنده خداوند او را درود فرست",
+        "fr": "Saïdina Conseil sincère Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-127",
+      "num": 127,
+      "ar": "سَیِّدُنَا نَاصِحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Nāṣiḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Naashihun SAW",
+        "en": "Our Master, Sincere Adviser (Nāṣiḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما نصیحت کننده خداوند او را درود فرست",
+        "fr": "Saïdina Conseiller Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-128",
+      "num": 128,
+      "ar": "سَیِّدُنَا وَكِيلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Wakīl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Wakiilun SAW",
+        "en": "Our Master, Trustee (Wakīl), may Allah exalt and preserve him.",
+        "fa": "سردار ما کارگزار خداوند او را درود فرست",
+        "fr": "Saïdina Défenseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-129",
+      "num": 129,
+      "ar": "سَیِّدُنَا مُتَوَكِّلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mutawakkīl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mutawakkalun SAW",
+        "en": "Our Master, Wholly Reliant [on Allah] (Mutawakkil), may Allah exalt and preserve him.",
+        "fa": "سردار ما اعتماد کننده خداوند او را درود فرست",
+        "fr": "Saïdina Confiant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-130",
+      "num": 130,
+      "ar": "سَیِّدُنَا كَفِيلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Kafīl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Kafiilun SAW",
+        "en": "Our Master, Guarantor (Kafīl), may Allah exalt and preserve him.",
+        "fa": "سردار ما ضامن خداوند او را درود فرست",
+        "fr": "Saïdina Caution Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-131",
+      "num": 131,
+      "ar": "سَیِّدُنَا شَفِيقٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Shafīq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Syafiiqun SAW",
+        "en": "Our Master, Tender (Shafīq), may Allah exalt and preserve him.",
+        "fa": "سردار ما مهربان خداوند او را درود فرست",
+        "fr": "Saïdina Compatissant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-132",
+      "num": 132,
+      "ar": "سَیِّدُنَا مُقِيمُ السُّنَّةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muqīmus Sunnah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muqimussunnah SAW",
+        "en": "Our Master, Upholder of the Sunna (Muqīm al-Sunna), may Allah exalt and preserve him.",
+        "fa": "سردار ما برپا کنندۂ طریقۂ وین خداوند او را درود فرست",
+        "fr": "Saïdina Qui établit et perpétue la sounna Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-133",
+      "num": 133,
+      "ar": "سَیِّدُنَا مُقَدَّسٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muqaddas ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muqaddas SAW",
+        "en": "Our Master, Sacred, The Sanctified (Muqaddas), may Allah exalt and preserve him.",
+        "fa": "سردار ما پاک کرده شده خداوند او را درود فرست",
+        "fr": "Saïdina Sanctifié Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-134",
+      "num": 134,
+      "ar": "سَیِّدُنَا رُوحُ القُدُسِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rūḥul Quds ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ruuhulqudus SAW",
+        "en": "Our Master, Pure Spirit (Rūḥ al-Qudus), may Allah exalt and preserve him.",
+        "fa": "سردار ما جان پاکیزه خداوند او را درود فرست",
+        "fr": "Saïdina Esprit saint Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-135",
+      "num": 135,
+      "ar": "سَیِّدُنَا رُوحُ الحَقِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rūḥul Hāqq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ruuhulhaq SAW",
+        "en": "Our Master, Spirit of Truth (Rūḥ al-Ḥaqq), may Allah exalt and preserve him.",
+        "fa": "سردار ما جان حق خداوند او را درود فرست",
+        "fr": "Saïdina Esprit de vérité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-136",
+      "num": 136,
+      "ar": "سَیِّدُنَا رُوحُ القِسْطِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rūḥul Qist ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ruuhulqisthi SAW",
+        "en": "Our Master, Spirit of Justice (Rūḥ al-Qisṭ), may Allah exalt and preserve him.",
+        "fa": "سردار ما جان عدل خداوند او را درود فرست",
+        "fr": "Saïdina Esprit d'équité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-137",
+      "num": 137,
+      "ar": "سَیِّدُنَا كَافٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Kāfi ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Kaafin SAW",
+        "en": "Our Master, Sufficer (Kāfī), may Allah exalt and preserve him.",
+        "fa": "سردار ما کفاید کننده خداوند او را درود فرست",
+        "fr": "Saïdina Suffisant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-138",
+      "num": 138,
+      "ar": "سَیِّدُنَا مُكْتَفٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muktafi ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Maktaf SAW",
+        "en": "Our Master, Sufficed, The Well-Content (Muktafī), may Allah exalt and preserve him.",
+        "fa": "سردار ما بس کننده خداوند او را درود فرست",
+        "fr": "Saïdina Satisfait Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-139",
+      "num": 139,
+      "ar": "سَیِّدُنَا بَالِغٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Bāligh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Baaligh SAW",
+        "en": "Our Master, Proclaimer (Bāligh), may Allah exalt and preserve him.",
+        "fa": "سردار ما رسنده بمرتبه خداوند او را درود فرست",
+        "fr": "Saïdina Qui parvient Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-140",
+      "num": 140,
+      "ar": "سَیِّدُنَا مُبَلِّغٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muballigh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muballigh SAW",
+        "en": "Our Master, Communicator (Muballigh), may Allah exalt and preserve him.",
+        "fa": "سردار ما رساننده خداوند او را درود فرست",
+        "fr": "Saïdina Informateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-141",
+      "num": 141,
+      "ar": "سَیِّدُنَا شَافٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Shāfi ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Syaafiin SAW",
+        "en": "Our Master, Healer (Shāfī), may Allah exalt and preserve him.",
+        "fa": "سردار ما صحت بخشنده خداوند او را درود فرست",
+        "fr": "Saïdina Qui guérit Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-142",
+      "num": 142,
+      "ar": "سَیِّدُنَا وَاصِلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Wāṣil ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Wasshil SAW",
+        "en": "Our Master, Attainer, The Inseparable (Wāṣil), may Allah exalt and preserve him.",
+        "fa": "سردار ما راسنده بخدا خداوند او را درود فرست",
+        "fr": "Saïdina Ami inséparable Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-143",
+      "num": 143,
+      "ar": "سَیِّدُنَا مَوْصُولٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mawṣūl ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Manshuul SAW",
+        "en": "Our Master, Connected [to Allah] (Mawṣūl), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیوسته شده بحق تعالیٰ خداوند او را درود فرست",
+        "fr": "Saïdina Lié à Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-144",
+      "num": 144,
+      "ar": "سَیِّدُنَا سَابِقٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sābiq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Saabiqun SAW",
+        "en": "Our Master, Forerunner (Sābiq), may Allah exalt and preserve him.",
+        "fa": "سردار ما اول همه خداوند او را درود فرست",
+        "fr": "Saïdina Précurseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-145",
+      "num": 145,
+      "ar": "سَیِّدُنَا سَائِقٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sāʾiq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Saaiqun SAW",
+        "en": "Our Master, Driver (Sā'iq), may Allah exalt and preserve him.",
+        "fa": "سردار ما از پس راننده خداوند او را درود فرست",
+        "fr": "Saïdina Meneur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-146",
+      "num": 146,
+      "ar": "سَیِّدُنَا هَادٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Hādi ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Haadin SAW",
+        "en": "Our Master, Guide (Hādī), may Allah exalt and preserve him.",
+        "fa": "سردار ما راه نما خداوند او را درود فرست",
+        "fr": "Saïdina Guide Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-147",
+      "num": 147,
+      "ar": "سَیِّدُنَا مُهْدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muhdi ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muhdi SAW",
+        "en": "Our Master, Giver of Guidance (Muhdī), may Allah exalt and preserve him.",
+        "fa": "سردار ما راه نماینده خداوند او را درود فرست",
+        "fr": "Saïdina Prédicateur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-148",
+      "num": 148,
+      "ar": "سَیِّدُنَا مُقَدَّمٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muqaddam ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muqaddam SAW",
+        "en": "Our Master, Foremost, The Overseer (Muqaddam), may Allah exalt and preserve him.",
+        "fa": "سردار ما پیش خداوند او را درود فرست",
+        "fr": "Saïdina Superviseur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-149",
+      "num": 149,
+      "ar": "سَیِّدُنَا عَزِيزٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAzīz ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Aziis SAW",
+        "en": "Our Master, Mighty, Glorious ('Azīz), may Allah exalt and preserve him.",
+        "fa": "سردار ما غالب خداوند او را درود فرست",
+        "fr": "Saïdina Puissant Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-150",
+      "num": 150,
+      "ar": "سَیِّدُنَا فَاضِلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Fāḍil ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Faadhil SAW",
+        "en": "Our Master, Superior (Fāḍil), may Allah exalt and preserve him.",
+        "fa": "سردار ما بزرگ خداوند او را درود فرست",
+        "fr": "Saïdina Exceptionnel Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-151",
+      "num": 151,
+      "ar": "سَیِّدُنَا مُفَضَّلٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Mufaḍḍal ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mufadhdhal SAW",
+        "en": "Our Master, Favoured (Mufaḍḍal), may Allah exalt and preserve him.",
+        "fa": "سردار ما بزرگی داده شده خداوند او را درود فرست",
+        "fr": "Saïdina Préféré Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-152",
+      "num": 152,
+      "ar": "سَیِّدُنَا فَاتِحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Fātiḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Faatih SAW",
+        "en": "Our Master, Opener, Conqueror (Fātiḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما کشایندۂ درهای رحمت خداوند او را درود فرست",
+        "fr": "Saïdina Qui ouvre les voies du bien Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-153",
+      "num": 153,
+      "ar": "سَیِّدُنَا مِفْتَاحٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Miftāḥ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Miftaah SAW",
+        "en": "Our Master, Key (Miftāḥ), may Allah exalt and preserve him.",
+        "fa": "سردار ما کلید خداوند او را درود فرست",
+        "fr": "Saïdina Clé Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-154",
+      "num": 154,
+      "ar": "سَیِّدُنَا مِفْتَاحُ الرَّحْمَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Miftāḥur Raḥmah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Miftaahurrakmah SAW",
+        "en": "Our Master, Key of Mercy (Miftāḥ al-Raḥma), may Allah exalt and preserve him.",
+        "fa": "سردار ما کلید در بخشایش خداوند او را درود فرست",
+        "fr": "Saïdina Clé de la miséricorde Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-155",
+      "num": 155,
+      "ar": "سَیِّدُنَا مِفْتَاحُ الجَنَّةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Miftāḥul Jannah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Miftaahuljannah SAW",
+        "en": "Our Master, Key to Paradise (Miftāḥ al-Janna), may Allah exalt and preserve him.",
+        "fa": "سردار ما کلید در بهشت خداوند او را درود فرست",
+        "fr": "Saïdina Clé du Paradis Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-156",
+      "num": 156,
+      "ar": "سَیِّدُنَا عَلَمُ الإِيمَانِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAlamul Imān ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Alamul Imaan SAW",
+        "en": "Our Master, Sign of Faith ('Alam al-Īmān), may Allah exalt and preserve him.",
+        "fa": "سردار ما نشان ایمان خداوند او را درود فرست",
+        "fr": "Saïdina Signe de la foi Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-157",
+      "num": 157,
+      "ar": "سَیِّدُنَا عَلَمُ اليَقِينِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAlamul Yaqīn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Alamulyaqiin SAW",
+        "en": "Our Master, Sign of Certainty ('Alam al-Yaqīn), may Allah exalt and preserve him.",
+        "fa": "سردار ما علامت یقین خداوند او را درود فرست",
+        "fr": "Saïdina Signe de la certitude Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-158",
+      "num": 158,
+      "ar": "سَیِّدُنَا دَلِيلُ الخَيْرَاتِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Dalīlul Khayrāt ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Daliilul Khairaat SAW",
+        "en": "Our Master, Guide to Acts of Goodness (Dalīl al-Khayrāt), may Allah exalt and preserve him.",
+        "fa": "سردار ما رهنما بسوی نیکوی ها خداوند او را درود فرست",
+        "fr": "Saïdina Guide vers les bonnes choses Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-159",
+      "num": 159,
+      "ar": "سَیِّدُنَا مُصَحِّحُ الحَسَنَاتِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Musaḥḥiḥul ḥasanāt ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Mushahhihul Hasanat SAW",
+        "en": "Our Master, Validator of Good Deeds (Muṣaḥḥiḥ al-Ḥasanāt), may Allah exalt and preserve him.",
+        "fa": "سردار ما صحیح کننده نیکوی ها خداوند او را درود فرست",
+        "fr": "Saïdina Qui valide les bonnes actions Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-160",
+      "num": 160,
+      "ar": "سَیِّدُنَا مُقِيلُ العَثَرَاتِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muqīlul ʿAtharāt ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muqiilul' Asraaf SAW",
+        "en": "Our Master, Rectifier of Lapses (Muqīl al-'Atharāt), may Allah exalt and preserve hi.",
+        "fa": "سردار ما درگذر کننده از لغزشها خداوند او را درود فرست",
+        "fr": "Saïdina Indulgent Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-161",
+      "num": 161,
+      "ar": "سَیِّدُنَا صَفُوحٌ عَنِ الزَّلَّاتِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣafūḥun ʿAniz Zallāt ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shafuukhun' Anizzallaat SAW",
+        "en": "Our Master, Pardoner of Errors (Ṣafūḥ 'an al-Zallāt), may Allah exalt and preserve him.",
+        "fa": "سردار ما درگذرنده از گناهان خداوند او را درود فرست",
+        "fr": "Saïdina Pardonnant des fautes Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-162",
+      "num": 162,
+      "ar": "سَیِّدُنَا صَاحِبُ الشَّفَاعَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibush Shafāʿah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibusy Syafaa'at SAW",
+        "en": "Our Master, Possessor of Intercession (Ṣāḥib al-Shafā'a), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب شفاعت خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de l'intercession Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-163",
+      "num": 163,
+      "ar": "سَیِّدُنَا صَاحِبُ المَقَامِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Maqām ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Maqaam SAW",
+        "en": "Our Master, Possessor of the [Honoured] Station (Ṣāḥib al-Maqām), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب مقام محمود خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur du degré d'honneur Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-164",
+      "num": 164,
+      "ar": "سَیِّدُنَا صَاحِبُ القَدَمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Qadam ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Qadami SAW",
+        "en": "Our Master, Possessor of Precedence (Ṣāḥib al-Qadam), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب قدم خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de l'ultime dignité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-165",
+      "num": 165,
+      "ar": "سَیِّدُنَا مَخْصُوصٌ بِالْعِزِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Makhṣūṣun BilʿIz ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Makhshush Bil'izzi SAW",
+        "en": "Our Master, Distinguished with Might (Makhṣūṣ bi-al-'Izz), may Allah exalt and preserve him.",
+        "fa": "سردار ما خاص کرده شده به بزرگی خداوند او را درود فرست",
+        "fr": "Saïdina Particularisé par l'honneur et la puissance Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-166",
+      "num": 166,
+      "ar": "سَیِّدُنَا مَخْصُوصٌ بِالْمَجْدِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Makhṣūṣun Bil Majd ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Makhshush Bilmajdi SAW",
+        "en": "Our Master, Distinguished with Glory (Makhṣūṣ bi-al-Majd), may Allah exalt and preserve him.",
+        "fa": "سردار ما خاص کرده شده به بزرگی تام خداوند او را درود فرست",
+        "fr": "Saïdina Particularisé par la gloire Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-167",
+      "num": 167,
+      "ar": "سَیِّدُنَا مَخْصُوصٌ بِالشَّرَفِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Makhṣūṣun Bish Sharaf ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Makhshush Bisysyarafi SAW",
+        "en": "Our Master, Distinguished with Nobility (Makhṣūṣ bi-al-Sharaf), may Allah exalt and preserve him.",
+        "fa": "سردار ما خاص کرده شده بعزت خداوند او را درود فرست",
+        "fr": "Saïdina Particularisé par la noblesse Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-168",
+      "num": 168,
+      "ar": "سَیِّدُنَا صَاحِبُ الوَسِيلَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Wasīlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahiibul Wasiilah SAW",
+        "en": "Our Master, Possessor of Wasīla (Ṣāḥib al-Wasīla), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب وسیله خداوند او را درود فرست",
+        "fr": "Saïdina À qui est accordée la plus grande proximité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-169",
+      "num": 169,
+      "ar": "سَیِّدُنَا صَاحِبُ السَّيْفِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibus Sayf ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahhibussaif SAW",
+        "en": "Our Master, Owner of the Sword (Ṣāḥib al-Sayf), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب شمشیر خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur du glaive Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-170",
+      "num": 170,
+      "ar": "سَیِّدُنَا صَاحِبُ الفَضِيلَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Faḍīlah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahiibul Fadhiilah SAW",
+        "en": "Our Master, Possessor of Excellence (Ṣāḥib al-Faḍīla), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب بزرگی خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de l'éminence Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-171",
+      "num": 171,
+      "ar": "سَیِّدُنَا صَاحِبُ الإِزَارِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul ʾIzār ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Izaar SAW",
+        "en": "Our Master, Wearer of the Sarong (Ṣāḥib al-Izār), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب ازار خداوند او را درود فرست",
+        "fr": "Saïdina Porteur du vêtement Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-172",
+      "num": 172,
+      "ar": "سَیِّدُنَا صَاحِبُ الحُجَّةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul ḥujjah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Hujjah SAW",
+        "en": "Our Master, Possessor of Proof (Ṣāḥib al-Ḥujja), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب دلیل استوار خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de la preuve Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-173",
+      "num": 173,
+      "ar": "سَیِّدُنَا صَاحِبُ السُّلْطَانِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibus Sulṭān ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibussulthaan SAW",
+        "en": "Our Master, Possessor of Authority (Ṣāḥib al-Sulṭān), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب غلبه و قدرت خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de l'autorité Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-174",
+      "num": 174,
+      "ar": "سَیِّدُنَا صَاحِبُ الرِّدَاءِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibur Ridāʾ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahiburrada' SAW",
+        "en": "Our Master, Owner of the Mantle (Ṣāḥib al-Ridā'), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب چادر خداوند او را درود فرست",
+        "fr": "Saïdina Porteur de la cape Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-175",
+      "num": 175,
+      "ar": "سَیِّدُنَا صَاحِبُ الدَّرَجَةِ الرَّفِيعَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibud Darajatir Rafīʿah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibuddaraja Arrafii'ah SAW",
+        "en": "Our Master, Possessor of Lofty Rank (Ṣāḥib al-Darajat al-Rafī'a), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب پایۂ بلند خداوند او را درود فرست",
+        "fr": "Saïdina Titulaire du rang éminent Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-176",
+      "num": 176,
+      "ar": "سَیِّدُنَا صَاحِبُ التَّاجِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibut Tāj ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibuttaat SAW",
+        "en": "Our Master, Owner of the Crown (Ṣāḥib al-Tāj), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب تاج خداوند او را درود فرست",
+        "fr": "Saïdina Porteur de la couronne Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-177",
+      "num": 177,
+      "ar": "سَیِّدُنَا صَاحِبُ المِغْفَرِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Mighfar ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Mighfar SAW",
+        "en": "Our Master, Owner of the Helmet (Ṣāḥib al-Mighfar), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب مغفر خداوند او را درود فرست",
+        "fr": "Saïdina Porteur du heaume Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-178",
+      "num": 178,
+      "ar": "سَیِّدُنَا صَاحِبُ اللِّوَاءِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Liwāʾ ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Liwaa' SAW",
+        "en": "Our Master, Owner of the Banner (Ṣāḥib al-Liwā'), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب نیزه خداوند او را درود فرست",
+        "fr": "Saïdina Porteur de l'Étendard Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-179",
+      "num": 179,
+      "ar": "سَیِّدُنَا صَاحِبُ المِعْرَاجِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Miʿrāj ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Mi'raj SAW",
+        "en": "Our Master, Master of the Ascension (Ṣāḥib al-Mi'rāj), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب معراج خداوند او را درود فرست",
+        "fr": "Saïdina Qui a bénéficié de l'ascension nocturne Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-180",
+      "num": 180,
+      "ar": "سَیِّدُنَا صَاحِبُ القَضِيبِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Qadīb ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Qadhiib SAW",
+        "en": "Our Master, Owner of the Staff (Ṣāḥib al-Qaḍīb), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب عصا خداوند او را درود فرست",
+        "fr": "Saïdina À la tête des troupes Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-181",
+      "num": 181,
+      "ar": "سَیِّدُنَا صَاحِبُ البُرَاقِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Burāq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Buraaq SAW",
+        "en": "Our Master, Master of Burāq (Ṣāḥib al-Burāq), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب بُراق خداوند او را درود فرست",
+        "fr": "Saïdina Qui a monté le Bouraq Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-182",
+      "num": 182,
+      "ar": "سَیِّدُنَا صَاحِبُ الخَاتَمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Khātam ṣallAllahu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Khatam SAW",
+        "en": "Our Master, Possessor of the Seal [of Prophethood] (Ṣāḥib al-Khātam), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب مُهر خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur du sceau Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-183",
+      "num": 183,
+      "ar": "سَیِّدُنَا صَاحِبُ العَلَامَةِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥībul ʿAlāmah ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul 'Alamat SAW",
+        "en": "Our Master, Possessor of the Mark (Ṣāḥib al-'Alāma), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب علامت خداوند او را درود فرست",
+        "fr": "Saïdina Porteur du Signe distinctif Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-184",
+      "num": 184,
+      "ar": "سَیِّدُنَا صَاحِبُ البُرْهَانِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥibul Burhān ṣallAllahu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Burhaan SAW",
+        "en": "Our Master, Possessor of Proof (Ṣāḥib al-Burhān), may Allah exalt and preserve him.",
+        "fa": "سردار ما  صاحب دلیل استوار خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de l'argumentation Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-185",
+      "num": 185,
+      "ar": "سَیِّدُنَا صَاحِبُ البَيَانِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāḥībul Bayān ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Bayaan SAW",
+        "en": "Our Master, Elucidator (Ṣāḥib al-Bayān), may Allah exalt and preserve him.",
+        "fa": "سردار ما صاحب بیان خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de la rhétorique Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-186",
+      "num": 186,
+      "ar": "سَیِّدُنَا فَصِيحُ اللِّسَانِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Faṣīḥul Lisān ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Fashilihullisaan SAW",
+        "en": "Our Master, Eloquent of Tongue (Faṣīḥ al-Lisān), may Allah exalt and preserve him.",
+        "fa": "سردار ما خوش زبان خداوند او را درود فرست",
+        "fr": "Saïdina Éloquent Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-187",
+      "num": 187,
+      "ar": "سَیِّدُنَا مُطَهَّرُ الجَنَانِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Muṭāhharul Janān ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Muthahharuljamaan SAW",
+        "en": "Our Master, Purified of Soul (Muṭahhar al-Janān), may Allah exalt and preserve him.",
+        "fa": "سردار ما پاک کرده شده دل او خداوند او را درود فرست",
+        "fr": "Saïdina Au coeur purifié Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-188",
+      "num": 188,
+      "ar": "سَیِّدُنَا رَؤُوفٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Raʾūf ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rauufun SAW",
+        "en": "Our Master, Kindly (Ra'ūf), may Allah exalt and preserve him.",
+        "fa": "سردار ما مهربان براهل ایمان خداوند او را درود فرست",
+        "fr": "Saïdina Clément Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-189",
+      "num": 189,
+      "ar": "سَیِّدُنَا رَحِيمٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rahīm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rahimun SAW",
+        "en": "Our Master, Merciful (Raḥīm), may Allah exalt and preserve him.",
+        "fa": "سردار ما بخشاینده خداوند او را درود فرست",
+        "fr": "Saïdina Miséricordieux Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-190",
+      "num": 190,
+      "ar": "سَیِّدُنَا أُذُنُ خَيْرٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Udhunu Khayr ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Udzunun SAW",
+        "en": "Our Master, Hearer of Good (Udhun Khayr), may Allah exalt and preserve him.",
+        "fa": "سردار ما شنونده نیکوئی خداوند او را درود فرست",
+        "fr": "Saïdina Bonne oreille Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-191",
+      "num": 191,
+      "ar": "سَیِّدُنَا صَحِيحُ الإِسْلَامِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣaḥīḥul Islām ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahiil Islam SAW",
+        "en": "Our Master, Sound in Islam (Ṣaḥīḥ al-Islām), may Allah exalt and preserve him.",
+        "fa": "سردار ما دارای درست اسلام خداوند او را درود فرست",
+        "fr": "Saïdina À l'Islam juste Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-192",
+      "num": 192,
+      "ar": "سَیِّدُنَا سَيِّدُ الكَوْنَيْنِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sayyidul Kawnayn ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sayyidul Kaunain SAW",
+        "en": "Our Master, Chief of Both Realms of Being (Sayyid al-Kawnayn), may Allah exalt and preserve him.",
+        "fa": "سردار ما سردار هردو جهان خداوند او را درود فرست",
+        "fr": "Saïdina Maître des deux univers Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-193",
+      "num": 193,
+      "ar": "سَیِّدُنَا عَيْنُ النَّعِيمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAynun Naʿīm ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ainunna'lim SAW",
+        "en": "Our Master, Source of Bliss ('Ayn al-Na'īm), may Allah exalt and preserve him.",
+        "fa": "سردار ما ذات نعمت خداوند او را درود فرست",
+        "fr": "Saïdina Essence de la béatitude Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-194",
+      "num": 194,
+      "ar": "سَیِّدُنَا عَيْنُ الغُرِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAynul Ghur ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Ainul Ghurri SAW",
+        "en": "Our Master, Chief of the Luminous ('Ayn al-Ghurr), may Allah exalt and preserve him.",
+        "fa": "سردار ما رئیس قوم شریف خداوند او را درود فرست",
+        "fr": "Saïdina Essence de la beauté Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-195",
+      "num": 195,
+      "ar": "سَیِّدُنَا سَعْدُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā SāʿduLlāh ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sa'dullaah SAW",
+        "en": "Our Master, Felicity from Allah (Sa'd Allāh), may Allah exalt and preserve him.",
+        "fa": "سردار ما برکت خدا خداوند او را درود فرست",
+        "fr": "Saïdina Bonne chance accordée par Allah Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-196",
+      "num": 196,
+      "ar": "سَیِّدُنَا سَعْدُ الخَلْقِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Sāʿdul Khalq ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Sa'dulkhalqi SAW",
+        "en": "Our Master, Felicity of Creation (Sa'd al-Khalq), may Allah exalt and preserve him.",
+        "fa": "سردار ما نیکبختی آفریدگان خداوند او را درود فرست",
+        "fr": "Saïdina Félicité des créatures Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-197",
+      "num": 197,
+      "ar": "سَیِّدُنَا خَطِيبُ الأُمَمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Khaṭībul Umam ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Khathiibul Umaam SAW",
+        "en": "Our Master, Addresser of All Nations (Khaṭīb al-Umam), may Allah exalt and preserve him.",
+        "fa": "سردار ما خطبه خوانندۂ اُمتان خداوند او را درود فرست",
+        "fr": "Saïdina Prêcheur des communautés Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-198",
+      "num": 198,
+      "ar": "سَیِّدُنَا عَلَمُ الهُدَى صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿAlamul Hudā ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Alamul Huda SAW",
+        "en": "Our Master, Banner of Guidance ('Alam al-Hudā), may Allah exalt and preserve him.",
+        "fa": "سردار ما علامت رهنمائی خداوند او را درود فرست",
+        "fr": "Saïdina Signe de bonne guidée Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-199",
+      "num": 199,
+      "ar": "سَیِّدُنَا كَاشِفُ الكُرَبِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Kāshiful Kurab ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Kaasyiful Kurab SAW",
+        "en": "Our Master, Remover of Fears (Kāshif al-Kurab), may Allah exalt and preserve him.",
+        "fa": "سردار ما دور کنندۂ غمهای سخت خداوند او را درود فرست",
+        "fr": "Saïdina Qui dissipe les inquiétudes Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-200",
+      "num": 200,
+      "ar": "سَیِّدُنَا رَافِعُ الرُّتَبِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Rāfīʿur Rutab ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Rafi'urrutab SAW",
+        "en": "Our Master, Raiser of Ranks (Rāfi' al-Rutab), may Allah exalt and preserve him.",
+        "fa": "سردار ما بلند کننۂ قدر و منزلت خداوند او را درود فرست",
+        "fr": "Saïdina Qui élève les rangs Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-201",
+      "num": 201,
+      "ar": "سَیِّدُنَا عِزُّ العَرَبِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā ʿIzul ʿArab ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Izzul'arab SAW",
+        "en": "Our Master, Glory of the Arabs ('Izz al-'Arab), may Allah exalt and preserve him.",
+        "fa": "سردار ما سبب بزرگی عرب خداوند او را درود فرست",
+        "fr": "Saïdina Gloire et honneur des arabes Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-202",
+      "num": 202,
+      "ar": "سَیِّدُنَا صَاحِبُ الفَرَجِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمْ",
+      "translit": "Sayyidunā Ṣāhibul Faraj ṣallAllāhu ʿalayhi wasallam.",
+      "tr": {
+        "id": "Shahibul Faraj SAW",
+        "en": "Our Master, Bringer of Relief (Ṣāḥib al-Faraj), may Allah exalt and preserve him.",
+        "fa": "سردار ما خداوند کشایش خداوند او را درود فرست",
+        "fr": "Saïdina Détenteur de la délivrance Prière et Salut d’Allah sur lui"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    },
+    {
+      "id": "asma-nabi-203",
+      "num": 203,
+      "ar": "اللَّهُمَّ \n\nيَا رَبِّ بِجَاهِ نَبِيِّكَ المُصْطَفَى وَرَسُولِكَ المُرْتَضَى طَهِّرْ قُلُوبَنَا مِنْ كُلِّ وَصْفٍ يُبَاعِدُنَا عَنْ مُشَاهَدَتِكَ وَمَحَبَّتِكَ، وَأَمِتْنَا عَلَى السُّنَّةِ وَالجَمَاعَةِ وَالشَّوْقِ إِلَى لِقَائِكَ، يَا ذَا الجَلَالِ وَالإِكْرَامِ. وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا. والحَمْدُ لِلَّهِ رَبِّ العَالَمِينَ.",
+      "translit": "Allāhumma yā rabbi bijāhi nabiyyikal muṣṭafā wa rasulikal murtaḍā ṭahhir qulūbanā min kulli waṣfin yubāʿidunā ʿan mushāhadatika wa maḥabbatika wa amitnā ʿalās sunnati wal jamāʿati wash shawqi ʾilā liqāʾika yā dhāl jalāli walʾikrāmi wa ṣallAllāhu ʿalā sayyidinā Muhammadin wa ʿalā ʾālihi wa ṣaḥbihi wa sallama taslīman wal ḥamdu liLlāhi rabbil ʿālamīna.",
+      "tr": {
+        "id": "Ya Allah, ya Tuhan kami, dengan kemuliaan Nabi yang Engkau pilih dan Rasul Engkau yang Engkau Ridhoi, sucikanlah hati kami dari tiap-tiap sifay yang menjauhkan kami dari musyahadah dan mahabbah kepada-Mu. Wafatkanlah kami di atas sunnah beliau SAW dan sahabatnya. Rindu untuk bertemu Engkau wahai Dzat yang memiliki keagungan dan kedermawanan. Mudah-mudahan Rahmat dan kesejateraan tetap terlimpah atas penghulu/bendara/junjungan kita Nabi Muhammad SAW beserta keluarga dan sahabatnya. Segala puji bagi Allah penguasa seluruh alam.",
+        "en": "O Allah, by the honour of Your Chosen Prophet and Your Approved Emissary, purify our hearts of any trait that would distance us from beholding You and being loved by You. Grant that we die adhering to the Sunna and the [Muslim] Community, longing to meet You, O Lord of Majesty and Magnanimity. May Allah's exaltation and abundant salutations be upon our Master Muḥammad and his Family and Companions. And all praise be to Allah, the Lord of the Worlds.",
+        "fa": "بار الها، پروردگارا، به عزت پیامبر برگزیده و رسول مورد تاییدت، دلهای ما را از هر وصفی که ما را از تفکر و محبتت دور می کند، پاکیزه گردان. و ما را به پیروی از سنت او و در امت او به آرزوی ویدار تو بمیران، ای مولای عزت و جلال. خداوندا بر سیدنا محمد و خاندان و اصحابش درود فرست و آنان را آرامش ببخشا. حمد و ستایش مخصوص خداونوی است که پروردگار جهانیان است.",
+        "fr": "Ô Allah, par la dignité de ton prophète élu et ton Messager agrée, je te prie de purifier nos cœurs de tout ce qui est susceptible de nous éloigner de ta vue et ton adoration, et de nous faire mourir accrochés à la Sounna de ton Prophète - prière d'Allah sur lui -, à son groupe et au désir ardent de ta rencontre, Ô Détenteur de la Majesté et de la Munificence. Prière d'Allah et son grand Salut sur Saïdina et Maoulana Mohammad, sur sa famille et ses compagnons. Grâce à Allah Seigneur des univers."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/asma-nabi.mp3"
+    }
+  ]
+}

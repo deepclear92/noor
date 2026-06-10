@@ -1,0 +1,70 @@
+{
+  "slug": "munfarija",
+  "order": 33,
+  "category": "qasaid",
+  "ar": "قصيدة المنفرجة",
+  "fr": "Qasida al-Munfarija",
+  "hint": "Sidi Ibn an-Nahwi al-Tūzarī (m. 513 H / 1119)",
+  "author": {
+    "ar": "الإمام أبو الفضل يوسف بن محمد بن النحوي التوزري",
+    "fr": "Imam Abū l-Faḍl Yūsuf b. Muḥammad Ibn an-Nahwi al-Tūzarī (m. 513 H / 1119)"
+  },
+  "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor)",
+  "description": {
+    "fr": "Poème célèbre d'invocation et d'espérance composé en Tunisie par Sidi Ibn an-Nahwi. Connu pour ses vertus dans les épreuves : « la délivrance après l'angoisse ». Récité dans toutes les confréries soufies, sa structure se termine sur la reprise du premier hémistiche."
+  },
+  "videos": [
+    {
+      "label": "Talal Maddah — récitation traditionnelle (texte affiché)",
+      "kind": "recitation",
+      "youtube": "nEUilzeyIFU"
+    },
+    {
+      "label": "Munshidūn de Rabat et Salé — chant",
+      "kind": "chant",
+      "youtube": "Cafvkft4l18"
+    },
+    {
+      "label": "Sharḥ — commentaire en arabe (Dr. Yusrī Jabr)",
+      "kind": "explanation",
+      "youtube": "o82KlSd543I"
+    }
+  ],
+  "lines": [
+    { "id": "munfarija-001", "num": 1, "ar": "اشْتَدِّي أَزْمَةُ تَنْفَرِجِي ٭ قَدْ آذَنَ لَيْلُكِ بِالْبَلَجِ", "translit": "Ishtaddī azmatu tanfarijī ٭ Qad ādhana laylukī bi-l-balaji", "tr": { "fr": "Redouble, ô angoisse, et tu te dénoueras : déjà ta nuit annonce l'aube qui point." }, "kind": "poetry" },
+    { "id": "munfarija-002", "num": 2, "ar": "وَظَلَامُ اللَّيْلِ لَهُ سُرُجٌ ٭ حَتَّى يَغْشَاهُ أَبُو السُّرُجِ", "translit": "Wa-ẓalāmu l-layli lahu surujun ٭ Ḥattā yaghshāhu Abū s-suruji", "tr": { "fr": "Les ténèbres de la nuit ont leurs lampes, jusqu'à ce que les couvre le Père des lampes — le soleil." }, "kind": "poetry" },
+    { "id": "munfarija-003", "num": 3, "ar": "وَسَحَابُ الْخَيْرِ لَهُ مَطَرٌ ٭ فَإِذَا جَاءَ الْإِبَّانُ تَجِي", "translit": "Wa-saḥābu l-khayri lahu maṭarun ٭ Fa-idhā jāʾa l-ibbānu tajī", "tr": { "fr": "Les nuées du bien recèlent leur pluie, et quand vient le temps, elle se déverse." }, "kind": "poetry" },
+    { "id": "munfarija-004", "num": 4, "ar": "وَفَوَائِدُ مَوْلَانَا جُمَلٌ ٭ لِسُرُوحِ الْأَنْفُسِ وَالْمُهَجِ", "translit": "Wa-fawāʾidu Mawlānā jumalun ٭ Li-surūḥi l-anfusi wa-l-muhaji", "tr": { "fr": "Les bienfaits de notre Maître sont innombrables, pour la liberté des âmes et des cœurs." }, "kind": "poetry" },
+    { "id": "munfarija-005", "num": 5, "ar": "وَلَهَا أَرَجٌ مُحْيٍ أَبَدًا ٭ فَاقْصِدْ مُحْيَا ذَاكَ الْأَرَجِ", "translit": "Wa-lahā arajun muḥyin abadan ٭ Fa-qṣid muḥyā dhāka l-araji", "tr": { "fr": "Ils diffusent un parfum qui vivifie sans cesse : vise donc le lieu d'où s'exhale ce parfum." }, "kind": "poetry" },
+    { "id": "munfarija-006", "num": 6, "ar": "فَلَرُبَّتَمَا فَاضَ الْمُحْيَا ٭ بِبُحُورِ الْمَوْجِ مِنَ اللُّجَجِ", "translit": "Fa-la-rubbatamā fāḍa l-muḥyā ٭ Bi-buḥūri l-mawji mina l-lujaji", "tr": { "fr": "Que de fois la source de vie a débordé en océans tumultueux jaillis des abîmes !" }, "kind": "poetry" },
+    { "id": "munfarija-007", "num": 7, "ar": "وَالْخَلْقُ جَمِيعًا فِي يَدِهِ ٭ فَذَوُو سَعَةٍ وَذَوُو حَرَجِ", "translit": "Wa-l-khalqu jamīʿan fī yadihi ٭ Fa-dhawū saʿatin wa-dhawū ḥaraji", "tr": { "fr": "Toutes les créatures sont dans Sa main : certaines dans l'aisance, d'autres dans la détresse." }, "kind": "poetry" },
+    { "id": "munfarija-008", "num": 8, "ar": "وَنُزُولُهُمُ وَطُلُوعُهُمُ ٭ فَإِلَى دَرَكٍ وَعَلَى دَرَجِ", "translit": "Wa-nuzūluhumu wa-ṭulūʿuhumu ٭ Fa-ilā darakin wa-ʿalā daraji", "tr": { "fr": "Et leur descente, et leur élévation, mènent les uns à l'abîme et les autres au degré." }, "kind": "poetry" },
+    { "id": "munfarija-009", "num": 9, "ar": "وَمَعَايِشُهُمْ وَعَوَاقِبُهُمْ ٭ لَيْسَتْ فِي الْمَشْيِ عَلَى عِوَجِ", "translit": "Wa-maʿāyishuhum wa-ʿawāqibuhum ٭ Laysat fī l-mashyi ʿalā ʿiwaji", "tr": { "fr": "Leurs subsistances et leurs aboutissements ne tiennent pas à une marche tortueuse." }, "kind": "poetry" },
+    { "id": "munfarija-010", "num": 10, "ar": "حِكَمٌ نُسِجَتْ بِيَدٍ حَكَمَتْ ٭ ثُمَّ انْتَسَجَتْ بِالْمُنْتَسِجِ", "translit": "Ḥikamun nusijat bi-yadin ḥakamat ٭ Thumma ntasajat bi-l-muntasiji", "tr": { "fr": "Sagesses tissées par une main qui décide, puis tissées encore par celui qui en porte la trame." }, "kind": "poetry" },
+    { "id": "munfarija-011", "num": 11, "ar": "فَإِذَا اقْتَصَدَتْ ثُمَّ انْعَرَجَتْ ٭ فَبِمُقْتَصِدٍ وَبِمُنْعَرِجِ", "translit": "Fa-idhā qtaṣadat thumma nʿarajat ٭ Fa-bi-muqtaṣidin wa-bi-munʿariji", "tr": { "fr": "Quand elles vont droit puis bifurquent, c'est par celui qui rectifie et celui qui sinue." }, "kind": "poetry" },
+    { "id": "munfarija-012", "num": 12, "ar": "شَهِدَتْ بِعَجَائِبِهَا حُجَجٌ ٭ قَامَتْ بِالْأَمْرِ عَلَى الْحُجَجِ", "translit": "Shahidat bi-ʿajāʾibihā ḥujajun ٭ Qāmat bi-l-amri ʿalā l-ḥujaji", "tr": { "fr": "Des preuves attestent de leurs merveilles, et l'ordre divin se manifeste par ces preuves mêmes." }, "kind": "poetry" },
+    { "id": "munfarija-013", "num": 13, "ar": "وَرِضًا بِقَضَاءِ اللَّهِ حِجًا ٭ فَعَلَى مَرْكُوزَتِهَا فَعُجِ", "translit": "Wa-riḍan bi-qaḍāʾi llāhi ḥijan ٭ Fa-ʿalā markūzatihā fa-ʿuji", "tr": { "fr": "L'agrément du décret divin est sagesse : retourne donc sans cesse à son fondement." }, "kind": "poetry" },
+    { "id": "munfarija-014", "num": 14, "ar": "فَإِذَا انْفَتَحَتْ أَبْوَابُ هُدًى ٭ فَاعْجَلْ بِخَزَائِنِهَا وَلِجِ", "translit": "Fa-idhā nfataḥat abwābu hudan ٭ Fa-ʿjal bi-khazāʾinihā wa-liji", "tr": { "fr": "Lorsque les portes de la guidance s'ouvrent, hâte-toi vers leurs trésors et entre." }, "kind": "poetry" },
+    { "id": "munfarija-015", "num": 15, "ar": "وَإِذَا حَاوَلْتَ نِهَايَتَهَا ٭ فَاحْذَرْ إِذْ ذَاكَ مِنَ الْعَرَجِ", "translit": "Wa-idhā ḥāwalta nihāyatahā ٭ Fa-ḥdhar idh dhāka mina l-ʿaraji", "tr": { "fr": "Et lorsque tu en cherches le terme, garde-toi alors de claudiquer." }, "kind": "poetry" },
+    { "id": "munfarija-016", "num": 16, "ar": "لِتَكُونَ مِنَ السُّبَّاقِ إِذَا ٭ مَا جِئْتَ إِلَى تِلْكَ الْفُرَجِ", "translit": "Li-takūna mina s-subbāqi idhā ٭ Mā jiʾta ilā tilka l-furaji", "tr": { "fr": "Afin d'être de ceux qui devancent, quand tu accéderas à ces voies d'ouverture." }, "kind": "poetry" },
+    { "id": "munfarija-017", "num": 17, "ar": "فَهُنَاكَ الْعَيْشُ وَبَهْجَتُهُ ٭ فَبِمُبْتَهِجٍ وَبِمُنْتَهِجِ", "translit": "Fa-hunāka l-ʿayshu wa-bahjatuhu ٭ Fa-bi-mubtahijin wa-bi-muntahiji", "tr": { "fr": "Là sont la vraie vie et son éclat, pour qui s'y réjouit et qui s'y engage." }, "kind": "poetry" },
+    { "id": "munfarija-018", "num": 18, "ar": "فَهِجِ الْأَعْمَالَ إِذَا رَكَدَتْ ٭ وَإِذَا مَا هِجْتَ إِذًا تَهِجِ", "translit": "Fa-hiji l-aʿmāla idhā rakadat ٭ Wa-idhā mā hijta idhan tahiji", "tr": { "fr": "Anime tes œuvres quand elles stagnent ; quand tu te seras animé, tu seras alors emporté." }, "kind": "poetry" },
+    { "id": "munfarija-019", "num": 19, "ar": "وَمَعَاصِي اللَّهِ سَمَاجَتُهَا ٭ تَزْدَانُ لِذِي الْخُلْقِ السَّمِجِ", "translit": "Wa-maʿāṣī llāhi samājatuhā ٭ Tazdānu li-dhī l-khulqi s-samiji", "tr": { "fr": "La laideur des désobéissances à Allah paraît belle à qui possède un caractère vil." }, "kind": "poetry" },
+    { "id": "munfarija-020", "num": 20, "ar": "وَلِطَاعَتِهِ وَصَبَاحَتِهَا ٭ أَنْوَارُ صَبَاحٍ مُنْبَلِجِ", "translit": "Wa-li-ṭāʿatihi wa-ṣabāḥatihā ٭ Anwāru ṣabāḥin munbaliji", "tr": { "fr": "Tandis que l'obéissance à Allah et sa lumineuse beauté ont les lueurs d'une aurore éclatante." }, "kind": "poetry" },
+    { "id": "munfarija-021", "num": 21, "ar": "مَنْ يَخْطُبْ حُورَ الْخُلْدِ بِهَا ٭ يَحْظَى بِالْحُورِ وَبِالْغُنُجِ", "translit": "Man yakhṭub ḥūra l-khuldi bihā ٭ Yaḥẓā bi-l-ḥūri wa-bi-l-ghunuji", "tr": { "fr": "Qui demande les houris du Paradis par cette obéissance obtient les houris et leur grâce." }, "kind": "poetry" },
+    { "id": "munfarija-022", "num": 22, "ar": "فَكُنِ الْمَرْضِيَّ لَهَا بِتُقًى ٭ تَرْضَاهُ غَدًا وَتَكُونَ نَجِي", "translit": "Fa-kuni l-marḍiyya lahā bi-tuqan ٭ Tarḍāhu ghadan wa-takūna najī", "tr": { "fr": "Sois donc agréé par elle, par la piété qu'elle agrée demain, et tu seras sauvé." }, "kind": "poetry" },
+    { "id": "munfarija-023", "num": 23, "ar": "صَلَوَاتُ اللَّهِ عَلَى الْمَهْدِيِّ ٭ الْهَادِي النَّاسَ إِلَى النَّهْجِ", "translit": "Ṣalawātu llāhi ʿalā l-mahdiyyi ٭ al-Hādī n-nāsa ilā n-nahji", "tr": { "fr": "Que les prières d'Allah soient sur le Bien-Guidé, celui qui mène les hommes à la droite voie." }, "kind": "poetry" },
+    { "id": "munfarija-024", "num": 24, "ar": "وَأَبِي بَكْرٍ فِي سِيرَتِهِ ٭ وَلِسَانِ مَقَالَتِهِ اللَّهِجِ", "translit": "Wa-Abī Bakrin fī sīratihi ٭ Wa-lisāni maqālatihi l-lahiji", "tr": { "fr": "Et sur Abū Bakr — pour sa biographie exemplaire et la parole ardente de ses propos." }, "kind": "poetry" },
+    { "id": "munfarija-025", "num": 25, "ar": "وَأَبِي حَفْصٍ وَكَرَامَتِهِ ٭ فِي قِصَّةِ سَارِيَةَ الْخَلَجِ", "translit": "Wa-Abī Ḥafṣin wa-karāmatihi ٭ Fī qiṣṣati Sāriyata l-khalaji", "tr": { "fr": "Et sur Abū Ḥafṣ ('Umar) — pour son charisme manifesté dans l'épisode de Sāriya, sur le mont." }, "kind": "poetry" },
+    { "id": "munfarija-026", "num": 26, "ar": "وَأَبِي عَمْرٍو ذِي النُّورَيْنِ ٭ الْمُسْتَهْدِي الْمُسْتَحْيِي الْبَهِجِ", "translit": "Wa-Abī ʿAmrin dhī n-nūrayni ٭ al-Mustahdī l-mustaḥyī l-bahiji", "tr": { "fr": "Et sur Abū ʿAmr ('Uthmān) le détenteur des deux lumières, le bien guidé, le pudique au visage radieux." }, "kind": "poetry" },
+    { "id": "munfarija-027", "num": 27, "ar": "وَأَبِي حَسَنٍ فِي الْعِلْمِ إِذَا ٭ وَافَى بِسَحَائِبِهِ الْخَلَجِ", "translit": "Wa-Abī Ḥasanin fī l-ʿilmi idhā ٭ Wāfā bi-saḥāʾibihi l-khalaji", "tr": { "fr": "Et sur Abū l-Ḥasan ('Alī) — pour la science, lorsqu'il apporte ses nuées chargées de pluies." }, "kind": "poetry" },
+    { "id": "munfarija-028", "num": 28, "ar": "وَعَلَى السِّبْطَيْنِ وَأُمِّهِمَا ٭ وَجَمِيعِ الْآلِ بِمُنْدَرِجِ", "translit": "Wa-ʿalā s-sibṭayni wa-ummihimā ٭ Wa-jamīʿi l-āli bi-mundariji", "tr": { "fr": "Et sur les deux petits-fils (al-Ḥasan et al-Ḥusayn) et leur mère, et sur tous les membres de la famille de manière progressive." }, "kind": "poetry" },
+    { "id": "munfarija-029", "num": 29, "ar": "وَصَحَابَتِهِمْ وَقَرَابَتِهِمْ ٭ وَقُفَاةِ الْأَثَرِ بِلَا عِوَجِ", "translit": "Wa-ṣaḥābatihim wa-qarābatihim ٭ Wa-qufāti l-athari bi-lā ʿiwaji", "tr": { "fr": "Et sur leurs compagnons et leurs proches, et sur ceux qui suivirent leur exemple sans dévier." }, "kind": "poetry" },
+    { "id": "munfarija-030", "num": 30, "ar": "وَعَلَى تُبَّاعِهِمُ الْعُلَمَا ٭ بِعَوَارِفِ دِينِهِمُ الْبَهِجِ", "translit": "Wa-ʿalā tubbāʿihimu l-ʿulamā ٭ Bi-ʿawārifi dīnihimu l-bahiji", "tr": { "fr": "Et sur les savants qui les suivirent, par les connaissances de leur religion lumineuse." }, "kind": "poetry" },
+    { "id": "munfarija-031", "num": 31, "ar": "يَا رَبِّ بِهِمْ وَبِآلِهِمُ ٭ عَجِّلْ بِالنَّصْرِ وَبِالْفَرَجِ", "translit": "Yā rabbi bihim wa-bi-ālihim ٭ ʿAjjil bi-n-naṣri wa-bi-l-faraji", "tr": { "fr": "Ô Seigneur, par eux et par leur famille, hâte la victoire et la délivrance." }, "kind": "poetry" },
+    { "id": "munfarija-032", "num": 32, "ar": "وَارْحَمْ يَا أَكْرَمَ مَنْ رَحِمَا ٭ عَبْدًا عَنْ بَابِكَ لَمْ يَعُجِ", "translit": "Wa-rḥam yā akrama man raḥimā ٭ ʿAbdan ʿan bābika lam yaʿuji", "tr": { "fr": "Et fais miséricorde, ô le plus généreux de ceux qui pardonnent, à un serviteur qui n'a pas détourné de Ta porte." }, "kind": "poetry" },
+    { "id": "munfarija-033", "num": 33, "ar": "وَاخْتِمْ عَمَلِي بِخَوَاتِمِهَا ٭ لِأَكُونَ غَدًا فِي الْحَشْرِ نَجِي", "translit": "Wa-khtim ʿamalī bi-khawātimihā ٭ Li-akūna ghadan fī l-ḥashri najī", "tr": { "fr": "Scelle mon œuvre par ses meilleurs sceaux, pour que je sois demain, au Rassemblement, sauvé." }, "kind": "poetry" },
+    { "id": "munfarija-034", "num": 34, "ar": "لَكِنِّي بِجُودِكَ مُعْتَرِفٌ ٭ فَاقْبَلْ بِمَعَاذِرِي حُجَجِي", "translit": "Lākinnī bi-jūdika muʿtarifun ٭ Fa-qbal bi-maʿādhirī ḥujajī", "tr": { "fr": "Mais je reconnais Ta générosité : accepte donc mes excuses pour mes prétextes." }, "kind": "poetry" },
+    { "id": "munfarija-035", "num": 35, "ar": "وَإِذَا بِكَ ضَاقَ الْأَمْرُ فَقُلْ ٭ اشْتَدِّي أَزْمَةُ تَنْفَرِجِي", "translit": "Wa-idhā bika ḍāqa l-amru fa-qul ٭ Ishtaddī azmatu tanfarijī", "tr": { "fr": "Et lorsque l'affaire se resserre sur toi, dis : « Redouble, ô angoisse, et tu te dénoueras ! »" }, "kind": "poetry" }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "bio-ibn-mashish",
+  "order": 21,
+  "category": "qasaid",
+  "ar": "ترجمة سيدي عبد السلام بن مشيش",
+  "fr": "Biographie d'Ibn Mashish",
+  "hint": "Auteur de la Mashishiyya",
+  "pages": [
+    261,
+    263
+  ],
+  "lines": [
+    {
+      "id": "bio-ibn-mashish-l0001",
+      "ar": "عبد السلام بن مَشيش الإدريسىّ الحسَينىّ",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0002",
+      "ar": "لعبادة والنسك وبلع مبلغ الفتيّان . خرج",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0003",
+      "ar": "كا هر الله داتماءء",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0004",
+      "ar": "وَلَمَا جَالَ أو أَلْحَسَن ألشَّاذْلٌ الْمَغْريُ",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0005",
+      "ar": "أرشده الشْبح الصا أنو لقث الوَاسطىٌ من",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0006",
+      "ar": "‎٠‏ يها أيه بهد",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0007",
+      "ar": "لْكَرَامَات وَآْلْإمْلآءَات أُلدَبَانيَة » منها ها",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0008",
+      "ar": "الصلاة النورانيهة التى ترَقرّقفت من ينو",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0009",
+      "ar": "الاحدية بالتضراع ما تلز آداب لعبود يه",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0010",
+      "ar": "وَالأَخْلآق ألسْئئّة أُلّتى تَفْتَضِهًا الْوَاسطَةٌ",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0011",
+      "ar": "لْمنْهَاجِيّة لإِرْقَادِيّة ألنَّبَويّة لإسْتطابّة مَقَا",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-ibn-mashish-l0012",
+      "ar": "وقد ختم الله تعالى حَيَاهْ هذا الشيخ",
+      "kind": "prose"
+    }
+  ]
+}

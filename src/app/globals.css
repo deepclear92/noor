@@ -1,26 +1,136 @@
 @import "tailwindcss";
 
+/* ──────────────────────────────────────────────────────────────────
+   Noor — Design system
+   Palette inspirée de la manuscriture arabe : encre nuit, or sable,
+   parchemin, vert émeraude (lien spirituel).
+   ────────────────────────────────────────────────────────────────── */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Light mode (parchemin) */
+  --background: #fbf7ef;
+  --foreground: #1a1410;
+  --surface: #ffffff;
+  --surface-2: #f5efe2;
+  --border: #e6dcc4;
+  --muted: #6b5d44;
+  --primary: #0f3d33;      /* émeraude profond */
+  --primary-fg: #fbf7ef;
+  --accent: #b8893b;       /* or sable */
+  --accent-fg: #1a1410;
+  --danger: #a23b2b;
+}
+
+.dark, [data-theme="dark"] {
+  --background: #0d0f12;
+  --foreground: #efe9d7;
+  --surface: #15181d;
+  --surface-2: #1c2027;
+  --border: #2a2f38;
+  --muted: #8a8270;
+  --primary: #4ea693;
+  --primary-fg: #0d0f12;
+  --accent: #d8a85a;
+  --accent-fg: #0d0f12;
+  --danger: #d96651;
+}
+
+[data-theme="sepia"] {
+  --background: #f3e7c8;
+  --foreground: #2a1d10;
+  --surface: #f8efd8;
+  --surface-2: #ead9b3;
+  --border: #d4be90;
+  --muted: #6e5a35;
+  --primary: #5c3a1e;
+  --primary-fg: #f3e7c8;
+  --accent: #b8893b;
+  --accent-fg: #2a1d10;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-primary-fg: var(--primary-fg);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-danger: var(--danger);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-cormorant), Georgia, serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+/* ──────────────────────────────────────────────────────────────────
+   Polices arabes — chargées via next/font/google (subset "arabic").
+   Les variables --font-* sont injectées par layout.tsx.
+   ────────────────────────────────────────────────────────────────── */
+.font-arabic-uthmanic { font-family: var(--font-amiri-quran), var(--font-amiri), "Scheherazade New", serif; }
+.font-arabic-naskh    { font-family: var(--font-noto-naskh), var(--font-amiri), serif; }
+.font-arabic-amiri    { font-family: var(--font-amiri), var(--font-amiri-quran), serif; }
+.font-arabic-indopak  { font-family: var(--font-scheherazade), var(--font-noto-naskh), serif; }
+.font-arabic-kufi     { font-family: var(--font-reem-kufi), var(--font-noto-naskh), serif; }
+.font-arabic-diwani   { font-family: var(--font-aref-ruqaa), var(--font-amiri), serif; }
+.font-arabic-thuluth  { font-family: var(--font-mirza), var(--font-aref-ruqaa), serif; }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Auto theme: respecte la préférence système */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --background: #0d0f12;
+    --foreground: #efe9d7;
+    --surface: #15181d;
+    --surface-2: #1c2027;
+    --border: #2a2f38;
+    --muted: #8a8270;
+    --primary: #4ea693;
+    --primary-fg: #0d0f12;
+    --accent: #d8a85a;
+    --accent-fg: #0d0f12;
+    --danger: #d96651;
+  }
+}
+
+/* Texte arabe : forcer RTL */
+.arabic-text {
+  direction: rtl;
+  text-align: right;
+  unicode-bidi: plaintext;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+}
+
+/* Scrollbar discrète */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+
+/* Animation lors de la révélation des lignes */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp 0.4s ease-out both; }
+
+/* Couverture / ornement arabesque utilisé dans les cartes */
+.ornament-corner {
+  background-image:
+    radial-gradient(circle at 0 0, var(--accent) 1px, transparent 1.5px),
+    radial-gradient(circle at 100% 100%, var(--accent) 1px, transparent 1.5px);
+  background-size: 6px 6px;
+  background-position: 0 0, 100% 100%;
+  background-repeat: no-repeat;
 }

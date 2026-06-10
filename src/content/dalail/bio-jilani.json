@@ -1,0 +1,74 @@
+{
+  "slug": "bio-jilani",
+  "order": 24,
+  "category": "qasaid",
+  "ar": "ترجمة سيدي عبد القادر الجيلاني",
+  "fr": "Biographie de Sidi Abdul-Qadir al-Jilani",
+  "hint": "Auteur du Hizb an-Nasr",
+  "pages": [
+    269,
+    270
+  ],
+  "lines": [
+    {
+      "id": "bio-jilani-l0001",
+      "ar": "لوكمك لسيتك",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0002",
+      "ar": "عَنْد أللّهِ أن الراهد بن مُحَمَّد",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0003",
+      "ar": "‎١‏ مونى بن عبد الله ان\" الحون",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0004",
+      "ar": "53 بل موسى بن عبد الله ابن موسى الجور",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0005",
+      "ar": "حلان ودخل تغداد سنةه هجريه بقصل",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0006",
+      "ar": "وبرح كيك . صحف برَاهل حفيقة",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0007",
+      "ar": "وخاصة الشيخ آنا حَماد الدئاس . ثم تصد",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0008",
+      "ar": "‎٠‏ سَريعَ ألذَّمْعَة . مُجَابَ أِلذَّعْوَة . كَرِيم",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0009",
+      "ar": "الاخلاق مناقيه اعظم من أن تحَحّى وَاجَل",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0010",
+      "ar": "من أن تستقصى . بلغت القطع وَالتَوَاتِرَ .",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0011",
+      "ar": ". ودفن بمدرسته ببتغداد . ومن اثاره هذا",
+      "kind": "prose"
+    },
+    {
+      "id": "bio-jilani-l0012",
+      "ar": "الحزث المبارك المَعّوف بحزب النصر.",
+      "kind": "prose"
+    }
+  ]
+}

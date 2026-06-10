@@ -1,0 +1,53 @@
+{
+  "slug": "duaa-bidayah",
+  "order": 7,
+  "category": "preambule",
+  "ar": "دعاء بدء دلائل الخيرات",
+  "fr": "Du'a d'ouverture",
+  "hint": "Avant le hizb",
+  "source": "https://www.dalailalkhayrat.com/duas.php?dua=intention",
+  "lines": [
+    {
+      "id": "duaa-bidayah-001",
+      "num": 1,
+      "ar": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ.\n\nاللَّهُمَّ إِنِّي نَوَيْتُ بِالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَليْهِ وَسَلَّمَ، امْتِثَالًا لِأَمْرِكَ، وَتَصْدِيقًا لِنَبِيِّكَ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَليْهِ وَسَلَّمَ، وَمَحَبَّةً فِيهِ، وَشَوْقًا إِلَيْهِ، وَتَعْظِيمًا لِقَدْرِهِ، وَلِكَوْنِهِ أَهْلًا لِذَلِكَ. فَتَقَبَّلْهَا مِنِّي بِفَضْلِكَ وَإِحْسَانِكَ. وَأَزِلْ حِجَابَ الغَفْلَةِ عَنْ قَلْبِي وَاجْعَلْنِي مِنْ عِبَادِكَ الصَّالِحِينَ.",
+      "translit": "Allāhumma innī nawaytu biṣṣalāti ʿalān nabiyyi ṣallAllāhu ʿalayhi wasallama, imtithālan li amrika wa taṣdīqan linabiyyika sayyidinā Muḥammadin ṣallAllāhu ʿalayhi wasallama, wa maḥabbatan fīhi, wa shawqan ilayhi, wa taʿẓīman liqadrihi wa likawnihi ahlan lidhalika, fataqabbalhā minnī bifaḍlika wa iḥsānika, wa ʾazil ḥijābal ghaflati ʿan qalbī wajʿalnī min ʿibādikaṣ ṣāliḥīn.",
+      "tr": {
+        "id": "Ya Allah aku berniat dengan bershalawatku atas Nabi SAW karena mengikuti perintah-Mu dan membenarkan pada Nabi-Mu yaitu Muhammad SAW, semata-mata karena aku cinta dan rindu beliau SAW dan mengagungkan derajat beliau. Oleh karena itu terimalah ya Allah dariku ini, dengan anugerah-Mu dan Kebaikan-Mu. Dan hilangkanlah Ya Allah, dinding kelupaan dari hatiku. Dan jadikanlah aku dari golongan hamba-Mu yang sholeh-sholeh.",
+        "en": "In the Name of Allah, the All-Merciful, the Most Merciful.\n O Allah, I intend to invoke exaltation upon the Prophet, may Allah exalt and preserve him, in obedience to Your command and with conviction in Your Prophet, our Master Muḥammad, may Allah exalt and preserve him. [I do so] with love for him and yearning for him, exalting his worth as he merits. So accept [it] from me by Your favour and benevolence. Remove from my heart the veil of neglectfulness, and make me one of Your righteous slaves.",
+        "fa": "خدایا بتحقیق من ؐقصد کرده ام با اطاعت از امر تو و با ایمان به پیامبرت، سیدنا محمد صلی‌الله‌علیه‌وآله‌وسلم بر پیامبر صلی‌الله‌علیه‌وآله‌وسلم درود بفرستم. [این کار را انجام می دهم] با محبت او و اشتیاق به او و درجات او  بلند می کن چون او را به شایسته این است پس به لطف و احسان خود آن را از من بپذیر و پرده غفلت را از دلم بگشا و دور بفرما و مرا از بندگان صالحت قرار ده.",
+        "fr": "Ô Allah , je manifeste l'intention de prier sur le prophète - Prière d'Allah et son Salut sur lui - , obéissant à ton ordre, approbant ton prophète Mohammad - Prière d'Allah et son Salut sur lui - , par amour pour lui et exaltant sa valeur car il en est digne. Accepte cette prière de moi, par ta générosité et ta bonté, ote de mon coeur le voile de la distraction, et considère moi comme un de tes serviteurs vertueux.",
+        "tr": "Bismillahirrahmanirrahim. Allahım! Niyet ettim Peygamber Efendime salât okumaya, Senin emrine imtisâlen (uyarak), nebîn olan Muhammed'i tasdik ederek, O'na olan muhabbetim ile, O'na kavuşmak arzusuyla, O'nun kıymetini aziz tutmak ve yüceltmek maksadıyla ve O buna lâyık olduğu için [böyle yapıyorum]."
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-bidayah-002",
+      "num": 2,
+      "ar": "اللَّهُمَّ زِدْهُ شَرَفًا عَلَى شَرَفِهِ الَّذِي أَوْلَيْتَهُ، وَعِزًّا عَلَى عِزِّهِ الَّذِي أَعْطَيْتَهُ، وَنُورًا عَلَى نُورِهِ الَّذِي مِنْهُ خَلَقْتَهُ، وَأَعْلِ مَقَامَهُ فِي مَقَامَاتِ المُرْسَلِينَ وَدَرَجَتَهُ فِي دَرَجَاتِ النَّبِيِّينَ.",
+      "translit": "Allāhumma zidhu sharafan ʿalā sharafihil ladhī awlaytahu, waʿizzan ʿalā ʿizzihil ladhī aʿṭaytahu, wa nūran ʿalā nūrihil ladhī minhu khalaqtahu, wa aʿli maqāmahu fi maqāmātil mursalīna, wa darajatahu fī darajātin nabiyyīn.",
+      "tr": {
+        "id": "Ya Allah, tingkatkanlah derajat beliau diatas derajatnya yang telah Engkau jaga dan keagungan beliau diatas keagungan yang telah engkau anugerahi. Dan cahaya diatas cahayaNya, dimana dari cahaya itu Engkau menciptakan beliau SAW. Angkatlah maqam/kedudukan beliau sejajar kedudukan para Rasul dan derajat beliau sejajar dengan derajat para Nabi.",
+        "en": "O Allah, increase him in honour above the honour which You have given him, and with might beyond the might which You have given him, and give him a light beyond his light from which You created him. Elevate his station among the stations of [Your] Emissaries, and his rank among the ranks of the Prophets.",
+        "fa": "خدایا زیاده کن اورا بزرگی بر بزرگی او که اورا عطا کردۂ و عزت بر عزت او که بخشیدۂ اورا و نور بر نور او که از ان تو پیدا کردۂ اورا و بلند کن مقام او در مقام های پیغمبران و مرتبۂ او در مرتبه های نبیان.",
+        "fr": "Ô Allah , accorde lui d'avantage de noblesse, d'avantage d'honneur de puissance, et une lumière sur, la lumière de laquelle tu l'as crée. Elève son grade parmi ceux des Envoyés et son rang parmi les rangs des Prophètes.",
+        "tr": "Allahım! O'na bahşettiğin şerefi artır, O'na lütfettiğin izzeti artır, O'nun nurunu artır - o nur ki onu o nurdan yarattın! Resûllerin makamları arasında O'nun makamını yücelt, nebîlerin dereceleri arasında O'nun derecesini yücelt."
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "duaa-bidayah-003",
+      "num": 3,
+      "ar": "وَأَسْأَلُكَ رِضَاكَ وَرِضَاهُ يَا رَبَّ العَالَمِينَ مَعَ العَافِيَةِ الدَّائِمَةِ وَالمَوْتِ عَلَى الكِتَابِ وَالسُّنَّةِ وَالجَمَاعَةِ وَكَلِمَتَيْ الشَّهَادَةِ عَلَى تَحْقِيقِهَا مِنْ غَيْرِ تَبْدِيلٍ وَلَا تَغْيِيرٍ. \r\nوَاغْفِرْ لِي مَا ارْتَكَبْتُهُ بِفَضْلِكَ وَجُودِكَ وَكَرَمِكَ يَا أَرْحَمَ الرَّاحِمِينَ. \r\nوَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ خَاتِمِ النَّبِيِّينَ وَإِمَامِ المُرْسَلِينَ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ وَسَلَامٌ عَلَى المُرْسَلِينَ وَالحَمْدُ لِلَّهِ رَبِّ العَالَمِينَ.",
+      "translit": "Wa asʾaluka riḍāka wariḍāhu yā rabbal ʿālamīna maʿal ʿāfiyatid dāʾimati wal mawti ʿalāl kitābi was sunnati wal jamāʿati wa kalimatayyish shahādati ʿalā taḥqīqihā min ghayri tabdīlin wa lā taghyīrin, waghfirlī mārtakabtuhu bifaḍlika wajūdika wakaramika yā arḥamar rāḥimīna, wa ṣallAllāhu ʿalā sayyidinā Muḥammadin khātimin nabiyyīna wa imāmil mursalīna wa ʿalā ālihi waṣaḥbihi ajmaʿīna wasalāmun ʿalāl mursalīna walḥamdu liLlāhi rabbil ʿālamīn.",
+      "tr": {
+        "id": "Dan aku memohon kepada Engkau, Ridho Engkau dan Ridho Beliau SAW. Wahai Tuhan penguasa seluruh alam, dalam keadaan sehat walafiat yang sempurna dan meninggal diatas petunjuk Al Qur'an dan As Sunnah Waljama'ah, Kalimat Syahadat yang murni dan hakiki tanpa diganti dan berubah-ubah. Ampunilah kami dari apa yang kami perbuat dengan anugerah-Mu dan pemberian-Mu serta kemuliaan-Mu wahai Tuhan yang Maha Penyayang diantara para penyayang. Mudah-mudahan Rahmat Allah senantiasai terlimpah atas baginda Nabi Muhammad, Keluarga dan sahabat seluruhnya.",
+        "en": "I ask You for Your good pleasure and his good pleasure, O Lord of the Worlds; and for perpetual well-being, and to die adhering to the Book, the Sunna, the [Muslim] Community, and the two Testimonies of Faith, affirming their truth without change or alteration. Forgive me, by Your favour, bounty and generosity, for whatever [wrongs] I have committed, O Most Merciful of those who show mercy. May Allah exalt and preserve our Master Muhammad, the Seal of the Prophets and Imam of the Emissaries, and all his Family and Companions. Peace be upon the Emissaries, and praise be to Allah, the Lord of the Worlds.",
+        "fa": "و سوال می کنم از تو خوشنووی تو و خوشنووی او. ای پروردگار عالمیان با عافیت همیشه و موت بر اتباع قرآن مجمید و مذهب سنت و جماعت و کلمۂ شهادت بر تحقیق او بدون بدل کردن و تغیر. و آمیزش کن برای ماچیزی که کرده ام از گناه بفضل خود و بخشش خود و مهربانی خود ای مهربان تر برهمه مهربانان۔ و درود فرستد خدا تعالیٰ بر سردار ما محمد و بر اولاد او و یاران او سلام فرستد سلام و همه ثنا برای خدای پروردگار عالم هاست",
+        "fr": "Je te demande ton agrément et le sien, Ô Seigneur des Univers, accompagné de la santé perpétuelle et la mort accroché au Coran, à la Sounna, au groupe et aux paroles de la Chahada, comme il se doit, sans changement ou modification; et ton pardon pour les pêchés que j'ai commis, par ta générosité et ta noblesse, Ô le plus Miséricordieux des Miséricordieux. Prière d'Allah et son Salut sur Saïdina Mohammad sceau des prophètes et Imam des envoyés, sur sa famille et tous ses compagnons et Salut sur les Envoyés; grâce à Allah Seigneur des Univers.",
+        "tr": "Ey Âlemlerin Rabbi! Senden rıza-ı şerîfini ve O'nun (s.a.v.) rızasını dilerim, daim afiyet dilerim, Kitab'ın ve Sünnet-i Seniyye üzere, noksansız ve kusursuz bir şekilde kelime şehâdet üzere ölüm dilerim. Cömertliğin ve lütf-u kereminle işlediklerimi (günahlarımı) af buyur ey Merhametlilerin en Merhametlisi! Salat ve selâm Efendimiz Muhammed'in üzerine olsun, O ki nebîlerin hâtimidir (sonuncusudur), elçilerin imamıdır. Onun ailesine ve bütün ashabına selam olsun. Bütün elçilere selam olsun. Hamd Âlemlerin Rabbi olan Allah'a mahsustur."
+      },
+      "kind": "prose"
+    }
+  ]
+}

@@ -1,0 +1,3643 @@
+{
+  "slug": "al-waqia",
+  "order": 2,
+  "category": "intro",
+  "ar": "سورة الواقعة",
+  "fr": "Sourate Al-Waqi'a",
+  "hint": "Sourate introductive",
+  "pages": [
+    33,
+    42
+  ],
+  "source": "https://quran.com/ar/56",
+  "audio": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3",
+  "lines": [
+    {
+      "id": "al-waqia-basmala",
+      "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "translit": "Bismi llāhi r-Raḥmāni r-Raḥīm",
+      "tr": {
+        "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux."
+      },
+      "kind": "basmala"
+    },
+    {
+      "id": "al-waqia-v1",
+      "ayah": 1,
+      "ar": "إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+      "translit": "idhā waqaʿati l-wāqiʿatu",
+      "tr": {
+        "fr": "Quand l’événement (le Jugement) arrivera,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056001.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          610
+        ],
+        [
+          1,
+          2,
+          620,
+          1620
+        ],
+        [
+          2,
+          3,
+          1630,
+          2970
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v2",
+      "ayah": 2,
+      "ar": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "translit": "laysa liwaqʿatihā kādhibatun",
+      "tr": {
+        "fr": "nul ne traitera sa venue de mensonge."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056002.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          730
+        ],
+        [
+          1,
+          2,
+          740,
+          2300
+        ],
+        [
+          2,
+          3,
+          2310,
+          3360
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v3",
+      "ayah": 3,
+      "ar": "خَافِضَةٌ رَّافِعَةٌ",
+      "translit": "khāfiḍatun rāfiʿatun",
+      "tr": {
+        "fr": "Il abaissera (les uns), il élèvera (les autres)."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056003.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1440
+        ],
+        [
+          1,
+          2,
+          1450,
+          2660
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v4",
+      "ayah": 4,
+      "ar": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+      "translit": "idhā rujjati l-arḍu rajjan",
+      "tr": {
+        "fr": "Quand la terre sera secouée violemment,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056004.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          550
+        ],
+        [
+          1,
+          2,
+          560,
+          1540
+        ],
+        [
+          2,
+          3,
+          1550,
+          2480
+        ],
+        [
+          3,
+          4,
+          2490,
+          3510
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v5",
+      "ayah": 5,
+      "ar": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+      "translit": "wabussati l-jibālu bassan",
+      "tr": {
+        "fr": "et les montagnes seront réduites en miettes,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056005.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          1130
+        ],
+        [
+          1,
+          2,
+          1140,
+          2310
+        ],
+        [
+          2,
+          3,
+          2320,
+          3410
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v6",
+      "ayah": 6,
+      "ar": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+      "translit": "fakānat habāan munbathan",
+      "tr": {
+        "fr": "et qu’elles deviendront poussière éparpillée."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056006.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1080
+        ],
+        [
+          1,
+          2,
+          1090,
+          5530
+        ],
+        [
+          2,
+          3,
+          5540,
+          6750
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v7",
+      "ayah": 7,
+      "ar": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+      "translit": "wakuntum azwājan thalāthatan",
+      "tr": {
+        "fr": "alors vous serez trois catégories:"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056007.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          1950
+        ],
+        [
+          1,
+          2,
+          1960,
+          3160
+        ],
+        [
+          2,
+          3,
+          3170,
+          4140
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v8",
+      "ayah": 8,
+      "ar": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "translit": "fa-aṣḥābu l-maymanati mā aṣḥābu l-maymanati",
+      "tr": {
+        "fr": "les gens de la droite - que sont les gens de la droite ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056008.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1310
+        ],
+        [
+          1,
+          2,
+          1320,
+          2720
+        ],
+        [
+          2,
+          3,
+          2730,
+          2790
+        ],
+        [
+          3,
+          4,
+          2800,
+          5560
+        ],
+        [
+          4,
+          5,
+          5570,
+          6780
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v9",
+      "ayah": 9,
+      "ar": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "translit": "wa-aṣḥābu l-mashamati mā aṣḥābu l-mashamati",
+      "tr": {
+        "fr": "Et les gens de la gauche - que sont les gens de la gauche ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056009.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1340
+        ],
+        [
+          1,
+          2,
+          1350,
+          2810
+        ],
+        [
+          2,
+          3,
+          2820,
+          2880
+        ],
+        [
+          3,
+          4,
+          2890,
+          5980
+        ],
+        [
+          4,
+          5,
+          5990,
+          7220
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v10",
+      "ayah": 10,
+      "ar": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "translit": "wal-sābiqūna l-sābiqūna",
+      "tr": {
+        "fr": "Les premiers (à suivre les ordres d’Allah sur la terre) ce sont eux qui seront les premiers (dans l’au-delà)"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056010.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1830
+        ],
+        [
+          1,
+          2,
+          1840,
+          5350
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v11",
+      "ayah": 11,
+      "ar": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "translit": "ulāika l-muqarabūna",
+      "tr": {
+        "fr": "Ce sont ceux-là les plus rapprochés d’Allah."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056011.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          100,
+          2530
+        ],
+        [
+          1,
+          2,
+          2540,
+          6200
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v12",
+      "ayah": 12,
+      "ar": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+      "translit": "fī jannāti l-naʿīmi",
+      "tr": {
+        "fr": "dans les Jardins des délices,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056012.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          430
+        ],
+        [
+          1,
+          2,
+          440,
+          2560
+        ],
+        [
+          2,
+          3,
+          2570,
+          6140
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v13",
+      "ayah": 13,
+      "ar": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+      "translit": "thullatun mina l-awalīna",
+      "tr": {
+        "fr": "une multitude d’élus parmi les premières [générations],"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056013.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          70,
+          2220
+        ],
+        [
+          1,
+          2,
+          2230,
+          2550
+        ],
+        [
+          2,
+          3,
+          2560,
+          5750
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v14",
+      "ayah": 14,
+      "ar": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+      "translit": "waqalīlun mina l-ākhirīna",
+      "tr": {
+        "fr": "et un petit nombre parmi les dernières [générations],"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056014.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2430
+        ],
+        [
+          1,
+          2,
+          2440,
+          2740
+        ],
+        [
+          2,
+          3,
+          2750,
+          6240
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v15",
+      "ayah": 15,
+      "ar": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+      "translit": "ʿalā sururin mawḍūnatin",
+      "tr": {
+        "fr": "sur des lits ornés [d’or et de pierreries],"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056015.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          620
+        ],
+        [
+          1,
+          2,
+          630,
+          2360
+        ],
+        [
+          2,
+          3,
+          2370,
+          3510
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v16",
+      "ayah": 16,
+      "ar": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ",
+      "translit": "muttakiīna ʿalayhā mutaqābilīna",
+      "tr": {
+        "fr": "s’y accoudant et se faisant face."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056016.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          1570
+        ],
+        [
+          1,
+          2,
+          1580,
+          2830
+        ],
+        [
+          2,
+          3,
+          2840,
+          6490
+        ]
+      ],
+      "page": 534
+    },
+    {
+      "id": "al-waqia-v17",
+      "ayah": 17,
+      "ar": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ",
+      "translit": "yaṭūfu ʿalayhim wil'dānun mukhalladūna",
+      "tr": {
+        "fr": "Parmi eux circuleront des garçons éternellement jeunes,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056017.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          820
+        ],
+        [
+          1,
+          2,
+          830,
+          2110
+        ],
+        [
+          2,
+          3,
+          2120,
+          4580
+        ],
+        [
+          3,
+          4,
+          4590,
+          7560
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v18",
+      "ayah": 18,
+      "ar": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+      "translit": "bi-akwābin wa-abārīqa wakasin min maʿīnin",
+      "tr": {
+        "fr": "avec des coupes, des aiguières et un verre [rempli] : d’une liqueur de source."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056018.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1440
+        ],
+        [
+          1,
+          2,
+          1450,
+          4020
+        ],
+        [
+          2,
+          3,
+          4030,
+          6050
+        ],
+        [
+          3,
+          4,
+          6060,
+          7320
+        ],
+        [
+          4,
+          5,
+          7330,
+          9870
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v19",
+      "ayah": 19,
+      "ar": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+      "translit": "lā yuṣaddaʿūna ʿanhā walā yunzifūna",
+      "tr": {
+        "fr": "Qui ne leur provoquera ni maux de tête ni étourdissement;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056019.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          450
+        ],
+        [
+          1,
+          2,
+          460,
+          2040
+        ],
+        [
+          2,
+          3,
+          2050,
+          3000
+        ],
+        [
+          3,
+          4,
+          3010,
+          3710
+        ],
+        [
+          4,
+          5,
+          3720,
+          7740
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v20",
+      "ayah": 20,
+      "ar": "وَفَـٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+      "translit": "wafākihatin mimmā yatakhayyarūna",
+      "tr": {
+        "fr": "et des fruits de leur choix,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056020.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2380
+        ],
+        [
+          1,
+          2,
+          2390,
+          3900
+        ],
+        [
+          2,
+          3,
+          3910,
+          7760
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v21",
+      "ayah": 21,
+      "ar": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+      "translit": "walaḥmi ṭayrin mimmā yashtahūna",
+      "tr": {
+        "fr": "et toute chair d’oiseau qu’ils désireront."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056021.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          800
+        ],
+        [
+          1,
+          2,
+          810,
+          2740
+        ],
+        [
+          2,
+          3,
+          2750,
+          4630
+        ],
+        [
+          3,
+          4,
+          4640,
+          7990
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v22",
+      "ayah": 22,
+      "ar": "وَحُورٌ عِينٌ",
+      "translit": "waḥūrun ʿīnun",
+      "tr": {
+        "fr": "Et ils auront des des femmes aux grands yeux noirs,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056022.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1080
+        ],
+        [
+          1,
+          2,
+          1090,
+          3910
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v23",
+      "ayah": 23,
+      "ar": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+      "translit": "ka-amthāli l-lu'lu-i l-maknūni",
+      "tr": {
+        "fr": "pareilles à des perles en coquille."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056023.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1280
+        ],
+        [
+          1,
+          2,
+          1290,
+          2410
+        ],
+        [
+          2,
+          3,
+          2420,
+          5700
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v24",
+      "ayah": 24,
+      "ar": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "translit": "jazāan bimā kānū yaʿmalūna",
+      "tr": {
+        "fr": "en récompense pour ce qu’ils faisaient."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056024.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          3610
+        ],
+        [
+          1,
+          2,
+          3620,
+          4340
+        ],
+        [
+          2,
+          3,
+          4350,
+          5380
+        ],
+        [
+          3,
+          4,
+          5390,
+          8470
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v25",
+      "ayah": 25,
+      "ar": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "translit": "lā yasmaʿūna fīhā laghwan walā tathīman",
+      "tr": {
+        "fr": "Ils n’y entendront ni futilité ni blasphème ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056025.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          430
+        ],
+        [
+          1,
+          2,
+          440,
+          1840
+        ],
+        [
+          2,
+          3,
+          1850,
+          2850
+        ],
+        [
+          3,
+          4,
+          2860,
+          3540
+        ],
+        [
+          4,
+          5,
+          3550,
+          5210
+        ],
+        [
+          5,
+          6,
+          5220,
+          6820
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v26",
+      "ayah": 26,
+      "ar": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+      "translit": "illā qīlan salāman salāman",
+      "tr": {
+        "fr": "mais seulement les propos : \"Paix ! Paix ! (Salâm ! Salâm !)\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056026.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          850
+        ],
+        [
+          1,
+          2,
+          860,
+          2410
+        ],
+        [
+          2,
+          3,
+          2420,
+          3430
+        ],
+        [
+          3,
+          4,
+          3440,
+          4470
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v27",
+      "ayah": 27,
+      "ar": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+      "translit": "wa-aṣḥābu l-yamīni mā aṣḥābu l-yamīni",
+      "tr": {
+        "fr": "Et les gens de la droite; que sont les gens de la droite ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056027.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1370
+        ],
+        [
+          1,
+          2,
+          1380,
+          2620
+        ],
+        [
+          2,
+          3,
+          2630,
+          4480
+        ],
+        [
+          3,
+          4,
+          4490,
+          5710
+        ],
+        [
+          4,
+          5,
+          5720,
+          8470
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v28",
+      "ayah": 28,
+      "ar": "فِى سِدْرٍ مَّخْضُودٍ",
+      "translit": "fī sid'rin makhḍūdin",
+      "tr": {
+        "fr": "[Ils seront parmi] : des jujubiers sans épines,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056028.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          400
+        ],
+        [
+          1,
+          2,
+          410,
+          2030
+        ],
+        [
+          2,
+          3,
+          2040,
+          4960
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v29",
+      "ayah": 29,
+      "ar": "وَطَلْحٍ مَّنضُودٍ",
+      "translit": "waṭalḥin manḍūdin",
+      "tr": {
+        "fr": "et parmi des bananiers aux régimes bien fournis,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056029.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1900
+        ],
+        [
+          1,
+          2,
+          1910,
+          5280
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v30",
+      "ayah": 30,
+      "ar": "وَظِلٍّ مَّمْدُودٍ",
+      "translit": "waẓillin mamdūdin",
+      "tr": {
+        "fr": "dans une ombre étendue."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056030.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2040
+        ],
+        [
+          1,
+          2,
+          2050,
+          5030
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v31",
+      "ayah": 31,
+      "ar": "وَمَآءٍ مَّسْكُوبٍ",
+      "translit": "wamāin maskūbin",
+      "tr": {
+        "fr": "[Près] d’une eau coulant continuellement,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056031.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2380
+        ],
+        [
+          1,
+          2,
+          2390,
+          6370
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v32",
+      "ayah": 32,
+      "ar": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
+      "translit": "wafākihatin kathīratin",
+      "tr": {
+        "fr": "et des fruits abondants."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056032.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2450
+        ],
+        [
+          1,
+          2,
+          2460,
+          3520
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v33",
+      "ayah": 33,
+      "ar": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+      "translit": "lā maqṭūʿatin walā mamnūʿatin",
+      "tr": {
+        "fr": "Ni interrompus ni défendus,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056033.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          460
+        ],
+        [
+          1,
+          2,
+          470,
+          2010
+        ],
+        [
+          2,
+          3,
+          2020,
+          3500
+        ],
+        [
+          3,
+          4,
+          3510,
+          4720
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v34",
+      "ayah": 34,
+      "ar": "وَفُرُشٍ مَّرْفُوعَةٍ",
+      "translit": "wafurushin marfūʿatin",
+      "tr": {
+        "fr": "sur des lits surélevés,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056034.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1810
+        ],
+        [
+          1,
+          2,
+          1820,
+          3010
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v35",
+      "ayah": 35,
+      "ar": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً",
+      "translit": "innā anshanāhunna inshāan",
+      "tr": {
+        "fr": "C’est Nous qui les  avons créées à la perfection,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056035.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1180
+        ],
+        [
+          1,
+          2,
+          1190,
+          6340
+        ],
+        [
+          2,
+          3,
+          6350,
+          8270
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v36",
+      "ayah": 36,
+      "ar": "فَجَعَلْنَـٰهُنَّ أَبْكَارًا",
+      "translit": "fajaʿalnāhunna abkāran",
+      "tr": {
+        "fr": "et Nous les avons faites vierges,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056036.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2700
+        ],
+        [
+          1,
+          2,
+          2710,
+          4420
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v37",
+      "ayah": 37,
+      "ar": "عُرُبًا أَتْرَابًا",
+      "translit": "ʿuruban atrāban",
+      "tr": {
+        "fr": "gracieuses, toutes de même âge,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056037.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          100,
+          880
+        ],
+        [
+          1,
+          2,
+          890,
+          2470
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v38",
+      "ayah": 38,
+      "ar": "لِّأَصْحَـٰبِ ٱلْيَمِينِ",
+      "translit": "li-aṣḥābi l-yamīni",
+      "tr": {
+        "fr": "pour les gens de la droite,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056038.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1300
+        ],
+        [
+          1,
+          2,
+          1310,
+          4100
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v39",
+      "ayah": 39,
+      "ar": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+      "translit": "thullatun mina l-awalīna",
+      "tr": {
+        "fr": "une multitude d’élus parmi les premières [générations],"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056039.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1830
+        ],
+        [
+          1,
+          2,
+          1840,
+          2140
+        ],
+        [
+          2,
+          3,
+          2150,
+          5560
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v40",
+      "ayah": 40,
+      "ar": "وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ",
+      "translit": "wathullatun mina l-ākhirīna",
+      "tr": {
+        "fr": "et une multitude d’élus parmi les dernières [générations]."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056040.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2080
+        ],
+        [
+          1,
+          2,
+          2090,
+          2400
+        ],
+        [
+          2,
+          3,
+          2410,
+          5910
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v41",
+      "ayah": 41,
+      "ar": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+      "translit": "wa-aṣḥābu l-shimāli mā aṣḥābu l-shimāli",
+      "tr": {
+        "fr": "Et les gens de la gauche; que sont les gens de la gauche ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056041.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1250
+        ],
+        [
+          1,
+          2,
+          1260,
+          2440
+        ],
+        [
+          2,
+          3,
+          2450,
+          2500
+        ],
+        [
+          3,
+          4,
+          2510,
+          5580
+        ],
+        [
+          4,
+          5,
+          5590,
+          6270
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v42",
+      "ayah": 42,
+      "ar": "فِى سَمُومٍ وَحَمِيمٍ",
+      "translit": "fī samūmin waḥamīmin",
+      "tr": {
+        "fr": "ils seront au milieu d’un souffle brûlant et d’une eau bouillante,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056042.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          360
+        ],
+        [
+          1,
+          2,
+          370,
+          1560
+        ],
+        [
+          2,
+          3,
+          1570,
+          5670
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v43",
+      "ayah": 43,
+      "ar": "وَظِلٍّ مِّن يَحْمُومٍ",
+      "translit": "waẓillin min yaḥmūmin",
+      "tr": {
+        "fr": "à l’ombre d’une fumée noire."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056043.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2050
+        ],
+        [
+          1,
+          2,
+          2060,
+          3080
+        ],
+        [
+          2,
+          3,
+          3090,
+          5520
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v44",
+      "ayah": 44,
+      "ar": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+      "translit": "lā bāridin walā karīmin",
+      "tr": {
+        "fr": "Ni fraîche, ni douce."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056044.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          510
+        ],
+        [
+          1,
+          2,
+          520,
+          1570
+        ],
+        [
+          2,
+          3,
+          1580,
+          3070
+        ],
+        [
+          3,
+          4,
+          3080,
+          5860
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v45",
+      "ayah": 45,
+      "ar": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "translit": "innahum kānū qabla dhālika mut'rafīna",
+      "tr": {
+        "fr": "Ils vivaient auparavant dans le luxe."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056045.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1870
+        ],
+        [
+          1,
+          2,
+          1880,
+          2820
+        ],
+        [
+          2,
+          3,
+          2830,
+          3560
+        ],
+        [
+          3,
+          4,
+          3570,
+          4520
+        ],
+        [
+          4,
+          5,
+          4530,
+          7690
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v46",
+      "ayah": 46,
+      "ar": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "translit": "wakānū yuṣirrūna ʿalā l-ḥinthi l-ʿaẓīmi",
+      "tr": {
+        "fr": "Ils persistaient dans le grand péché [le polythéisme]"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056046.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1140
+        ],
+        [
+          1,
+          2,
+          1150,
+          2550
+        ],
+        [
+          2,
+          3,
+          2560,
+          3020
+        ],
+        [
+          3,
+          4,
+          3030,
+          4830
+        ],
+        [
+          4,
+          5,
+          4840,
+          7610
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v47",
+      "ayah": 47,
+      "ar": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "translit": "wakānū yaqūlūna a-idhā mit'nā wakunnā turāban waʿiẓāman a-innā lamabʿūthūna",
+      "tr": {
+        "fr": "et disaient : \"Quand nous mourrons et serons poussière et ossements, serons-nous ressuscités ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056047.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1160
+        ],
+        [
+          1,
+          2,
+          1170,
+          2560
+        ],
+        [
+          2,
+          3,
+          2570,
+          3480
+        ],
+        [
+          3,
+          4,
+          3490,
+          4370
+        ],
+        [
+          4,
+          5,
+          4380,
+          6060
+        ],
+        [
+          5,
+          6,
+          6070,
+          7010
+        ],
+        [
+          6,
+          7,
+          7020,
+          9340
+        ],
+        [
+          7,
+          8,
+          9350,
+          11320
+        ],
+        [
+          8,
+          9,
+          11330,
+          14750
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v48",
+      "ayah": 48,
+      "ar": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "translit": "awaābāunā l-awalūna",
+      "tr": {
+        "fr": "Ainsi que nos anciens ancêtres?...\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056048.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          3260
+        ],
+        [
+          1,
+          2,
+          3270,
+          6360
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v49",
+      "ayah": 49,
+      "ar": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ",
+      "translit": "qul inna l-awalīna wal-ākhirīna",
+      "tr": {
+        "fr": "Dis : \"En vérité les premiers et les derniers."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056049.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          370
+        ],
+        [
+          1,
+          2,
+          380,
+          1700
+        ],
+        [
+          2,
+          3,
+          1710,
+          3330
+        ],
+        [
+          3,
+          4,
+          3340,
+          7120
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v50",
+      "ayah": 50,
+      "ar": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+      "translit": "lamajmūʿūna ilā mīqāti yawmin maʿlūmin",
+      "tr": {
+        "fr": "seront réunis pour le rendez-vous d’un jour connu.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056050.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1820
+        ],
+        [
+          1,
+          2,
+          1830,
+          2530
+        ],
+        [
+          2,
+          3,
+          2540,
+          3790
+        ],
+        [
+          3,
+          4,
+          3800,
+          5480
+        ],
+        [
+          4,
+          5,
+          5490,
+          8590
+        ]
+      ],
+      "page": 535
+    },
+    {
+      "id": "al-waqia-v51",
+      "ayah": 51,
+      "ar": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+      "translit": "thumma innakum ayyuhā l-ḍālūna l-mukadhibūna",
+      "tr": {
+        "fr": "Et puis, vous, les égarés, qui traitiez (la Résurrection) de mensonge,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056051.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1490
+        ],
+        [
+          1,
+          2,
+          1500,
+          3450
+        ],
+        [
+          2,
+          3,
+          3460,
+          4390
+        ],
+        [
+          3,
+          4,
+          4400,
+          8810
+        ],
+        [
+          4,
+          5,
+          8820,
+          12250
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v52",
+      "ayah": 52,
+      "ar": "لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+      "translit": "laākilūna min shajarin min zaqqūmin",
+      "tr": {
+        "fr": "vous mangerez certainement d’un arbre de Zaqqûm."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056052.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1630
+        ],
+        [
+          1,
+          2,
+          1640,
+          3050
+        ],
+        [
+          2,
+          3,
+          3060,
+          5110
+        ],
+        [
+          3,
+          4,
+          5120,
+          6350
+        ],
+        [
+          4,
+          5,
+          6360,
+          9340
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v53",
+      "ayah": 53,
+      "ar": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "translit": "famāliūna min'hā l-buṭūna",
+      "tr": {
+        "fr": "Vous vous en remplirez le ventre,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056053.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1580
+        ],
+        [
+          1,
+          2,
+          1590,
+          2240
+        ],
+        [
+          2,
+          3,
+          2250,
+          5320
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v54",
+      "ayah": 54,
+      "ar": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+      "translit": "fashāribūna ʿalayhi mina l-ḥamīmi",
+      "tr": {
+        "fr": "puis vous boirez par-dessus cela de l’eau bouillante,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056054.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1490
+        ],
+        [
+          1,
+          2,
+          1500,
+          2550
+        ],
+        [
+          2,
+          3,
+          2560,
+          2930
+        ],
+        [
+          3,
+          4,
+          2940,
+          6330
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v55",
+      "ayah": 55,
+      "ar": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+      "translit": "fashāribūna shur'ba l-hīmi",
+      "tr": {
+        "fr": "vous en boirez comme boivent les chameaux assoiffés."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056055.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1450
+        ],
+        [
+          1,
+          2,
+          1460,
+          2160
+        ],
+        [
+          2,
+          3,
+          2170,
+          5280
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v56",
+      "ayah": 56,
+      "ar": "هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+      "translit": "hādhā nuzuluhum yawma l-dīni",
+      "tr": {
+        "fr": "Voilà le repas d’accueil qui leur sera servi, au jour de la Rétribution."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056056.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          980
+        ],
+        [
+          1,
+          2,
+          990,
+          2110
+        ],
+        [
+          2,
+          3,
+          2120,
+          2780
+        ],
+        [
+          3,
+          4,
+          2790,
+          5700
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v57",
+      "ayah": 57,
+      "ar": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "translit": "naḥnu khalaqnākum falawlā tuṣaddiqūna",
+      "tr": {
+        "fr": "C’est Nous qui vous avons créés. Pourquoi ne croiriez-vous donc pas [à la résurrection] ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056057.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          610
+        ],
+        [
+          1,
+          2,
+          620,
+          2270
+        ],
+        [
+          2,
+          3,
+          2280,
+          3430
+        ],
+        [
+          3,
+          4,
+          3440,
+          6910
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v58",
+      "ayah": 58,
+      "ar": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+      "translit": "afara-aytum mā tum'nūna",
+      "tr": {
+        "fr": "Voyez-vous donc ce que vous éjaculez :"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056058.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2120
+        ],
+        [
+          1,
+          2,
+          2130,
+          3120
+        ],
+        [
+          2,
+          3,
+          3130,
+          5920
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v59",
+      "ayah": 59,
+      "ar": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+      "translit": "a-antum takhluqūnahu am naḥnu l-khāliqūna",
+      "tr": {
+        "fr": "est-ce vous qui le créez ou [en] : Sommes-nous le Créateur ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056059.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1790
+        ],
+        [
+          1,
+          2,
+          1800,
+          5000
+        ],
+        [
+          2,
+          3,
+          5010,
+          5310
+        ],
+        [
+          3,
+          4,
+          5320,
+          6110
+        ],
+        [
+          4,
+          5,
+          6120,
+          9340
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v60",
+      "ayah": 60,
+      "ar": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "translit": "naḥnu qaddarnā baynakumu l-mawta wamā naḥnu bimasbūqīna",
+      "tr": {
+        "fr": "Nous avons prédéterminé la mort parmi vous. Nous ne serons point empêchés."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056060.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          610
+        ],
+        [
+          1,
+          2,
+          620,
+          2020
+        ],
+        [
+          2,
+          3,
+          2030,
+          3170
+        ],
+        [
+          3,
+          4,
+          3180,
+          4070
+        ],
+        [
+          4,
+          5,
+          4080,
+          4820
+        ],
+        [
+          5,
+          6,
+          4830,
+          5440
+        ],
+        [
+          6,
+          7,
+          5450,
+          8950
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v61",
+      "ayah": 61,
+      "ar": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+      "translit": "ʿalā an nubaddila amthālakum wanunshi-akum fī mā lā taʿlamūna",
+      "tr": {
+        "fr": "de vous remplacer par vos semblables, et vous faire renaître dans [un état] que vous ne savez pas."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056061.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1930
+        ],
+        [
+          1,
+          2,
+          1940,
+          3570
+        ],
+        [
+          2,
+          3,
+          3580,
+          4590
+        ],
+        [
+          3,
+          4,
+          4600,
+          6190
+        ],
+        [
+          4,
+          5,
+          6200,
+          8420
+        ],
+        [
+          5,
+          6,
+          8430,
+          8900
+        ],
+        [
+          6,
+          7,
+          8910,
+          9350
+        ],
+        [
+          7,
+          8,
+          9360,
+          9780
+        ],
+        [
+          8,
+          9,
+          9790,
+          12870
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v62",
+      "ayah": 62,
+      "ar": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "translit": "walaqad ʿalim'tumu l-nashata l-ūlā falawlā tadhakkarūna",
+      "tr": {
+        "fr": "Vous avez connu la première création. Ne vous rappelez-vous donc pas ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056062.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          810
+        ],
+        [
+          1,
+          2,
+          820,
+          1990
+        ],
+        [
+          2,
+          3,
+          2000,
+          3730
+        ],
+        [
+          3,
+          4,
+          3740,
+          4780
+        ],
+        [
+          4,
+          5,
+          4790,
+          5930
+        ],
+        [
+          5,
+          6,
+          5940,
+          9120
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v63",
+      "ayah": 63,
+      "ar": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+      "translit": "afara-aytum mā taḥruthūna",
+      "tr": {
+        "fr": "Voyez-vous donc ce que vous labourez ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056063.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2340
+        ],
+        [
+          1,
+          2,
+          2350,
+          2750
+        ],
+        [
+          2,
+          3,
+          2760,
+          6260
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v64",
+      "ayah": 64,
+      "ar": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+      "translit": "a-antum tazraʿūnahu am naḥnu l-zāriʿūna",
+      "tr": {
+        "fr": "Est-ce vous qui le cultivez ? ou [en] sommes Nous le cultivateur ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056064.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1840
+        ],
+        [
+          1,
+          2,
+          1850,
+          4960
+        ],
+        [
+          2,
+          3,
+          4970,
+          5270
+        ],
+        [
+          3,
+          4,
+          5280,
+          6020
+        ],
+        [
+          4,
+          5,
+          6030,
+          9150
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v65",
+      "ayah": 65,
+      "ar": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "translit": "law nashāu lajaʿalnāhu ḥuṭāman faẓaltum tafakkahūna",
+      "tr": {
+        "fr": "Si Nous voulions, Nous le réduirions en débris. Et vous ne cesseriez pas de vous étonner et [de crier] :"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056065.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          390
+        ],
+        [
+          1,
+          2,
+          400,
+          3250
+        ],
+        [
+          2,
+          3,
+          3260,
+          4710
+        ],
+        [
+          3,
+          4,
+          4720,
+          6560
+        ],
+        [
+          4,
+          5,
+          6570,
+          7630
+        ],
+        [
+          5,
+          6,
+          7640,
+          11310
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v66",
+      "ayah": 66,
+      "ar": "إِنَّا لَمُغْرَمُونَ",
+      "translit": "innā lamugh'ramūna",
+      "tr": {
+        "fr": "\"Nous voilà endettés !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056066.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1570
+        ],
+        [
+          1,
+          2,
+          1580,
+          5050
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v67",
+      "ayah": 67,
+      "ar": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "translit": "bal naḥnu maḥrūmūna",
+      "tr": {
+        "fr": "Ou plutôt, exposés aux privations.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056067.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          440
+        ],
+        [
+          1,
+          2,
+          450,
+          1160
+        ],
+        [
+          2,
+          3,
+          1170,
+          4700
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v68",
+      "ayah": 68,
+      "ar": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+      "translit": "afara-aytumu l-māa alladhī tashrabūna",
+      "tr": {
+        "fr": "Voyez-vous donc l’eau que vous buvez ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056068.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1440
+        ],
+        [
+          1,
+          2,
+          1450,
+          4130
+        ],
+        [
+          2,
+          3,
+          4140,
+          5050
+        ],
+        [
+          3,
+          4,
+          5060,
+          8300
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v69",
+      "ayah": 69,
+      "ar": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+      "translit": "a-antum anzaltumūhu mina l-muz'ni am naḥnu l-munzilūna",
+      "tr": {
+        "fr": "Est-ce vous qui l’avez fait descendre du nuage ? ou [en] sommes Nous le descendeur ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056069.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1960
+        ],
+        [
+          1,
+          2,
+          1970,
+          4600
+        ],
+        [
+          2,
+          3,
+          4610,
+          4990
+        ],
+        [
+          3,
+          4,
+          5000,
+          5990
+        ],
+        [
+          4,
+          5,
+          6000,
+          6430
+        ],
+        [
+          5,
+          6,
+          6440,
+          7130
+        ],
+        [
+          6,
+          7,
+          7140,
+          11550
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v70",
+      "ayah": 70,
+      "ar": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "translit": "law nashāu jaʿalnāhu ujājan falawlā tashkurūna",
+      "tr": {
+        "fr": "Si Nous voulions, Nous la rendrions salée. Pourquoi n’êtes- vous donc pas reconnaissants ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056070.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          390
+        ],
+        [
+          1,
+          2,
+          400,
+          2980
+        ],
+        [
+          2,
+          3,
+          2990,
+          4320
+        ],
+        [
+          3,
+          4,
+          4330,
+          5960
+        ],
+        [
+          4,
+          5,
+          5970,
+          7130
+        ],
+        [
+          5,
+          6,
+          7140,
+          10320
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v71",
+      "ayah": 71,
+      "ar": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+      "translit": "afara-aytumu l-nāra allatī tūrūna",
+      "tr": {
+        "fr": "Voyez-vous donc le feu que vous obtenez par frottement ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056071.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1540
+        ],
+        [
+          1,
+          2,
+          1550,
+          3370
+        ],
+        [
+          2,
+          3,
+          3380,
+          4240
+        ],
+        [
+          3,
+          4,
+          4250,
+          7680
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v72",
+      "ayah": 72,
+      "ar": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "translit": "a-antum anshatum shajaratahā am naḥnu l-munshiūna",
+      "tr": {
+        "fr": "Est-ce vous qui avez créé son arbre ou [en] sommes Nous le Créateur ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056072.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1810
+        ],
+        [
+          1,
+          2,
+          1820,
+          4140
+        ],
+        [
+          2,
+          3,
+          4150,
+          7130
+        ],
+        [
+          3,
+          4,
+          7140,
+          7470
+        ],
+        [
+          4,
+          5,
+          7480,
+          8260
+        ],
+        [
+          5,
+          6,
+          8270,
+          12780
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v73",
+      "ayah": 73,
+      "ar": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+      "translit": "naḥnu jaʿalnāhā tadhkiratan wamatāʿan lil'muq'wīna",
+      "tr": {
+        "fr": "Nous en avons fait un rappel (de l’Enfer), et un élément utile pour ceux qui en ont besoin ."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056073.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          640
+        ],
+        [
+          1,
+          2,
+          650,
+          2210
+        ],
+        [
+          2,
+          3,
+          2220,
+          3490
+        ],
+        [
+          3,
+          4,
+          3500,
+          5970
+        ],
+        [
+          4,
+          5,
+          5980,
+          9280
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v74",
+      "ayah": 74,
+      "ar": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "translit": "fasabbiḥ bi-is'mi rabbika l-ʿaẓīmi",
+      "tr": {
+        "fr": "Glorifie donc le nom de ton Seigneur, le Très Grand !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056074.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1010
+        ],
+        [
+          1,
+          2,
+          1020,
+          1600
+        ],
+        [
+          2,
+          3,
+          1610,
+          2520
+        ],
+        [
+          3,
+          4,
+          2530,
+          5400
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v75",
+      "ayah": 75,
+      "ar": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "translit": "falā uq'simu bimawāqiʿi l-nujūmi",
+      "tr": {
+        "fr": "Non !... Je jure par les positions des étoiles (dans le firmament)."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056075.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1860
+        ],
+        [
+          1,
+          2,
+          1870,
+          2710
+        ],
+        [
+          2,
+          3,
+          2720,
+          4080
+        ],
+        [
+          3,
+          4,
+          4090,
+          7920
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v76",
+      "ayah": 76,
+      "ar": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "translit": "wa-innahu laqasamun law taʿlamūna ʿaẓīmun",
+      "tr": {
+        "fr": "Et c’est vraiment un serment solennel, si vous saviez."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056076.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1960
+        ],
+        [
+          1,
+          2,
+          1970,
+          3080
+        ],
+        [
+          2,
+          3,
+          3090,
+          3560
+        ],
+        [
+          3,
+          4,
+          3570,
+          4850
+        ],
+        [
+          4,
+          5,
+          4860,
+          8130
+        ]
+      ],
+      "page": 536
+    },
+    {
+      "id": "al-waqia-v77",
+      "ayah": 77,
+      "ar": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+      "translit": "innahu laqur'ānun karīmun",
+      "tr": {
+        "fr": "Et c’est certainement un Coran noble,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056077.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2000
+        ],
+        [
+          1,
+          2,
+          2010,
+          4320
+        ],
+        [
+          2,
+          3,
+          4330,
+          7260
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v78",
+      "ayah": 78,
+      "ar": "فِى كِتَـٰبٍ مَّكْنُونٍ",
+      "translit": "fī kitābin maknūnin",
+      "tr": {
+        "fr": "dans un Livre bien gardé ."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056078.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          410
+        ],
+        [
+          1,
+          2,
+          420,
+          2700
+        ],
+        [
+          2,
+          3,
+          2710,
+          5260
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v79",
+      "ayah": 79,
+      "ar": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "translit": "lā yamassuhu illā l-muṭaharūna",
+      "tr": {
+        "fr": "que seuls les purifiés touchent ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056079.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          460
+        ],
+        [
+          1,
+          2,
+          470,
+          3300
+        ],
+        [
+          2,
+          3,
+          3310,
+          3890
+        ],
+        [
+          3,
+          4,
+          3900,
+          7560
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v80",
+      "ayah": 80,
+      "ar": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+      "translit": "tanzīlun min rabbi l-ʿālamīna",
+      "tr": {
+        "fr": "C’est une révélation de la part du Seigneur de l’Univers."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056080.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          3390
+        ],
+        [
+          1,
+          2,
+          3400,
+          3460
+        ],
+        [
+          2,
+          3,
+          3470,
+          4400
+        ],
+        [
+          3,
+          4,
+          4410,
+          7540
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v81",
+      "ayah": 81,
+      "ar": "أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+      "translit": "afabihādhā l-ḥadīthi antum mud'hinūna",
+      "tr": {
+        "fr": "Est-ce ce discours-là que vous traitez de mensonge ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056081.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1280
+        ],
+        [
+          1,
+          2,
+          1290,
+          2420
+        ],
+        [
+          2,
+          3,
+          2430,
+          4890
+        ],
+        [
+          3,
+          4,
+          4900,
+          7560
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v82",
+      "ayah": 82,
+      "ar": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "translit": "watajʿalūna riz'qakum annakum tukadhibūna",
+      "tr": {
+        "fr": "Et est-ce pour vous [une façon d’être reconnaissant] à votre subsistance que de traiter (le Coran) de mensonge ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056082.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1560
+        ],
+        [
+          1,
+          2,
+          1570,
+          2630
+        ],
+        [
+          2,
+          3,
+          2640,
+          4400
+        ],
+        [
+          3,
+          4,
+          4410,
+          7780
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v83",
+      "ayah": 83,
+      "ar": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+      "translit": "falawlā idhā balaghati l-ḥul'qūma",
+      "tr": {
+        "fr": "Lorsque le souffle de la vie remonte à la gorge (d’un moribond),"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056083.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1680
+        ],
+        [
+          1,
+          2,
+          1690,
+          3180
+        ],
+        [
+          2,
+          3,
+          3190,
+          4130
+        ],
+        [
+          3,
+          4,
+          4140,
+          7160
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v84",
+      "ayah": 84,
+      "ar": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+      "translit": "wa-antum ḥīna-idhin tanẓurūna",
+      "tr": {
+        "fr": "et qu’à ce moment-là vous regardez,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056084.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2310
+        ],
+        [
+          1,
+          2,
+          2320,
+          4660
+        ],
+        [
+          2,
+          3,
+          4670,
+          8870
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v85",
+      "ayah": 85,
+      "ar": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+      "translit": "wanaḥnu aqrabu ilayhi minkum walākin lā tub'ṣirūna",
+      "tr": {
+        "fr": "et que Nous sommes plus proche de lui que vous [qui l’entourez] mais vous ne [le] voyez point."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056085.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          870
+        ],
+        [
+          1,
+          2,
+          880,
+          1740
+        ],
+        [
+          2,
+          3,
+          1750,
+          2650
+        ],
+        [
+          3,
+          4,
+          2660,
+          4420
+        ],
+        [
+          4,
+          5,
+          4430,
+          5350
+        ],
+        [
+          5,
+          6,
+          5360,
+          5960
+        ],
+        [
+          6,
+          7,
+          5970,
+          8990
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v86",
+      "ayah": 86,
+      "ar": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+      "translit": "falawlā in kuntum ghayra madīnīna",
+      "tr": {
+        "fr": "Pourquoi donc, si vous croyez que vous n’avez pas de compte à rendre,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056086.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1080
+        ],
+        [
+          1,
+          2,
+          1090,
+          3980
+        ],
+        [
+          2,
+          3,
+          3990,
+          5750
+        ],
+        [
+          3,
+          4,
+          5760,
+          6520
+        ],
+        [
+          4,
+          5,
+          6530,
+          9250
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v87",
+      "ayah": 87,
+      "ar": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "translit": "tarjiʿūnahā in kuntum ṣādiqīna",
+      "tr": {
+        "fr": "ne la faites-vous pas revenir [cette âme], si vous êtes véridiques ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056087.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          3480
+        ],
+        [
+          1,
+          2,
+          3490,
+          4520
+        ],
+        [
+          2,
+          3,
+          4530,
+          6320
+        ],
+        [
+          3,
+          4,
+          6330,
+          9370
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v88",
+      "ayah": 88,
+      "ar": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "translit": "fa-ammā in kāna mina l-muqarabīna",
+      "tr": {
+        "fr": "Si celui-ci est du nombre des rapprochés (d’Allah),"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056088.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2880
+        ],
+        [
+          1,
+          2,
+          2890,
+          4470
+        ],
+        [
+          2,
+          3,
+          4480,
+          5210
+        ],
+        [
+          3,
+          4,
+          5220,
+          5620
+        ],
+        [
+          4,
+          5,
+          5630,
+          9190
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v89",
+      "ayah": 89,
+      "ar": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "translit": "farawḥun warayḥānun wajannatu naʿīmin",
+      "tr": {
+        "fr": "alors (il aura) du repos, de la grâce et un Jardin de délices."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056089.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1110
+        ],
+        [
+          1,
+          2,
+          1120,
+          2880
+        ],
+        [
+          2,
+          3,
+          2890,
+          5820
+        ],
+        [
+          3,
+          4,
+          5830,
+          8520
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v90",
+      "ayah": 90,
+      "ar": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "translit": "wa-ammā in kāna min aṣḥābi l-yamīni",
+      "tr": {
+        "fr": "Et s’il est du nombre des gens de la droite,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056090.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          3180
+        ],
+        [
+          1,
+          2,
+          3190,
+          4480
+        ],
+        [
+          2,
+          3,
+          4490,
+          5260
+        ],
+        [
+          3,
+          4,
+          5270,
+          5730
+        ],
+        [
+          4,
+          5,
+          5740,
+          6830
+        ],
+        [
+          5,
+          6,
+          6840,
+          9750
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v91",
+      "ayah": 91,
+      "ar": "فَسَلَـٰمٌ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "translit": "fasalāmun laka min aṣḥābi l-yamīni",
+      "tr": {
+        "fr": "il sera [accueilli par ces mots] : “Paix à toi” de la part des gens de la droite."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056091.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1200
+        ],
+        [
+          1,
+          2,
+          1210,
+          1800
+        ],
+        [
+          2,
+          3,
+          1810,
+          2210
+        ],
+        [
+          3,
+          4,
+          2220,
+          3320
+        ],
+        [
+          4,
+          5,
+          3330,
+          6380
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v92",
+      "ayah": 92,
+      "ar": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "translit": "wa-ammā in kāna mina l-mukadhibīna l-ḍālīna",
+      "tr": {
+        "fr": "Et s’il est de ceux qui avaient traité de mensonge (la résurrection) et s’étaient égarés,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056092.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1680
+        ],
+        [
+          1,
+          2,
+          1690,
+          4440
+        ],
+        [
+          2,
+          3,
+          4450,
+          5190
+        ],
+        [
+          3,
+          4,
+          5200,
+          5600
+        ],
+        [
+          4,
+          5,
+          5610,
+          7420
+        ],
+        [
+          5,
+          6,
+          7430,
+          13540
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v93",
+      "ayah": 93,
+      "ar": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+      "translit": "fanuzulun min ḥamīmin",
+      "tr": {
+        "fr": "alors, il sera installé dans une eau bouillante,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056093.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2090
+        ],
+        [
+          1,
+          2,
+          2100,
+          2340
+        ],
+        [
+          2,
+          3,
+          2350,
+          5250
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v94",
+      "ayah": 94,
+      "ar": "وَتَصْلِيَةُ جَحِيمٍ",
+      "translit": "wataṣliyatu jaḥīmin",
+      "tr": {
+        "fr": "et il brûlera dans la Fournaise."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056094.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1270
+        ],
+        [
+          1,
+          2,
+          1280,
+          4240
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v95",
+      "ayah": 95,
+      "ar": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+      "translit": "inna hādhā lahuwa ḥaqqu l-yaqīni",
+      "tr": {
+        "fr": "C’est cela la pleine certitude."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056095.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1360
+        ],
+        [
+          1,
+          2,
+          1370,
+          2370
+        ],
+        [
+          2,
+          3,
+          2380,
+          3000
+        ],
+        [
+          3,
+          4,
+          3010,
+          3710
+        ],
+        [
+          4,
+          5,
+          3720,
+          6630
+        ]
+      ],
+      "page": 537
+    },
+    {
+      "id": "al-waqia-v96",
+      "ayah": 96,
+      "ar": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "translit": "fasabbiḥ bi-is'mi rabbika l-ʿaẓīmi",
+      "tr": {
+        "fr": "Glorifie donc le nom de ton Seigneur, le Très Grand !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/056096.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          1100
+        ],
+        [
+          1,
+          2,
+          1110,
+          1620
+        ],
+        [
+          2,
+          3,
+          1630,
+          2590
+        ],
+        [
+          3,
+          4,
+          2600,
+          5830
+        ]
+      ],
+      "page": 537
+    }
+  ]
+}

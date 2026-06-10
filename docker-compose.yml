@@ -1,0 +1,9 @@
+services:
+  noor:
+    build: .
+    image: noor:local
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    volumes:
+      - ./public/content:/app/public/content:ro

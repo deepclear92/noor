@@ -1,0 +1,289 @@
+{
+  "slug": "salat-mashishiyya",
+  "order": 35,
+  "category": "qasaid",
+  "ar": "الصلاة المشيشية",
+  "fr": "Salat al-Mashishiyya",
+  "hint": "Sidi 'Abd al-Salam Ibn Mashish (m. 622 H / 1228)",
+  "author": {
+    "ar": "العارف بالله سيدي عبد السلام بن مشيش",
+    "fr": "Sidi 'Abd al-Salam Ibn Mashish (m. 622 H / 1228)"
+  },
+  "source": "Texte arabe : domaine public · Traduction française : originale (projet Noor)",
+  "description": {
+    "fr": "Célèbre prière sur le Prophète ﷺ de Sidi Ibn Mashish, maître spirituel d'al-Shadhili. Texte concis d'une grande densité métaphysique. Une explication courte est disponible ligne par ligne (activable depuis les réglages).",
+    "ar": "صلاة مشهورة على النبي ﷺ لقطب الصوفية سيدي عبد السلام بن مشيش، شيخ الإمام أبي الحسن الشاذلي"
+  },
+  "videos": [
+    {
+      "label": "Récitation — Dar al-Habib (texte affiché)",
+      "kind": "recitation",
+      "youtube": "jOq4wlTbIJ8"
+    },
+    {
+      "label": "Shaykh Faisal Abdur-Razak — Shadhili Dhikr",
+      "kind": "recitation",
+      "youtube": "GsRH_25Kdv8"
+    },
+    {
+      "label": "Récitation traditionnelle (alt.)",
+      "kind": "recitation",
+      "youtube": "tUm01PKaAdQ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "salat-mashishiyya-001",
+      "num": 1,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ مِنْهُ انْشَقَّتِ الْأَسْرَارُ،",
+      "translit": "Allāhumma ṣalli ʿalā man minhu nshaqqati l-asrār,",
+      "tr": {
+        "fr": "Ô Allah, prie sur celui dont sont jaillis les secrets,"
+      },
+      "explanation": {
+        "fr": "« Les secrets » désignent les connaissances divines et les vérités cachées dont la lumière prophétique a permis le dévoilement."
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-002",
+      "num": 2,
+      "ar": "وَانْفَلَقَتِ الْأَنْوَارُ،",
+      "translit": "wa-nfalaqati l-anwār,",
+      "tr": { "fr": "et dont ont surgi les lumières," },
+      "explanation": { "fr": "« Les lumières » : celles de la foi, de la certitude et de la connaissance divine, manifestées dès l'origine de sa création." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-003",
+      "num": 3,
+      "ar": "وَفِيهِ ارْتَقَتِ الْحَقَائِقُ،",
+      "translit": "wa-fīhi rtaqati l-ḥaqāʾiq,",
+      "tr": { "fr": "et en qui les réalités se sont élevées à leur sommet," },
+      "explanation": { "fr": "Par lui ﷺ les vérités des choses se sont manifestées et le vrai s'est distingué du faux." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-004",
+      "num": 4,
+      "ar": "وَتَنَزَّلَتْ عُلُومُ آدَمَ فَأَعْجَزَ الْخَلَائِقَ،",
+      "translit": "wa-tanazzalat ʿulūmu Ādama fa-aʿjaza l-khalāʾiq,",
+      "tr": { "fr": "sur qui sont descendues les sciences d'Adam au point de stupéfier toutes les créatures," },
+      "explanation": { "fr": "Toutes les sciences accordées à Adam — et davantage — lui ont été conférées, dépassant l'entendement des créatures." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-005",
+      "num": 5,
+      "ar": "وَلَهُ تَضَاءَلَتِ الْفُهُومُ، فَلَمْ يُدْرِكْهُ مِنَّا سَابِقٌ وَلَا لَاحِقٌ.",
+      "translit": "wa-lahu taḍāʾalati l-fuhūm, fa-lam yudrikhu minnā sābiqun wa-lā lāḥiq.",
+      "tr": { "fr": "et devant qui les intellects se rapetissent, si bien qu'aucun parmi nous, antérieur ou postérieur, ne saisit sa réalité." },
+      "explanation": { "fr": "Nul n'embrasse pleinement la station du Prophète ﷺ : sa réalité n'est saisie qu'au jour où le voile sera levé sur les créatures." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-006",
+      "num": 6,
+      "ar": "فَرِيَاضُ الْمَلَكُوتِ بِزَهْرِ جَمَالِهِ مُونِقَةٌ،",
+      "translit": "fa-riyāḍu l-malakūti bi-zahri jamālihi mūniqah,",
+      "tr": { "fr": "Les jardins du Royaume divin sont parés des fleurs de sa beauté," },
+      "explanation": { "fr": "La beauté du Prophète ﷺ orne et illumine les mondes invisibles (le Paradis, le Trône, le Piédestal)." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-007",
+      "num": 7,
+      "ar": "وَحِيَاضُ الْجَبَرُوتِ بِفَيْضِ أَنْوَارِهِ مُتَدَفِّقَةٌ.",
+      "translit": "wa-ḥiyāḍu l-jabarūti bi-fayḍi anwārihi mutadaffiqah.",
+      "tr": { "fr": "et les bassins de la Toute-Puissance débordent du flot de ses lumières." },
+      "explanation": { "fr": "L'effusion incessante de sa lumière irrigue les cœurs des connaissants et des savants sincères." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-008",
+      "num": 8,
+      "ar": "وَلَا شَيْءَ إِلَّا وَهُوَ بِهِ مَنُوطٌ،",
+      "translit": "wa-lā shayʾa illā wa-huwa bihi manūṭ,",
+      "tr": { "fr": "Toute chose lui est suspendue," },
+      "explanation": { "fr": "Aucun être créé — humain, génie, ange, monde sensible ou intelligible — n'existe que par sa médiation." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-009",
+      "num": 9,
+      "ar": "إِذْ لَوْلَا الْوَاسِطَةُ لَذَهَبَ — كَمَا قِيلَ — الْمَوْسُوطُ.",
+      "translit": "idh lawlā l-wāsiṭatu la-dhahaba — kamā qīla — l-mawsūṭ.",
+      "tr": { "fr": "car sans l'intermédiaire, comme on l'a dit, s'évanouirait ce dont il est l'intermédiaire." },
+      "explanation": { "fr": "Allusion au hadith : « N'eût été Muhammad ﷺ, Je n'aurais pas créé les cieux ni la terre. » Il est la cause médiate des deux grâces : l'existence et la subsistance." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-010",
+      "num": 10,
+      "ar": "صَلَاةً تَلِيقُ بِكَ مِنْكَ إِلَيْهِ كَمَا هُوَ أَهْلُهُ.",
+      "translit": "ṣalātan talīqu bika minka ilayhi kamā huwa ahluhu.",
+      "tr": { "fr": "D'une prière digne de Toi, venant de Toi vers lui, comme il en est digne." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-011",
+      "num": 11,
+      "ar": "اللَّهُمَّ إِنَّهُ سِرُّكَ الْجَامِعُ الدَّالُّ عَلَيْكَ،",
+      "translit": "Allāhumma innahu sirruka l-jāmiʿu d-dāllu ʿalayk,",
+      "tr": { "fr": "Ô Allah, il est Ton secret qui rassemble et qui guide vers Toi," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-012",
+      "num": 12,
+      "ar": "وَحِجَابُكَ الْأَعْظَمُ الْقَائِمُ لَكَ بَيْنَ يَدَيْكَ.",
+      "translit": "wa-ḥijābuka l-aʿẓamu l-qāʾimu laka bayna yadayk.",
+      "tr": { "fr": "et Ton voile suprême qui se tient devant Toi pour Toi." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-013",
+      "num": 13,
+      "ar": "اللَّهُمَّ أَلْحِقْنِي بِنَسَبِهِ، وَحَقِّقْنِي بِحَسَبِهِ،",
+      "translit": "Allāhumma alḥiqnī bi-nasabihi, wa-ḥaqqiqnī bi-ḥasabih,",
+      "tr": { "fr": "Ô Allah, rattache-moi à sa lignée et fais-moi participer de sa noblesse," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-014",
+      "num": 14,
+      "ar": "وَعَرِّفْنِي إِيَّاهُ مَعْرِفَةً أَسْلَمُ بِهَا مِنْ مَوَارِدِ الْجَهْلِ،",
+      "translit": "wa-ʿarrifnī iyyāhu maʿrifatan aslamu bihā min mawāridi l-jahl,",
+      "tr": { "fr": "et fais-moi le connaître d'une connaissance par laquelle je suis préservé des sources de l'ignorance," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-015",
+      "num": 15,
+      "ar": "وَأَكْرَعُ بِهَا مِنْ مَوَارِدِ الْفَضْلِ،",
+      "translit": "wa-akraʿu bihā min mawāridi l-faḍl,",
+      "tr": { "fr": "et par laquelle je m'abreuve aux sources de la grâce." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-016",
+      "num": 16,
+      "ar": "وَاحْمِلْنِي عَلَى سَبِيلِهِ إِلَى حَضْرَتِكَ حَمْلًا مَحْفُوفًا بِنُصْرَتِكَ،",
+      "translit": "wa-ḥmilnī ʿalā sabīlihi ilā ḥaḍratika ḥamlan maḥfūfan bi-nuṣratik,",
+      "tr": { "fr": "Porte-moi sur sa voie jusqu'à Ta présence, d'un port entouré de Ton secours," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-017",
+      "num": 17,
+      "ar": "وَاقْذِفْ بِي عَلَى الْبَاطِلِ فَأَدْمَغَهُ،",
+      "translit": "wa-qdhif bī ʿalā l-bāṭili fa-admaghah,",
+      "tr": { "fr": "lance-moi contre le faux pour que je le brise," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-018",
+      "num": 18,
+      "ar": "وَزُجَّ بِي فِي بِحَارِ الْأَحَدِيَّةِ،",
+      "translit": "wa-zujja bī fī biḥāri l-aḥadiyyah,",
+      "tr": { "fr": "plonge-moi dans les océans de l'Unicité," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-019",
+      "num": 19,
+      "ar": "وَانْشُلْنِي مِنْ أَوْحَالِ التَّوْحِيدِ،",
+      "translit": "wa-nshulnī min awḥāli t-tawḥīd,",
+      "tr": { "fr": "tire-moi des bourbiers d'une unicité encore partielle," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-020",
+      "num": 20,
+      "ar": "وَأَغْرِقْنِي فِي عَيْنِ بَحْرِ الْوَحْدَةِ، حَتَّى لَا أَرَى وَلَا أَسْمَعَ وَلَا أَجِدَ وَلَا أُحِسَّ إِلَّا بِهَا.",
+      "translit": "wa-aghriqnī fī ʿayni baḥri l-waḥdah, ḥattā lā arā wa-lā asmaʿa wa-lā ajida wa-lā uḥissa illā bihā.",
+      "tr": { "fr": "et noie-moi dans la source même de l'océan de l'Unité, au point de ne plus voir, entendre, trouver ni ressentir que par elle." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-021",
+      "num": 21,
+      "ar": "وَاجْعَلِ الْحِجَابَ الْأَعْظَمَ حَيَاةَ رُوحِي،",
+      "translit": "wa-jʿali l-ḥijāba l-aʿẓama ḥayāta rūḥī,",
+      "tr": { "fr": "Fais du voile suprême la vie de mon esprit," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-022",
+      "num": 22,
+      "ar": "وَرُوحَهُ سِرَّ حَقِيقَتِي،",
+      "translit": "wa-rūḥahu sirra ḥaqīqatī,",
+      "tr": { "fr": "et de son esprit le secret de ma réalité," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-023",
+      "num": 23,
+      "ar": "وَحَقِيقَتَهُ جَامِعَ عَوَالِمِي،",
+      "translit": "wa-ḥaqīqatahu jāmiʿa ʿawālimī,",
+      "tr": { "fr": "et de sa réalité le rassemblement de tous mes mondes," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-024",
+      "num": 24,
+      "ar": "بِتَحْقِيقِ الْحَقِّ الْأَوَّلِ.",
+      "translit": "bi-taḥqīqi l-ḥaqqi l-awwal.",
+      "tr": { "fr": "par la réalisation de la Vérité Première." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-025",
+      "num": 25,
+      "ar": "يَا أَوَّلُ، يَا آخِرُ، يَا ظَاهِرُ، يَا بَاطِنُ،",
+      "translit": "Yā Awwal, yā Ākhir, yā Ẓāhir, yā Bāṭin,",
+      "tr": { "fr": "Ô Premier, ô Dernier, ô Apparent, ô Caché !" },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-026",
+      "num": 26,
+      "ar": "اسْمَعْ نِدَائِي بِمَا سَمِعْتَ بِهِ نِدَاءَ عَبْدِكَ زَكَرِيَّا،",
+      "translit": "smaʿ nidāʾī bimā samiʿta bihi nidāʾa ʿabdika Zakariyyā,",
+      "tr": { "fr": "Entends mon appel comme Tu as entendu l'appel de Ton serviteur Zacharie ﷺ," },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-027",
+      "num": 27,
+      "ar": "وَانْصُرْنِي بِكَ لَكَ، وَأَيِّدْنِي بِكَ لَكَ، وَاجْمَعْ بَيْنِي وَبَيْنَكَ، وَحُلْ بَيْنِي وَبَيْنَ غَيْرِكَ.",
+      "translit": "wa-nṣurnī bika lak, wa-ayyidnī bika lak, wa-jmaʿ baynī wa-baynak, wa-ḥul baynī wa-bayna ghayrik.",
+      "tr": { "fr": "Secours-moi par Toi pour Toi, soutiens-moi par Toi pour Toi, réunis-moi à Toi et interpose-Toi entre moi et tout ce qui n'est pas Toi." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-028",
+      "num": 28,
+      "ar": "اللهُ، اللهُ، اللهُ.",
+      "translit": "Allāh, Allāh, Allāh.",
+      "tr": { "fr": "Allah, Allah, Allah." },
+      "kind": "prose"
+    },
+    {
+      "id": "salat-mashishiyya-029",
+      "num": 29,
+      "ar": "﴿إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَى مَعَادٍ﴾",
+      "translit": "Inna lladhī faraḍa ʿalayka l-Qurʾāna la-rādduka ilā maʿād.",
+      "tr": { "fr": "« Celui qui t'a prescrit le Coran te ramènera certes au lieu de retour » (Coran 28:85)." },
+      "kind": "verse"
+    },
+    {
+      "id": "salat-mashishiyya-030",
+      "num": 30,
+      "ar": "﴿رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا﴾ (ثلاثًا).",
+      "translit": "Rabbanā ātinā min ladunka raḥmatan wa-hayyiʾ lanā min amrinā rashadā (× 3).",
+      "tr": { "fr": "« Notre Seigneur, accorde-nous de Ta part une miséricorde et oriente notre affaire vers la droiture » (Coran 18:10) — à répéter trois fois." },
+      "kind": "verse"
+    }
+  ]
+}

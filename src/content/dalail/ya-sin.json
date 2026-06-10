@@ -1,0 +1,5537 @@
+{
+  "slug": "ya-sin",
+  "order": 0,
+  "category": "intro",
+  "ar": "سورة يس",
+  "fr": "Sourate Ya-Sin",
+  "hint": "Sourate introductive",
+  "pages": [
+    5,
+    20
+  ],
+  "source": "https://quran.com/ar/36",
+  "audio": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3",
+  "lines": [
+    {
+      "id": "ya-sin-basmala",
+      "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "translit": "Bismi llāhi r-Raḥmāni r-Raḥīm",
+      "tr": {
+        "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux."
+      },
+      "kind": "basmala"
+    },
+    {
+      "id": "ya-sin-v1",
+      "ayah": 1,
+      "ar": "يسٓ",
+      "translit": "ya-seen",
+      "tr": {
+        "fr": "Yâ-Sîn."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036001.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          120,
+          4598
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v2",
+      "ayah": 2,
+      "ar": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+      "translit": "wal-qur'āni l-ḥakīmi",
+      "tr": {
+        "fr": "Par le Coran plein de sagesse."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036002.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1340
+        ],
+        [
+          1,
+          2,
+          1350,
+          4260
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v3",
+      "ayah": 3,
+      "ar": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "translit": "innaka lamina l-mur'salīna",
+      "tr": {
+        "fr": "Tu (Mohammed) es certes du nombre des messagers."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036003.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1570
+        ],
+        [
+          1,
+          2,
+          1580,
+          2100
+        ],
+        [
+          2,
+          3,
+          2110,
+          5390
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v4",
+      "ayah": 4,
+      "ar": "عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translit": "ʿalā ṣirāṭin mus'taqīmin",
+      "tr": {
+        "fr": "sur un chemin droit."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036004.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          570
+        ],
+        [
+          1,
+          2,
+          580,
+          2650
+        ],
+        [
+          2,
+          3,
+          2660,
+          5710
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v5",
+      "ayah": 5,
+      "ar": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "translit": "tanzīla l-ʿazīzi l-raḥīmi",
+      "tr": {
+        "fr": "C’est une révélation de la part du Tout-Puissant, du Très Miséricordieux."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036005.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1910
+        ],
+        [
+          1,
+          2,
+          1920,
+          2930
+        ],
+        [
+          2,
+          3,
+          2940,
+          5990
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v6",
+      "ayah": 6,
+      "ar": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+      "translit": "litundhira qawman mā undhira ābāuhum fahum ghāfilūna",
+      "tr": {
+        "fr": "Pour que tu avertisses un peuple dont les ancêtres n’ont pas été avertis: ils sont donc insouciants."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036006.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1720
+        ],
+        [
+          1,
+          2,
+          1730,
+          2250
+        ],
+        [
+          2,
+          3,
+          2260,
+          5010
+        ],
+        [
+          3,
+          4,
+          5020,
+          6560
+        ],
+        [
+          4,
+          5,
+          6570,
+          9410
+        ],
+        [
+          5,
+          6,
+          9420,
+          9990
+        ],
+        [
+          6,
+          7,
+          10000,
+          13260
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v7",
+      "ayah": 7,
+      "ar": "لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "translit": "laqad ḥaqqa l-qawlu ʿalā aktharihim fahum lā yu'minūna",
+      "tr": {
+        "fr": "En effet, la Parole  contre la plupart d’entre eux s’est réalisée: ils ne croiront donc pas."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036007.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          490
+        ],
+        [
+          1,
+          2,
+          500,
+          1140
+        ],
+        [
+          2,
+          3,
+          1150,
+          1910
+        ],
+        [
+          3,
+          4,
+          1920,
+          3730
+        ],
+        [
+          4,
+          5,
+          3740,
+          4840
+        ],
+        [
+          5,
+          6,
+          4850,
+          5530
+        ],
+        [
+          6,
+          7,
+          5540,
+          5890
+        ],
+        [
+          7,
+          8,
+          5900,
+          8590
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v8",
+      "ayah": 8,
+      "ar": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+      "translit": "innā jaʿalnā fī aʿnāqihim aghlālan fahiya ilā l-adhqāni fahum muq'maḥūna",
+      "tr": {
+        "fr": "Nous mettrons des carcans à leurs cous, et il y en aura jusqu’aux mentons: et voilà qu’ils iront têtes dressées."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036008.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1320
+        ],
+        [
+          1,
+          2,
+          1330,
+          2340
+        ],
+        [
+          2,
+          3,
+          2350,
+          4520
+        ],
+        [
+          3,
+          4,
+          4530,
+          5940
+        ],
+        [
+          4,
+          5,
+          5950,
+          7850
+        ],
+        [
+          5,
+          6,
+          7860,
+          8570
+        ],
+        [
+          6,
+          7,
+          8580,
+          8920
+        ],
+        [
+          7,
+          8,
+          8930,
+          10150
+        ],
+        [
+          8,
+          9,
+          10160,
+          11890
+        ],
+        [
+          9,
+          10,
+          11900,
+          14580
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v9",
+      "ayah": 9,
+      "ar": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+      "translit": "wajaʿalnā min bayni aydīhim saddan wamin khalfihim saddan fa-aghshaynāhum fahum lā yub'ṣirūna",
+      "tr": {
+        "fr": "et Nous mettrons une barrière devant eux et une barrière derrière eux; Nous les recouvrirons d’un voile : et voilà qu’ils ne pourront rien voir."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036009.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1260
+        ],
+        [
+          1,
+          2,
+          1270,
+          2320
+        ],
+        [
+          2,
+          3,
+          2330,
+          2980
+        ],
+        [
+          3,
+          4,
+          2990,
+          4110
+        ],
+        [
+          4,
+          5,
+          4120,
+          4780
+        ],
+        [
+          5,
+          6,
+          4790,
+          6350
+        ],
+        [
+          6,
+          7,
+          6360,
+          7400
+        ],
+        [
+          7,
+          8,
+          7410,
+          9140
+        ],
+        [
+          8,
+          9,
+          9150,
+          10980
+        ],
+        [
+          9,
+          10,
+          10990,
+          11670
+        ],
+        [
+          10,
+          11,
+          11680,
+          11990
+        ],
+        [
+          11,
+          12,
+          12000,
+          14860
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v10",
+      "ayah": 10,
+      "ar": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "translit": "wasawāon ʿalayhim a-andhartahum am lam tundhir'hum lā yu'minūna",
+      "tr": {
+        "fr": "Cela leur est égal que tu les avertisses ou que tu ne les avertisses pas : ils ne croiront jamais."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036010.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2830
+        ],
+        [
+          1,
+          2,
+          2840,
+          3970
+        ],
+        [
+          2,
+          3,
+          3980,
+          6190
+        ],
+        [
+          3,
+          4,
+          6200,
+          6540
+        ],
+        [
+          4,
+          5,
+          6550,
+          6950
+        ],
+        [
+          5,
+          6,
+          6960,
+          8890
+        ],
+        [
+          6,
+          7,
+          8900,
+          9280
+        ],
+        [
+          7,
+          8,
+          9290,
+          12370
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v11",
+      "ayah": 11,
+      "ar": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "translit": "innamā tundhiru mani ittabaʿa l-dhik'ra wakhashiya l-raḥmāna bil-ghaybi fabashir'hu bimaghfiratin wa-ajrin karīmin",
+      "tr": {
+        "fr": "Tu avertis seulement celui qui suit le Rappel (le Coran), et craint le Tout Miséricordieux, malgré qu’il ne Le voit pas. Annonce-lui un pardon et une récompense généreuse."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036011.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1710
+        ],
+        [
+          1,
+          2,
+          1720,
+          3370
+        ],
+        [
+          2,
+          3,
+          3380,
+          3690
+        ],
+        [
+          3,
+          4,
+          3700,
+          4570
+        ],
+        [
+          4,
+          5,
+          4580,
+          5440
+        ],
+        [
+          5,
+          6,
+          5450,
+          6200
+        ],
+        [
+          6,
+          7,
+          6210,
+          7480
+        ],
+        [
+          7,
+          8,
+          7490,
+          10830
+        ],
+        [
+          8,
+          9,
+          10840,
+          12030
+        ],
+        [
+          9,
+          10,
+          12040,
+          13480
+        ],
+        [
+          10,
+          11,
+          13490,
+          16020
+        ],
+        [
+          11,
+          12,
+          16030,
+          19080
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v12",
+      "ayah": 12,
+      "ar": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+      "translit": "innā naḥnu nuḥ'yī l-mawtā wanaktubu mā qaddamū waāthārahum wakulla shayin aḥṣaynāhu fī imāmin mubīnin",
+      "tr": {
+        "fr": "C’est Nous qui ressuscitons les morts et écrivons ce qu’ils ont fait [pour l’au-delà] ainsi que leurs traces . Et Nous avons dénombré toute chose dans un registre explicite."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036012.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1440
+        ],
+        [
+          1,
+          2,
+          1450,
+          2090
+        ],
+        [
+          2,
+          3,
+          2100,
+          2610
+        ],
+        [
+          3,
+          4,
+          2620,
+          3660
+        ],
+        [
+          4,
+          5,
+          3670,
+          4700
+        ],
+        [
+          5,
+          6,
+          4710,
+          5030
+        ],
+        [
+          6,
+          7,
+          5040,
+          6110
+        ],
+        [
+          7,
+          8,
+          6120,
+          8200
+        ],
+        [
+          8,
+          9,
+          8210,
+          8980
+        ],
+        [
+          9,
+          10,
+          8990,
+          9850
+        ],
+        [
+          10,
+          11,
+          9860,
+          11250
+        ],
+        [
+          11,
+          12,
+          11260,
+          12830
+        ],
+        [
+          12,
+          13,
+          12840,
+          14670
+        ],
+        [
+          13,
+          14,
+          14680,
+          16750
+        ]
+      ],
+      "page": 440
+    },
+    {
+      "id": "ya-sin-v13",
+      "ayah": 13,
+      "ar": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَـٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ",
+      "translit": "wa-iḍ'rib lahum mathalan aṣḥāba l-qaryati idh jāahā l-mur'salūna",
+      "tr": {
+        "fr": "Donne-leur comme exemple les habitants de la cité, quand leur vinrent les Envoyés ."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036013.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          820
+        ],
+        [
+          1,
+          2,
+          830,
+          1950
+        ],
+        [
+          2,
+          3,
+          1960,
+          2660
+        ],
+        [
+          3,
+          4,
+          2670,
+          3670
+        ],
+        [
+          4,
+          5,
+          3680,
+          4820
+        ],
+        [
+          5,
+          6,
+          4830,
+          5190
+        ],
+        [
+          6,
+          7,
+          5200,
+          7540
+        ],
+        [
+          7,
+          8,
+          7550,
+          11240
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v14",
+      "ayah": 14,
+      "ar": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+      "translit": "idh arsalnā ilayhimu ith'nayni fakadhabūhumā faʿazzaznā bithālithin faqālū innā ilaykum mur'salūna",
+      "tr": {
+        "fr": "Quand Nous leur envoyâmes deux [envoyés] et qu’ils les traitèrent de menteurs. Nous [les] renforçâmes alors par un troisième et ils dirent : \"Vraiment, nous sommes envoyés à vous.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036014.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          400
+        ],
+        [
+          1,
+          2,
+          410,
+          2880
+        ],
+        [
+          2,
+          3,
+          2890,
+          3810
+        ],
+        [
+          3,
+          4,
+          3820,
+          4640
+        ],
+        [
+          4,
+          5,
+          4650,
+          6490
+        ],
+        [
+          5,
+          6,
+          6500,
+          7960
+        ],
+        [
+          6,
+          7,
+          7970,
+          9930
+        ],
+        [
+          7,
+          8,
+          9940,
+          13900
+        ],
+        [
+          8,
+          9,
+          13910,
+          16220
+        ],
+        [
+          9,
+          10,
+          16230,
+          18630
+        ],
+        [
+          10,
+          11,
+          18640,
+          21400
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v15",
+      "ayah": 15,
+      "ar": "قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَـٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ",
+      "translit": "qālū mā antum illā basharun mith'lunā wamā anzala l-raḥmānu min shayin in antum illā takdhibūna",
+      "tr": {
+        "fr": "Mais ils [les gens] dirent : \"Vous n’êtes que des hommes comme nous. Le Tout Miséricordieux n’a rien fait descendre et vous ne faites que mentir.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036015.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          70,
+          890
+        ],
+        [
+          1,
+          2,
+          900,
+          2630
+        ],
+        [
+          2,
+          3,
+          2640,
+          4180
+        ],
+        [
+          3,
+          4,
+          4190,
+          4990
+        ],
+        [
+          4,
+          5,
+          5000,
+          6540
+        ],
+        [
+          5,
+          6,
+          6550,
+          7480
+        ],
+        [
+          6,
+          7,
+          7490,
+          9430
+        ],
+        [
+          7,
+          8,
+          9440,
+          10730
+        ],
+        [
+          8,
+          9,
+          10740,
+          12000
+        ],
+        [
+          9,
+          10,
+          12010,
+          13110
+        ],
+        [
+          10,
+          11,
+          13120,
+          13960
+        ],
+        [
+          11,
+          12,
+          13970,
+          14350
+        ],
+        [
+          12,
+          13,
+          14360,
+          15950
+        ],
+        [
+          13,
+          14,
+          15960,
+          16710
+        ],
+        [
+          14,
+          15,
+          16720,
+          19500
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v16",
+      "ayah": 16,
+      "ar": "قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ",
+      "translit": "qālū rabbunā yaʿlamu innā ilaykum lamur'salūna",
+      "tr": {
+        "fr": "Ils [les Messagers] dirent : \"Notre Seigneur sait qu’en vérité nous sommes envoyés à vous."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036016.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          790
+        ],
+        [
+          1,
+          2,
+          800,
+          1720
+        ],
+        [
+          2,
+          3,
+          1730,
+          2660
+        ],
+        [
+          3,
+          4,
+          2670,
+          4180
+        ],
+        [
+          4,
+          5,
+          4190,
+          6590
+        ],
+        [
+          5,
+          6,
+          6600,
+          9720
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v17",
+      "ayah": 17,
+      "ar": "وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+      "translit": "wamā ʿalaynā illā l-balāghu l-mubīnu",
+      "tr": {
+        "fr": "et il ne nous incombe que de transmettre clairement (notre message).\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036017.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          80,
+          620
+        ],
+        [
+          1,
+          2,
+          630,
+          2960
+        ],
+        [
+          2,
+          3,
+          2970,
+          3530
+        ],
+        [
+          3,
+          4,
+          3540,
+          4610
+        ],
+        [
+          4,
+          5,
+          4620,
+          7480
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v18",
+      "ayah": 18,
+      "ar": "قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌ",
+      "translit": "qālū innā taṭayyarnā bikum la-in lam tantahū lanarjumannakum walayamassannakum minnā ʿadhābun alīmun",
+      "tr": {
+        "fr": "Ils dirent : \"Nous voyons en vous un mauvais présage. Si vous ne cessez pas, nous vous lapideront et un douloureux châtiment de notre part vous touchera.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036018.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          2360
+        ],
+        [
+          1,
+          2,
+          2370,
+          3660
+        ],
+        [
+          2,
+          3,
+          3670,
+          5150
+        ],
+        [
+          3,
+          4,
+          5160,
+          6370
+        ],
+        [
+          4,
+          5,
+          6380,
+          6770
+        ],
+        [
+          5,
+          6,
+          6780,
+          7290
+        ],
+        [
+          6,
+          7,
+          7300,
+          9170
+        ],
+        [
+          7,
+          8,
+          9180,
+          11580
+        ],
+        [
+          8,
+          9,
+          11590,
+          15300
+        ],
+        [
+          9,
+          10,
+          15310,
+          16610
+        ],
+        [
+          10,
+          11,
+          16620,
+          17740
+        ],
+        [
+          11,
+          12,
+          17750,
+          19870
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v19",
+      "ayah": 19,
+      "ar": "قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+      "translit": "qālū ṭāirukum maʿakum a-in dhukkir'tum bal antum qawmun mus'rifūna",
+      "tr": {
+        "fr": "Ils dirent : \"Votre mauvais présage est avec vous-mêmes. Est-ce ainsi [que vous agissez] quand le rappel vous est fait ? Vous êtes assurément des gens outranciers !\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036019.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          770
+        ],
+        [
+          1,
+          2,
+          780,
+          4400
+        ],
+        [
+          2,
+          3,
+          4410,
+          5730
+        ],
+        [
+          3,
+          4,
+          5740,
+          7010
+        ],
+        [
+          4,
+          5,
+          7020,
+          9080
+        ],
+        [
+          5,
+          6,
+          9090,
+          9480
+        ],
+        [
+          6,
+          7,
+          9490,
+          11080
+        ],
+        [
+          7,
+          8,
+          11090,
+          12980
+        ],
+        [
+          8,
+          9,
+          12990,
+          15830
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v20",
+      "ayah": 20,
+      "ar": "وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌ يَسْعَىٰ قَالَ يَـٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ",
+      "translit": "wajāa min aqṣā l-madīnati rajulun yasʿā qāla yāqawmi ittabiʿū l-mur'salīna",
+      "tr": {
+        "fr": "Et du bout de la ville, un homme vint en toute hâte et il dit : \"Ô mon peuple ! Suivez les Messagers :"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036020.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2280
+        ],
+        [
+          1,
+          2,
+          2290,
+          2630
+        ],
+        [
+          2,
+          3,
+          2640,
+          3370
+        ],
+        [
+          3,
+          4,
+          3380,
+          4500
+        ],
+        [
+          4,
+          5,
+          4510,
+          5930
+        ],
+        [
+          5,
+          6,
+          5940,
+          6730
+        ],
+        [
+          6,
+          7,
+          6740,
+          7360
+        ],
+        [
+          7,
+          8,
+          7370,
+          8420
+        ],
+        [
+          8,
+          9,
+          8430,
+          9270
+        ],
+        [
+          9,
+          10,
+          9280,
+          12370
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v21",
+      "ayah": 21,
+      "ar": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+      "translit": "ittabiʿū man lā yasalukum ajran wahum muh'tadūna",
+      "tr": {
+        "fr": "suivez ceux qui ne vous demandent aucun salaire et qui sont sur la bonne voie."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036021.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          350,
+          1180
+        ],
+        [
+          1,
+          2,
+          1190,
+          1620
+        ],
+        [
+          2,
+          3,
+          1630,
+          1990
+        ],
+        [
+          3,
+          4,
+          2000,
+          3240
+        ],
+        [
+          4,
+          5,
+          3250,
+          3810
+        ],
+        [
+          5,
+          6,
+          3820,
+          6310
+        ],
+        [
+          6,
+          7,
+          6320,
+          9620
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v22",
+      "ayah": 22,
+      "ar": "وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ",
+      "translit": "wamā liya lā aʿbudu alladhī faṭaranī wa-ilayhi tur'jaʿūna",
+      "tr": {
+        "fr": "et qu’aurais-je à ne pas adorer Celui qui m’a créé ? Et c’est vers Lui que vous serez ramenés."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036022.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          640
+        ],
+        [
+          1,
+          2,
+          650,
+          1070
+        ],
+        [
+          2,
+          3,
+          1080,
+          2230
+        ],
+        [
+          3,
+          4,
+          2240,
+          3450
+        ],
+        [
+          4,
+          5,
+          3460,
+          4200
+        ],
+        [
+          5,
+          6,
+          4210,
+          5330
+        ],
+        [
+          6,
+          7,
+          5340,
+          6310
+        ],
+        [
+          7,
+          8,
+          6320,
+          9800
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v23",
+      "ayah": 23,
+      "ar": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدْنِ ٱلرَّحْمَـٰنُ بِضُرٍّ لَّا تُغْنِ عَنِّى شَفَـٰعَتُهُمْ شَيْـًٔا وَلَا يُنقِذُونِ",
+      "translit": "a-attakhidhu min dūnihi ālihatan in yurid'ni l-raḥmānu biḍurrin lā tugh'ni ʿannī shafāʿatuhum shayan walā yunqidhūni",
+      "tr": {
+        "fr": "Prendrais-je en dehors de Lui des divinités ? Si le Tout Miséricordieux me veut du mal, leur intercession ne me servira à rien et ils ne me sauveront pas."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036023.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          1250
+        ],
+        [
+          1,
+          2,
+          1260,
+          2390
+        ],
+        [
+          2,
+          3,
+          2400,
+          4690
+        ],
+        [
+          3,
+          4,
+          4700,
+          5870
+        ],
+        [
+          4,
+          5,
+          5880,
+          6940
+        ],
+        [
+          5,
+          6,
+          6950,
+          7570
+        ],
+        [
+          6,
+          7,
+          7580,
+          8870
+        ],
+        [
+          7,
+          8,
+          8880,
+          9790
+        ],
+        [
+          8,
+          9,
+          9800,
+          10330
+        ],
+        [
+          9,
+          10,
+          10340,
+          10930
+        ],
+        [
+          10,
+          11,
+          10940,
+          12150
+        ],
+        [
+          11,
+          12,
+          12160,
+          13650
+        ],
+        [
+          12,
+          13,
+          13660,
+          14330
+        ],
+        [
+          13,
+          14,
+          14340,
+          15570
+        ],
+        [
+          14,
+          15,
+          15580,
+          18980
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v24",
+      "ayah": 24,
+      "ar": "إِنِّىٓ إِذًا لَّفِى ضَلَـٰلٍ مُّبِينٍ",
+      "translit": "innī idhan lafī ḍalālin mubīnin",
+      "tr": {
+        "fr": "Je serais alors dans un égarement évident."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036024.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          110,
+          2980
+        ],
+        [
+          1,
+          2,
+          2990,
+          3230
+        ],
+        [
+          2,
+          3,
+          3240,
+          4210
+        ],
+        [
+          3,
+          4,
+          4220,
+          6430
+        ],
+        [
+          4,
+          5,
+          6440,
+          9160
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v25",
+      "ayah": 25,
+      "ar": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ",
+      "translit": "innī āmantu birabbikum fa-is'maʿūni",
+      "tr": {
+        "fr": "[Mais] je crois en votre Seigneur, Ecoutez-moi donc.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036025.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          2880
+        ],
+        [
+          1,
+          2,
+          2890,
+          4500
+        ],
+        [
+          2,
+          3,
+          4510,
+          5720
+        ],
+        [
+          3,
+          4,
+          5730,
+          9570
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v26",
+      "ayah": 26,
+      "ar": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+      "translit": "qīla ud'khuli l-janata qāla yālayta qawmī yaʿlamūna",
+      "tr": {
+        "fr": "Alors il [lui] fut dit : \"Entre au Paradis.\" Il dit : \"Ah si seulement mon peuple savait !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036026.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          560
+        ],
+        [
+          1,
+          2,
+          570,
+          1250
+        ],
+        [
+          2,
+          3,
+          1260,
+          3150
+        ],
+        [
+          3,
+          4,
+          3160,
+          3850
+        ],
+        [
+          4,
+          5,
+          3860,
+          4870
+        ],
+        [
+          5,
+          6,
+          4880,
+          5790
+        ],
+        [
+          6,
+          7,
+          5800,
+          9450
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v27",
+      "ayah": 27,
+      "ar": "بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ",
+      "translit": "bimā ghafara lī rabbī wajaʿalanī mina l-muk'ramīna",
+      "tr": {
+        "fr": "... en raison de quoi mon Seigneur m’a pardonné et mis au nombre des honorés.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036027.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          90,
+          720
+        ],
+        [
+          1,
+          2,
+          730,
+          1390
+        ],
+        [
+          2,
+          3,
+          1400,
+          1680
+        ],
+        [
+          3,
+          4,
+          1690,
+          2630
+        ],
+        [
+          4,
+          5,
+          2640,
+          3880
+        ],
+        [
+          5,
+          6,
+          3890,
+          4290
+        ],
+        [
+          6,
+          7,
+          4300,
+          7620
+        ]
+      ],
+      "page": 441
+    },
+    {
+      "id": "ya-sin-v28",
+      "ayah": 28,
+      "ar": "۞ وَمَآ أَنزَلْنَا عَلَىٰ قَوْمِهِۦ مِنۢ بَعْدِهِۦ مِن جُندٍ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ",
+      "translit": "wamā anzalnā ʿalā qawmihi min baʿdihi min jundin mina l-samāi wamā kunnā munzilīna",
+      "tr": {
+        "fr": "Et après lui Nous ne fîmes descendre du ciel aucune armée. Nous ne voulions rien faire descendre sur son peuple."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036028.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          2030
+        ],
+        [
+          1,
+          2,
+          2040,
+          3990
+        ],
+        [
+          2,
+          3,
+          4000,
+          4670
+        ],
+        [
+          3,
+          4,
+          4680,
+          5810
+        ],
+        [
+          4,
+          5,
+          5820,
+          6980
+        ],
+        [
+          5,
+          6,
+          6990,
+          8020
+        ],
+        [
+          6,
+          7,
+          8030,
+          9070
+        ],
+        [
+          7,
+          8,
+          9080,
+          11370
+        ],
+        [
+          8,
+          9,
+          11380,
+          11660
+        ],
+        [
+          9,
+          10,
+          11670,
+          13950
+        ],
+        [
+          10,
+          11,
+          13960,
+          14500
+        ],
+        [
+          11,
+          12,
+          14510,
+          16030
+        ],
+        [
+          12,
+          13,
+          16040,
+          19670
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v29",
+      "ayah": 29,
+      "ar": "إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَـٰمِدُونَ",
+      "translit": "in kānat illā ṣayḥatan wāḥidatan fa-idhā hum khāmidūna",
+      "tr": {
+        "fr": "Ce ne fut qu’un seul Cri et les voilà éteints."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036029.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          130,
+          1070
+        ],
+        [
+          1,
+          2,
+          1080,
+          2010
+        ],
+        [
+          2,
+          3,
+          2020,
+          2830
+        ],
+        [
+          3,
+          4,
+          2840,
+          3810
+        ],
+        [
+          4,
+          5,
+          3820,
+          6870
+        ],
+        [
+          5,
+          6,
+          6880,
+          7750
+        ],
+        [
+          6,
+          7,
+          7760,
+          8180
+        ],
+        [
+          7,
+          8,
+          8190,
+          11470
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v30",
+      "ayah": 30,
+      "ar": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "translit": "yāḥasratan ʿalā l-ʿibādi mā yatīhim min rasūlin illā kānū bihi yastahziūna",
+      "tr": {
+        "fr": "Hélas pour les esclaves [les humains]! Jamais il ne leur vient de messager sans qu’ils ne s’en raillent."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036030.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          1510
+        ],
+        [
+          1,
+          2,
+          1520,
+          1910
+        ],
+        [
+          2,
+          3,
+          1920,
+          5520
+        ],
+        [
+          3,
+          4,
+          5530,
+          5950
+        ],
+        [
+          4,
+          5,
+          5960,
+          7770
+        ],
+        [
+          5,
+          6,
+          7780,
+          7930
+        ],
+        [
+          6,
+          7,
+          7940,
+          9280
+        ],
+        [
+          7,
+          8,
+          9290,
+          10090
+        ],
+        [
+          8,
+          9,
+          10100,
+          10950
+        ],
+        [
+          9,
+          10,
+          10960,
+          11630
+        ],
+        [
+          10,
+          11,
+          11640,
+          15250
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v31",
+      "ayah": 31,
+      "ar": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+      "translit": "alam yaraw kam ahlaknā qablahum mina l-qurūni annahum ilayhim lā yarjiʿūna",
+      "tr": {
+        "fr": "Ne voient-ils pas combien de générations avant eux Nous avons fait périr ? Lesquelles ne retourneront jamais parmi eux."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036031.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          530
+        ],
+        [
+          1,
+          2,
+          540,
+          1220
+        ],
+        [
+          2,
+          3,
+          1230,
+          1650
+        ],
+        [
+          3,
+          4,
+          1660,
+          2870
+        ],
+        [
+          4,
+          5,
+          2880,
+          4700
+        ],
+        [
+          5,
+          6,
+          4710,
+          5010
+        ],
+        [
+          6,
+          7,
+          5020,
+          6080
+        ],
+        [
+          7,
+          8,
+          6090,
+          7740
+        ],
+        [
+          8,
+          9,
+          7750,
+          8790
+        ],
+        [
+          9,
+          10,
+          8800,
+          9170
+        ],
+        [
+          10,
+          11,
+          9180,
+          12080
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v32",
+      "ayah": 32,
+      "ar": "وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ",
+      "translit": "wa-in kullun lammā jamīʿun ladaynā muḥ'ḍarūna",
+      "tr": {
+        "fr": "Et tous sans exception comparaîtront devant Nous."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036032.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1040
+        ],
+        [
+          1,
+          2,
+          1050,
+          2030
+        ],
+        [
+          2,
+          3,
+          2040,
+          3430
+        ],
+        [
+          3,
+          4,
+          3440,
+          4460
+        ],
+        [
+          4,
+          5,
+          4470,
+          5610
+        ],
+        [
+          5,
+          6,
+          5620,
+          9140
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v33",
+      "ayah": 33,
+      "ar": "وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَـٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+      "translit": "waāyatun lahumu l-arḍu l-maytatu aḥyaynāhā wa-akhrajnā min'hā ḥabban famin'hu yakulūna",
+      "tr": {
+        "fr": "Une preuve pour eux est la terre morte, à laquelle Nous redonnons la vie, et d’où Nous faisons sortir des grains dont ils mangent."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036033.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          90,
+          1310
+        ],
+        [
+          1,
+          2,
+          1320,
+          1990
+        ],
+        [
+          2,
+          3,
+          2000,
+          2830
+        ],
+        [
+          3,
+          4,
+          2840,
+          3910
+        ],
+        [
+          4,
+          5,
+          3920,
+          5520
+        ],
+        [
+          5,
+          6,
+          5530,
+          6990
+        ],
+        [
+          6,
+          7,
+          7000,
+          7740
+        ],
+        [
+          7,
+          8,
+          7750,
+          8450
+        ],
+        [
+          8,
+          9,
+          8460,
+          10170
+        ],
+        [
+          9,
+          10,
+          10180,
+          13090
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v34",
+      "ayah": 34,
+      "ar": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ وَفَجَّرْنَا فِيهَا مِنَ ٱلْعُيُونِ",
+      "translit": "wajaʿalnā fīhā jannātin min nakhīlin wa-aʿnābin wafajjarnā fīhā mina l-ʿuyūni",
+      "tr": {
+        "fr": "Nous y avons mis des jardins de palmiers et de vignes et y avons fait jaillir des sources,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036034.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          80,
+          1320
+        ],
+        [
+          1,
+          2,
+          1330,
+          2160
+        ],
+        [
+          2,
+          3,
+          2170,
+          4720
+        ],
+        [
+          3,
+          4,
+          4730,
+          5470
+        ],
+        [
+          4,
+          5,
+          5480,
+          6330
+        ],
+        [
+          5,
+          6,
+          6340,
+          8190
+        ],
+        [
+          6,
+          7,
+          8200,
+          10170
+        ],
+        [
+          7,
+          8,
+          10180,
+          11090
+        ],
+        [
+          8,
+          9,
+          11100,
+          11470
+        ],
+        [
+          9,
+          10,
+          11480,
+          14150
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v35",
+      "ayah": 35,
+      "ar": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+      "translit": "liyakulū min thamarihi wamā ʿamilathu aydīhim afalā yashkurūna",
+      "tr": {
+        "fr": "afin qu’ils mangent de Ses fruits et de ce que leurs mains ont produit . Ne seront-ils pas reconnaissants?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036035.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          1230
+        ],
+        [
+          1,
+          2,
+          1240,
+          2320
+        ],
+        [
+          2,
+          3,
+          2330,
+          3380
+        ],
+        [
+          3,
+          4,
+          3390,
+          3880
+        ],
+        [
+          4,
+          5,
+          3890,
+          5030
+        ],
+        [
+          5,
+          6,
+          5040,
+          6230
+        ],
+        [
+          6,
+          7,
+          6240,
+          7050
+        ],
+        [
+          7,
+          8,
+          7060,
+          9900
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v36",
+      "ayah": 36,
+      "ar": "سُبْحَـٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+      "translit": "sub'ḥāna alladhī khalaqa l-azwāja kullahā mimmā tunbitu l-arḍu wamin anfusihim wamimmā lā yaʿlamūna",
+      "tr": {
+        "fr": "Louange à Celui qui a créé tous les couples de ce que la terre fait pousser, d’eux-mêmes, et de ce qu’ils ne savent pas !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036036.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1080
+        ],
+        [
+          1,
+          2,
+          1090,
+          1880
+        ],
+        [
+          2,
+          3,
+          1890,
+          2540
+        ],
+        [
+          3,
+          4,
+          2550,
+          3800
+        ],
+        [
+          4,
+          5,
+          3810,
+          6040
+        ],
+        [
+          5,
+          6,
+          6050,
+          6380
+        ],
+        [
+          6,
+          7,
+          6390,
+          7880
+        ],
+        [
+          7,
+          8,
+          7890,
+          8700
+        ],
+        [
+          8,
+          9,
+          8710,
+          9250
+        ],
+        [
+          9,
+          10,
+          9260,
+          11150
+        ],
+        [
+          10,
+          11,
+          11160,
+          12910
+        ],
+        [
+          11,
+          12,
+          12920,
+          13250
+        ],
+        [
+          12,
+          13,
+          13260,
+          16030
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v37",
+      "ayah": 37,
+      "ar": "وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ",
+      "translit": "waāyatun lahumu al-laylu naslakhu min'hu l-nahāra fa-idhā hum muẓ'limūna",
+      "tr": {
+        "fr": "Et une preuve pour eux est la nuit, dont Nous dépouillons le jour, et les voilà alors dans les ténèbres."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036037.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          1290
+        ],
+        [
+          1,
+          2,
+          1300,
+          1900
+        ],
+        [
+          2,
+          3,
+          1910,
+          2740
+        ],
+        [
+          3,
+          4,
+          2750,
+          3570
+        ],
+        [
+          4,
+          5,
+          3580,
+          4160
+        ],
+        [
+          5,
+          6,
+          4170,
+          5840
+        ],
+        [
+          6,
+          7,
+          5850,
+          6640
+        ],
+        [
+          7,
+          8,
+          6650,
+          7780
+        ],
+        [
+          8,
+          9,
+          7790,
+          11500
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v38",
+      "ayah": 38,
+      "ar": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "translit": "wal-shamsu tajrī limus'taqarrin lahā dhālika taqdīru l-ʿazīzi l-ʿalīmi",
+      "tr": {
+        "fr": "et le soleil court vers un gîte qui lui est assigné; telle est la détermination du Tout-Puissant, de l’Omniscient."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036038.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          1020
+        ],
+        [
+          1,
+          2,
+          1030,
+          1830
+        ],
+        [
+          2,
+          3,
+          1840,
+          3320
+        ],
+        [
+          3,
+          4,
+          3330,
+          4650
+        ],
+        [
+          4,
+          5,
+          4660,
+          5400
+        ],
+        [
+          5,
+          6,
+          5410,
+          6460
+        ],
+        [
+          6,
+          7,
+          6470,
+          7500
+        ],
+        [
+          7,
+          8,
+          7510,
+          10530
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v39",
+      "ayah": 39,
+      "ar": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+      "translit": "wal-qamara qaddarnāhu manāzila ḥattā ʿāda kal-ʿur'jūni l-qadīmi",
+      "tr": {
+        "fr": "Et la lune, Nous lui avons déterminé des phases jusqu’à ce qu’elle devienne comme la palme vieillie ."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036039.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1060
+        ],
+        [
+          1,
+          2,
+          1070,
+          2540
+        ],
+        [
+          2,
+          3,
+          2550,
+          3540
+        ],
+        [
+          3,
+          4,
+          3550,
+          4390
+        ],
+        [
+          4,
+          5,
+          4400,
+          5020
+        ],
+        [
+          5,
+          6,
+          5030,
+          6500
+        ],
+        [
+          6,
+          7,
+          6510,
+          9240
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v40",
+      "ayah": 40,
+      "ar": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "translit": "lā l-shamsu yanbaghī lahā an tud'rika l-qamara walā al-laylu sābiqu l-nahāri wakullun fī falakin yasbaḥūna",
+      "tr": {
+        "fr": "Le soleil ne peut rattraper la lune, ni la nuit devancer le jour ; et chacun vogue dans une orbite."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036040.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          90,
+          220
+        ],
+        [
+          1,
+          2,
+          230,
+          1060
+        ],
+        [
+          2,
+          3,
+          1070,
+          2680
+        ],
+        [
+          3,
+          4,
+          2690,
+          4460
+        ],
+        [
+          4,
+          5,
+          4470,
+          5310
+        ],
+        [
+          5,
+          6,
+          5320,
+          6160
+        ],
+        [
+          6,
+          7,
+          6170,
+          7040
+        ],
+        [
+          7,
+          8,
+          7050,
+          7380
+        ],
+        [
+          8,
+          9,
+          7390,
+          8210
+        ],
+        [
+          9,
+          10,
+          8220,
+          9100
+        ],
+        [
+          10,
+          11,
+          9110,
+          12890
+        ],
+        [
+          11,
+          12,
+          12900,
+          14730
+        ],
+        [
+          12,
+          13,
+          14740,
+          15170
+        ],
+        [
+          13,
+          14,
+          15180,
+          17010
+        ],
+        [
+          14,
+          15,
+          17020,
+          19720
+        ]
+      ],
+      "page": 442
+    },
+    {
+      "id": "ya-sin-v41",
+      "ayah": 41,
+      "ar": "وَءَايَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "translit": "waāyatun lahum annā ḥamalnā dhurriyyatahum fī l-ful'ki l-mashḥūni",
+      "tr": {
+        "fr": "Et un (autre) signe pour eux est que Nous avons transporté leur descendance sur le bateau chargé  ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036041.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1110
+        ],
+        [
+          1,
+          2,
+          1120,
+          1910
+        ],
+        [
+          2,
+          3,
+          1920,
+          3260
+        ],
+        [
+          3,
+          4,
+          3270,
+          4320
+        ],
+        [
+          4,
+          5,
+          4330,
+          5880
+        ],
+        [
+          5,
+          6,
+          5890,
+          6160
+        ],
+        [
+          6,
+          7,
+          6170,
+          6990
+        ],
+        [
+          7,
+          8,
+          7000,
+          10160
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v42",
+      "ayah": 42,
+      "ar": "وَخَلَقْنَا لَهُم مِّن مِّثْلِهِۦ مَا يَرْكَبُونَ",
+      "translit": "wakhalaqnā lahum min mith'lihi mā yarkabūna",
+      "tr": {
+        "fr": "et Nous leur créâmes des semblables sur lesquels ils montent."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036042.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          1240
+        ],
+        [
+          1,
+          2,
+          1250,
+          2480
+        ],
+        [
+          2,
+          3,
+          2490,
+          3320
+        ],
+        [
+          3,
+          4,
+          3330,
+          4280
+        ],
+        [
+          4,
+          5,
+          4290,
+          4600
+        ],
+        [
+          5,
+          6,
+          4610,
+          7650
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v43",
+      "ayah": 43,
+      "ar": "وَإِن نَّشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنقَذُونَ",
+      "translit": "wa-in nasha nugh'riq'hum falā ṣarīkha lahum walā hum yunqadhūna",
+      "tr": {
+        "fr": "Et si Nous le voulons, Nous les noyons; pour eux alors, pas de secoureur et ils ne seront pas sauvés,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036043.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1280
+        ],
+        [
+          1,
+          2,
+          1290,
+          1870
+        ],
+        [
+          2,
+          3,
+          1880,
+          3030
+        ],
+        [
+          3,
+          4,
+          3040,
+          3670
+        ],
+        [
+          4,
+          5,
+          3680,
+          4570
+        ],
+        [
+          5,
+          6,
+          4580,
+          5220
+        ],
+        [
+          6,
+          7,
+          5230,
+          5780
+        ],
+        [
+          7,
+          8,
+          5790,
+          6210
+        ],
+        [
+          8,
+          9,
+          6220,
+          10040
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v44",
+      "ayah": 44,
+      "ar": "إِلَّا رَحْمَةً مِّنَّا وَمَتَـٰعًا إِلَىٰ حِينٍ",
+      "translit": "illā raḥmatan minnā wamatāʿan ilā ḥīnin",
+      "tr": {
+        "fr": "sauf par une miséricorde de Notre part, et à titre de jouissance pour un temps."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036044.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          790
+        ],
+        [
+          1,
+          2,
+          800,
+          2660
+        ],
+        [
+          2,
+          3,
+          2670,
+          4190
+        ],
+        [
+          3,
+          4,
+          4200,
+          5410
+        ],
+        [
+          4,
+          5,
+          5420,
+          5980
+        ],
+        [
+          5,
+          6,
+          5990,
+          8280
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v45",
+      "ayah": 45,
+      "ar": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+      "translit": "wa-idhā qīla lahumu ittaqū mā bayna aydīkum wamā khalfakum laʿallakum tur'ḥamūna",
+      "tr": {
+        "fr": "Et quand on leur dit : \"Craignez ce qu’il y a devant vous et ce qu’il y a derrière vous afin que vous ayez la miséricorde  !\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036045.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          800
+        ],
+        [
+          1,
+          2,
+          810,
+          1490
+        ],
+        [
+          2,
+          3,
+          1500,
+          1990
+        ],
+        [
+          3,
+          4,
+          2000,
+          2850
+        ],
+        [
+          4,
+          5,
+          2860,
+          3250
+        ],
+        [
+          5,
+          6,
+          3260,
+          3870
+        ],
+        [
+          6,
+          7,
+          3880,
+          5080
+        ],
+        [
+          7,
+          8,
+          5090,
+          5610
+        ],
+        [
+          8,
+          9,
+          5620,
+          6730
+        ],
+        [
+          9,
+          10,
+          6740,
+          7950
+        ],
+        [
+          10,
+          11,
+          7960,
+          11300
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v46",
+      "ayah": 46,
+      "ar": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
+      "translit": "wamā tatīhim min āyatin min āyāti rabbihim illā kānū ʿanhā muʿ'riḍīna",
+      "tr": {
+        "fr": "Or, pas une preuve ne leur vient, parmi les preuves de leur Seigneur sans qu’ils ne s’en détournent."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036046.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          570
+        ],
+        [
+          1,
+          2,
+          580,
+          2440
+        ],
+        [
+          2,
+          3,
+          2450,
+          2710
+        ],
+        [
+          3,
+          4,
+          2720,
+          4350
+        ],
+        [
+          4,
+          5,
+          4360,
+          4640
+        ],
+        [
+          5,
+          6,
+          4650,
+          5650
+        ],
+        [
+          6,
+          7,
+          5660,
+          6700
+        ],
+        [
+          7,
+          8,
+          6710,
+          7470
+        ],
+        [
+          8,
+          9,
+          7480,
+          8360
+        ],
+        [
+          9,
+          10,
+          8370,
+          9140
+        ],
+        [
+          10,
+          11,
+          9150,
+          11930
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v47",
+      "ayah": 47,
+      "ar": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ مُّبِينٍ",
+      "translit": "wa-idhā qīla lahum anfiqū mimmā razaqakumu l-lahu qāla alladhīna kafarū lilladhīna āmanū anuṭ'ʿimu man law yashāu l-lahu aṭʿamahu in antum illā fī ḍalālin mubīnin",
+      "tr": {
+        "fr": "Et quand on leur dit : \"Dépensez de ce qu’Allah vous a attribué\", ceux qui ont mécru disent à ceux qui ont cru : \"Nourrirons- nous quelqu’un qu’Allah aurait nourri s’Il avait voulu ? Vous n’êtes que dans un égarement évident.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036047.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          800
+        ],
+        [
+          1,
+          2,
+          810,
+          1690
+        ],
+        [
+          2,
+          3,
+          1700,
+          2040
+        ],
+        [
+          3,
+          4,
+          2050,
+          3620
+        ],
+        [
+          4,
+          5,
+          3630,
+          5110
+        ],
+        [
+          5,
+          6,
+          5120,
+          6240
+        ],
+        [
+          6,
+          7,
+          6250,
+          7030
+        ],
+        [
+          7,
+          8,
+          7040,
+          7640
+        ],
+        [
+          8,
+          9,
+          7650,
+          8640
+        ],
+        [
+          9,
+          10,
+          8650,
+          12800
+        ],
+        [
+          10,
+          11,
+          12810,
+          13970
+        ],
+        [
+          11,
+          12,
+          13980,
+          15930
+        ],
+        [
+          12,
+          13,
+          15940,
+          16930
+        ],
+        [
+          13,
+          14,
+          16940,
+          17110
+        ],
+        [
+          14,
+          15,
+          17120,
+          17730
+        ],
+        [
+          15,
+          16,
+          17740,
+          19920
+        ],
+        [
+          16,
+          17,
+          19930,
+          20710
+        ],
+        [
+          17,
+          18,
+          20720,
+          23430
+        ],
+        [
+          18,
+          19,
+          23440,
+          23760
+        ],
+        [
+          19,
+          20,
+          23770,
+          25190
+        ],
+        [
+          20,
+          21,
+          25200,
+          25940
+        ],
+        [
+          21,
+          22,
+          25950,
+          26360
+        ],
+        [
+          22,
+          23,
+          26370,
+          28030
+        ],
+        [
+          23,
+          24,
+          28040,
+          30110
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v48",
+      "ayah": 48,
+      "ar": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+      "translit": "wayaqūlūna matā hādhā l-waʿdu in kuntum ṣādiqīna",
+      "tr": {
+        "fr": "Et ils disent : \"A quand cette promesse si vous êtes véridiques ?\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036048.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1470
+        ],
+        [
+          1,
+          2,
+          1480,
+          2120
+        ],
+        [
+          2,
+          3,
+          2130,
+          2720
+        ],
+        [
+          3,
+          4,
+          2730,
+          3560
+        ],
+        [
+          4,
+          5,
+          3570,
+          4590
+        ],
+        [
+          5,
+          6,
+          4600,
+          6190
+        ],
+        [
+          6,
+          7,
+          6200,
+          9370
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v49",
+      "ayah": 49,
+      "ar": "مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+      "translit": "mā yanẓurūna illā ṣayḥatan wāḥidatan takhudhuhum wahum yakhiṣṣimūna",
+      "tr": {
+        "fr": "Ils n’attendent qu’un seul Cri qui les saisira alors qu’ils seront en train de disputer."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036049.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          80,
+          410
+        ],
+        [
+          1,
+          2,
+          420,
+          2350
+        ],
+        [
+          2,
+          3,
+          2360,
+          3120
+        ],
+        [
+          3,
+          4,
+          3130,
+          4820
+        ],
+        [
+          4,
+          5,
+          4830,
+          6580
+        ],
+        [
+          5,
+          6,
+          6590,
+          7880
+        ],
+        [
+          6,
+          7,
+          7890,
+          8460
+        ],
+        [
+          7,
+          8,
+          8470,
+          12090
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v50",
+      "ayah": 50,
+      "ar": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ أَهْلِهِمْ يَرْجِعُونَ",
+      "translit": "falā yastaṭīʿūna tawṣiyatan walā ilā ahlihim yarjiʿūna",
+      "tr": {
+        "fr": "Ils ne pourront donc ni faire de testament, ni retourner chez leurs familles."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036050.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          530
+        ],
+        [
+          1,
+          2,
+          540,
+          2200
+        ],
+        [
+          2,
+          3,
+          2210,
+          3270
+        ],
+        [
+          3,
+          4,
+          3280,
+          5050
+        ],
+        [
+          4,
+          5,
+          5060,
+          6440
+        ],
+        [
+          5,
+          6,
+          6450,
+          9060
+        ],
+        [
+          6,
+          7,
+          9070,
+          11820
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v51",
+      "ayah": 51,
+      "ar": "وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ",
+      "translit": "wanufikha fī l-ṣūri fa-idhā hum mina l-ajdāthi ilā rabbihim yansilūna",
+      "tr": {
+        "fr": "Et on soufflera dans la Trompe, et voilà que, des tombes, ils se précipiteront vers leur Seigneur,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036051.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          880
+        ],
+        [
+          1,
+          2,
+          890,
+          1060
+        ],
+        [
+          2,
+          3,
+          1070,
+          1900
+        ],
+        [
+          3,
+          4,
+          1910,
+          2750
+        ],
+        [
+          4,
+          5,
+          2760,
+          3850
+        ],
+        [
+          5,
+          6,
+          3860,
+          4130
+        ],
+        [
+          6,
+          7,
+          4140,
+          5490
+        ],
+        [
+          7,
+          8,
+          5500,
+          6020
+        ],
+        [
+          8,
+          9,
+          6030,
+          7080
+        ],
+        [
+          9,
+          10,
+          7090,
+          11470
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v52",
+      "ayah": 52,
+      "ar": "قَالُوا۟ يَـٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَـٰذَا مَا وَعَدَ ٱلرَّحْمَـٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ",
+      "translit": "qālū yāwaylanā man baʿathanā min marqadinā hādhā mā waʿada l-raḥmānu waṣadaqa l-mur'salūna",
+      "tr": {
+        "fr": "en disant : \"Malheur à nous ! Qui nous a ressuscités de là où nous dormions ?\" C’est ce que le Tout Miséricordieux avait promis; et les Messagers avaient dit vrai."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036052.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          820
+        ],
+        [
+          1,
+          2,
+          830,
+          2370
+        ],
+        [
+          2,
+          3,
+          2380,
+          3560
+        ],
+        [
+          3,
+          4,
+          3570,
+          4710
+        ],
+        [
+          4,
+          5,
+          4720,
+          4810
+        ],
+        [
+          5,
+          6,
+          4820,
+          7770
+        ],
+        [
+          6,
+          7,
+          7780,
+          8650
+        ],
+        [
+          7,
+          8,
+          8660,
+          9090
+        ],
+        [
+          8,
+          9,
+          9100,
+          9750
+        ],
+        [
+          9,
+          10,
+          9760,
+          11080
+        ],
+        [
+          10,
+          11,
+          11090,
+          11900
+        ],
+        [
+          11,
+          12,
+          11910,
+          15950
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v53",
+      "ayah": 53,
+      "ar": "إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ",
+      "translit": "in kānat illā ṣayḥatan wāḥidatan fa-idhā hum jamīʿun ladaynā muḥ'ḍarūna",
+      "tr": {
+        "fr": "Ce ne sera qu’un seul Cri, et voilà qu’ils seront tous amenés devant Nous."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036053.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1650
+        ],
+        [
+          1,
+          2,
+          1660,
+          2280
+        ],
+        [
+          2,
+          3,
+          2290,
+          3060
+        ],
+        [
+          3,
+          4,
+          3070,
+          4390
+        ],
+        [
+          4,
+          5,
+          4400,
+          7030
+        ],
+        [
+          5,
+          6,
+          7040,
+          7920
+        ],
+        [
+          6,
+          7,
+          7930,
+          8350
+        ],
+        [
+          7,
+          8,
+          8360,
+          9380
+        ],
+        [
+          8,
+          9,
+          9390,
+          10560
+        ],
+        [
+          9,
+          10,
+          10570,
+          13340
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v54",
+      "ayah": 54,
+      "ar": "فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "translit": "fal-yawma lā tuẓ'lamu nafsun shayan walā tuj'zawna illā mā kuntum taʿmalūna",
+      "tr": {
+        "fr": "Ce jour-là, aucune âme ne sera lésée en rien. Et vous ne serez rétribués que selon ce que vous faisiez."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036054.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1080
+        ],
+        [
+          1,
+          2,
+          1090,
+          1430
+        ],
+        [
+          2,
+          3,
+          1440,
+          2320
+        ],
+        [
+          3,
+          4,
+          2330,
+          4080
+        ],
+        [
+          4,
+          5,
+          4090,
+          4780
+        ],
+        [
+          5,
+          6,
+          4790,
+          6440
+        ],
+        [
+          6,
+          7,
+          6450,
+          7510
+        ],
+        [
+          7,
+          8,
+          7520,
+          8360
+        ],
+        [
+          8,
+          9,
+          8370,
+          8730
+        ],
+        [
+          9,
+          10,
+          8740,
+          10590
+        ],
+        [
+          10,
+          11,
+          10600,
+          14200
+        ]
+      ],
+      "page": 443
+    },
+    {
+      "id": "ya-sin-v55",
+      "ayah": 55,
+      "ar": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍ فَـٰكِهُونَ",
+      "translit": "inna aṣḥāba l-janati l-yawma fī shughulin fākihūna",
+      "tr": {
+        "fr": "Les gens du Paradis seront, ce jour-là, dans une occupation qui les remplira de bonheur ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036055.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1890
+        ],
+        [
+          1,
+          2,
+          1900,
+          2960
+        ],
+        [
+          2,
+          3,
+          2970,
+          4880
+        ],
+        [
+          3,
+          4,
+          4890,
+          5730
+        ],
+        [
+          4,
+          5,
+          5740,
+          6200
+        ],
+        [
+          5,
+          6,
+          6210,
+          7850
+        ],
+        [
+          6,
+          7,
+          7860,
+          11200
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v56",
+      "ayah": 56,
+      "ar": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+      "translit": "hum wa-azwājuhum fī ẓilālin ʿalā l-arāiki muttakiūna",
+      "tr": {
+        "fr": "eux et leurs épouses seront sous des ombrages, accoudés sur les divans."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036056.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          490
+        ],
+        [
+          1,
+          2,
+          500,
+          2290
+        ],
+        [
+          2,
+          3,
+          2300,
+          2710
+        ],
+        [
+          3,
+          4,
+          2720,
+          3780
+        ],
+        [
+          4,
+          5,
+          3790,
+          4270
+        ],
+        [
+          5,
+          6,
+          4280,
+          7030
+        ],
+        [
+          6,
+          7,
+          7040,
+          10510
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v57",
+      "ayah": 57,
+      "ar": "لَهُمْ فِيهَا فَـٰكِهَةٌ وَلَهُم مَّا يَدَّعُونَ",
+      "translit": "lahum fīhā fākihatun walahum mā yaddaʿūna",
+      "tr": {
+        "fr": "Là ils auront des fruits et ils auront ce qu’ils réclameront,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036057.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          590
+        ],
+        [
+          1,
+          2,
+          600,
+          1510
+        ],
+        [
+          2,
+          3,
+          1520,
+          2680
+        ],
+        [
+          3,
+          4,
+          2690,
+          5690
+        ],
+        [
+          4,
+          5,
+          5700,
+          6020
+        ],
+        [
+          5,
+          6,
+          6030,
+          9880
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v58",
+      "ayah": 58,
+      "ar": "سَلَـٰمٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ",
+      "translit": "salāmun qawlan min rabbin raḥīmin",
+      "tr": {
+        "fr": "\"Paix [Salâm] !\" Parole de la part d’un Seigneur Très Miséricordieux."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036058.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1770
+        ],
+        [
+          1,
+          2,
+          1780,
+          2500
+        ],
+        [
+          2,
+          3,
+          2510,
+          2550
+        ],
+        [
+          3,
+          4,
+          2560,
+          3530
+        ],
+        [
+          4,
+          5,
+          3540,
+          7710
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v59",
+      "ayah": 59,
+      "ar": "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ",
+      "translit": "wa-im'tāzū l-yawma ayyuhā l-muj'rimūna",
+      "tr": {
+        "fr": "\"Ô injustes ! Tenez-vous à l’écart ce jour- là !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036059.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          70,
+          1160
+        ],
+        [
+          1,
+          2,
+          1170,
+          2010
+        ],
+        [
+          2,
+          3,
+          2020,
+          2880
+        ],
+        [
+          3,
+          4,
+          2890,
+          6800
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v60",
+      "ayah": 60,
+      "ar": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ يَـٰبَنِىٓ ءَادَمَ أَن لَّا تَعْبُدُوا۟ ٱلشَّيْطَـٰنَ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "translit": "alam aʿhad ilaykum yābanī ādama an lā taʿbudū l-shayṭāna innahu lakum ʿaduwwun mubīnun",
+      "tr": {
+        "fr": "Ne vous ai-Je pas engagés, enfants d’Adam, à ne pas adorer le Diable ? Car il est vraiment pour vous un ennemi déclaré,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036060.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          560
+        ],
+        [
+          1,
+          2,
+          570,
+          1420
+        ],
+        [
+          2,
+          3,
+          1430,
+          2440
+        ],
+        [
+          3,
+          4,
+          2450,
+          5060
+        ],
+        [
+          4,
+          5,
+          5070,
+          5860
+        ],
+        [
+          5,
+          6,
+          5870,
+          6080
+        ],
+        [
+          6,
+          7,
+          6090,
+          6690
+        ],
+        [
+          7,
+          8,
+          6700,
+          7600
+        ],
+        [
+          8,
+          9,
+          7610,
+          11770
+        ],
+        [
+          9,
+          10,
+          11780,
+          13440
+        ],
+        [
+          10,
+          11,
+          13450,
+          14030
+        ],
+        [
+          11,
+          12,
+          14040,
+          15780
+        ],
+        [
+          12,
+          13,
+          15790,
+          18950
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v61",
+      "ayah": 61,
+      "ar": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+      "translit": "wa-ani uʿ'budūnī hādhā ṣirāṭun mus'taqīmun",
+      "tr": {
+        "fr": "et [ne vous ai-Je pas engagés] à M’adorer ? Voilà un chemin bien droit."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036061.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          550
+        ],
+        [
+          1,
+          2,
+          560,
+          2440
+        ],
+        [
+          2,
+          3,
+          2450,
+          3250
+        ],
+        [
+          3,
+          4,
+          3260,
+          5370
+        ],
+        [
+          4,
+          5,
+          5380,
+          9060
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v62",
+      "ayah": 62,
+      "ar": "وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيرًا ۖ أَفَلَمْ تَكُونُوا۟ تَعْقِلُونَ",
+      "translit": "walaqad aḍalla minkum jibillan kathīran afalam takūnū taʿqilūna",
+      "tr": {
+        "fr": "Et il a très certainement égaré un grand nombre d’entre vous. Ne raisonniez-vous donc pas ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036062.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          810
+        ],
+        [
+          1,
+          2,
+          820,
+          1690
+        ],
+        [
+          2,
+          3,
+          1700,
+          3060
+        ],
+        [
+          3,
+          4,
+          3070,
+          4700
+        ],
+        [
+          4,
+          5,
+          4710,
+          6530
+        ],
+        [
+          5,
+          6,
+          6540,
+          7260
+        ],
+        [
+          6,
+          7,
+          7270,
+          8340
+        ],
+        [
+          7,
+          8,
+          8350,
+          11800
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v63",
+      "ayah": 63,
+      "ar": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+      "translit": "hādhihi jahannamu allatī kuntum tūʿadūna",
+      "tr": {
+        "fr": "Voici l’Enfer qu’on vous promettait."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036063.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          1070
+        ],
+        [
+          1,
+          2,
+          1080,
+          2810
+        ],
+        [
+          2,
+          3,
+          2820,
+          3590
+        ],
+        [
+          3,
+          4,
+          3600,
+          5240
+        ],
+        [
+          4,
+          5,
+          5250,
+          8350
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v64",
+      "ayah": 64,
+      "ar": "ٱصْلَوْهَا ٱلْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ",
+      "translit": "iṣ'lawhā l-yawma bimā kuntum takfurūna",
+      "tr": {
+        "fr": "Brûlez-y aujourd’hui, pour avoir mécru.\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036064.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1070
+        ],
+        [
+          1,
+          2,
+          1080,
+          1900
+        ],
+        [
+          2,
+          3,
+          1910,
+          2490
+        ],
+        [
+          3,
+          4,
+          2500,
+          4280
+        ],
+        [
+          4,
+          5,
+          4290,
+          7730
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v65",
+      "ayah": 65,
+      "ar": "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ أَفْوَٰهِهِمْ وَتُكَلِّمُنَآ أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "translit": "al-yawma nakhtimu ʿalā afwāhihim watukallimunā aydīhim watashhadu arjuluhum bimā kānū yaksibūna",
+      "tr": {
+        "fr": "Ce jour-là, Nous scellerons leurs bouches, tandis que leurs mains Nous parleront et que leurs jambes témoigneront de ce qu’ils avaient accompli."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036065.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          110,
+          1160
+        ],
+        [
+          1,
+          2,
+          1170,
+          1880
+        ],
+        [
+          2,
+          3,
+          1890,
+          2280
+        ],
+        [
+          3,
+          4,
+          2290,
+          5650
+        ],
+        [
+          4,
+          5,
+          5660,
+          8690
+        ],
+        [
+          5,
+          6,
+          8700,
+          9890
+        ],
+        [
+          6,
+          7,
+          9900,
+          10980
+        ],
+        [
+          7,
+          8,
+          10990,
+          12730
+        ],
+        [
+          8,
+          9,
+          12740,
+          13330
+        ],
+        [
+          9,
+          10,
+          13340,
+          14200
+        ],
+        [
+          10,
+          11,
+          14210,
+          16530
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v66",
+      "ayah": 66,
+      "ar": "وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ",
+      "translit": "walaw nashāu laṭamasnā ʿalā aʿyunihim fa-is'tabaqū l-ṣirāṭa fa-annā yub'ṣirūna",
+      "tr": {
+        "fr": "Et si Nous voulions, Nous effacerions leurs yeux et ils courront vers le chemin. Mais comment alors pourront-ils voir ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036066.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          150,
+          670
+        ],
+        [
+          1,
+          2,
+          680,
+          3270
+        ],
+        [
+          2,
+          3,
+          3280,
+          4390
+        ],
+        [
+          3,
+          4,
+          4400,
+          4760
+        ],
+        [
+          4,
+          5,
+          4770,
+          7690
+        ],
+        [
+          5,
+          6,
+          7700,
+          8720
+        ],
+        [
+          6,
+          7,
+          8730,
+          9740
+        ],
+        [
+          7,
+          8,
+          9750,
+          11400
+        ],
+        [
+          8,
+          9,
+          11410,
+          13970
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v67",
+      "ayah": 67,
+      "ar": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَـٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ",
+      "translit": "walaw nashāu lamasakhnāhum ʿalā makānatihim famā is'taṭāʿū muḍiyyan walā yarjiʿūna",
+      "tr": {
+        "fr": "Et si Nous voulions, Nous les métamorphoserions sur place; alors ils ne sauront ni avancer ni revenir."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036067.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          650
+        ],
+        [
+          1,
+          2,
+          660,
+          2910
+        ],
+        [
+          2,
+          3,
+          2920,
+          4490
+        ],
+        [
+          3,
+          4,
+          4500,
+          5130
+        ],
+        [
+          4,
+          5,
+          5140,
+          6570
+        ],
+        [
+          5,
+          6,
+          6580,
+          6960
+        ],
+        [
+          6,
+          7,
+          6970,
+          8240
+        ],
+        [
+          7,
+          8,
+          8250,
+          9070
+        ],
+        [
+          8,
+          9,
+          9080,
+          10650
+        ],
+        [
+          9,
+          10,
+          10660,
+          13700
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v68",
+      "ayah": 68,
+      "ar": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+      "translit": "waman nuʿammir'hu nunakkis'hu fī l-khalqi afalā yaʿqilūna",
+      "tr": {
+        "fr": "A quiconque Nous accordons une longue vie, Nous faisons baisser sa forme. Ne comprennent-ils donc pas ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036068.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          70,
+          1710
+        ],
+        [
+          1,
+          2,
+          1720,
+          2190
+        ],
+        [
+          2,
+          3,
+          2200,
+          4670
+        ],
+        [
+          3,
+          4,
+          4680,
+          4940
+        ],
+        [
+          4,
+          5,
+          4950,
+          5760
+        ],
+        [
+          5,
+          6,
+          5770,
+          6570
+        ],
+        [
+          6,
+          7,
+          6580,
+          9910
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v69",
+      "ayah": 69,
+      "ar": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+      "translit": "wamā ʿallamnāhu l-shiʿ'ra wamā yanbaghī lahu in huwa illā dhik'run waqur'ānun mubīnun",
+      "tr": {
+        "fr": "Nous ne lui (à Mohammed) avons pas enseigné la poésie ; cela ne lui convient pas non plus. Ceci n’est qu’un rappel et une Lecture [Coran] claire,"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036069.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          40,
+          590
+        ],
+        [
+          1,
+          2,
+          600,
+          2100
+        ],
+        [
+          2,
+          3,
+          2110,
+          2980
+        ],
+        [
+          3,
+          4,
+          2990,
+          3540
+        ],
+        [
+          4,
+          5,
+          3550,
+          5310
+        ],
+        [
+          5,
+          6,
+          5320,
+          6340
+        ],
+        [
+          6,
+          7,
+          6350,
+          6670
+        ],
+        [
+          7,
+          8,
+          6680,
+          7160
+        ],
+        [
+          8,
+          9,
+          7170,
+          7880
+        ],
+        [
+          9,
+          10,
+          7890,
+          9400
+        ],
+        [
+          10,
+          11,
+          9410,
+          11000
+        ],
+        [
+          11,
+          12,
+          11010,
+          14320
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v70",
+      "ayah": 70,
+      "ar": "لِّيُنذِرَ مَن كَانَ حَيًّا وَيَحِقَّ ٱلْقَوْلُ عَلَى ٱلْكَـٰفِرِينَ",
+      "translit": "liyundhira man kāna ḥayyan wayaḥiqqa l-qawlu ʿalā l-kāfirīna",
+      "tr": {
+        "fr": "pour qu’ils avertisse celui qui est vivant et que la Parole se réalise contre les mécréants."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036070.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          90,
+          1850
+        ],
+        [
+          1,
+          2,
+          1860,
+          2930
+        ],
+        [
+          2,
+          3,
+          2940,
+          3560
+        ],
+        [
+          3,
+          4,
+          3570,
+          4230
+        ],
+        [
+          4,
+          5,
+          4240,
+          6220
+        ],
+        [
+          5,
+          6,
+          6230,
+          7000
+        ],
+        [
+          6,
+          7,
+          7010,
+          7440
+        ],
+        [
+          7,
+          8,
+          7450,
+          10740
+        ]
+      ],
+      "page": 444
+    },
+    {
+      "id": "ya-sin-v71",
+      "ayah": 71,
+      "ar": "أَوَلَمْ يَرَوْا۟ أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَآ أَنْعَـٰمًا فَهُمْ لَهَا مَـٰلِكُونَ",
+      "translit": "awalam yaraw annā khalaqnā lahum mimmā ʿamilat aydīnā anʿāman fahum lahā mālikūna",
+      "tr": {
+        "fr": "Ne voient-ils donc pas que, parmi ce que Nos mains ont fait, Nous leur avons créé des bestiaux dont ils sont propriétaires ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036071.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          200,
+          870
+        ],
+        [
+          1,
+          2,
+          880,
+          1570
+        ],
+        [
+          2,
+          3,
+          1580,
+          3100
+        ],
+        [
+          3,
+          4,
+          3110,
+          4200
+        ],
+        [
+          4,
+          5,
+          4210,
+          5650
+        ],
+        [
+          5,
+          6,
+          5660,
+          6990
+        ],
+        [
+          6,
+          7,
+          7000,
+          7900
+        ],
+        [
+          7,
+          8,
+          7910,
+          10230
+        ],
+        [
+          8,
+          9,
+          10240,
+          12290
+        ],
+        [
+          9,
+          10,
+          12300,
+          13000
+        ],
+        [
+          10,
+          11,
+          13010,
+          13660
+        ],
+        [
+          11,
+          12,
+          13670,
+          16200
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v72",
+      "ayah": 72,
+      "ar": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+      "translit": "wadhallalnāhā lahum famin'hā rakūbuhum wamin'hā yakulūna",
+      "tr": {
+        "fr": "et Nous les leurs avons soumis ; certains leur servent de monture et d’autre de nourriture ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036072.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          1850
+        ],
+        [
+          1,
+          2,
+          1860,
+          2400
+        ],
+        [
+          2,
+          3,
+          2410,
+          3480
+        ],
+        [
+          3,
+          4,
+          3490,
+          4830
+        ],
+        [
+          4,
+          5,
+          4840,
+          5830
+        ],
+        [
+          5,
+          6,
+          5840,
+          9200
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v73",
+      "ayah": 73,
+      "ar": "وَلَهُمْ فِيهَا مَنَـٰفِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+      "translit": "walahum fīhā manāfiʿu wamashāribu afalā yashkurūna",
+      "tr": {
+        "fr": "et ils en retirent d’autres utilités et des boissons. Ne seront-ils donc pas reconnaissants ?"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036073.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          120,
+          870
+        ],
+        [
+          1,
+          2,
+          880,
+          1720
+        ],
+        [
+          2,
+          3,
+          1730,
+          2720
+        ],
+        [
+          3,
+          4,
+          2730,
+          3940
+        ],
+        [
+          4,
+          5,
+          3950,
+          4690
+        ],
+        [
+          5,
+          6,
+          4700,
+          8100
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v74",
+      "ayah": 74,
+      "ar": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ",
+      "translit": "wa-ittakhadhū min dūni l-lahi ālihatan laʿallahum yunṣarūna",
+      "tr": {
+        "fr": "Et ils adoptèrent des divinités en dehors d’Allah, dans l’espoir d’être secourus..."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036074.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          100,
+          1260
+        ],
+        [
+          1,
+          2,
+          1270,
+          2370
+        ],
+        [
+          2,
+          3,
+          2380,
+          3020
+        ],
+        [
+          3,
+          4,
+          3030,
+          3850
+        ],
+        [
+          4,
+          5,
+          3860,
+          4880
+        ],
+        [
+          5,
+          6,
+          4890,
+          6240
+        ],
+        [
+          6,
+          7,
+          6250,
+          10090
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v75",
+      "ayah": 75,
+      "ar": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ",
+      "translit": "lā yastaṭīʿūna naṣrahum wahum lahum jundun muḥ'ḍarūna",
+      "tr": {
+        "fr": "Celles-ci ne pourront pas les secourir, elles formeront au contraire une armée dressée contre eux."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036075.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          90,
+          410
+        ],
+        [
+          1,
+          2,
+          420,
+          2100
+        ],
+        [
+          2,
+          3,
+          2110,
+          3070
+        ],
+        [
+          3,
+          4,
+          3080,
+          3680
+        ],
+        [
+          4,
+          5,
+          3690,
+          4260
+        ],
+        [
+          5,
+          6,
+          4270,
+          6800
+        ],
+        [
+          6,
+          7,
+          6810,
+          9880
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v76",
+      "ayah": 76,
+      "ar": "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+      "translit": "falā yaḥzunka qawluhum innā naʿlamu mā yusirrūna wamā yuʿ'linūna",
+      "tr": {
+        "fr": "Que leurs paroles ne t’affligent donc pas! Nous savons ce qu’ils cachent et ce qu’ils divulguent."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036076.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          560
+        ],
+        [
+          1,
+          2,
+          570,
+          2550
+        ],
+        [
+          2,
+          3,
+          2560,
+          4130
+        ],
+        [
+          3,
+          4,
+          4140,
+          5640
+        ],
+        [
+          4,
+          5,
+          5650,
+          6480
+        ],
+        [
+          5,
+          6,
+          6490,
+          6820
+        ],
+        [
+          6,
+          7,
+          6830,
+          8140
+        ],
+        [
+          7,
+          8,
+          8150,
+          8770
+        ],
+        [
+          8,
+          9,
+          8780,
+          11860
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v77",
+      "ayah": 77,
+      "ar": "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ",
+      "translit": "awalam yara l-insānu annā khalaqnāhu min nuṭ'fatin fa-idhā huwa khaṣīmun mubīnun",
+      "tr": {
+        "fr": "L’homme ne voit-il pas que Nous l’avons créé d’une goutte de sperme? Et le voilà [devenu] un adversaire déclaré !"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036077.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          750
+        ],
+        [
+          1,
+          2,
+          760,
+          1200
+        ],
+        [
+          2,
+          3,
+          1210,
+          3310
+        ],
+        [
+          3,
+          4,
+          3320,
+          4640
+        ],
+        [
+          4,
+          5,
+          4650,
+          5910
+        ],
+        [
+          5,
+          6,
+          5920,
+          7040
+        ],
+        [
+          6,
+          7,
+          7050,
+          8670
+        ],
+        [
+          7,
+          8,
+          8680,
+          9530
+        ],
+        [
+          8,
+          9,
+          9540,
+          9940
+        ],
+        [
+          9,
+          10,
+          9950,
+          10830
+        ],
+        [
+          10,
+          11,
+          10840,
+          14430
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v78",
+      "ayah": 78,
+      "ar": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ",
+      "translit": "waḍaraba lanā mathalan wanasiya khalqahu qāla man yuḥ'yī l-ʿiẓāma wahiya ramīmun",
+      "tr": {
+        "fr": "Il cite pour Nous un exemple, tandis qu’il oublie sa propre création; il dit : \"Qui va redonner la vie à des ossements une fois réduits en poussière ?\""
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036078.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          50,
+          850
+        ],
+        [
+          1,
+          2,
+          860,
+          1450
+        ],
+        [
+          2,
+          3,
+          1460,
+          2030
+        ],
+        [
+          3,
+          4,
+          2040,
+          3860
+        ],
+        [
+          4,
+          5,
+          3870,
+          5270
+        ],
+        [
+          5,
+          6,
+          5280,
+          5870
+        ],
+        [
+          6,
+          7,
+          5880,
+          6980
+        ],
+        [
+          7,
+          8,
+          6990,
+          7530
+        ],
+        [
+          8,
+          9,
+          7540,
+          8560
+        ],
+        [
+          9,
+          10,
+          8570,
+          9190
+        ],
+        [
+          10,
+          11,
+          9200,
+          11770
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v79",
+      "ayah": 79,
+      "ar": "قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+      "translit": "qul yuḥ'yīhā alladhī ansha-ahā awwala marratin wahuwa bikulli khalqin ʿalīmun",
+      "tr": {
+        "fr": "Dis : \"Celui qui les a créés une première fois, leur redonnera la vie. Il connaît parfaitement toute la création ;"
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036079.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          30,
+          290
+        ],
+        [
+          1,
+          2,
+          300,
+          1420
+        ],
+        [
+          2,
+          3,
+          1430,
+          3490
+        ],
+        [
+          3,
+          4,
+          3500,
+          6660
+        ],
+        [
+          4,
+          5,
+          6670,
+          7520
+        ],
+        [
+          5,
+          6,
+          7530,
+          8740
+        ],
+        [
+          6,
+          7,
+          8750,
+          9360
+        ],
+        [
+          7,
+          8,
+          9370,
+          10160
+        ],
+        [
+          8,
+          9,
+          10170,
+          11020
+        ],
+        [
+          9,
+          10,
+          11030,
+          13650
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v80",
+      "ayah": 80,
+      "ar": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ",
+      "translit": "alladhī jaʿala lakum mina l-shajari l-akhḍari nāran fa-idhā antum min'hu tūqidūna",
+      "tr": {
+        "fr": "c’est Lui qui, de l’arbre vert, a fait pour vous du feu, et voilà que de cela vous allumez."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036080.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          80,
+          1070
+        ],
+        [
+          1,
+          2,
+          1080,
+          1700
+        ],
+        [
+          2,
+          3,
+          1710,
+          2810
+        ],
+        [
+          3,
+          4,
+          2820,
+          3090
+        ],
+        [
+          4,
+          5,
+          3100,
+          3950
+        ],
+        [
+          5,
+          6,
+          3960,
+          4960
+        ],
+        [
+          6,
+          7,
+          4970,
+          6320
+        ],
+        [
+          7,
+          8,
+          6330,
+          8650
+        ],
+        [
+          8,
+          9,
+          8660,
+          10680
+        ],
+        [
+          9,
+          10,
+          10690,
+          11530
+        ],
+        [
+          10,
+          11,
+          11540,
+          14140
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v81",
+      "ayah": 81,
+      "ar": "أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِقَـٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ",
+      "translit": "awalaysa alladhī khalaqa l-samāwāti wal-arḍa biqādirin ʿalā an yakhluqa mith'lahum balā wahuwa l-khalāqu l-ʿalīmu",
+      "tr": {
+        "fr": "Celui qui a créé les cieux et la Terre ne serait-Il pas capable de créer leur pareil ? Oh que si ! et Il est le grand Créateur, l'Omniscient."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036081.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1030
+        ],
+        [
+          1,
+          2,
+          1040,
+          1780
+        ],
+        [
+          2,
+          3,
+          1790,
+          2430
+        ],
+        [
+          3,
+          4,
+          2440,
+          3920
+        ],
+        [
+          4,
+          5,
+          3930,
+          4870
+        ],
+        [
+          5,
+          6,
+          4880,
+          6040
+        ],
+        [
+          6,
+          7,
+          6050,
+          8230
+        ],
+        [
+          7,
+          8,
+          8240,
+          9280
+        ],
+        [
+          8,
+          9,
+          9290,
+          10010
+        ],
+        [
+          9,
+          10,
+          10020,
+          11590
+        ],
+        [
+          10,
+          11,
+          11600,
+          12720
+        ],
+        [
+          11,
+          12,
+          12730,
+          13340
+        ],
+        [
+          12,
+          13,
+          13350,
+          14590
+        ],
+        [
+          13,
+          14,
+          14600,
+          17610
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v82",
+      "ayah": 82,
+      "ar": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+      "translit": "innamā amruhu idhā arāda shayan an yaqūla lahu kun fayakūnu",
+      "tr": {
+        "fr": "Quand Il veut une chose, Son commandement consiste à dire : \"Sois\", et c’est."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036082.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1980
+        ],
+        [
+          1,
+          2,
+          1990,
+          5790
+        ],
+        [
+          2,
+          3,
+          5800,
+          7860
+        ],
+        [
+          3,
+          4,
+          7870,
+          8630
+        ],
+        [
+          4,
+          5,
+          8640,
+          9150
+        ],
+        [
+          5,
+          6,
+          9160,
+          10700
+        ],
+        [
+          6,
+          7,
+          10710,
+          11370
+        ],
+        [
+          7,
+          8,
+          11380,
+          11920
+        ],
+        [
+          8,
+          9,
+          11930,
+          13340
+        ],
+        [
+          9,
+          10,
+          13350,
+          16610
+        ]
+      ],
+      "page": 445
+    },
+    {
+      "id": "ya-sin-v83",
+      "ayah": 83,
+      "ar": "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+      "translit": "fasub'ḥāna alladhī biyadihi malakūtu kulli shayin wa-ilayhi tur'jaʿūna",
+      "tr": {
+        "fr": "Louange donc, à Celui qui détient en sa main la royauté sur toute chose ! Et c’est vers Lui que vous serez ramenés."
+      },
+      "kind": "verse",
+      "audio": "https://verses.quran.com/Alafasy/mp3/036083.mp3",
+      "audioSegments": [
+        [
+          0,
+          1,
+          60,
+          1210
+        ],
+        [
+          1,
+          2,
+          1220,
+          2100
+        ],
+        [
+          2,
+          3,
+          2110,
+          3130
+        ],
+        [
+          3,
+          4,
+          3140,
+          4160
+        ],
+        [
+          4,
+          5,
+          4170,
+          4810
+        ],
+        [
+          5,
+          6,
+          4820,
+          6560
+        ],
+        [
+          6,
+          7,
+          6570,
+          7660
+        ],
+        [
+          7,
+          8,
+          7670,
+          11670
+        ]
+      ],
+      "page": 445
+    }
+  ]
+}

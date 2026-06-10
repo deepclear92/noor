@@ -1,0 +1,1331 @@
+{
+  "slug": "asma-allah",
+  "order": 6,
+  "category": "preambule",
+  "ar": "أسماء الله الحسنى",
+  "fr": "Les noms d'Allah",
+  "hint": "99 noms divins",
+  "source": "https://www.dalailalkhayrat.com/names.php?names=Allah",
+  "lines": [
+    {
+      "id": "asma-allah-001",
+      "num": 1,
+      "ar": "اللَّهُ جَلَّ جَلَالُهُ",
+      "translit": "Allāh jalla jalāluhu.",
+      "tr": {
+        "id": "Allah",
+        "en": "Allah (Allāh), Glorious and Majestic is He.",
+        "fa": "خدا با شکوه، با عظمت",
+        "fr": "Allah, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-002",
+      "num": 2,
+      "ar": "الرَّحْمَـٰنُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Rahmān jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Pengasih",
+        "en": "The All-Merciful (al-Raḥmān), Glorious and Majestic is He.",
+        "fa": "بسیار مهربانی کننده با شکوه، با عظمت",
+        "fr": "Le Tout-Miséricordieux, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-003",
+      "num": 3,
+      "ar": "الرَّحِيمُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Rahīm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Penyayang",
+        "en": "The Most Merciful (al-Raḥīm), Glorious and Majestic is He.",
+        "fa": "نهایت مهربان با شکوه، با عظمت",
+        "fr": "Le Très-Miséricordieux, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-004",
+      "num": 4,
+      "ar": "المَلِكُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Malik jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Merajai",
+        "en": "The King (al-Malik), Glorious and Majestic is He.",
+        "fa": "پادشاه با شکوه، با عظمت",
+        "fr": "Le Souverain, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-005",
+      "num": 5,
+      "ar": "القُدُّوسُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Quddūs jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Suci",
+        "en": "The All-Holy (al-Quddūs), Glorious and Majestic is He.",
+        "fa": "پاک با شکوه، با عظمت",
+        "fr": "Le Sanctifié, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-006",
+      "num": 6,
+      "ar": "السَّلَـٰمُ جَلَّ جَلَالُهُ",
+      "translit": "As-Salām jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Memberi Keselamatan",
+        "en": "The Flawless Source of Peace (al-Salām), Glorious and Majestic is He.",
+        "fa": "سلامت با شکوه، با عظمت",
+        "fr": "Le Salut, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-007",
+      "num": 7,
+      "ar": "المُؤْمِنُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muʾmin jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Memberi Keamanan",
+        "en": "The Faithful Guardian (al-Mu'min), Glorious and Majestic is He.",
+        "fa": "پناه دهنده با شکوه، با عظمت",
+        "fr": "Le Sécurisant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-008",
+      "num": 8,
+      "ar": "المُهَيْمِنُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muhaymin jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memelihara",
+        "en": "The Supervisor (al-Muhaymin), Glorious and Majestic is He.",
+        "fa": "نگهبان با شکوه، با عظمت",
+        "fr": "Le Prédominant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-009",
+      "num": 9,
+      "ar": "العَزِيزُ جَلَّ جَلَالُهُ",
+      "translit": "Al-ʿAzīz jalla jalāluhu.",
+      "tr": {
+        "id": "Yang dapat Mengalahkan",
+        "en": "The Almighty (al-'Azīz), Glorious and Majestic is He.",
+        "fa": "غالب با شکوه، با عظمت",
+        "fr": "Le Noble dans sa Grandeur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-010",
+      "num": 10,
+      "ar": "الجَبَّارُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Jabbār jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Perkasa",
+        "en": "The All-Compelling (al-Jabbār), Glorious and Majestic is He.",
+        "fa": "بزرگ با شکوه، با عظمت",
+        "fr": "Le Coercitif, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-011",
+      "num": 11,
+      "ar": "المُتَكَبِّرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mutakabbir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mempunyai Kebesaran",
+        "en": "The Haughty (al-Mutakabbir), Glorious and Majestic is He.",
+        "fa": "بسیار بزرگ با شکوه، با عظمت",
+        "fr": "Le Sublime, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-012",
+      "num": 12,
+      "ar": "الخَـٰلِقُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Khāliq jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menciptakan",
+        "en": "The Creator (al-Khāliq), Glorious and Majestic is He.",
+        "fa": "پیدا کننده با شکوه، با عظمت",
+        "fr": "Le Créateur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-013",
+      "num": 13,
+      "ar": "البَارِئُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Bāri’ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Melepaskan",
+        "en": "The Producer (al-Bāri'), Glorious and Majestic is He.",
+        "fa": "قالب سازنده با شکوه، با عظمت",
+        "fr": "Le Dispensateur de la Vie, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-014",
+      "num": 14,
+      "ar": "المُصَوِّرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muṣawwir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang meciptakan Rupa Makhluk",
+        "en": "The Fashioner (al-Muṣawwir), Glorious and Majestic is He.",
+        "fa": "تصویر کننده با شکوه، با عظمت",
+        "fr": "Le Concepteur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-015",
+      "num": 15,
+      "ar": "الغَفَّارُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ghaffār jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Pengampun",
+        "en": "The Oft-Forgiving (al-Ghaffār), Glorious and Majestic is He.",
+        "fa": "بخشنده با شکوه، با عظمت",
+        "fr": "Celui qui Pardonne Beaucoup, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-016",
+      "num": 16,
+      "ar": "القَهَّارُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Qahhār jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Gagah",
+        "en": "The All-Dominant (al-Qahhār), Glorious and Majestic is He.",
+        "fa": "زبردست با شکوه، با عظمت",
+        "fr": "Le Dominateur Absolu, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-017",
+      "num": 17,
+      "ar": "الوَهَّابُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wahhāb jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Memberi",
+        "en": "The Ever-Bestowing (al-Wahhāb), Glorious and Majestic is He.",
+        "fa": "بسیار بخشنده با شکوه، با عظمت",
+        "fr": "Le Très Généreux, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-018",
+      "num": 18,
+      "ar": "الرَّزَّاقُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Razzāq jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memberi Rizqi",
+        "en": "The Provider (al-Razzāq), Glorious and Majestic is He.",
+        "fa": "روزی دهنده با شکوه، با عظمت",
+        "fr": "Celui qui Accorde la Subsistance, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-019",
+      "num": 19,
+      "ar": "الفَتَّاحُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Fattāh jalla jalāluhu.",
+      "tr": {
+        "id": "Pembuka Pintu Rahmat",
+        "en": "The Opener (al-Fattāḥ), Glorious and Majestic is He.",
+        "fa": "بسیار کشاینده با شکوه، با عظمت",
+        "fr": "Celui qui Ouvre les Portes de Tous les Biens, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-020",
+      "num": 20,
+      "ar": "العَلِيمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-ʿAlīm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Mengetahui",
+        "en": "The All-Knowing (al-'Alīm), Glorious and Majestic is He.",
+        "fa": "داننده با شکوه، با عظمت",
+        "fr": "L'Omniscient, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-021",
+      "num": 21,
+      "ar": "القَابِضُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Qābid jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menyempitkan Rizqi",
+        "en": "The Straitener (al-Qābiḍ), Glorious and Majestic is He.",
+        "fa": "تنگی کننده با شکوه، با عظمت",
+        "fr": "Celui qui Retient ses Biens, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-022",
+      "num": 22,
+      "ar": "البَاسِطُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Bāsit jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Melapangkan Rizqi",
+        "en": "The Expander (al-Bāsiṭ), Glorious and Majestic is He.",
+        "fa": "فراخ کننده با شکوه، با عظمت",
+        "fr": "Celui qui Étend ses Largesses, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-023",
+      "num": 23,
+      "ar": "الخَافِضُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Khāfiḍ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Merendahkan Derajat",
+        "en": "The Abaser (al-Khāfiḍ), Glorious and Majestic is He.",
+        "fa": "پست کننده با شکوه، با عظمت",
+        "fr": "Celui qui Abaisse, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-024",
+      "num": 24,
+      "ar": "الرَّافِعُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Rāfiʿ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Meninggikan Derajat",
+        "en": "The Exalter (al-Rāfi'), Glorious and Majestic is He.",
+        "fa": "بلند کننده با شکوه، با عظمت",
+        "fr": "Celui qui Élève, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-025",
+      "num": 25,
+      "ar": "المُعِزُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muʿizz jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memuliakan",
+        "en": "The Honourer (al-Mu'izz), Glorious and Majestic is He.",
+        "fa": "عزت دهنده با شکوه، با عظمت",
+        "fr": "Celui qui Fortifie et Honore, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-026",
+      "num": 26,
+      "ar": "المُذِلُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mudhil jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menghinakan",
+        "en": "The Dishonourer (al-Mudhill), Glorious and Majestic is He.",
+        "fa": "ذلت دهنده با شکوه، با عظمت",
+        "fr": "Celui qui Humilie, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-027",
+      "num": 27,
+      "ar": "السَّمِيعُ جَلَّ جَلَالُهُ",
+      "translit": "As-Samīʿ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Mendengar",
+        "en": "The All-Hearing (al-Samī'), Glorious and Majestic is He.",
+        "fa": "شنوا با شکوه، با عظمت",
+        "fr": "Celui qui Entend Tout, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-028",
+      "num": 28,
+      "ar": "البَصِيرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Baṣīr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Melihat",
+        "en": "The All-Seeing (al-Baṣīr), Glorious and Majestic is He.",
+        "fa": "بینا با شکوه، با عظمت",
+        "fr": "Celui qui Voit Tout, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-029",
+      "num": 29,
+      "ar": "الحَكَمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥakam jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menetapkan Hukum",
+        "en": "The Arbiter (al-Ḥakam), Glorious and Majestic is He.",
+        "fa": "حاکم با شکوه، با عظمت",
+        "fr": "Le Juge, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-030",
+      "num": 30,
+      "ar": "العَدْلُ جَلَّ جَلَالُهُ",
+      "translit": "Al-ʿAdl jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Adil",
+        "en": "The Just (al-'Adl), Glorious and Majestic is He.",
+        "fa": "دادگر با شکوه، با عظمت",
+        "fr": "Le Juste, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-031",
+      "num": 31,
+      "ar": "اللَّطِيفُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Latīf jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Penyantun",
+        "en": "The Subtly Gracious (al-Laṭīf), Glorious and Majestic is He.",
+        "fa": "پاکیزه با شکوه، با عظمت",
+        "fr": "Le Bon dans l'Épreuve, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-032",
+      "num": 32,
+      "ar": "الخَبِيرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Khabīr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Waspada",
+        "en": "The All-Aware (al-Khabīr), Glorious and Majestic is He.",
+        "fa": "خبردار با شکوه، با عظمت",
+        "fr": "Celui qui est Au Courant de Tout, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-033",
+      "num": 33,
+      "ar": "الحَلِيمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥalīm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Penyabar",
+        "en": "The Forbearing (al-Ḥalīm), Glorious and Majestic is He.",
+        "fa": "بردبار با شکوه، با عظمت",
+        "fr": "Le Bienveillant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-034",
+      "num": 34,
+      "ar": "العَظِيمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-ʿAẓīm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Agung",
+        "en": "The Tremendous (al-'Aẓīm), Glorious and Majestic is He.",
+        "fa": "بزرگ تر با شکوه، با عظمت",
+        "fr": "L'Éminent, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-035",
+      "num": 35,
+      "ar": "الغَفُورُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ghafūr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Pengampun",
+        "en": "The Much-Forgiving (al-Ghafūr), Glorious and Majestic is He.",
+        "fa": "بخشنده با شکوه، با عظمت",
+        "fr": "Celui qui Pardonne, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-036",
+      "num": 36,
+      "ar": "الشَّكُورُ جَلَّ جَلَالُهُ",
+      "translit": "Ash-Shakūr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Berterima Kasih",
+        "en": "The Thankful (al-Shakūr), Glorious and Majestic is He.",
+        "fa": "قدردان با شکوه، با عظمت",
+        "fr": "Celui qui Récompense les Bonnes œuvres, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-037",
+      "num": 37,
+      "ar": "العَلِيُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-‘Aliyy jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Tinggi",
+        "en": "The Lofty (al-'Alī), Glorious and Majestic is He.",
+        "fa": "برتر با شکوه، با عظمت",
+        "fr": "Le Très-Haut, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-038",
+      "num": 38,
+      "ar": "الكَبِيرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Kabīr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Besar",
+        "en": "The Immense (al-Kabīr), Glorious and Majestic is He.",
+        "fa": "بسیار بزرگ با شکوه، با عظمت",
+        "fr": "Le Grandiose, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-039",
+      "num": 39,
+      "ar": "الحَفِيظُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥafīẓ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Memelihara",
+        "en": "The All-Preserver (al-Ḥafīẓ), Glorious and Majestic is He.",
+        "fa": "نگاه بدارنده با شکوه، با عظمت",
+        "fr": "Le Protecteur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-040",
+      "num": 40,
+      "ar": "المُقِيتُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muqīt jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Memberi Makan",
+        "en": "The Nourisher (al-Muqīt), Glorious and Majestic is He.",
+        "fa": "قوت دهنده با شکوه، با عظمت",
+        "fr": "Celui qui Nourrit, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-041",
+      "num": 41,
+      "ar": "الحَسِيبُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Hasīb jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Maha Menghitung",
+        "en": "The Reckoner (al-Ḥasīb), Glorious and Majestic is He.",
+        "fa": "کفایت کننده با شکوه، با عظمت",
+        "fr": "Celui qui est Suffisant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-042",
+      "num": 42,
+      "ar": "الجَلِيلُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Jalīl jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memmpunyai Kebesaran",
+        "en": "The All-Glorious (al-Jalīl), Glorious and Majestic is He.",
+        "fa": "بزرگ با شکوه، با عظمت",
+        "fr": "Le Majestueux, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-043",
+      "num": 43,
+      "ar": "الكَرِيمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Karīm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Mulia",
+        "en": "The Generous (al-Karīm), Glorious and Majestic is He.",
+        "fa": "بزرگ با شکوه، با عظمت",
+        "fr": "Le Généreux, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-044",
+      "num": 44,
+      "ar": "الرَّقِيبُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Raqīb jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mengawasi",
+        "en": "The Ever-Watchful (al-Raqīb), Glorious and Majestic is He.",
+        "fa": "نگاه بدارنده با شکوه، با عظمت",
+        "fr": "Celui qui Surveille, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-045",
+      "num": 45,
+      "ar": "المُجِيبُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mujīb jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mengabulkan",
+        "en": "The Responsive (al-Mujīb), Glorious and Majestic is He.",
+        "fa": "قبول کننده با شکوه، با عظمت",
+        "fr": "L'Exauceur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-046",
+      "num": 46,
+      "ar": "الوَاسِعُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wāsi’ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Luas",
+        "en": "The Vast (al-Wāsi'), Glorious and Majestic is He.",
+        "fa": "صاحبِ کشایش با شکوه، با عظمت",
+        "fr": "Le Large et Englobant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-047",
+      "num": 47,
+      "ar": "الحَكِيمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥakīm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Bijaksana",
+        "en": "The All-Wise (al-Ḥakīm), Glorious and Majestic is He.",
+        "fa": "صاحبِ حکمت با شکوه، با عظمت",
+        "fr": "Le Sage, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-048",
+      "num": 48,
+      "ar": "الوَدُودُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wadūd jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mengasihi",
+        "en": "The Loving (al-Wadūd), Glorious and Majestic is He.",
+        "fa": "دوست دارنده با شکوه، با عظمت",
+        "fr": "Celui qui Aime, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-049",
+      "num": 49,
+      "ar": "المَجِيدُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Majīd jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mulia",
+        "en": "The August (al-Majīd), Glorious and Majestic is He.",
+        "fa": "صاحب بزرگی با شکوه، با عظمت",
+        "fr": "Le Glorieux, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-050",
+      "num": 50,
+      "ar": "البَاعِثُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Bāʿith jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Membangkitkan",
+        "en": "The Resurrector (al-Bā'ith), Glorious and Majestic is He.",
+        "fa": "فریسندۂ پیغمبران با شکوه، با عظمت",
+        "fr": "Celui qui Ressucite, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-051",
+      "num": 51,
+      "ar": "الشَّهِيدُ جَلَّ جَلَالُهُ",
+      "translit": "Ash-Shahīd jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Menyaksikan",
+        "en": "The All-Witnessing (al-Shahīd), Glorious and Majestic is He.",
+        "fa": "گواه و حاضر با شکوه، با عظمت",
+        "fr": "Le Témoin, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-052",
+      "num": 52,
+      "ar": "الحَقُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥaqq jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Besar",
+        "en": "The Truth (al-Ḥaqq), Glorious and Majestic is He.",
+        "fa": "مطابق واقع با شکوه، با عظمت",
+        "fr": "Le Vrai, Le Réel, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-053",
+      "num": 53,
+      "ar": "الوَكِيلُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wakīl jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Mengurusi",
+        "en": "The Trustee (al-Wakīl), Glorious and Majestic is He.",
+        "fa": "کارساز با شکوه، با عظمت",
+        "fr": "Le Défenseur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-054",
+      "num": 54,
+      "ar": "القَوِيُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Qawiyy jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Kuat",
+        "en": "The Strong (al-Qawī), Glorious and Majestic is He.",
+        "fa": "بسیار توانا با شکوه، با عظمت",
+        "fr": "Le Fort, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-055",
+      "num": 55,
+      "ar": "المَتِينُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Matīn jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Kokoh",
+        "en": "The Firm (al-Matīn), Glorious and Majestic is He.",
+        "fa": "مضبوط با شکوه، با عظمت",
+        "fr": "L'Inébranlable, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-056",
+      "num": 56,
+      "ar": "الوَلِيُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Waliyy jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Melindungi",
+        "en": "The Protecting Patron (al-Walī), Glorious and Majestic is He.",
+        "fa": "کارگزار با شکوه، با عظمت",
+        "fr": "Le Soutien, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-057",
+      "num": 57,
+      "ar": "الحَمِيدُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥamīd jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Terpuji",
+        "en": "The All-Praiseworthy (al-Ḥamīd), Glorious and Majestic is He.",
+        "fa": "ستوده با شکوه، با عظمت",
+        "fr": "Le Digne de Louanges, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-058",
+      "num": 58,
+      "ar": "المُحْصِي جَلَّ جَلَالُهُ",
+      "translit": "Al-Muhsī jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menghitung",
+        "en": "The Enumerator (al-Muḥṣī), Glorious and Majestic is He.",
+        "fa": "احاطه کننده با شکوه، با عظمت",
+        "fr": "Celui qui Recense Tout, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-059",
+      "num": 59,
+      "ar": "المُبْدِئُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mubdiʾ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mulia",
+        "en": "The Originator (al-Mubdi'), Glorious and Majestic is He.",
+        "fa": "شروع کنندۂ آفرنیش با شکوه، با عظمت",
+        "fr": "Celui qui Donne Commencement, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-060",
+      "num": 60,
+      "ar": "المُعِيدُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muʿīd jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mengembalikan",
+        "en": "The Restorer (al-Mu'īd), Glorious and Majestic is He.",
+        "fa": "باز پیدا کننده با شکوه، با عظمت",
+        "fr": "Celui qui Recommence, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-061",
+      "num": 61,
+      "ar": "المُحْيِي جَلَّ جَلَالُهُ",
+      "translit": "Al-Muhyī jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menhidupkan",
+        "en": "The Life-Giver (al-Muḥyī), Glorious and Majestic is He.",
+        "fa": "زنده کننده با شکوه، با عظمت",
+        "fr": "Celui qui Donne la Vie, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-062",
+      "num": 62,
+      "ar": "المُمِيتُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mumīt jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mematikan",
+        "en": "The Death-Dealer (al-Mumīt), Glorious and Majestic is He.",
+        "fa": "مرده کننده با شکوه، با عظمت",
+        "fr": "Celui qui Donne la Mort, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-063",
+      "num": 63,
+      "ar": "الحَيُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ḥayy jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Hidup",
+        "en": "The Ever-Living (al-Ḥayy), Glorious and Majestic is He.",
+        "fa": "زنده با شکوه، با عظمت",
+        "fr": "Le Vivant, Immortel, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-064",
+      "num": 64,
+      "ar": "القَيُّومُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Qayyūm jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Berdiri Sendiri",
+        "en": "The Self-Sustaining (al-Qayyūm), Glorious and Majestic is He.",
+        "fa": "دارندۂ جهان۔ با شکوه، با عظمت",
+        "fr": "Celui qui Subsiste par Lui-Même, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-065",
+      "num": 65,
+      "ar": "الوَاجِدُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wājid jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menemukan",
+        "en": "The Infinitely Resourceful (al-Wājid), Glorious and Majestic is He.",
+        "fa": "یابنده با شکوه، با عظمت",
+        "fr": "Celui qui Pourvoit à Tout, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-066",
+      "num": 66,
+      "ar": "المَاجِدُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mājid jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mempunyai Kemuliaan",
+        "en": "The Magnificent (al-Mājid), Glorious and Majestic is He.",
+        "fa": "بزرگ با شکوه، با عظمت",
+        "fr": "L'Illustre, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-067",
+      "num": 67,
+      "ar": "الوَاحِدُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wāḥid jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Esa",
+        "en": "The Unique (al-Wāḥid), Glorious and Majestic is He.",
+        "fa": "یکتا با شکوه، با عظمت",
+        "fr": "L'Unique, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-068",
+      "num": 68,
+      "ar": "الصَّمَدُ جَلَّ جَلَالُهُ",
+      "translit": "Aṣ-Ṣamad jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menjadi Tempat Meminta",
+        "en": "The Eternally, Universally Besought (al-Ṣamad), Glorious and Majestic is He.",
+        "fa": "بی نیاز با شکوه، با عظمت",
+        "fr": "L'Eternel qui n'a pas de Besoin, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-069",
+      "num": 69,
+      "ar": "القَادِرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Qādir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Kuasa",
+        "en": "The All-Powerful (al-Qādir), Glorious and Majestic is He.",
+        "fa": "توانا با شکوه، با عظمت",
+        "fr": "Le Tout-Puissant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-070",
+      "num": 70,
+      "ar": "المُقْتَدِرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muqtadir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Sangat Berkuasa",
+        "en": "The All-Determining (al-Muqtadir), Glorious and Majestic is He.",
+        "fa": "صاحبِ قدرت با شکوه، با عظمت",
+        "fr": "L'Omnipotent, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-071",
+      "num": 71,
+      "ar": "المُقَدِّمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muqaddim jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mendahului",
+        "en": "The Bringer Forward (al-Muqaddim), Glorious and Majestic is He.",
+        "fa": "پیشتر کننده با شکوه، با عظمت",
+        "fr": "Celui qui Fait Avancer, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-072",
+      "num": 72,
+      "ar": "المُؤَخِّرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muʾakhkhir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mengakhiri",
+        "en": "The Setter Back (al-Mu'akhkhir), Glorious and Majestic is He.",
+        "fa": "پستر کننده با شکوه، با عظمت",
+        "fr": "Celui qui Retarde, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-073",
+      "num": 73,
+      "ar": "الأَوَّلُ جَلَّ جَلَالُهُ",
+      "translit": "Al-ʾAwwal jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Awal",
+        "en": "The First (al-Awwal), Glorious and Majestic is He.",
+        "fa": "پیشتر  با شکوه، با عظمت",
+        "fr": "Le Premier, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-074",
+      "num": 74,
+      "ar": "الآخِرُ جَلَّ جَلَالُهُ",
+      "translit": "Al-ʾĀkhir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Akhir",
+        "en": "The Last (al-Ākhir), Glorious and Majestic is He.",
+        "fa": "پستر کننده با شکوه، با عظمت",
+        "fr": "Le Dernier, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-075",
+      "num": 75,
+      "ar": "الظَّاهِرُ جَلَّ جَلَالُهُ",
+      "translit": "Aẓ-Ẓāhir jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Zhahir Kekuasaannya",
+        "en": "The Outwardly Manifest (al-Ẓāhir), Glorious and Majestic is He.",
+        "fa": "آشکاره با شکوه، با عظمت",
+        "fr": "L'Apparent, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-076",
+      "num": 76,
+      "ar": "البَاطِنُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Bātin jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Tidak Nampak Dzatnya",
+        "en": "The Inwardly Hidden (al-Bāṭin), Glorious and Majestic is He.",
+        "fa": "پوشیده با شکوه، با عظمت",
+        "fr": "Le Caché, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-077",
+      "num": 77,
+      "ar": "الوَالِي جَلَّ جَلَالُهُ",
+      "translit": "Al-Wālī jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menguasai",
+        "en": "The All-Governing (al-Wālī), Glorious and Majestic is He.",
+        "fa": "کارساز با شکوه، با عظمت",
+        "fr": "Le Maître, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-078",
+      "num": 78,
+      "ar": "المُتَعَالِ جَلَّ جَلَالُهُ",
+      "translit": "Al-Mutaʿali jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Tinggi",
+        "en": "The Exalted (al-Muta'āl), Glorious and Majestic is He.",
+        "fa": "برتر با شکوه، با عظمت",
+        "fr": "Le Transcendant, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-079",
+      "num": 79,
+      "ar": "البَرُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Barr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Baik",
+        "en": "The Beneficent (al-Barr), Glorious and Majestic is He.",
+        "fa": "نکو کار با شکوه، با عظمت",
+        "fr": "Le Magnanime, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-080",
+      "num": 80,
+      "ar": "التَّوَّابُ جَلَّ جَلَالُهُ",
+      "translit": "At-Tawwāb jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Menerima Taubat",
+        "en": "The Oft-Relenting (al-Tawwāb), Glorious and Majestic is He.",
+        "fa": "توبه قبول کننده با شکوه، با عظمت",
+        "fr": "Celui qui Accepte le Repentir, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-081",
+      "num": 81,
+      "ar": "المُنْتَقِمُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muntaqim jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memberi Siksaan",
+        "en": "The Vengeful (al-Muntaqim), Glorious and Majestic is He.",
+        "fa": "عوض دهنده با شکوه، با عظمت",
+        "fr": "Le Vengeur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-082",
+      "num": 82,
+      "ar": "العَفُوُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-‘Afuww jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Pemaaf",
+        "en": "The Eraser of Sins (al-'Afuww), Glorious and Majestic is He.",
+        "fa": "بخشنده با شکوه، با عظمت",
+        "fr": "L'Indulgent, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-083",
+      "num": 83,
+      "ar": "الرَّؤوفُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Ra’ūf jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Belas Kasihan",
+        "en": "The Kindly (al-Ra'ūf), Glorious and Majestic is He.",
+        "fa": "مهربان با شکوه، با عظمت",
+        "fr": "Le Clément, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-084",
+      "num": 84,
+      "ar": "مَالِكُ المُلْكِ جَلَّ جَلَالُهُ",
+      "translit": "Mālikul Mulk jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memiliki Kerajaan",
+        "en": "The Master of Absolute Sovereignty (Mālik al-Mulk), Glorious and Majestic is He.",
+        "fa": "مالکِ جهان با شکوه، با عظمت",
+        "fr": "Le Détenteur de la Souveraineté, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-085",
+      "num": 85,
+      "ar": "ذُو الجَلَالِ وَالإِكْرَامِ جَلَّ جَلَالُهُ",
+      "translit": "Dhul-Jalāli Wal ʾikrām jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mempunyai Keagungan dan Kemuliaan",
+        "en": "The Lord of Majesty and Munificence (Dhūl-Jalāl wal-Ikrām), Glorious and Majestic is He.",
+        "fa": "صاحبِ بزرگی و بخشش با شکوه، با عظمت",
+        "fr": "Le Détenteur de la Majesté et de la Munificence, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-086",
+      "num": 86,
+      "ar": "المُقْسِطُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Muqsit jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Adil",
+        "en": "The Equitable (al-Muqsiṭ), Glorious and Majestic is He.",
+        "fa": "انصاف کننده با شکوه، با عظمت",
+        "fr": "L'Équitable, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-087",
+      "num": 87,
+      "ar": "الجَامِعُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Jāmi’ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Mengumpulkan",
+        "en": "The Bringer Together (al-Jāmi'), Glorious and Majestic is He.",
+        "fa": "جمع کننده با شکوه، با عظمت",
+        "fr": "Le Rassembleur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-088",
+      "num": 88,
+      "ar": "الغَنِيُّ جَلَّ جَلَالُهُ",
+      "translit": "Al-Ghaniyy jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Kaya",
+        "en": "The Self-Sufficient (al-Ghanī), Glorious and Majestic is He.",
+        "fa": "بی حاجت با شکوه، با عظمت",
+        "fr": "Celui qui est Riche De et Par Lui-Même, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-089",
+      "num": 89,
+      "ar": "المُغْنِي جَلَّ جَلَالُهُ",
+      "translit": "Al-Mughni jalla jalāluhu.",
+      "tr": {
+        "id": "Yang memberikan Kekayaan",
+        "en": "The Enricher (al-Mughnī), Glorious and Majestic is He.",
+        "fa": "بی حاجت کننده با شکوه، با عظمت",
+        "fr": "Celui qui Enrichit, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-090",
+      "num": 90,
+      "ar": "المَانِعُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Māni’ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Mempertahankan",
+        "en": "The Withholder and Defender (al-Māni'), Glorious and Majestic is He.",
+        "fa": "باز دارنده با شکوه، با عظمت",
+        "fr": "Celui qui Prive dans le But de Protéger, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-091",
+      "num": 91,
+      "ar": "الضَّارُّ جَلَّ جَلَالُهُ",
+      "translit": "Aḍ-Ḍārr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Membuat Bahaya",
+        "en": "The Causer of Detriment (al-Ḍārr), Glorious and Majestic is He.",
+        "fa": "نقصان دهنده با شکوه، با عظمت",
+        "fr": "Celui qui Cause le Tort, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-092",
+      "num": 92,
+      "ar": "النَّافِعُ جَلَّ جَلَالُهُ",
+      "translit": "An-Nāfi’ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memberi Manfaat",
+        "en": "The Causer of Benefit (al-Nāfi'), Glorious and Majestic is He.",
+        "fa": "نفع دهنده با شکوه، با عظمت",
+        "fr": "Celui qui Cause le Bien, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-093",
+      "num": 93,
+      "ar": "النُّورُ جَلَّ جَلَالُهُ",
+      "translit": "An-Nūr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menjadikan Cahaya",
+        "en": "The Divine Light (al-Nūr), Glorious and Majestic is He.",
+        "fa": "روشن با شکوه، با عظمت",
+        "fr": "La Lumière, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-094",
+      "num": 94,
+      "ar": "الهَادِي جَلَّ جَلَالُهُ",
+      "translit": "Al-Hādī jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Memberi Petunjuk",
+        "en": "The Guide (al-Hādī), Glorious and Majestic is He.",
+        "fa": "راه نما با شکوه، با عظمت",
+        "fr": "Le Guide, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-095",
+      "num": 95,
+      "ar": "البَدِيعُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Badīʿ jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Menciptakan",
+        "en": "The Unique Cause (al-Badī'), Glorious and Majestic is He.",
+        "fa": "نادر پیدا کننده با شکوه، با عظمت",
+        "fr": "L'Initiateur, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-096",
+      "num": 96,
+      "ar": "البَاقِي جَلَّ جَلَالُهُ",
+      "translit": "Al-Bāqī jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Kekal",
+        "en": "The Everlasting (al-Bāqī), Glorious and Majestic is He.",
+        "fa": "همیشه باشنده با شکوه، با عظمت",
+        "fr": "Celui qui Reste et Perdure, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-097",
+      "num": 97,
+      "ar": "الوَارِثُ جَلَّ جَلَالُهُ",
+      "translit": "Al-Wārith jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Kekal Abadi",
+        "en": "The Inheritor (al-Wārith), Glorious and Majestic is He.",
+        "fa": "مالک  با شکوه، با عظمت",
+        "fr": "L'Héritier, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-098",
+      "num": 98,
+      "ar": "الرَّشِيدُ جَلَّ جَلَالُهُ",
+      "translit": "Ar-Rashīd jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Pandai",
+        "en": "The True Guide (al-Rashīd), Glorious and Majestic is He.",
+        "fa": "رست تدبیر کننده با شکوه، با عظمت",
+        "fr": "Celui qui Guide vers le Droit Chemin, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-099",
+      "num": 99,
+      "ar": "الصَّبُورُ جَلَّ جَلَالُهُ",
+      "translit": "Aṣ-Ṣabūr jalla jalāluhu.",
+      "tr": {
+        "id": "Yang Maha Penyabar",
+        "en": "The Most Patient (al-Ṣabūr), Glorious and Majestic is He.",
+        "fa": "بردبار با شکوه، با عظمت",
+        "fr": "Le Patient, Suprême est Sa Majesté"
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-100",
+      "num": 100,
+      "ar": "الَّذِي تَقَدَّسَتْ عَنِ الأَشْبَاهِ ذَاتُهُ، وَتَنَزَّهَتْ عَنْ مُشَابَهَةِ الأَمْثَالِ صِفَاتُهُ. وَاحِدٌ لَا مِنْ قِلَّةٍ وَمَوْجُودٌ لَا مِنْ عِلَّةٍ. بِالبِرِّ مَعْرُوفٌ وَبِالإِحْسَانِ مَوْصُوفٌ. مَعْرُوفٌ بِلَا غَايَةٍ وَمَوْصُوفٌ بِلَا نِهَايَةٍ. أَوَّلٌ بِلَا ابْتِدَاءٍ، وَآخِرٌ بِلَا انْتِهَاءٍ. لَا يُنْسَبُ إِلَيْهِ البَنُونَ، وَلَا يُفْنِيهِ تَدَاوُلُ الأَوْقَاتِ، وَلَا تُوهِنُهُ السِّنُونَ، كُلُّ المَخْلُوقَاتِ قَهْرُ عَظَمَتِهِ، وَأَمْرُهُ بِالكَافِ وَالنُّونِ. بِذِكْرِهِ أَنِسَ المُخْلِصُون، وَبِرُؤْيَتِهِ تَقَرُّ العُيُونُ، وَبِتَوْحِيدِهِ ابْتَهَجَ المُوَحِّدُونَ. هَدَى أَهْلَ طَاعَتِهِ إِلَى صِرَاطٍ مُسْتَقِيمٍ، وَأَبَاحَ أَهْلَ مَحَبَّتِهِ جَنَّاتِ النَّعِيمِ، وَعَلِمَ عَدَدَ أَنْفَاسِ مَخْلُوقَاتِهِ بِعِلْمِهِ القَدِيمِ، وَيَرَى حَرَكَاتِ أَرْجُلِ النَّمْلِ فِي جُنْحِ اللَّيْلِ البَهِيمِ. يُسَبِّحُهُ الطَّائِرُ فِي وَكْرِهِ، وَيُمَجِّدُهُ الوَحْشُ فِي قَفْرِهِ، مُحِيطٌ بِعَمَلِ العَبْدِ سِرِّهِ وَجَهْرِهِ، وَكَفِيلٌ لِلمُؤْمِنِينَ بِتَأيِيدِهِ وَنَصْرِهِ، وَتَطْمَئِنُّ القُلُوبُ الوَجِلَةُ بِذِكْرِهِ وَكَشْفِ ضُرِّهِ، \r\n\r\n\r\n &#64831;\r\nوَمِنْ ءَايَـٰتِهِۦٓ أَنْ تَقُومَ السَّمَآءُ وَالْأَرْضُ بِأَمْرِهِ \r\n &#64830;\r\n،\r\n\r\n أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا وَغَفَرَ ذُنُوبَ الْمُذْنِبِينَ كَرَمًا وَحِلْمًا\r\n\r\n &#64831;\r\n\r\nلَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ\r\n\r\n &#64830;\r\n.",
+      "translit": "Alladhī taqaddasat ʿanil ashbāhi dhātuhu watanazzahat ʿan mushābahatil amthāli ṣifātuhu wāḥidun lā min qillatin wamawjūdun lā min ʿillatin, bilbirri maʿrūfun wabil iḥsāni mawṣūfun maʿrūfun bilā ghāyatin wa mawṣūfun bilā nihāyatin awwalun bilāb tidāʾin wa ākhirun bilāntihāʾin lā yunsabu ilayhil banūna walā yufnīhi tadāwulul awqāti walā tūhinuhus sinūna kullul makhlūqāti qahru ʿaẓamatihi wa amruhu bilkāfi wan nūni bidhikrihi anisal mukhliṣūna wa biruʾyatihi taqarrul ʿuyūnu wa bitawḥīdihibtahajal muwaḥḥidūna hadā ahla ṭāʿatihi ilā ṣirāṭim mustaqīmin wa abāḥa ahla maḥabbatihi jannātin naʿīmi wa ʿalima ʿadada anfāsi makhlūqātihi biʿilmihil qadīmi wa yarā ḥarakāti arjulin namli fī junḥil laylil bahīmu yusabbiḥuhuṭ ṭāʾiru fī wakrihi wa yumajjiduhul waḥshu fī qafrihi muḥīṭun biʿamalil ʿabdi sirrihi wajahrihi wa kafīlun lilmuʾminīna bitaʾyīdihi wa naṣrihi wa taṭmaʾinnul qulūbul wajilatu bidhikrihi wa kashfi ḍurrihi wa min āyātihi an taqūmas samāʾu wal arḍu bi amrihi aḥāṭa bikulli shayʾin ʿilman wa ghafara dhunubal mudhnibīna karaman waḥ ilman laysa kamithlihi shayʾun wa huwas samīʿul baṣīr.",
+      "tr": {
+        "en": "His Essence transcends all likenesses. His Attributes are exalted beyond any possibility of resemblance. He is Unique, not but not in any privative sense. He exists, but not through any cause. He is recognised for goodness, characterised by beneficence. He is recognised beyond all bounds, characterised to an infinite degree. He is First without beginning, and Last without end. No offspring are ascribable to Him. The passage of time does not exhaust Him, nor is He weakened by the [passing] years. All created things are subject to the dominance of His Immensity. His command is exercised by the Command, 'Be!'. The sincere enjoy familiarity with remembrance of Him; the eyes delight in the sight of Him. The adherents of monotheism rejoice in His Oneness. Those who are obedient to Him He guides to a straight path; those who love Him He admits to the Gardens of Bliss. By virtue of His pre-eternal knowledge He knows the number of the breaths of [all] His creatures. He sees the movements of ants' feet in the pitch darkness of night. The birds glorify Him in their nests, and wild animals celebrate His glory in the wilderness. He has complete knowledge of His slaves' actions, be they secret or open. He guarantees the believers His support and His help. Fearful hearts are put at rest by remembrance of Him and the removal of harm on His part. 'Among His Signs is that heaven and earth are sustained by His command.' His knowledge encompasses all things. He forgives wrong actions of those who commit them, out of generosity and forbearance. 'There is nothing like Him, and He is the All-Hearing, All-Seeing.'",
+        "fr": "Celui qui est sanctifié des ressemblances et qui s'abstient de la ressemblance de ces attributs, il est le seul au monde qui existe sans ressemblance et sans aucun défaut, celui qui est reconnu par sa justice et décrit par sa charité, reconnu sans but et décrit sans fin, il est le premier qui existe sans début et le dernier qui existera sans fin, les enfants ne lui sont pas attribués et la circulation des temps et des années ne l'affaiblit pas du tout, toutes les créatures conquièrent sa grandeur. Il suffit d'un simple ordre de sa part pour faire créer tout ce qu’il veut, en le mentionnant les fidèles ne sentent plus seul, en le voyant les yeux expriment la joie, les monothéistes se réjouirent de leur monothéisme. Celui qui a guider ceux qui lui culte au bon chemin et a offert ceux qui l'aime l'accès au paradis. Celui qui connaît le nombre des souffles de ses créatures avec sa propre ancienne connaissance, qui voit les mouvements des fourmis même lors des plus sombres nuits. Celui lequel l’oiseau le glorifie de son nid et les animaux le glorifie de leur propre endroit. Celui qui est entouré par les bonnes actions de ses serviteurs qui apparaissent dans leurs propres visages et un garant pour les croyants avec son soutien et sa victoire. Celui qui remplie les cœurs robustes avec plein de tendresse juste en le mentionnant. Celui qui est parfait. L’un de ses miracles les cieux et les terres ne tombent pas sauf d'un accord de sa part. Celui qui connaît tout et absout les péchés par générosité. Il n'y a rien qui lui ressemble, et c'est Lui qui entend et voit (toutes choses)."
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-101",
+      "num": 101,
+      "ar": "اللَّهُمَّ\nاكْفِنَا السُّوءَ بِمَا شِئْتَ وَكَيْفَ شِئْتَ إِنَّكَ عَلَى مَا تَشَاءُ قَدِيرٌ (3)\n.\n\t\t\t\t\nيَا نِعْمَ المَوْلَى وَيَا نِعْمَ النَّصِيرُ، غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ المَصِيرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا باللَّهِ العَلِيِّ العَظِيمِ. سُبْحَانَكَ لَا نُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ، جَلَّ وَجْهُكَ وَعَزَّ جَاهُكَ، يَفْعَلُ اللَّهُ مَا يَشَاءُ بِقُدْرَتِهِ وَيَحْكُمُ مَا يُرِيدُ بِعِزَّتِهِ. يَا حَيُّ يَا قَيُّومُ يَا بَدِيعَ السَّمَاوَاتِ وَالأَرْضِ، يَا ذَا الجَلَالِ وَالإِكْرَامِ، لَا إِلَهَ إِلَّا أَنْتَ بِرَحْمَتِكَ نَسْتَغِيثُ، وَمِنْ عَذَابِكَ نَسْتَجِيرُ، يَا غِيَاثَ المُسْتَغِيثِينَ لَا إِلَهَ إِلَّا أَنْتَ بِجَاهِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَغِثْنَا وَارْحَمْنَا. رَحْمَةُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ البَيْتِ إِنَّهُ حَمِيدٌ مَجِيدٌ: \n\n\t\n\t\t&#64831;\n\t\t\nإِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا\n\t\t\n\t\t\t\t\n\t\t\t\t&#64830; \n\t\t;\n\t\t\n\t&#64831;إِنَّ اللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى النَّبِىِّ ۚ يَـٰٓأَيُّهَا الَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيمًا&#64830;\n .",
+      "translit": "Allāhummakfinās sūʾa bimā shiʾta wa kayfa shiʾta innaka ʿalā mā tashāʾu qadīrun (3) yā niʿmal mawlā wa yā niʿman naṣīr ghufrānaka rabbanā wa ilaykal maṣīr wā lā ḥawla wā lā quwwata illā biLlahil ʿaliyyil ʿaẓīm. Subḥānaka lā nuḥṣī thanāʾan ʿalayka ʾanta kamāthnayta ʿalā nafsika jalla wajhuka waʿazza jāhuka yafʿaluLlāhu mā yashāʾu biqudratihi wa yaḥkumu mā yurīdu biʿizzatihi. Yā ḥayyu yā qayyūm yā badīʿas samāwāti wal arḍi yā dhāl jalāli wal ikrāmi lā ilāha illā anta biraḥmatika nastaghīthu wa min ʿadhabika nastajīru yā ghayyāthal mustaghīthīna lā ilāha illā anta bijāhi sayyidinā Muḥammadin ṣallAllāhu ʿalayhi wasallama aghithnā warḥamnā. RaḥmatuLlāhi wa barakātuhu ʿalaykum ahlal bayti innahu ḥamīdun majīdun:  innamā yurīduLlāhu liyudh-hiba ʿankumur rijsa ahlal bayti wa yuṭahhirakum taṭhīran; innaLlāha wamalāʾikatahu yuṣallūna ʿalān nabiyyi yā ayyuhāl ladhīna āmanū ṣallū ʿalayhi wasallimū taslīman.",
+      "tr": {
+        "en": "O Allah, protect us from evil by whatever means You will and as You will. You have the power to do whatever You wish (x3). O Most Excellent Protector, O Most Excellent Helper, '[Grant us] Your forgiveness, our Lord; and to You is the return.' There is no power or strength except by Allah, the Lofty, the Almighty. Incomparably Perfect are You. We cannot enumerate Your praise; You are as You have praised Yourself. Majestic is Your Countenance and exalted is Your Dignity. Allah does as He wishes by His Infinite Power, and He decrees as He wills by His Might. O Ever-Living, Self-Sustaining One, O Originator of the heavens and the earth, O Lord of Majesty and Honour, there is no God but You. We ask for help by Your mercy, and we ask for protection from Your punishment, O Succourer of those who ask for succour, there is no God but You. By the rank of our Master Muḥammad, may Allah exalt and preserve him, succour us and show us mercy. 'The mercy and blessings of Allah be upon you, People of the House. He is All-Praiseworthy, All-Glorious.' 'Allah desires but to rid you, People of the House, of all impurity, and to purify you completely.' 'Allah and His angels exalt the Prophet. O you who believe, exalt him and invoke abundant salutations upon him.'",
+        "fr": "Ô Allah, protège nous du mal, comme et comment tu veux, tu es capable de faire ce que tu veux (3 fois). Ô le meilleur protecteur, Ô le meilleur assistant, pardonne nous notre dieu, tu es notre dernier destination. Il n’ya ni force ni puissance plus forte que celle de dieu le plus haut, le plus immense. Gloire à Allah, on ne peut compter tes louanges comme tu tu lou, ton visage est plein de majesté et ton honeur est à la hauteur, Allah fait ce qu'Il veut de Sa puissance et gouverne ce qu'Il désire. Ô immortel, Ô Vigilant Perpétuel, Ô Créateur des cieux et de la terre, Ô Détenteur de la Majesté et la Munificence, il n'y a de Dieu que toi. Notre seul soulagement est ta miséricorde. Nous te demandons de nous sauver de tes sanctions. Ô celui qui aide ceux qui lui demande de l’aide. Il n’ya de Dieu que toi. Par l’honneur de sayidina Muhammad, de nous offrir ton soutien et ta miséricorde. Que la miséricorde d'Allah et ses bénédictions soient sur vous, gens de la maison. Il est louable et glorieux. Allah ne veut que vous débarrasser de toute souillure, ô gens de la maison [du Prophète], et vous purifier pleinement. Certes, Allah et Ses Anges prient sur le Prophète; ô vous qui croyez priez sur lui et adresses [lui] vos salutations."
+      },
+      "kind": "prose"
+    },
+    {
+      "id": "asma-allah-102",
+      "num": 102,
+      "ar": "اللَّهُمَّ \n\n صَلِّ أَفْضَلَ صَلَاةٍ عَلَى أَسْعَدِ مَخْلُوقَاتِكَ سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ عَدَدَ مَعْلُومَاتِكَ وَمِدَادَ كَلِمَاتِكَ كُلَّمَا ذَكَرَكَ الذَّاكِرُونَ وَغَفَلَ عَنْ \nذِكْرِهِ الْغَافِلُونَ.",
+      "translit": "Allāhumma ṣalli afḍala ṣalātin ʿalā asʿadi makhlūqātika Sayyidinā Muḥammadin wa ʿalā ʾālihi wa ṣaḥbihi wa sallim ʿadada maʿlūmātika wa midāda kalimātika kullamā dhakarakadh dhākirūna wa ghafala ʿan dhikrihil ghāfilūn.",
+      "tr": {
+        "en": "O Allah, bestow the finest of exaltation and salutation upon the most fortunate of Your creatures, our Master Muḥammad, and upon his Family and Companions – in number as great as all the objects of Your knowledge and the ink of Your Words – whenever the mindful remember You and the heedless neglect You.",
+        "fr": "Ô Allah, envoie les meilleures bénédictions à la plus heureuse de tes créatures, Sayyidina Muhammad et à sa famille et ses compagnons, et accorde-lui la paix en nombre aussi grand que ce que tu sais, et aux nombres de Tes mots quand ceux qui font le dhikr te mentionne; et ceux qui te négligent, négligent."
+      },
+      "kind": "prose"
+    }
+  ]
+}

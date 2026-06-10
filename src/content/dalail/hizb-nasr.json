@@ -1,0 +1,239 @@
+{
+  "slug": "hizb-nasr",
+  "order": 38,
+  "category": "qasaid",
+  "ar": "حزب النصر",
+  "fr": "Hizb an-Nasr",
+  "hint": "Sidi 'Abd al-Qādir al-Jīlānī",
+  "author": {
+    "ar": "الإمام عبد القادر الجيلاني",
+    "fr": "Imam 'Abd al-Qādir al-Jīlānī (m. 561 H / 1166)"
+  },
+  "source": "Texte arabe à raffiner (OCR brut) — version propre à venir",
+  "description": {
+    "fr": "Litanie de victoire attribuée à Sidi 'Abd al-Qādir al-Jīlānī, maître éponyme de la confrérie qādiriyya. Le texte est actuellement issu de l'OCR du PDF source ; une version nettoyée sera intégrée prochainement."
+  },
+  "videos": [
+    {
+      "label": "Récitation par Sh. Rabī' al-Qāḍī",
+      "kind": "recitation",
+      "youtube": "fbgnWf3Bhv4"
+    },
+    {
+      "label": "Chant par Munshid Ḥakīm",
+      "kind": "chant",
+      "youtube": "JzhjexmHzYE"
+    },
+    {
+      "label": "Récitation traditionnelle (alt.)",
+      "kind": "recitation",
+      "youtube": "zPgUtSEyPSM"
+    }
+  ],
+  "pages": [
+    271,
+    275
+  ],
+  "lines": [
+    {
+      "id": "hizb-nasr-l0001",
+      "ar": "فى د هبتك القاهرة الباهرّة الظاهرة",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0002",
+      "ar": "ألتاطتة أَلْقَادرَةِ الْمُفْتَدرَة حَقّ يلألا ‎٠2‏",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0003",
+      "ar": "‏بشعاعات من نور هيب عَيُو",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0004",
+      "ar": "ولس اجمعين 2 يرسعوي بسهام دهم",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0005",
+      "ar": "وَمَكَايد هم أَلْبَاطتَةِ وَألظَاهرّة , وَتَصيرُ أَيَصَارُهُمْ",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0006",
+      "ar": "‏وَاحَجَبْني اللهم بالحجاب الذي باطنه الثور",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0007",
+      "ar": "فشتهح احوالى بانسه . وتتايد اقَوَالى وافعالى",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0008",
+      "ar": "ري اللي ب لهم م تسمه سعوضع م",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0009",
+      "ar": "خاضعينَ مَتَذللينَ يولون الأديَارَ وَيخْرَبُون",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0010",
+      "ar": "الديار يخرّبون بيُوتهم بايديهم وابدي",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0011",
+      "ar": "الْمُؤْمِنِينَ وَأَسْأَلْكَ أَللَْهُمَ بأشمك الثُور ألّذي",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0012",
+      "ar": "حجابا كثيفا يد كم عَنْى كل لقص يخالطنى",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0013",
+      "ar": "في جوهريتي وي عرصيتي ويحول بيبسي وبين",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0014",
+      "ar": "فضائلك التى منحتنىي بها وفواضلك التى",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0015",
+      "ar": "دير دير 9 وو ر دور 2 اضهب",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0016",
+      "ar": "من لورلا لاسا يلوصح لي بَسَ علي من",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0017",
+      "ar": "أَحْوَالى ألاطتة وَألظاهرَة وَأَطمسش أَنْوَارَ",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0018",
+      "ar": "نَفْسَكَ أَؤ أَنْدَلْتَهُ فى كتابك أَدْ عَلَمَتَدُ أَحَذَا",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0019",
+      "ar": "خلقك ‎١‏ استاترتث به في علم العيب عندك",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0020",
+      "ar": "‎٠‏ وَبحقك عليك وَبحَقك على دي حق",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0021",
+      "ar": "]م أ الك ,ات ياعه الحس:",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0022",
+      "ar": "يَا ربَاهُ يَا غَيَّانَاهُ : بِأَسْمَائَكَ الْحُسْنىَ",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0023",
+      "ar": "وَبيصفاتك التَامّات العليًا وب عَلَى",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0024",
+      "ar": "ِ بعررشك مَا حوى ‎٠‏ ومن على لعرش سكو",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0025",
+      "ar": "وَعَلَى أَلْمُلْك أَحْتَوَى » وَمَنْ فَكَا",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0026",
+      "ar": "فَابَ فَوْسَيْن أو أدنَىّ . أن تطلع شمس الْهَيبَة",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0027",
+      "ar": "َلقَاهرَة البَاهرَة الظاهرة الْقَادرَةَ الْمَفْتَدرَة",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0028",
+      "ar": "القاهرة الباهرة هرة درة",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0029",
+      "ar": "‏على وَجَهِي 1 ' يوه ره",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0030",
+      "ar": "بعين الْعَدَاوَة وَاَلْإزْدرَاء والاستهرّاء » فَتُديرَم",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0031",
+      "ar": "ين العداوة والإزدرَاء والاستهرّاء",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0032",
+      "ar": "عند إقباله إلي مشردا د لمخاوف المهلكة",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0033",
+      "ar": "لس لمُذركة قتحخيط مخ إِحَاطَتَكَ بكْلّ",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0034",
+      "ar": "منمًا م بسم ألله من قَدامنًا بسم الله",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0035",
+      "ar": "مِن وَرَانَنَا يسم الله من فؤقنا يسم الله من",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0036",
+      "ar": "وَأَعْطْنَا سُؤْلَنَا . فَقْطعَ دَابِرُ أَلْقَوْم ألذَّينَ",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0037",
+      "ar": "وَرَائْهم محيط ‎٠‏ بل هو فران مَحِيد في لوح",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0038",
+      "ar": "فَظَلَّتْ أَعْتَافْهُمْ لَهَا خَاضعينَ , وَأَلْحَمْدٌ لله رَبُ",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0039",
+      "ar": "مين يسم الله الرحمن الرحيم د",
+      "kind": "prose"
+    },
+    {
+      "id": "hizb-nasr-l0040",
+      "ar": "سمصصصمرور مون",
+      "kind": "prose"
+    }
+  ]
+}

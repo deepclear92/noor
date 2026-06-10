@@ -1,0 +1,2252 @@
+{
+  "slug": "hizb-2-mardi",
+  "order": 11,
+  "category": "ahzab",
+  "ar": "الحزب الثاني",
+  "fr": "Hizb 2 — Mardi",
+  "hint": "Mardi (الثلاثاء)",
+  "source": "https://www.dalailalkhayrat.com/parts.php?part=2",
+  "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+  "lines": [
+    {
+      "id": "hizb-2-mardi-001",
+      "num": 1,
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا تَعْلَمُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ، وَأَسْتَغْفِرُكَ مِنْ كُلِّ مَا تَعْلَمُ، إِنَّكَ تَعْلَمُ وَلَا نَعْلَمُ، وَأَنْتَ عَلَّامُ الغُيُوبِ.",
+      "translit": "Allāhumma inni asʾalukal min khayri mā taʿlamu, wa aʿūdhubika min sharri mā taʿlamu, wa astaghfiruka min kulli mā taʿlamu, innaka taʿlamu walā naʿlamu wa anta ʿallāmul ghuyūb.",
+      "tr": {
+        "id": "Ya Allah, sesungguhnya kami memohon Engkau dari kebajikan sesuatu yang Engkau ketahui, dan kami berlindung dengan Engkau dari kejahatan yang Engkau ketahui. Dan kami memohon Ampunan Engkau dari segala apa yang Engkau ketahui. Sesungguhnya Engkau mengetahui, sedang kami tidak. Dan Engkau adalah Maha Mengetahui perkara yang Ghaib.",
+        "en": "O Allah, I ask You for the best of what You know, and I seek refuge in You from the worst of what You know, and I seek Your forgiveness for all that You know. You know, and we do not know; and You are the All-Knower of the Unseen.",
+        "fa": "خدایا بدرستیکه من سوال میکنم ترا از نیکی چیزیکه میدانی تو و پناه میگیرم بتو از بوی چیزیکه میدانی  تو طلب آمرزش میکنم از تو از هر چیز یکه میدانی تو بدرستیکه تو میدانی و مایان نمید انیم و تو دانندۂ پوشیده، ها هستی۔",
+        "fr": "Ô Allah, je te demande le bien de ce que tu connais, et je me réfugie auprès de toi du mal de ce que tu connais, et je te demande pardon pour tout ce que tu sais. Tu sais et nous ne savons pas, et tu es Celui qui connait ce qui est caché.",
+        "tr": "Allah'ım, kalbimi ilimle nurlandır, bedenimi taatinle kullan, sırrımı fitnelerden kurtar, fikrimi ibretle meşgul et, beni şeytanın vesveselerinin şerrinden koru ve beni ondan kurtar ey Rahman, ta ki onun benim üzerimde bir gücü olmasın."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 0
+    },
+    {
+      "id": "hizb-2-mardi-002",
+      "num": 2,
+      "ar": "اللَّهُمَّ ارْحَمْنِي مِنْ زَمَانِي هَذَا وَإِحْدَاقِ الفِتَنِ، وَتَطَاوُلِ أَهْلِ الجُرْأَةِ عَلَيَّ وَاسْتِضْعَافِهِمْ إِيَّايَ.",
+      "translit": "Allāhummarr ḥamnī min zamānī hādhā, wa iḥdāqil fitani wa taṭāwuli ahlil jurʾati ʿalayya wastiḍʿāfihim iyyāy.",
+      "tr": {
+        "id": "Ya Allah kasihanilah kami dari masa ini, dari berputarnya berbagai fitnah dari takaburnya golongan orang yang berani, harapan melemahnya kedudukan kami.",
+        "en": "O Allah, spare me from [the evils of] this time in which I live; from being encompassed by troubles and trials; and from insolent people's overbearingness against me and persecution of me.",
+        "fa": "خدایا  نگاهدار مرا از زمانۂ من که اینست و فراگرفتن فتنها و دراز  دستی صاحبان دلیری برمن و ضعیف شمردن ایشان مرا",
+        "fr": "Ô Allah, préserve moi de mon époque, de la multiplicité des tentations, de l'insolence des effrontés vis à vis de moi et de leurs tentatives pour m'humilier.",
+        "tr": "Allahım, şüphesiz ben senin bildiğin hayırlardan ister, senin bildiğin şerlerden yine sana sığınırım. Senin bildiklerinden bağışlanmamı dilerim. Şüphesiz bilen sensin. Biz bilmeyiz. Gaybı eksiksiz bilen ancak sensin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 22.5
+    },
+    {
+      "id": "hizb-2-mardi-003",
+      "num": 3,
+      "ar": "اللَّهُمَّ اجْعَلْنِي مِنْكَ فِي عِيَاذٍ مَنِيعٍ، وَحِرْزٍ حَصِينٍ، مِنْ جَمِيعِ خَلْقِكَ حَتَّى تُبَلِّغَنِي أَجَلِي مُعَافَى.",
+      "translit": "Allāhumma jʿalnī minka fī ʿiyādhin manīʿin, wa ḥirzin ḥaṣīnin, min jamīʿi khalqika ḥatta tuballighanī ajāli muʿāffa.",
+      "tr": {
+        "id": "Ya Allah jadikanlah kami dari penjagaan Engkau dalam tempat perlindungan, dalam penjagaan yang kokoh dari gangguan makhluk Engkau sehingga menyampaikan kami saat ajal kami selamat dari ganggungan syaitan.",
+        "en": "O Allah, place me in an impregnable refuge of Your giving, and in an inviolable sanctuary from all Your creation, until death's arrival finds me in a state of wellbeing.",
+        "fa": "خدایا گردان مرا از فضل خود در پناه استوار و مکان استوار از همه آفیرینش خود تاآنکه برسانی مرگ مرا در حالتیکه باشم عافیت داده شده۔",
+        "fr": "Ô Allah, accorde-moi un refuge fortifié qui me préservera de toutes\ntes créatures, jusqu'à ce que j'atteigne le terme de ma vie.",
+        "tr": "Allah'ım! İçinde bulunduğum bu zamanda bana merhamet eyle; fitnelerin etrafımı sarmasından, cüretkâr kimselerin bana karşı haddi aşmasından ve beni güçsüz görüp hor saymalarından beni koru."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 36.5
+    },
+    {
+      "id": "hizb-2-mardi-004",
+      "num": 4,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَنْ صَلَّى عَلَيْهِ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَنْ لَمْ يُصَلِّ عَلَيْهِ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا تَنْبَغِي الصَّلَاةُ عَلَيْهِ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا تَجِبُ الصَّلَاةُ عَلَيْهِ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا أَمَرْتَ أَنْ يُصَلَّى عَلَيْهِ، وَصَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ الَّذِي نُورُهُ مِنْ نُورِ الأَنْوَارِ، وَأَشْرَقَ بِشُعَاعِ سِرِّهِ الأَسْرَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin ʿadada man ṣalla ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin ʿadada man lam yuṣalli ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā tanbaghīṣ ṣalatu ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā tajibuṣ ṣalātu ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā amarta an yuṣalla ʿalayhi, wa ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin alladhi nūruhu min nūril anwāri wa ashraqa bi shuʿāʿi sirrihil asrār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Muhmmad SAW dan keluarganya sebanyak bilangan orang yang bershalawat atas Beliau SAW. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarganya sebanyak bilangan orang yang tidak bershalawat atas Beliau SAW. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarganya sebagaimana hak memperoleh Rahmat Ta'zhim atas beliau SAW. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarganya sebagaimana wajib atas beliau menerima Rahmat Ta'zhim. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarganya sebagaiman Engkau perintahkan untuk membaca shalawat atas beliau SAW. Dan limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarganya cahaya Beliau SAW berasal dari cahaya berbagai cahaya. Dan bercahaya dari sinar Rahasia Beliau SAW (Sirrihi) dan berbagai Rahasia (Asrar) Beliau.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad by the sum of those who have exalted him, and exalt Muḥammad and the Family of Muḥammad by the sum of those who have not exalted him. Exalt Muḥammad and the Family of Muḥammad as it is fitting for him to be exalted, and exalt Muḥammad and the Family of Muḥammad as he must be exalted, and exalt Muḥammad and the Family of Muḥammad as You have ordered us to exalt him; and exalt Muḥammad and the Family of Muḥammad whose light is from the Light of Lights, and whose inner radiance caused all mysteries to shine.",
+        "fa": "خدایا  درود بفرست بر محمدؐ و بر آل محمدؐ بشمار کسانیکه درود فرستاده است بر وی و درود بفرست بر محمدؐ و بر آل محمدؐ بشمار کسانیکه درود نفرستاده اند بروی و درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه سزاوارست درود فرستادن بروی و درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه واجب ست درود فرستادن بروی و درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه فرمودۂ تو آنکه۔ درود فرستاده شود بروی و درود بفرست بر محمدؐ و بر آل محمدؐ که نور او از نور تست که اصل همه نور هاست و روشن شد بدرخشندگی راز او همه راز ها۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, au nombre de ceux qui ont prié sur lui. Prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, au nombre de ceux qui n'ont pas prié sur lui. Prie sur Saïdina Mohammad\net sur la famille de Saïdina Mohammad, comme il convient de prier sur lui. Prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, comme doit être la prière sur lui. Prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, tel que tu as ordonné qu'ont prie sur lui. Prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad dont la lumière émane de la lumière des lumières et dont le rayonnement des secrets illumine tous les autres secrets.",
+        "tr": "Allah'ım! Beni, ecelime esenlik içinde ulaştırıncaya kadar, bütün yaratıklarından gelecek zararlara karşı Senin katından güçlü bir koruma ve sağlam bir muhafaza altında bulundur."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 50
+    },
+    {
+      "id": "hizb-2-mardi-005",
+      "num": 5,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ وَعَلَى أَهْلِ بَيْتِهِ الأَبْرَارِ أَجْمَعِينَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin wa ʿalā ahli baytihil abrāri ajmaʿīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarga Beliau SAW yang baik-baik seluruhnya/",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad and all the People of his righteous House.",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل محمدؐ و بر اهل بیت وی که نیکو کار انند همه آنها۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur les membres de sa petite famille, les magnanimes.",
+        "tr": "Allahım, efendimiz Muhammed'e ve onun âline ona salât okuyanların sayısınca salât eyle. Efendimiz Muhammed'e ve onun âline ona salât okumayanların sayısınca salât eyle. Efendimiz Muhammed'e ve onun âline ona salât okunmasının lâyık olduğu şekilde salât eyle. Efendimiz Muhammed'e ve onun âline ona salât okunması vâcib olan salavat gibi salât eyle. Hattâ Efendimiz Muhammed'e ve onun âline okunmasını emrettiğin şekilde salât eyle. Nûru nûrların nûrundan olan ve sırrının ışığıyla sırlar aydınlanan Efendimiz Muhammed'e ve Efendimiz Muhammed'in âline salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 124.8
+    },
+    {
+      "id": "hizb-2-mardi-006",
+      "num": 6,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ بَحْرِ أَنْوَارِكَ، وَمَعْدِنِ أَسْرَارِكَ، وَلِسَانِ حُجَّتِكَ، وَعَرُوسِ مَمْلَكَتِكَ، وَإِمَامِ حَضْرَتِكَ، وَخَاتِمِ أَنْبِيَائِكَ، صَلَاةً تَدُومُ بِدَوَامِكَ، وَتَبْقَى بِبَقَائِكَ، صَلَاةً تُرْضِيكَ وَتُرْضِيهِ، وَتَرْضَى بِهَا عَنَّا يَا أَرْحَمَ الرَّاحِمِينَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā ālihi baḥri anwārika, wa maʿdini asrārika, wa lisāni ḥujjatika, wa ʿarūsi mamlakatika, wa imāmi ḥaḍratika, wa khātimi anbiyāʾika, ṣalātan tadūmu bidawāmika, wa tabqa bibaqāʾika, ṣalātan turḍīka wa turḍīhi, wa tarḍa bihā ʿanna yā arḥamar raḥimīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW dan keluarga Beliau SAW sebagai lautan berbagai cahaya Engkau, tambang berbagai Rahasia Engkau, ucapan Hujjah Engkau, Khalifah Mutlaq di bumi dan langit (Alam Nyata dan Alam Ghaib), Iman dalam Hadhirat Engkau, Penutup para Nabi Engkau yaitu Rahmat Abadi, Kekal dengan sebab kekekalan Engkau yaitu Rahmat yang menyebabkan Ridho Engkau dan Ridhonya serta Ridho kami. Wahai Tuhan yang Maha Pengasih diantara orang-orang yang pengasih.",
+        "en": "O Allah, exalt our Master Muḥammad and his Family – the Sea of Your Lights, the Mine of Your Mysteries, the Tongue of Your Proof, the Pearl of Your Kingdom, the Imam of Your Presence, the Seal of Your Prophets – with an exaltation that endures as long as You endure and remains as long as You remain; an exaltation that pleases You and pleases him, and by which You are pleased with us, O Most Merciful of those who show mercy.",
+        "fa": "خدایا درود بفرست بر محمدؐ و بر آل وی که دریای نور های تست و کان راز های تست و زبان دلیل وحدانیت تست و نو کدخدای مملک تست و پیشوای درگاه تست و ختم کنندۂ پیغمبران تست۔ درود فرستادنی که همیشه باشد همیشگی تو و پاینده باشد بپایندگی تو دروویکه خوشنود گرادند ترا  و خوشنود گرداند اورا و خوشنود شوی بسبب آن از مایان ای بخشاینده ترین بخشایندگان۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur sa famille, lui qui est l'océan de Tes lumières, la source de Tes secrets et la langue de Ta preuve. L'éminent dans Ton royaume, l’Imam de Ta presence, et le Sceau de Tes prophètes. Avec une prière qui s'immortalise par Ton immortalité et qui se perpétue par Ta perpétuité, d'une prière qui te satisfaisait et le satisfaisait; et par laquelle Tu es satisfait de nous, Ô le plus Miséricordieux des miséricordieux.",
+        "tr": "Allahım, efendimiz Muhammed'e, âl-i'ne ve ebrâr olan bütün ehl-i beytine salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 140
+    },
+    {
+      "id": "hizb-2-mardi-007",
+      "num": 7,
+      "ar": "اللَّهُمَّ رَبَّ الحِلِّ وَالحَرَامِ، وَرَبَّ المَشْعَرِ الحَرَامِ، وَرَبَّ البَيْتِ الحَرَامِ، وَرَبَّ الرُّكْنِ وَالمَقَامِ، أَبْلِغْ لِسَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ مِنَّا السَّلَامَ.",
+      "translit": "Allāhumma rabbal ḥilli wal ḥarām, wa rabbal mashʿaril ḥarām, wa rabbal baytil ḥarām, wa rabbar rukni wal maqām, abligh lisayyidinā wa mawlānā Muḥammadin minnās salām.",
+      "tr": {
+        "id": "Ya Allah, Tuhan Luar Tanah Haram Mekkah dan Tuhan Tanah Haram tempat mengerjakan Haji Tanah Haram, Tuhan Baitil Haram, Tuhan Rukun Haji dan Maqam, sampaikanlah buat Baginda kami Muhammad SAW salam dari kami.",
+        "en": "O Allah, Lord of the Ḥill and the Ḥarām, Lord of the Sacred Precinct, Lord of the Sacred House, Lord of the Corner and the Station, convey to our Master and Patron Muḥammad greetings of peace from us.",
+        "fa": "خدایا  ای پروردگار حلال و حرام و پروردگار مشعر حرام و خداوند بیت الحرام و خداوند رکن و مقام برسان بر سردار مایان و مالک مایان محمدؐ از مایان سلام۔",
+        "fr": "Ô Allah, Seigneur du licite et l'illicite, Seigneur de la Mecque, Seigneur de la Kâ'ba et Seigneur du Arroukn et Al Maqam, fais parvenir à Saïdina et Maoulana Mohammad, de notre part, le Salut.",
+        "tr": "Allahım, senin nurlarının ummânı, sırlarının kaynağı, delillerinin lisânı, mülk âleminin direği, huzurunun imâmı, peygamberlerin sonuncusu, Efendimiz Muhammed'e ve onun âline; yüce zâtın devâm ettikçe devâm eden, yüce zâtın bâkî kaldıkça ebedî kalacak olan, seni de onu da razı edecek, okuduğumuzda bizden de râzı olacağın salâtla salât eyle ey merhametlilerin en merhametlisi!"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 183.5
+    },
+    {
+      "id": "hizb-2-mardi-008",
+      "num": 8,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ سَيِّدِ الأَوَّلِينَ وَالآخِرِينَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin sayyidil awwalīna wal ākhirīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW, Baginda orang-orang terdahulu dan kemudian.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad, the Master of the first and the last.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ که سردار پیشینیان و پسینیان ست۔",
+        "fr": "Ô Allah, prie sur Saïdina, Maoulana Mohammad, Maître des premiers et des derniers.",
+        "tr": "Allah'ım, helalin ve haramın Rabbi, Meş'ar-i Haram'ın Rabbi, Beyt-i Haram'ın Rabbi, Rükn'ün ve Makam'ın Rabbi; Efendimiz Muhammed'e bizden selam ulaştır."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 206.5
+    },
+    {
+      "id": "hizb-2-mardi-009",
+      "num": 9,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ فِي كُلِّ وَقْتٍ وَحِينٍ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin fī kulli waqtin wa ḥīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW di tiap-tiap waktu dan masa.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad at every time and moment.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ در هر وقتی و ساعتی۔",
+        "fr": "Ô Allah, prie sur Saïdina, Maoulana Mohammad à tout moment et tout instant.",
+        "tr": "Allahım, önceki yaratılmışların ve kıyâmete kadar yaratılacak olanların efendisi, efendimiz ve sahibimiz Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 219
+    },
+    {
+      "id": "hizb-2-mardi-010",
+      "num": 10,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ فِي المَلَإِ الأَعْلَى إِلَى يَوْمِ الدِّينِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin fīl malaʾil aʿlā ilā yawmiddīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW di alam malaikat di langir hingga hari kiamat",
+        "en": "O Allah, exalt our Master and Patron Muḥammad in the Supreme Assembly until the Day of Judgement.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ در مجلس اعلی تا روزِ جزا۔",
+        "fr": "O Allah, prie sur Saïdina, Maoulana Mohammad, dans le monde intelligible, jusqu'au jour du jugement dernier.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e her an ve her zaman salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 229.5
+    },
+    {
+      "id": "hizb-2-mardi-011",
+      "num": 11,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ حَتَّى تَرِثَ الأَرْضَ وَمَنْ عَلَيْهَا وَأَنْتَ خَيْرُ الوَارِثِينَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ḥattā tarithal arḍa waman ʿalayhā wa anta khayrul wārithīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad hingga mempusakai bumi dan orang di atas bumi. Dan sesungguhnya Engkau sebaik-baiknya orang yang mempusakai.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad until You inherit the Earth and all that are upon it; 'and You are the Best of Inheritors'.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ تا آنکه وارث شوی تو زمین را و هرکراکه برانست و تو بهترین وارثانی۔",
+        "fr": "Ô Allah, prie sur Saïdina, Maoulana Mohammad, jusqu'à ce que la terre libère ce qu'elle contient; Tu es certes le meilleur de ceux récupèrent.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e kıyâmete kadar, en yüce meleklerin bulunduğu makamda, Mele-i Âlâ'da salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 241
+    },
+    {
+      "id": "hizb-2-mardi-012",
+      "num": 12,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الأُمِّيِّ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الأُمِّيِّ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadinin nabiyyil ummiyyi wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta ʿalā sayyidinā Ibrāhīma, innaka ḥamīdun majīd, wa bārik ʿalā sayyidinā Muḥammadinin nabiyyil ummiyyi kamā bārakta ʿalā sayyidinā Ibrāhīma innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad SAW yang menjadi Nabi dan yang Ummi. Dan atas keluarga Beliau SAW sebagaimana Engkau telah melimpahkan Rahmat Ta'zhim atas Nabi Ibrahim, sesungguhnya Engkau adalah Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad, the Unlettered Prophet, and the Family of Muḥammad, as You exalted Abraham. You are All-Praiseworthy, All-Glorious. And bless Muḥammad, the Unlettered Prophet, and the Family of Muḥammad, as You blessed Abraham. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا  درود بفرست بر محمدؐ که پیغمبر ناخوانده و نانویشنده است و بر آل محمدؐ چانچه درود فرستادۂ تو بر ابراهیم بدرستیکه تو ستوده شده بزرگواری و برکت ده بر محمدؐ که پیغمبر ناخوانده و نانویشنده است چانچه برکت دادۂ تو بر ابراهیمؑ بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad le prophète illettré et sur la famille de Saïdina Mohammad, comme tu as prié sur Saïdina Ibrahim. Tu es louable et glorieux; et bénis Saïdina Mohammad le prophète illettré, comme tu as béni Saïdina Ibrahim. Tu es louable et glorieux.",
+        "tr": "Allah'ım, Efendimiz ve Mevlamız Muhammed'e, yeryüzüne ve üzerindekilere Sen varis oluncaya kadar salât et; Sen varislerin en hayırlısısın."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 254
+    },
+    {
+      "id": "hizb-2-mardi-013",
+      "num": 13,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا أَحَاطَ بِهِ عِلْمُكَ، وَجَرَى بِهِ قَلَمُكَ، وَسَبَقَتْ بِهِ مَشِيئَتُكَ، وَصَلَّتْ عَلَيْهِ مَلَائِكَتُكَ، صَلَاةً دَائِمَةً بِدَوَامِكَ، بَاقِيَةً بِفَضْلِكَ وَإِحْسَانِكَ، إِلَى أَبَدِ الأَبَدِ، أَبَدًا، لَا نِهَايَةَ لِأَبَدِيَّتِهِ، وَلَا فَنَاءَ لِدَيْمُومِيَّتِهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin ʿadada ma aḥāṭa bihi ʿilmuka, wa jarā bihi qalamuka, wa sabaqat bihi mashīʾatuka, wa ṣallat ʿalayhi malāʾikatuka, ṣalātan dāʾimatan bi dawāmika, bāqiyyatan bifaḍlika wa iḥsānika, ilā abadil abadi, abadan lā nihāyata liʾabadiyyatihi, wa lā fanāʾa lidaymūmiyyatihi.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad dan keluarganya sebanyak bilangan sesuatu yang meliputi Ilmu Engkau, sebanyak jalannya kolam Engkau, sebanyak dahulunya kehendak Engkau, sebanyak shalawat Malaikat Engkau, atas Beliau SAW yaitu shalawat yang abadi dengan bersama keabadian Engkau yang kekal bersama anugerah dan kebajikan Engkau, hingga kekal selama-lamanya, yaitu Abadi tanpa penghabisan selamanya. Dan tidak rusak karena keabadian-Nya.",
+        "en": "O Allah, exalt our Master Muḥammad by the sum of all that Your Knowledge encompasses and Your Book enumerates, and [as many times] as Your angels have exalted him; with perpetual exaltation enduring as long as You endure; remaining, by Your grace and generosity, to the end of eternity; ceaselessly, with no beginning to it and no end to its perpetuity, for ever and ever.",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ و بر آل سردار مایان محمدؐ به مقداری که علم تو در بر می‌گیرد و قلم تو می‌نویسد و آنچه را قبلاً اراده کرده‌ای۔ درود فرستاده اند بروی فرشتگان تو دروویکه همیشه باشد به همیشگی تو پاینده بود بسبب فضل تو و بخشش تو تازمانیکه نهایت ندارد  به لطف و احسان تو، جاودانه، تا ابدالاباد، بی پایان تا ابویت، و بدون هیچ محدوویتی برای بی زمانی آن۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et la famille de Saïdina Mohammad autant que ce qu'a englobé ton savoir, a écrit ta plume, a prévu ta volonté et ont prié sur lui\ntes anges. Prière, continue par ta continuité, perpétuée par ton bienfait et ta générosité, jusqu'à l'éternité éternelle, Eternité sans fin et perpétuité infinie.",
+        "tr": "Allahım, efendimiz İbrâhîm'e salât ettiğin gibi, Efendimiz ümmî nebî Muhammed'e ve onun âline de salat eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin. Allahım, efendimiz İbrâhîm'e bereket ihsân ettiğin gibi, Efendimiz ümmî nebî Muhammed'e bereket ihsân eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 289.5
+    },
+    {
+      "id": "hizb-2-mardi-014",
+      "num": 14,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا أَحَاطَ بِهِ عِلْمُكَ، وَأَحْصَاهُ كِتَابُكَ، وَشَهِدَتْ بِهِ مَلَائِكَتُكَ، وَارْضَ عَنْ أَصْحَابِهِ، وَارْحَمْ أُمَّتَهُ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin ʿadada mā aḥāṭa bihi ʿilmuka, wa aḥṣāhu kitābuka wa shahidat bihi malāʾikatuka, warḍa an aṣḥābihi, warḥam ummatahu innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhmmad dan keluarganya sebanyak bilangan sesuatu yang meliputi Ilmu Engkau dan meliputi tulisan Engkau di Lauh Mahfuzh. Dan kesaksian Malaikat Engkau dengan ke-Esaan Engkau dan kenabian Nabi Engkau. Ya Allah, Ridhoilah para sahabat beliau dan kasihanilah ummat beliau SAW. Sesungguhnya Engkau adalah Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad by the sum of all that Your Knowledge encompasses and Your Book enumerates, and all that Your angels have witnessed; and be well-pleased with his Companions, and have mercy upon his Nation. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ و بر آل سردار مایان محمدؐ بشمار چیزیکه فرارسیده است بآن علم تو و ضبط نموده است آنرا کتاب تو و گواهی داده است بآن فرشتگان تو و خوشنود شو تو از یاران او و رحمت کن اُمت اورا بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad autant qu'a englobé ton savoir, a compté ton livre, et ont témoigné tes anges. Agrée ses\ncompagnons et répands ta miséricorde sur sa communauté. Tu es louable et glorieux.",
+        "tr": "Allah'ım! Efendimiz Muhammed'e ve onun ailesine; ilminin kuşattığı, kaleminin yazdığı, iradenin takdir ettiği tüm şeyler ve meleklerinin ona getirdiği salâtlar sayısınca salât eyle. Bu salât; Senin ebediyetinle daim, lütuf ve ihsanınla baki kalan, sonsuzlar boyunca süren, ne nihayeti ne de sonu olan bir salât olsun."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 325
+    },
+    {
+      "id": "hizb-2-mardi-015",
+      "num": 15,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ وَعَلَى جَمِيعِ أَصْحَابِ سَيِّدِنَا مُحَمَّدٍ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin wa ʿalā jamīʿi aṣ-ḥābi sayyidinā Muḥammad.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Muhammad, keluarga dan atau seluruh sahabat beliau SAW.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad and all the Companions of Muḥammad.",
+        "fa": "خدایا  درود بفرست بر محمدؐ و بر آل محمدؐ و بر جمیع یاران محمدؐ۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad et sur tous les compagnons de Saïdina Mohammad.",
+        "tr": "Allah'ım, Efendimiz Muhammed'e ve Efendimiz Muhammed'in ailesine; ilminin kuşattığı, kitabının saydığı ve meleklerinin şahitlik ettiği her şey sayısınca salât eyle; onun ashabından razı ol ve ümmetine merhamet et, şüphesiz Sen Hamid ve Mecid'sin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 356.5
+    },
+    {
+      "id": "hizb-2-mardi-016",
+      "num": 16,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ، وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي العَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta ʿalā sayyidinā Ibrāhīma wa bārik ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā bārakta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrāhīma fīl ʿālamina innaka ḥamīdun majīd.",
+      "tr": {
+        "id": "Dan limpahkanlah Rahmat atas Nabi Muhammad dan keluarganya sebagaimana Engkau telah melimpahkannya atas Nabi Ibrahim as. Dan berkahilah atas Nabi Muhammad dan keluarganya sebagaimana Engkau telah memberkahi atas Nabi Ibrahim dan keluarganya diseluruh alam, sesungguhnya Engkau Maha Terpuji dan Mulia.",
+        "en": "O Allah, exalt Muḥammad and the Family of Muḥammad as You exalted Abraham; and bless Muḥammad and the Family of Muḥammad as You blessed Abraham and the Family of Abraham in [all] the realms of Being. You are All-Praiseworthy, All-Glorious.",
+        "fa": "خدایا  درود بفرست بر محمدؐ و بر آل محمدؐ چنانچه درود فرستادۂ تو  بر ابراهیمؑ و برکت ده خدایا بر محمدؐ و بر آلِ محمدؐ چنانچه برکت دادۂ تو بر ابراهیم و بر آلِ ابراهیم در عالمیان بدرستیکه تو ستوده شده بزرگواری۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, comme tu as prié sur Saïdina Ibrahim; et bénis Saïdina Mohammad et la famille de Saïdina Mohammad, comme tu as béni Saïdina Ibrahim et la famille de Saïdina Ibrahim, dans les univers. Tu es louable et glorieux.",
+        "tr": "Allahım, efendimiz Muhammed'e, onun âline ve bütün ashâbına salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 370
+    },
+    {
+      "id": "hizb-2-mardi-017",
+      "num": 17,
+      "ar": "اللَّهُمَّ بِخُشُوعِ القَلْبِ عِنْدَ السُّجُودِ، لَكَ يَا سَيِّدِي بِغَيْرِ جُحُودٍ، وَبِكَ يَا اللَّهُ يَا جَلِيلُ فَلَا شَيْءَ يُدَانِيكَ فِي غَلِيظِ العُهُودِ، وَبِكُرْسِيِّكَ المُكَلَّلِ بِالنُّورِ إِلَى عَرْشِكَ العَظِيمِ المَجِيدِ، وَبِمَا كَانَ تَحْتَ عَرْشِكَ حَقًّا، قَبْلَ أَنْ تَخْلُقَ السَّمَاوَاتِ وَصَوْتَ الرُّعُودِ، ذَاكَ إِذْ كُنْتَ مِثْلَ مَا لَمْ تَزَلْ قَطُّ إِلٰهًا عُرِفْتَ بِالتَّوْحِيدِ، فَاجْعَلْنَا مِنَ المُحِبِّينَ المَحْبُوبِينَ المُقَرَّبِينَ العَاشِقِينَ لَكَ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا وَدُودُ.",
+      "translit": "Allāhumma bikhushūʿil qalbi ʿindas sujūd, laka yā sayyidī bighayri juḥūd, wa bika yā Allāhu yā jalīlu falā shayʾa yudānika fī ghalīẓil ʿuhūd, wa bikursiyyikal mukallali binnūri ilā ʿarshikal ʿaẓīmil majīd, wa bimā kāna taḥta ʿarshika ḥaqqan qabla an takhluqas samāwāti wasawtar ruʿūdi, dhāka idh kunta mithla mā lam tazal qaṭṭu ilāhan ʿurifta bittawḥīd, fajʿalnā minal muḥibbīnal maḥbūbīnal muqarrabīnal ʿāshiqīna laka yā Allāhu yā Allāhu yā Allāhu yā Allāhu yā Allāhu yā Allāhu yā Allāhu yā wadūd.",
+      "tr": {
+        "id": "Ya Allah, dengan segala kerendahan hati dalam sujud kepada-Mu, wahai Tuhanku, tanpa keraguan, dan demi-Mu, wahai Yang Mulia. Tidak ada sesuatu pun yang bahkan mendekati-Mu dalam janji-janji-Mu yang tidak dapat diganggu gugat, dan oleh Tumpuan Kaki-Mu yang dihiasi dengan cahaya yang membentang sejauh Arsy-Mu yang agung dan luar biasa, dan dengan apa yang benar-benar berada di bawah Arsy-Mu sebelum Engkau menciptakan langit dan suara guntur. Karena Engkau adalah Tuhan yang tak terbatas yang dikenal dengan tauhid, tempatkan kami di antara kekasih-kekasih-Mu, penuh cinta yang membara kepada-Mu, ya Allah, ya Allah, ya Allah, ya Allah, ya Allah, ya Allah, ya Allah, ya Allah, ya wadud.",
+        "en": "O Allah, with hearts in reverent prostration to You, o my Master, without evasion or denial, [doing so] by You, o All-Glorious One -- for nothing approaches You in the solemnity of the pledges You exact; by Your Footstool that is crowned with light extending to Your Immense and August Throne; by what in truth was beneath Your Throne before You created the heavens and the sound of thunder. You being as You are, a Deity absolutely Everlasting and recognised as the One and Only, make us to be among Your beloved lovers who are brought close to You, ardent lovers of Yours. O Allah (x 9). O Most Loving One.",
+        "fa": "خدایا  بعاجزی دل نزد سجد ها برای تو ای سردار من بدون انکار و به تو یا الله بزرگ پس نیست چیزی که قریب تو باشد در پیمان محکم و بوسیله کرسی تو مرصع بنور تا عرش بزرگ تو و بویسیله چیزی که زیر عرش تست۔ و به آنچه حقیقتاً در زیر عرش تو بود قبل از اینکه آسمان‌ها و صدای رعد را خلق کنی، آراسته شده است مثل تو نبود همیشه کی معبووی شناخته شده یکتای پس کن مرا از دوستان و دوست شدگان و نزویکان عاشقان برای تو۔ یا الله یا الله یا الله یا الله یا الله یا الله یا الله یا الله او دوستانه",
+        "fr": "Ô Allah, par le recueillement des coeurs lors du prosternement, à toi mon maître sans reniement, par toi Ô Allah, Ô Majestueux, rien ne t'égale dans tous les temps, par ta chaise couronné de lumière jusqu'à ton Trône l'immense le glorieux, par ce qu'il y\navait vraiment sous ton Trône avant que tu ne crée le bruit des tonnerres et les cieux, pendant que tu étais comme tu es toujours, un Dieu connu par l'unicité, inclus nous dans le groupe, des aimants, des aimés, des proches et des fervents dans ton adoration. Ô Allah, Ô Allah, Ô Allah, Ô Allah, Ô Allah, Ô Allah, Ô Allah.",
+        "tr": "Allah'ım, Efendimiz İbrahim'e salât ettiğin gibi Efendimiz Muhammed'e ve Efendimiz Muhammed'in ailesine de salât eyle. Efendimiz İbrahim'e ve Efendimiz İbrahim'in ailesine bereket ihsan ettiğin gibi, âlemler içinde Efendimiz Muhammed'e ve Efendimiz Muhammed'in ailesine de bereket ihsan eyle; şüphesiz Sen Hamîd ve Mecîd'sin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 405
+    },
+    {
+      "id": "hizb-2-mardi-018",
+      "num": 18,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا أَحَاطَ بِهِ عِلْمُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā aḥāṭa bihi ʿilmuka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan sesuatu yang meliputi Ilmu Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad and the Family of Muḥammad by the sum of all that Your Knowledge encompasses.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ بشمار چیزیکه فرارسیده است بآن علم تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad autant qu'a englobé ton savoir.",
+        "tr": "Allah'ım! Secde anında hiçbir inkâr barındırmadan Sana yönelen kalbin huşûsu hürmetine ey Efendim! Ey Allah, ey Celîl! O sağlam ve kesin ahitlerde hiçbir şeyin Sana denk olamayacağı yüce Zâtın hürmetine! Nurla taçlanmış Kürsî'nin ve o azametli, şanlı Arş'ının hürmetine! Henüz gökleri ve gök gürültülerinin sesini yaratmadan evvel, Arş'ının altında hak olarak bulunanlar hürmetine! Ki Sen o vakit de, ezelden beri hep olduğun gibi, tevhid ile bilinen yegâne İlahtın. Bütün bunlar hürmetine; bizi Seni seven, Senin tarafından sevilen, Zâtına yaklaştırılan (mukarreb) ve Sana âşık olan kullarından eyle Ya Allah, Ya Allah, Ya Allah, Ya Allah, Ya Allah, Ya Allah, Ya Allah, Ya Allah, Ya (çok seven ve çok sevilen) Vedûd!"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 492
+    },
+    {
+      "id": "hizb-2-mardi-019",
+      "num": 19,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا أَحْصَاهُ كِتَابُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā aḥṣāhu kitābuka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan sesuatu yang meliputi tulisan di Lauh Mahfuzh Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that Your Book enumerates.",
+        "fa": "خدایا  درود بفرست برسردار مایان و مالک مایان محمدِ بشمار چیزیکه ضبط نموده است کانرا کتاب تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre de ce qu'a compté ton livre.",
+        "tr": "Allahım, Ezelî ilminle bildiğin şeyler sayısınca efendimiz ve gönül sultânımız Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 500.5
+    },
+    {
+      "id": "hizb-2-mardi-020",
+      "num": 20,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا نَفَذَتْ بِهِ قُدْرَتُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā nafadhat bihi qudratuka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan sesuatu yang tergantung kekuasaan Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that Your Omnipotent Power has executed.",
+        "fa": "خدایا درود بفرست بر سردار مایان و مالک مایان محمدؐ بشمار چیزیکه روان شده است بآن قدرت تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre de tes ordres exécutés.",
+        "tr": "Allahım, kıtabında sayılan (zikredilen) şeyler sayısınca efendimiz ve gönül sultânımız Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 508
+    },
+    {
+      "id": "hizb-2-mardi-021",
+      "num": 21,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا خَصَّصَتْهُ إِرَادَتُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā saiyyidinā wa mawlānā Muḥammadin ʿadada mā khaṣṣaṣat-hu irādatuka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan sesuatu yang menjadi ketentuan kehendak Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that Your Will has specified.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ بشار چیزیکه خاص کرده است اورا ارادۂ تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre des décisions dictées par\nl'insufflation de ton omnipotence.",
+        "tr": "Allahım, kudretinin nüfûz ettiği şeyler sayısınca efendimiz ve gönül sultânımız Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 516
+    },
+    {
+      "id": "hizb-2-mardi-022",
+      "num": 22,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا تَوَجَّهَ إِلَيْهِ أَمْرُكَ وَنَهْيُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā tawajjaha ilayhi amruka wa nahyuka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan suatu kehendak dan menghadap pada perintah dan larangan Engkau",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all to which Your commands and prohibitions have been directed.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ بشمار چیزیکه روی آورده است بسوی او فرمان تو و باز داشتن تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre de tes ordres de faire et de ne pas faire.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e irâdenin tahsîs ettiği şeyler sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 525
+    },
+    {
+      "id": "hizb-2-mardi-023",
+      "num": 23,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا وَسِعَهُ سَمْعُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā wasiʿahu samʿuka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan sesuatu yang mencapai kekuasaan Pendengaran Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that Your Hearing has encompassed.",
+        "fa": "خدایا  درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار چیزیکه فرارسیده است آن را شنوائی تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad autant qu'a contenu ton oreille.",
+        "tr": "Allah'ım! Efendimiz ve gönül sultanımız Muhammed'e, emrinin ve nehyinin kendisine yöneldiği şeyler sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 534.5
+    },
+    {
+      "id": "hizb-2-mardi-024",
+      "num": 24,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا أَحَاطَ بِهِ بَصَرُكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā aḥāṭa bihi baṣaruka.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan sesuatu yang meliputi Penglihatan Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that Your Sight has encompassed.",
+        "fa": "خدایا  درود بفرست بر سردار مایان و مالک مایان محمدؐ بشمار چیزیکه فرارسیده است بآن بینائی تو۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad autant que ce qu'a englobé ton regard.",
+        "tr": "Allah'ım! Efendimiz ve gönül sultanımız Muhammed'e, işitmenin kuşattığı şeyler sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 542
+    },
+    {
+      "id": "hizb-2-mardi-025",
+      "num": 25,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا ذَكَرَهُ الذَّاكِرُونَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā dhakarahudh dhākirūn.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan orang-orang yang berdzikir keada Allah.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that those who remember have remembered.",
+        "fa": "خدایا درود بفرست بر سردار مایان و مالک مایان محمدؐ بشمار چیزیکه یاد کرده اند اورا یادکنندگان۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad autant que l'ont évoqué les évocateurs.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e senin görme kuşattığı şeyler sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 550
+    },
+    {
+      "id": "hizb-2-mardi-026",
+      "num": 26,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا غَفَلَ عَنْ ذِكْرِهِ الغَافِلُونَ.",
+      "translit": "Allāhumma ṣalli ʿalā  sayyidinā wa mawlānā Muḥammadin ʿadada mā ghafala ʿan dhikrihil ghāfilūn.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan orang-orang yang lupa berdzikir kepada Allah.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that those who are heedless have been heedless of.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار چیزیکه غفلت ورزیدند ازیاد او غافلان۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad autant que ne l'ont pas évoqué les distraits.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e kendisini hatırlayıp yâdedenlerin sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 558.5
+    },
+    {
+      "id": "hizb-2-mardi-027",
+      "num": 27,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ قَطْرِ الأَمْطَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada qaṭril ʾamṭār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan tetesan air hujan.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of the drops of rainfall.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار قطرهای بارانها۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre des gouttes de pluies.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e kendisini hatırlayıp yâdetmekten gâfil olanların sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 570
+    },
+    {
+      "id": "hizb-2-mardi-028",
+      "num": 28,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ أَوْرَاقِ الأَشْجَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada awrāqil ʾashjār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan daun tumbuh tumbuhan.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of the leaves of the trees.",
+        "fa": "خدایا درود بفرست بر رئیس مایان و مالک مایان محمدؐ بشمار برگهای درختان۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre des feuilles d'arbres.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e yağan yağmur tâneleri sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 577.5
+    },
+    {
+      "id": "hizb-2-mardi-029",
+      "num": 29,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ دَوَابِّ القِفَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muhammmadin ʿadada dawābbil qifār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan binatang yang berada di Gurun.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of the beasts of the wastelands.",
+        "fa": "خدایا درود بفرست بر مهتر مایان و مالک مایان محمدؐ بشمار جانوران میدانها۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre des bêtes du désert.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e ağaçların yaprakları sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 585
+    },
+    {
+      "id": "hizb-2-mardi-030",
+      "num": 30,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ دَوَابِّ البِحَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada dawābbil biḥār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak binatang-binatang yang berada di lautan.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of the creatures of the seas.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار جانوران دریا ها۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre des bêtes des mers.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e çöllerdeki canlılar sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 594.7
+    },
+    {
+      "id": "hizb-2-mardi-031",
+      "num": 31,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مِيَاهِ البِحَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada miyāhil biḥār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan air laut.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of the waters of the seas.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار آبهای دریا ها۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad autant que les eaux des mers.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e denizdeki canlılar sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 602.5
+    },
+    {
+      "id": "hizb-2-mardi-032",
+      "num": 32,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَا أَظْلَمَ عَلَيْهِ اللَّيْلُ وَأَضَاءَ عَلَيْهِ النَّهَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada mā aẓlama ʿalayhil laylu wa aḍāʾa ʿalayhin nahār.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak sesuatu yang digelapi malam dan di sinari siang.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of all that the night has shrouded in darkness and the day has illuminated.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار چیزیکه تاریک شده است بروی شب و روشن شده است بروی روز۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad au nombre de ce qu'a enveloppé la nuit et éclairé le jour.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e gece karanlığının kendilerini bürüdüğü ve gündüz aydınlığının kendilerini kuşattığı şeyler sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 609.5
+    },
+    {
+      "id": "hizb-2-mardi-033",
+      "num": 33,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ بِالْغُدُوِّ وَالآصَالِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin bil ghuduwwi wal ʾāṣāl.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW di waktu Pagi dan Sore.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad in the morning and in the evening.",
+        "fa": "خدایا درود بفرست برسرداران و مالک مایان محمدؐ بوقت به اعداد  صحرگاه و شبانگاه۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad les matins et les soirs.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e gece ve gündüz salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 621.5
+    },
+    {
+      "id": "hizb-2-mardi-034",
+      "num": 34,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ الرِّمَالِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadadar rimāl.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan Pasir.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of the grains of sand.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار ریگها۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad, autant que les sables.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e kumlar miktârınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 631.5
+    },
+    {
+      "id": "hizb-2-mardi-035",
+      "num": 35,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ النِّسَاءِ وَالرِّجَالِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadadan nisāʾi warrijāl.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan orang perempuan dan laki-laki.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of women and men.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بشمار زنان و مردان۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad, au nombre des femmes et des hommes",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e kadın ve erkek kulların sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 637.5
+    },
+    {
+      "id": "hizb-2-mardi-036",
+      "num": 36,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ رِضَاءَ نَفْسِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin riḍāʾa nafsika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak Ridho dari Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad as much as will content You.",
+        "fa": "خدایا درود بفرست بر سردار مایان و مالک مایان محمدؐ باندازۂ خوشنووی ذات خود۔",
+        "fr": "Ô Allah, prie sur Saïdina et\nMaoulana Mohammad, jusqu'à ce que tu sois satisfait.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e bizzat senin râzı olacağın kadar salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 645.5
+    },
+    {
+      "id": "hizb-2-mardi-037",
+      "num": 37,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ مِدَادَ كَلِمَاتِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin midāda kalimātika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak tulisan kalimat Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the ink of Your Words.",
+        "fa": "خدایا درود بفرست بر سردار مایان و مالک مایان محمدؐ بمقدار سخنان خود۔",
+        "fr": "Ô Allah prie sur Saïdina et Maoulana Mohammad,\nautant que l'encre nécessaire à écrire tes paroles",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e senin kelimelerin sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 652.5
+    },
+    {
+      "id": "hizb-2-mardi-038",
+      "num": 38,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ مِلْءَ سَمَاوَاتِكَ وَأَرْضِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin milʾa samāwātika wa arḍika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sepenuh langit dan bumi Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad to the fullness of Your Heavens and Your Earth.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ باندازۂ پُری آسمانهای خود و زمین خود۔",
+        "fr": "O Allah prie sur Saïdina et Maoulana Mohammad plein ta terre\net tes cieux",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e yer ve gök dolusunca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 660
+    },
+    {
+      "id": "hizb-2-mardi-039",
+      "num": 39,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ زِنَةَ عَرْشِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin zinata ʿarshika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebagai hiasan Arasy Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the weight of Your Throne.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بوزن عرش خود۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad, autant que le poids de ton trône.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e arşının ağırlığı kadar salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 668.5
+    },
+    {
+      "id": "hizb-2-mardi-040",
+      "num": 40,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ عَدَدَ مَخْلُوقَاتِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin ʿadada makhlūqātika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan makhluk Engkau.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad by the sum of Your creation.",
+        "fa": "خدایا درود بفرست بر رئیس مایان و مالک مایان محمدؐ بشمار آفریدگان خود۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad, au nombre de tes créatures.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e bütün mahlûkâtın sayısınca salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 676
+    },
+    {
+      "id": "hizb-2-mardi-041",
+      "num": 41,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ أَفْضَلَ صَلَوَاتِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammadin afḍala ṣālawātika.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami dengan seutama-utama Rahmat Engkau",
+        "en": "O Allah, exalt our Master and Patron Muḥammad with the finest of Your exaltations.",
+        "fa": "خدایا درود بفرست برسردار مایان و مالک مایان محمدؐ بهترین درودهای خود۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad, tes meilleures prières.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e zâtından gelecek olan salavâtının en fazîletlisi ile salât eyle.د"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 683.5
+    },
+    {
+      "id": "hizb-2-mardi-042",
+      "num": 42,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى نَبِيِّ الرَّحْمَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā nabiyyir raḥmah.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Pembawa Rahmat.",
+        "en": "O Allah, exalt the Prophet of Mercy.",
+        "fa": "خدایا درود بفرست بر پیغمبر صاحبِ بخشش",
+        "fr": "Ô Allah, prie sur le prophète de la miséricorde.",
+        "tr": "Allahım, rahmet peygamberine salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 692
+    },
+    {
+      "id": "hizb-2-mardi-043",
+      "num": 43,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى شَفِيعِ الأُمَّةِ.",
+      "translit": "Allāhumma ṣalli ʿalā shafīʿil ummah.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Nabi Pembawa Syafaat kepada Ummat Manusia",
+        "en": "O Allah, exalt the Intercessor for the [Muslim] Nation.",
+        "fa": "خدایا درود بفرست برشفاعت کنندۂ امت۔",
+        "fr": "Ô Allah prie sur l'intercesseur de la communauté.",
+        "tr": "Allahım, bu ümmetin şefaatçisine salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 696.5
+    },
+    {
+      "id": "hizb-2-mardi-044",
+      "num": 44,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى كَاشِفِ الغُمَّةِ.",
+      "translit": "Allāhumma ṣalli ʿalā kāshifil ghummah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Penghilang Susah.",
+        "en": "O Allah, exalt the Reliever from Sorrow.",
+        "fa": "خدایا درود بفرست بر دور کنندۂ اندوه۔",
+        "fr": "Ô Allah prie sur celui qui soulage de l'anxiété.",
+        "tr": "Allahım, darlığı gideren zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 701
+    },
+    {
+      "id": "hizb-2-mardi-045",
+      "num": 45,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مُجْلِي الظُّلْمَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā mujlīẓ ẓulmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Penerang Kegelapan.",
+        "en": "O Allah, exalt the Dispeller of Darkness.",
+        "fa": "خدایا درود بفرست بر دور کنندۂ تاریکی کفر۔",
+        "fr": "Ô Allah, prie sur le dissipateur de l'obscurité.",
+        "tr": "Allahım, karanlığı aydınlatan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 705.5
+    },
+    {
+      "id": "hizb-2-mardi-046",
+      "num": 46,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مُولِي النِّعْمَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā mūlīn niʿmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Pemilik Nik'mat.",
+        "en": "O Allah, exalt the Dispenser of Bounty.",
+        "fa": "خدایا درود بفرست بر رسانندۂ نعمت۔",
+        "fr": "Ô Allah, prie sur le bienfaiteur",
+        "tr": "Allahım, nîmeti ulaştıran zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 709.5
+    },
+    {
+      "id": "hizb-2-mardi-047",
+      "num": 47,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مُؤْتِي الرَّحْمَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā muʾtīr raḥmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Penghilang Susah.",
+        "en": "O Allah, exalt the Granter of Mercy.",
+        "fa": "خدایا درود بفرست بر دهندۂ رحمت۔",
+        "fr": "Ô Allah, prie sur celui qui procure la miséricorde.",
+        "tr": "Allahım, rahmeti getiren zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 713.5
+    },
+    {
+      "id": "hizb-2-mardi-048",
+      "num": 48,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الحَوْضِ المَوْرُودِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil hawḍil mawrūd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Pemberi Rahmat.",
+        "en": "O Allah, exalt the Owner of the Sacred Pool Accessed [by believers].",
+        "fa": "خدایا درود بفرست بر صاحب حوضی که تمام امت بر آن نازل می شوند۔",
+        "fr": "Ô Allah, prie sur le possesseur du Haoud d'abreuvage.",
+        "tr": "Allahım! Başına varılacak Kevser Havuzu'nun sahibine salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 717.5
+    },
+    {
+      "id": "hizb-2-mardi-049",
+      "num": 49,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ المَقَامِ المَحْمُودِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil maqāmil maḥmūd.",
+      "tr": {
+        "id": "Ya Allah, limpahkan Rahmat Ta'zhim atas pemilik\nMaqam Mahmud (derajat yang terpuji).",
+        "en": "O Allah, exalt the Owner of the Most Praised Station.",
+        "fa": "خدایا درود بفرست بر خداوند مقامی که ستوده شده است۔",
+        "fr": "Ô Allah, prie sur le bénéficiaire de la position louable",
+        "tr": "Allahım, Makâm-ı Mahmûd sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 723
+    },
+    {
+      "id": "hizb-2-mardi-050",
+      "num": 50,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ اللِّوَاءِ المَعْقُودِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil liwāʾil maʿqūd.",
+      "tr": {
+        "id": "Ya Allah limpahkan Rahmat Ta'zhim atas pemilik\nbendera yang terikat kuat yang bernama\n“Liwaulhamd”.",
+        "en": "O Allah, exalt the Owner of the Covenanted Banner.",
+        "fa": "خدایا درود بفرست بر  بر دارنده معرفت برافراشته  ۔",
+        "fr": "Ô Allah, prie sur le porteur de l'étendard noué.",
+        "tr": "Allahım, kıyâmet günü hamd sancağı sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 729
+    },
+    {
+      "id": "hizb-2-mardi-051",
+      "num": 51,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ المَكَانِ المَشْهُودِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil makānil mash-hūd.",
+      "tr": {
+        "id": "Ya Allah, limpahkan Rahmat Ta'zhim atas pemilik\ntempat yang tersaksikan (terkenal).",
+        "en": "O Allah, exalt the Owner of the Witnessed Location.",
+        "fa": "خدایا درود بفرست بر خداوند مکانی که حاضر شده ست آنرا۔",
+        "fr": "Ô Allah, prie sur le titulaire de la place mémorable",
+        "tr": "Allahım! Şahit olunan makamın sahibine salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 735.5
+    },
+    {
+      "id": "hizb-2-mardi-052",
+      "num": 52,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المَوْصُوفِ بِالْكَرَمِ وَالجُودِ.",
+      "translit": "Allāhumma ṣalli ʿalāl mawṣūfi bil karami wal jūd.",
+      "tr": {
+        "id": "Ya Allah, limpahkan Rahmat Ta'zhim atas pemilik\njiwa yang bersih, suci dan dermawan.",
+        "en": "O Allah, exalt the one characterised by liberality and generosity.",
+        "fa": "خدایا درود بفرست بر و صف کرده شده به بخشش و سخاوت ۔",
+        "fr": "Ô Allah, prie sur celui qui est dépeint par sa largesse et sa générosité.",
+        "tr": "Allahım, kerem ve cömertlikle muttasıf o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 740.5
+    },
+    {
+      "id": "hizb-2-mardi-053",
+      "num": 53,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ هُوَ فِي السَّمَاءِ سَيِّدُنَا مَحْمُودٌ، وَفِي الأَرْضِ سَيِّدُنَا مُحَمَّدٌ.",
+      "translit": "Allāhumma ṣalli ʿalā man huwa fissamāʾi maḥmūdun wa fīl arḍi Muḥammadun.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang di langit dipanggil Mahmud (yang terpuji) dan di bumi dipanggil Muhammad (yang terpuji).",
+        "en": "O Allah, exalt him who is Maḥmūd in Heaven and Muḥammad on Earth.",
+        "fa": "خدایا درود بفرست بر کسی که او در آسمان ستوده شده است و بر زمین مشهور رئیس مایان محمدؐ ست۔",
+        "fr": "Ô Allah, prie sur celui qui, au ciel est Saïdina Mahmoud (louable) et sur la terre Saïdina Mohammad.",
+        "tr": "Allahım, semâda Mahmûd ve yeryüzünde Muhammed adıyla anılan efendimize salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 745.5
+    },
+    {
+      "id": "hizb-2-mardi-054",
+      "num": 54,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الشَّامَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibish shāmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Tanda Kenabian.",
+        "en": "O Allah, exalt the Possessor of the Shāmma [the Seal of Prophethood on his back].",
+        "fa": "خدایا درود بفرست بر خدواند علامت۔",
+        "fr": "Ô Allah, prie sur celui qui a un grain de beauté",
+        "tr": "Allahım, nübüvvet mührü sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 755.5
+    },
+    {
+      "id": "hizb-2-mardi-055",
+      "num": 55,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ العَلَامَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil ʿalāmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Alamat.",
+        "en": "O Allah, exalt the Possessor of the Hallmark.",
+        "fa": "خدایا درود بفرست بر خداوند مهر نبوت ۔",
+        "fr": "Ô Allah, prie sur le porteur du signe distinctif.",
+        "tr": "Allahım, doğumunda ve doğumundan sonra zuhûr eden alâmetler sâhibi zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 760.5
+    },
+    {
+      "id": "hizb-2-mardi-056",
+      "num": 56,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المَوْصُوفِ بِالكَرَامَةِ.",
+      "translit": "Allāhumma ṣalli ʿalāl mawṣūfi bil karāmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki sifat yang mulia.",
+        "en": "O Allah, exalt the one characterised by miraculous feats (karāma).",
+        "fa": "خدایا درود بفرست بر وصف کرده شده به بزرگی۔",
+        "fr": "Ô Allah, prie sur celui qui est caractérisé par le prestige.",
+        "tr": "Allahım! Kerametle vasıflanmış o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 764.5
+    },
+    {
+      "id": "hizb-2-mardi-057",
+      "num": 57,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المَخْصُوصِ بِالزَّعَامَةِ.",
+      "translit": "Allāhumma ṣalli ʿalāl makhṣūṣi bizzaʿāmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki sifat kepemimpinan yang tertentu.",
+        "en": "O Allah, exalt the one singled out for leadership.",
+        "fa": "خدایا درود بفرست بر خاص کرده شده به سرداری ۔",
+        "fr": "Ô Allah, prie sur le particularisé par le commandement.",
+        "tr": "Allahım! Önderlik ve liderlikle hususi kılınmış olan o zâta salât eyle.."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 769.5
+    },
+    {
+      "id": "hizb-2-mardi-058",
+      "num": 58,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ كَانَ تُظِلُّهُ الغَمَامَةُ.",
+      "translit": "Allāhumma ṣalli ʿalā man kāna tuẓilluhul ghamāmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dinaungi Mega.",
+        "en": "O Allah, exalt him who was shaded by clouds.",
+        "fa": "خدایا درود بفرست بر کسیکه بود سایه می کرد اورا ابر۔",
+        "fr": "Ô Allah, prie sur celui que protégeait le nuage.",
+        "tr": "Allahım, bulutun kendisini gölgelediği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 773.5
+    },
+    {
+      "id": "hizb-2-mardi-059",
+      "num": 59,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ كَانَ يَرَى مَنْ خَلْفَهُ كَمَا يَرَى مَنْ أَمَامَهُ.",
+      "translit": "Allāhumma ṣalli ʿalā man kāna yarā man khalfahu kamā yarā man amāmahu.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang bisa melihat arah belakangnya, seperti melihat arah mukanya.",
+        "en": "O Allah, exalt him who could see equally well behind as in front of him.",
+        "fa": "خدایا درود بفرست برکسیکه بود میوید از پس پشت خود چنانچه میوید از پیش خود۔",
+        "fr": "Ô Allah, prie sur celui qui voyait celui qui était derrière lui comme il voyait celui qui était devant lui.",
+        "tr": "Allahım, arkasındakini tıpkı önünde olan kimseyi gördüğü gibi gören zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 778.5
+    },
+    {
+      "id": "hizb-2-mardi-060",
+      "num": 60,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الشَّفِيعِ المُشَفَّعِ يَوْمَ القِيَامَةِ.",
+      "translit": "Allāhumma ṣalli ʿalash shafīʿil mushaffaʿī yawmal qiyāmah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memberi Syafa'at dan diterima syafa'atnya.",
+        "en": "O Allah, exalt the Intercessor whose intercession will be accepted on the Day of Resurrection.",
+        "fa": "خدایا درود بفرست بر شفاعت کنندۂ قبول کرده شده است شفاعت او روزِ قیامت۔",
+        "fr": "Ô Allah, prie sur l'intercesseur et l'agrée à intercéder le jour du jugement dernier.",
+        "tr": "Allahım, kıyâmet günü şefaat talebi kabûl edilen ve şefaat eden o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 786
+    },
+    {
+      "id": "hizb-2-mardi-061",
+      "num": 61,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الضَّرَاعَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣaḥibiḍ ḍarāʿah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki sifat rendah diri di hadapan Allah.",
+        "en": "O Allah, exalt the Possessor of Humble Entreaty [of Allah].",
+        "fa": "خدایا درود بفرست بر صاحب فروتنی ۔",
+        "fr": "Ô Allah, prie sur le détenteur de l'imploration.",
+        "tr": "Allahım! Niyaz ve yalvarış sahibi olan o zâta salât eyle.."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 791.5
+    },
+    {
+      "id": "hizb-2-mardi-062",
+      "num": 62,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الشَّفَاعَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣaḥibi shafāʿah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki syafa'at.",
+        "en": "O Allah, exalt the Possessor of Intercession.",
+        "fa": "خدایا درود بفرست بر صاحب شفاعت۔",
+        "fr": "Ô Allah, prie sur le détenteur de l'intercession.",
+        "tr": "Allahım, şefaat sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 795.5
+    },
+    {
+      "id": "hizb-2-mardi-063",
+      "num": 63,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الوَسِيلَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil wasīlah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki derajat Wasilah (Perantara)",
+        "en": "O Allah, exalt the Possessor of Wasīla.",
+        "fa": "خدایا درود بفرست بر صاحب منزل عالی۔",
+        "fr": "Ô Allah, prie sur le titulaire de l'influence.",
+        "tr": "Allahım, en yüce cennetlerin en yüce makâmı olan vesîle sâhibi o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 800
+    },
+    {
+      "id": "hizb-2-mardi-064",
+      "num": 64,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الفَضِيلَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil faḍīlah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki derajat keutamaan.",
+        "en": "O Allah, exalt the Possessor of Pre-Eminence.",
+        "fa": "خدایا درود بفرست بر صاحب بزرگی۔",
+        "fr": "Ô Allah, prie sur le titulaire de l'éminence.",
+        "tr": "Allahım, fazîlet sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 804.5
+    },
+    {
+      "id": "hizb-2-mardi-065",
+      "num": 65,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الدَّرَجَةِ الرَّفِيعَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣaḥibid darajatir rafīʿah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki derajat yang tinggi.",
+        "en": "O Allah, exalt the Possessor of Lofty Rank.",
+        "fa": "خدایا درود بفرست بر صاحب پایۂ بلند۔",
+        "fr": "Ô Allah, prie sur le titulaire de la haute dignité.",
+        "tr": "Allahım, cennetteki derecelerin hepsinden yüce olan en yüksek derecenin sâhibi zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 809.5
+    },
+    {
+      "id": "hizb-2-mardi-066",
+      "num": 66,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الهِرَاوَةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil hirāwah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki tongkat besar.",
+        "en": "O Allah, exalt the Owner of the Cane.",
+        "fa": "خدایا درود بفرست بر صاحب عصا۔",
+        "fr": "Ô Allah, prie sur le détenteur du gourdin.",
+        "tr": "Allahım, âsâ (değnek) sahibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 814.5
+    },
+    {
+      "id": "hizb-2-mardi-067",
+      "num": 67,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ النَّعْلَيْنِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣaḥibin naʿlayn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki dua terumpah.",
+        "en": "O Allah, exalt the Owner of the Sandals.",
+        "fa": "خدایا درود بفرست بر صاحب نعلین۔",
+        "fr": "Ô Allah, prie sur le porteur des souliers.",
+        "tr": "Allahım, (İncil'de zikredilmiş sıfatı olarak), ayaklarına nalın giyinmiş olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 819.5
+    },
+    {
+      "id": "hizb-2-mardi-068",
+      "num": 68,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الحُجَّةِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil ḥujjah.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki hujjah.",
+        "en": "O Allah, exalt the Possessor of the [Sound] Argument.",
+        "fa": "خدایا درود بفرست بر صاحب دلیل استوار۔",
+        "fr": "Ô Allah, prie sur le titulaire de la preuve.",
+        "tr": "Allahım, hüccet sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 823.5
+    },
+    {
+      "id": "hizb-2-mardi-069",
+      "num": 69,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ البُرْهَانِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil burhān.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki dalil.",
+        "en": "O Allah, exalt the Possessor of the Proof.",
+        "fa": "خدایا درود بفرست بر صاحب دلیل روشن۔",
+        "fr": "Ô Allah, prie sur le détenteur de l'argumentation.",
+        "tr": "Allahım, sâhib-i burhân olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 828.5
+    },
+    {
+      "id": "hizb-2-mardi-070",
+      "num": 70,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ السُّلْطَانِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣaḥibis sulṭān.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki kerajaan.",
+        "en": "O Allah, exalt the Possessor of Authority.",
+        "fa": "خدایا درود بفرست بر صاحب غلبه",
+        "fr": "O Allah, prie sur le titulaire de l'autorité.",
+        "tr": "Allahım, hükümranlık sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 833
+    },
+    {
+      "id": "hizb-2-mardi-071",
+      "num": 71,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ التَّاجِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣaḥibit tāj.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki mahkota.",
+        "en": "O Allah, exalt the Owner of the Turban (tāj).",
+        "fa": "خدایا درود بفرست بر صاحب تاج۔",
+        "fr": "Ô Allah, prie sur le porteur de la Tiare.",
+        "tr": "Allahım, Mi'rac'da başına giydirilen nurdan tâc sâhibi zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 837.3
+    },
+    {
+      "id": "hizb-2-mardi-072",
+      "num": 72,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ المِعْرَاجِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil miʿrāj.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki tangga naik ke langit.",
+        "en": "O Allah, exalt the Maker of the Night Journey.",
+        "fa": "خدایا درود بفرست بر صاحب معراج۔",
+        "fr": "Ô Allah, prie sur le concerné par l'Ascension.",
+        "tr": "Allahım, Mi'rac'a çıkma şerefine sâhib olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 841.8
+    },
+    {
+      "id": "hizb-2-mardi-073",
+      "num": 73,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ القَضِيبِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil qaḍīb.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki pedang.",
+        "en": "O Allah, exalt the Owner of the Staff.",
+        "fa": "خدایا درود بفرست بر صاحب عصاء السیف۔",
+        "fr": "Ô Allah, prie sur le détenteur du rameau.",
+        "tr": "Allahım, kılıç sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 847
+    },
+    {
+      "id": "hizb-2-mardi-074",
+      "num": 74,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى رَاكِبِ النَّجِيبِ.",
+      "translit": "Allāhumma ṣalli ʿalā rākibin najīb.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang naik kendaraan Unta.",
+        "en": "O Allah, exalt the Rider of Thoroughbred Camels.",
+        "fa": "خدایا درود بفرست بر سوار ناقۂ اصیل و نجیب و برگزیده۔",
+        "fr": "O Allah, prie sur celui qui montait le cheval.",
+        "tr": "Allahım, Necîb adındaki deveye binen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 851.3
+    },
+    {
+      "id": "hizb-2-mardi-075",
+      "num": 75,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى رَاكِبِ البُرَاقِ.",
+      "translit": "Allāhumma ṣalli ʿalā rākibil burāq.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang naik Buraq",
+        "en": "O Allah, exalt the Rider of Burāq.",
+        "fa": "خدایا درود بفرست بر سوار بُراق۔",
+        "fr": "Ô Allah, prie sur celui qui a monté le Bouraq.",
+        "tr": "Allahım, Mi'râc gecesi Burak'a binen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 855.5
+    },
+    {
+      "id": "hizb-2-mardi-076",
+      "num": 76,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مُخْتَرِقِ السَّبْعِ الطِّبَاقِ.",
+      "translit": "Allāhumma ṣalli ʿalā mukhtariqis sabʿiṭ ṭibāq.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang menembuh langit tujuh yang tertutup.",
+        "en": "O Allah, exalt the Traverser of the Seven Heavens.",
+        "fa": "خدایا خدایا درود بفرست بر درگذرنده از هفت آسمان که بالای یکویگرند۔",
+        "fr": "Ô Allah, prie sur celui qui a traversé les sept cieux.",
+        "tr": "Allahım, yedi kat semâyı yarıp geçen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 859.5
+    },
+    {
+      "id": "hizb-2-mardi-077",
+      "num": 77,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الشَّفِيعِ فِي جَمِيعِ الأَنَامِ.",
+      "translit": "Allāhumma ṣalli ʿalash shafīʿi fī jamīʿil anām.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memberi syafa'at kepada seluruh manusia.",
+        "en": "O Allah, exalt the Intercessor for All Creatures.",
+        "fa": "خدایا درود بفرست بر شفاعت کننده در همه آفریدگان۔",
+        "fr": "O Allah, prie sur l'intercesseur en faveur de tous les êtres.",
+        "tr": "Allahım, bütün insanlara şefaat eden zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 865
+    },
+    {
+      "id": "hizb-2-mardi-078",
+      "num": 78,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ سَبَّحَ فِي كَفِّهِ الطَّعَامُ.",
+      "translit": "Allāhumma ṣalli ʿalā man sabbaḥa fī kafhiṭ ṭaʿām.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang terdengar suara Tasbih makanan ditangannya.",
+        "en": "O Allah, exalt him in whose hand food glorified [Allah].",
+        "fa": "خدایا درود بفرست بر کسیکه تسبیح کرد در وست کف وی طعام۔",
+        "fr": "Ô Allah, prie sur celui dans la paume de la main duquel, la nourriture a glorifié Allah.",
+        "tr": "Allahım, elindeki yiyeceğin tesbîh ettiği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 870
+    },
+    {
+      "id": "hizb-2-mardi-079",
+      "num": 79,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ بَكَى إِلَيْهِ الجِذْعُ وَحَنَّ لِفِرَاقِهِ.",
+      "translit": "Allāhumma ṣalli ʿalā man bakā ilayhil jidhʿu wa ḥanna lifirāqih.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang kayu karena menangis karena dipisah darinya SAW.",
+        "en": "O Allah, exalt him for whom a [palm] trunk wept and moaned at being parted from him.",
+        "fa": "خدایا درود بفرست بر کسیکه میگریست بسوی او ستون حنانه و نالۂ غمناکان میکرد از برای جدائی او۔",
+        "fr": "Ô Allah, prie sur celui, sur la séparation duquel a pleuré le tronc et s'est attendri.",
+        "tr": "Allahım, kendisinden ayrıldığında hurma kütüğünün inleyip ağladığı zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 875
+    },
+    {
+      "id": "hizb-2-mardi-080",
+      "num": 80,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ تَوَسَّلَ بِهِ طَيْرُ الفَلَاةِ.",
+      "translit": "Allāhumma ṣalli ʿalā man tawassala bihi ṭayrul falāh.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang menjadi Perantara Burung pedang sahara.",
+        "en": "O Allah, exalt him whose mediation was sought by a bird of the countryside.",
+        "fa": "خدایا درود بفرست برکسیکه وسیله ساخت او را  پرندگان بیابان۔",
+        "fr": "Ô Allah, prie sur celui, par lequel l'oiseau du désert a imploré Allah.",
+        "tr": "Allahım, sahrâ kuşlarının kendisiyle sana tevessül ettiği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 881.5
+    },
+    {
+      "id": "hizb-2-mardi-081",
+      "num": 81,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ سَبَّحَتْ فِي كَفِّهِ الحَصَاةُ.",
+      "translit": "Allāhumma ṣalli ʿalā man sabbaḥat fī kafihil ḥaṣāh.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang bertasbih kerikil ditangannya SAW.",
+        "en": "O Allah, exalt him in whose hand pebbles glorified [Allah].",
+        "fa": "خدایا درود بفرست بر کسیکه تسبیح کرده در  وست کف  او سنگریز ها۔",
+        "fr": "Ô Allah, prie sur celui, dans la paume de la main duquel le caillou a glorifié Allah.",
+        "tr": "Allahım, elinde küçük çakıl taşlarının tesbîh ettiği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 888
+    },
+    {
+      "id": "hizb-2-mardi-082",
+      "num": 82,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ تَشَفَّعَ إِلَيْهِ الظَّبْيُ بِأَفْصَحِ كَلَامٍ.",
+      "translit": "Allāhumma ṣalli ʿalā man tashaffaʿa ilayhiẓ ẓabyu bi afṣaḥi kalām.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang mohon syafa'at kijang dengan suara Fasih.",
+        "en": "O Allah, exalt him whose intercession was sought by a gazelle in the most eloquent speech.",
+        "fa": "خدایا درود بفرست بر کسیکه روی آورد بسوی او آهو بکلام فصیح تر۔",
+        "fr": "Ô Allah, prie sur celui à qui, l'antilope a demandé l'intercession dans un langage éloquent.",
+        "tr": "Allahım, huzûruna geyiğin gelip kendisinden en fasih ifâdeyle şefaat talebinde bulunduğu zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 894
+    },
+    {
+      "id": "hizb-2-mardi-083",
+      "num": 83,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ كَلَّمَهُ الضَّبُّ فِي مَجْلِسِهِ مَعَ أَصْحَابِهِ الأَعْلَامِ.",
+      "translit": "Allāhumma ṣalli ʿalā man kallamahuḍ ḍabbu fī majlisihi maʿa aṣ-ḥābihil aʿlām.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang biawak bicara di majelis beliau dan sahabatnya.",
+        "en": "O Allah, exalt him to whom a lizard spoke [and testified] in a gathering of his most exalted Companions.",
+        "fa": "خدایا درود بفرست بر کسیکه سخن کرد باوی مسمار در مجلس او بایاران او که بزرگانند۔",
+        "fr": "Ô Allah, prie sur celui, à qui a parlé l'uromastix devant ses nobles compagnons.",
+        "tr": "Allahım! Ashâbının ileri gelenleriyle birlikte bulunduğu mecliste kelerin kendisiyle konuştuğu zata salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 901.5
+    },
+    {
+      "id": "hizb-2-mardi-084",
+      "num": 84,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى البَشِيرِ النَّذِيرِ.",
+      "translit": "Allāhumma ṣalli ʿalāl bashīrin nadhīr.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi pembawa berita gembira dan menakutkan.",
+        "en": "O Allah, exalt the Bringer of Good News and Warner.",
+        "fa": "خدایا درود بفرست بر مژده دهنده - ترساننده ۔",
+        "fr": "Ô Allah, prie sur l'heureux présage et l'avertisseur.",
+        "tr": "Allahım, müjdeleyici ve uyarıcı olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 910
+    },
+    {
+      "id": "hizb-2-mardi-085",
+      "num": 85,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى السِّرَاجِ المُنِيرِ.",
+      "translit": "Allāhumma ṣalli ʿalas sirājil munīr.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi sebagai lampu yang menerangi.",
+        "en": "O Allah, exalt the Light-Giving Lamp.",
+        "fa": "خدایا درود بفرست بر چراغ روشن",
+        "fr": "Ô Allah, prie sur la lampe éclairante.",
+        "tr": "Allahım, aydınlatıcı kandil gibi nur saçan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 913
+    },
+    {
+      "id": "hizb-2-mardi-086",
+      "num": 86,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ شَكَا إِلَيْهِ البَعِيرُ.",
+      "translit": "Allāhumma ṣalli ʿalā man shakā ilayhil baʿīr.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang unta pernah mengaduh kepadanya.",
+        "en": "O Allah, exalt him to whom a camel complained [of its ill-treatment].",
+        "fa": "خدایا درود بفرست برکسیکه شکایت کرد بسوی وی شتر",
+        "fr": "Ô Allah, prie sur celui, a qui s'est plaint le chameau.",
+        "tr": "Allahım, devenin kendisine hâlinden şikâyet ettiği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 917
+    },
+    {
+      "id": "hizb-2-mardi-087",
+      "num": 87,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ تَفَجَّرَ مِنْ بَيْنِ أَصَابِعِهِ المَاءُ النَّمِيرُ.",
+      "translit": "Allāhumma ṣalli ʿalā man tafajjara min bayni aṣābiʿihil māʾun namīr.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang air suci pernah mengalir di celah-celah jarinya.",
+        "en": "O Allah, exalt him from between whose fingers pure water welled out.",
+        "fa": "خدایا درود بفرست برکسیکه جاری گشت ازمیان انگشتان وی آب صاف و روان۔",
+        "fr": "Ô Allah, prie sur celui, entre les doigts duquel a jailli l'eau claire.",
+        "tr": "Allahım, parmaklarının arasından tatlı su akan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 922
+    },
+    {
+      "id": "hizb-2-mardi-088",
+      "num": 88,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الطَّاهِرِ المُطَهَّرِ.",
+      "translit": "Allāhumma ṣalli ʿalāṭ ṭāhiril muṭahhar.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang suci dan mensucikan.",
+        "en": "O Allah, exalt the Pure One, the Purifier.",
+        "fa": "خدایا درود بفرست برآن که پاک ست پاک کرده شده است۔",
+        "fr": "Ô Allah, prie sur le pur et purifié.",
+        "tr": "Allahım, pîr u pâk olan, o tertemiz olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 930
+    },
+    {
+      "id": "hizb-2-mardi-089",
+      "num": 89,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى نُورِ الأَنْوَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā nūril anwār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki cahaya berbagai cahaya.",
+        "en": "O Allah, exalt the Light of Lights.",
+        "fa": "خدایا درود بفرست بر نور همه نور ها",
+        "fr": "Ô Allah, prie sur la lumière des lumières.",
+        "tr": "Allahım, nurların nûru olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 934.5
+    },
+    {
+      "id": "hizb-2-mardi-090",
+      "num": 90,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنِ انْشَقَّ لَهُ القَمَرُ.",
+      "translit": "Allāhumma ṣalli ʿalā manin shaqqa lahul qamar.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang pernah membelah bulan",
+        "en": "O Allah, exalt him for whom the moon was split.",
+        "fa": "خدایا درود بفرست برکسیکه شگافته شده برای او ماهتاب۔",
+        "fr": "Ô Allah, prie sur celui, pour lequel la lune s'est fendue.",
+        "tr": "Allahım, Ay'ın kendisi için ikiye ayrıldığı zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 938
+    },
+    {
+      "id": "hizb-2-mardi-091",
+      "num": 91,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الطَّيِّبِ المُطَيَّبِ.",
+      "translit": "Allāhumma ṣalli ʿalāṭ ṭayyibil muṭayyab.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang lepas dari sifat dan perbuatan keji.",
+        "en": "O Allah, exalt the Goodly, the Fragrant One.",
+        "fa": "خدایا درود بفرست بر پاک کرده شده۔",
+        "fr": "Ô Allah, prie sur le bon, le parfumé.",
+        "tr": "Allahım! Tertemiz ve pak kılınmış olana salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 942.5
+    },
+    {
+      "id": "hizb-2-mardi-092",
+      "num": 92,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الرَّسُولِ المُقَرَّبِ.",
+      "translit": "Allāhumma ṣalli ʿalar rasūlil muqarrab.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Rasul yang dekat dengan Allah",
+        "en": "O Allah, exalt the Emissary brought close [to Allah].",
+        "fa": "خدایا درود بفرست بر پیغمبریکه مقرب درگاه تست۔",
+        "fr": "Ô Allah, prie sur le Messager, le rapproché.",
+        "tr": "Allahım, huzûr-i ilâhiye yakınlaştırılmış olan rasûle salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 946.5
+    },
+    {
+      "id": "hizb-2-mardi-093",
+      "num": 93,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الفَجْرِ السَّاطِعِ.",
+      "translit": "Allāhumma ṣalli ʿalāl fajris sāṭiʿ.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang bagaikan fajar yang terbit.",
+        "en": "O Allah, exalt the Brilliant Dawn.",
+        "fa": "خدایا درود بفرست بر صبح بر آینده بروشنی۔",
+        "fr": "Ô Allah, prie sur l'aube resplendissante.",
+        "tr": "Allahım, parıldayan şafak misali olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 950.5
+    },
+    {
+      "id": "hizb-2-mardi-094",
+      "num": 94,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى النَّجْمِ الثَّاقِبِ.",
+      "translit": "Allāhumma ṣalli ʿalan najmith thāqib.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki kecerdasan yang diumpamakan bintang cemerlang.",
+        "en": "O Allah, exalt the Piercing Star.",
+        "fa": "خدایا درود بفرست بر ستارۂ که درخشنده است۔",
+        "fr": "Ô Allah, prie sur l'astre perçant.",
+        "tr": "Allahım, karanlığı delen yıldız misâli olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 955.5
+    },
+    {
+      "id": "hizb-2-mardi-095",
+      "num": 95,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى العُرْوَةِ الوُثْقَى.",
+      "translit": "Allāhumma ṣalli ʿalāl ʿurwatil wuthqa.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki pegangan yang kuat.",
+        "en": "O Allah, exalt the Most Trusty Handhold.",
+        "fa": "خدایا درود بفرست بر دستاویز محکم۔",
+        "fr": "Ô Allah, prie sur le lien indéfectible.",
+        "tr": "Allahım, tutunulacak sapasağlam kulp (urve-i vuskâ) olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 960.5
+    },
+    {
+      "id": "hizb-2-mardi-096",
+      "num": 96,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى نَذِيرِ أَهْلِ الأَرْضِ.",
+      "translit": "Allāhumma ṣalli ʿalā nadhīri ahlil arḍ.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Pembawa berita gembira kepada penduduk bumi.",
+        "en": "O Allah, exalt the Warner of the People of the Earth.",
+        "fa": "خدایا درود بفرست بر بیم کنندۂ اهلِ زمین۔",
+        "fr": "Ô Allah, prie sur l'avertisseur des habitants de la terre.",
+        "tr": "Allahım, yeryüzü halkının uyarıcısı olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 966.5
+    },
+    {
+      "id": "hizb-2-mardi-097",
+      "num": 97,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الشَّفِيعِ يَوْمَ العَرْضِ.",
+      "translit": "Allāhumma ṣalli ʿalash shafīʿi yawmal ʿarḍ.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memberi syafa'at di kiamat dan hisab",
+        "en": "O Allah, exalt the Intercessor on the Day of Petition.",
+        "fa": "خدایا درود بفرست بر شفاعت کنندۂ روز پیش آمدن۔",
+        "fr": "Ô Allah, prie sur l'intercesseur du jour de la présentation.",
+        "tr": "Allahım, arz (kıyamet) gününün şefaatçisi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 972
+    },
+    {
+      "id": "hizb-2-mardi-098",
+      "num": 98,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى السَّاقِي لِلنَّاسِ مِنَ الحَوْضِ.",
+      "translit": "Allāhumma ṣalli ʿalas sāqi linnāsi minal ḥawḍ.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Pemberi minum kepada manusia di Telaga.",
+        "en": "O Allah, exalt him who shall give people to drink from the Sacred Pool.",
+        "fa": "خدایا درود بفرست برخوانندۂ مردمان برای آشامیدن آب از حوض کوثر۔",
+        "fr": "Ô Allah, prie sur celui qui abreuvera les gens au Haoud.",
+        "tr": "Allahım, insanlara kevser havuzundan içirecek olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 976.5
+    },
+    {
+      "id": "hizb-2-mardi-099",
+      "num": 99,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ لِوَاءِ الحَمْدِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibi liwāʾil ḥamd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Liwail Hamd (bendera Hamd).",
+        "en": "O Allah, exalt the Possessor of the Banner of Praise.",
+        "fa": "خدایا درود بفرست بر خداوند نیزۂ ستایش",
+        "fr": "Ô Allah, prie sur le reconnaissant.",
+        "tr": "Allahım, Livâ-i Hamd sâhibi zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 982.5
+    },
+    {
+      "id": "hizb-2-mardi-100",
+      "num": 100,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المُشَمِّرِ عَنْ سَاعِدِ الجِدِّ.",
+      "translit": "Allāhumma ṣalli ʿalāl mushammiri an sāʿidil jidd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang menyingsingkan lengan baju (melaksanakan risalah dengan sungguh-sungguh)",
+        "en": "O Allah, exalt him who rolled up the sleeve of the forearm of earnest endeavour.",
+        "fa": "خدایا درود بفرست بر بالا کشندۂ آستین از بازوی کوشش۔",
+        "fr": "Ô Allah, prie sur celui qui s'est mis courageusement à la tâche.",
+        "tr": "Allahım, insanları hak yola irşâd ederken bütün varlığıyla İslâm Dîni'ni tebliğe yönelen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 987.5
+    },
+    {
+      "id": "hizb-2-mardi-101",
+      "num": 101,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المُسْتَعْمِلِ فِي مَرْضَاتِكَ غَايَةَ الجُهْدِ.",
+      "translit": "Allāhumma ṣalli ʿalāl mustaʿmili marḍātika ghāyatal juhd.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang mengerjakan Perbuatan yang Engkau Ridhoi dengan sungguh.",
+        "en": "O Allah, exalt him who strove his utmost to gain Your good pleasure.",
+        "fa": "خدایا درود بفرست بر عمل کننده در طلب خوشنووی تو بصرف کردن نهایت طاقت خود را۔",
+        "fr": "Ô Allah, prie sur celui qui a prodigué tous ses efforts pour te satisfaire.",
+        "tr": "Allahım, râzı olduğun hususta tam mânâsıyla gayret eden zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 994
+    },
+    {
+      "id": "hizb-2-mardi-102",
+      "num": 102,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى النَّبِيِّ الخَاتِمِ.",
+      "translit": "Allāhumma ṣalli ʿalān nabiyyil khātim.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi Penutup.",
+        "en": "O Allah, exalt the Prophet, the Seal.",
+        "fa": "خدایا درود بفرست بر پیغمبریکه پس آیندۂ پیغمبر است۔",
+        "fr": "Ô Allah, prie sur l'Ultime prophète.",
+        "tr": "Allahım, son nebîye salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1001
+    },
+    {
+      "id": "hizb-2-mardi-103",
+      "num": 103,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى الرَّسُولِ الخَاتِمِ.",
+      "translit": "Allāhumma ṣalli ʿalār rasūlil khātim.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Rasul penutup.",
+        "en": "O Allah, exalt the Final Emissary.",
+        "fa": "خدایا درود بفرست بر پیغمبریکه آخر همه پیغمبر است۔",
+        "fr": "Ô Allah, prie sur l'Ultime Messager.",
+        "tr": "Allahım, son rasûle salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1005.5
+    },
+    {
+      "id": "hizb-2-mardi-104",
+      "num": 104,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المُصْطَفَى القَائِمِ.",
+      "translit": "Allāhumma ṣalli ʿalāl muṣṭafal qāʾim.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas mereka yang berpegang teguh",
+        "en": "O Allah, exalt the Chosen One, the Upright One.",
+        "fa": "خدایا درود بفرست بر برگزیده خود که ایستاده است بفرمانبرداری تو۔",
+        "fr": "Ô Allah, prie sur l'élu le constant.",
+        "tr": "Allahım, hakkı ayakta tutan Mustafâ'ya salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1010
+    },
+    {
+      "id": "hizb-2-mardi-105",
+      "num": 105,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى رَسُولِكَ أَبِي القَاسِمِ.",
+      "translit": "Allāhumma ṣalli ʿalā rasūlika abīl qāsim.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Rasul Engkau yang dijuluki Abu Qasim.",
+        "en": "O Allah, exalt Your Emissary, the Father of Qāsim.",
+        "fa": "خدایا درود بفرست بر پیغمبر خود پدر قاسم۔",
+        "fr": "O Allah, prie sur ton Messager Abou Al Qacem.",
+        "tr": "Allahım, Rasûlün Ebu'l-Kâsım'a salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1015.5
+    },
+    {
+      "id": "hizb-2-mardi-106",
+      "num": 106,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الآيَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil āyāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Tanda.",
+        "en": "O Allah, exalt the Possessor of Signs.",
+        "fa": "خدایا درود بفرست بر خداوند نشانیها ۔",
+        "fr": "Ô Allah, prie sur le détenteur des signes célestes.",
+        "tr": "Allahım, âyetler sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1020.5
+    },
+    {
+      "id": "hizb-2-mardi-107",
+      "num": 107,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الدَّلَالَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibid dilālāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Dalil.",
+        "en": "O Allah, exalt the Possessor of Indications.",
+        "fa": "خدایا درود بفرست بر خداوند رهنمائیها۔",
+        "fr": "Ô Allah, prie sur le détenteur du guidage.",
+        "tr": "Allahım, bütün insanlara emir ve yasakları açıklayarak dosdoğru yolu gösteren deliller (rehberlikler) sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1027
+    },
+    {
+      "id": "hizb-2-mardi-108",
+      "num": 108,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الإِشَارَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil ishārāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Isyarah.",
+        "en": "O Allah, exalt the Possessor of Allusions.",
+        "fa": "خدایا درود بفرست بر خداوند اشارتها۔",
+        "fr": "Ô Allah, prie sur le détenteur des indications.",
+        "tr": "Allahım, işâretler sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1032.5
+    },
+    {
+      "id": "hizb-2-mardi-109",
+      "num": 109,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ الكَرَامَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil karāmāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Karomah.",
+        "en": "O Allah, exalt the Possessor of Supernatural Feats.",
+        "fa": "خدایا درود بفرست بر خداوند بزرگیها۔",
+        "fr": "Ô Allah, prie sur le titulaire des prodiges.",
+        "tr": "Allahım, kerâmetler sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1037
+    },
+    {
+      "id": "hizb-2-mardi-110",
+      "num": 110,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ العَلَامَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil ʿalāmāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki alamat kenabian.",
+        "en": "O Allah, exalt the Possessor of Hallmarks.",
+        "fa": "خدایا درود بفرست بر خداوند نشانها۔",
+        "fr": "Ô Allah, prie sur le détenteur des signes.",
+        "tr": "Allahım, alâmetler sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1042
+    },
+    {
+      "id": "hizb-2-mardi-111",
+      "num": 111,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ البَيِّنَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil bayyināt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Dalil/tanda-tanda jagat yang jelas.",
+        "en": "O Allah, exalt the Possessor of Explications.",
+        "fa": "خدایا درود بفرست بر خداوند دلیلهای روشن ۔",
+        "fr": "Ô Allah, prie sur le détenteur des preuves évidentes.",
+        "tr": "Allahım, peygamberliğine delâlet eden açık âyetler ve burhanlar sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1046.5
+    },
+    {
+      "id": "hizb-2-mardi-112",
+      "num": 112,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ المُعْجِزَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibil muʿjizāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Mu'jizat.",
+        "en": "O Allah, exalt the Possessor of Miracles.",
+        "fa": "خدایا درود بفرست بر خداوند معجزها۔",
+        "fr": "Ô Allah, prie sur le titulaire des miracles.",
+        "tr": "Allahım, mu'cizeler sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1051
+    },
+    {
+      "id": "hizb-2-mardi-113",
+      "num": 113,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى صَاحِبِ خَوَارِقِ العَادَاتِ.",
+      "translit": "Allāhumma ṣalli ʿalā ṣāḥibi khawāriqil ʿādāt.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang memiliki Mu'jizat yang luar biasa.",
+        "en": "O Allah, exalt the Possessor of Extraordinary Events.",
+        "fa": "خدایا درود بفرست بر صاحب افعالیکه پاره کننده اند رسمهای زمانه را۔",
+        "fr": "Ô Allah, prie sur le détenteur de l'extraordinaire.",
+        "tr": "Allahım, hârikulâde işlerin sâhibi olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1056
+    },
+    {
+      "id": "hizb-2-mardi-114",
+      "num": 114,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ سَلَّمَتْ عَلَيْهِ الأَحْجَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā man sallamat ʿalayhil aḥjār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang diberi salam oleh batu-batu.",
+        "en": "O Allah, exalt him who was saluted by stones.",
+        "fa": "خدایا درود بفرست برکسیکه سلام گفتند بروی سنگها۔",
+        "fr": "Ô Allah, prie sur celui qui a été salué par les pierres.",
+        "tr": "Allahım, taşların kendisine selâm verdiği o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1063
+    },
+    {
+      "id": "hizb-2-mardi-115",
+      "num": 115,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ سَجَدَتْ بَيْنَ يَدَيْهِ الأَشْجَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā man sajadat bayna yadayhil ashjār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang pohon-pohon bersujud dihadapannya.",
+        "en": "O Allah, exalt him before whom trees prostrated.",
+        "fa": "خدایا درود بفرست برکسیکه سجده کردند پیش او درختان۔",
+        "fr": "Ô Allah, prie sur celui devant lequel se sont prosternés les arbres.",
+        "tr": "Allahım, huzûrunda ağaçların secde ettiği o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1071.5
+    },
+    {
+      "id": "hizb-2-mardi-116",
+      "num": 116,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ تَفَتَّقَتْ مِنْ نُورِهِ الأَزْهَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā man tafattaqat min nūrihil azhār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dari Nurnya membelah Bunga-bunga.",
+        "en": "O Allah, exalt him in whose Light flowers bloomed.",
+        "fa": "خدایا درود بفرست بر کسیکه برآمد از نور او شگوفهای درختان۔",
+        "fr": "Ô Allah, prie sur celui dont la lumière a donné naissance aux fleurs.",
+        "tr": "Allahım, nûrundan çiçeklerin açıldığı o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1079.5
+    },
+    {
+      "id": "hizb-2-mardi-117",
+      "num": 117,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ طَابَتْ بِبَرَكَتِهِ الثِّمَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā man ṭābat bi barakatihith thimār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang berkahnya buah-buahan jadi bahagia.",
+        "en": "O Allah, exalt him by whose blessing fruit ripened.",
+        "fa": "خدایا درود بفرست بر کسیکه پختۂ شد ببرکت او میوهای درختان۔",
+        "fr": "O Allah, prie sur celui dont la bénédiction a fait mûrir les fruits.",
+        "tr": "Allahım, bereketiyle mahsullerin tatlandığı o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1088.5
+    },
+    {
+      "id": "hizb-2-mardi-118",
+      "num": 118,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنِ اخْضَرَّتْ مِنْ بَقِيَّةِ وَضُوئِهِ الأَشْجَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā manikhḍarrat min baqiyyati waḍūʾihil ashjār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dari sisa-sisa wudhu'nya pohon-pohon menghijau.",
+        "en": "O Allah, exalt him from whose leftover ablution water trees became green.",
+        "fa": "خدایا درود بفرست بر کسیکه سبز شداز پس ماندۂ آپ وضوی او درختان۔",
+        "fr": "Ô Allah, prie sur celui dont l'eau des ablutions a fait verdir les arbres.",
+        "tr": "Allahım, aldığı abdest suyunun artığıyla ağaçların yeşerdiği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1094
+    },
+    {
+      "id": "hizb-2-mardi-119",
+      "num": 119,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ فَاضَتْ مِنْ نُورِهِ جَمِيعُ الأَنْوَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā man fāḍat min nūrihi jamīʿul anwār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dari Nur beliau terpancar (tercurah) seluruh cahaya.",
+        "en": "O Allah, exalt him from whose Light all other lights flowed.",
+        "fa": "خدایا درود بفرست بر کسیکه آشکارا شده از نور او همه نورها۔",
+        "fr": "Ô Allah, prie sur celui dont la lumière est source d'effusion de toutes les lumières.",
+        "tr": "Allahım, bütün nurların nûrundan yayılıp dağıldığı zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1103
+    },
+    {
+      "id": "hizb-2-mardi-120",
+      "num": 120,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ بِالصَّلَاةِ عَلَيْهِ تُحَطُّ الأَوْزَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā man biṣṣalāti ʿalayhi tuḥaṭṭul awzār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim dan ringankanlah beban orang-orang yang shalat.",
+        "en": "O Allah, exalt him through whose exaltation loads are set down.",
+        "fa": "خدایا درود بفرست بر کسیکه بسبب درود بروی انداخته میشود بارهای گناه۔",
+        "fr": "Ô Allah, prie sur celui que la prière sur lui efface tous les pêchés.",
+        "tr": "Allahım, kendisine okunan salavât sâyesinde günahların silindiği zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1110
+    },
+    {
+      "id": "hizb-2-mardi-121",
+      "num": 121,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ بِالصَّلَاةِ عَلَيْهِ تُنَالُ مَنَازِلُ الأَبْرَارِ.",
+      "translit": "Allāhumma ṣalli ʿalā man biṣṣalāti ʿalayhi tunālu manāzilul abrār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dengan bershalawat atas Beliau SAW memperoleh keduduk Al-Abrar (ahli Surga).",
+        "en": "O Allah, exalt him through whose exaltation the stations of the most righteous are attained.",
+        "fa": "خدایا درود بفرست بر کسیکه بسبب درود گفتن بروی یافته میشود مرتبهای نیکوکاران ۔",
+        "fr": "Ô Allah, prie sur celui que la prière sur lui fait parvenir au rang des magnanimes.",
+        "tr": "Allahım, kendisine okunan salavâtla ebrâr makâmındaki kulların makâmına erişilen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1116.5
+    },
+    {
+      "id": "hizb-2-mardi-122",
+      "num": 122,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ بِالصَّلَاةِ عَلَيْهِ يُرْحَمُ الكِبَارُ وَالصِّغَارُ.",
+      "translit": "Allāhumma ṣalli ʿalā man biṣṣalāti ʿalayhi yurḥamul kibāru waṣṣighār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dengan bershalawat atas Beliau SAW orang-orang tuya dan anak dikasihi.",
+        "en": "O Allah, exalt him through whose exaltation the old and the young receive mercy.",
+        "fa": "خدایا درود بفرست برکسیکه بسبب درود گفتن بروی رحم کرده میشوند بزرگان و مردان۔",
+        "fr": "Ô Allah, prie sur celui que la prière sur lui fait bénéficier de la miséricorde les petits et les grands.",
+        "tr": "Allahım, kendisine okunan salavâtla büyüklerin ve küçüklerin rahmete nâil oldukları zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1133
+    },
+    {
+      "id": "hizb-2-mardi-123",
+      "num": 123,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ بِالصَّلَاةِ عَلَيْهِ نَتَنَعَّمُ فِي هَذِهِ الدَّارِ وَفِي تِلْكَ الدَّارِ.",
+      "translit": "Allāhumma ṣalli ʿalā man biṣṣalati ʿalayhi natanaʿamu fī hādhihid dāri wa fī tilkad dār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dengan bershalawat atas Beliau SAW memperoleh nik'mat di Dunia ini dan Akherat/di Surga.",
+        "en": "O Allah, exalt him by whose exaltation this Abode and that Abode are benefited.",
+        "fa": "خدایا  درود بفرست برکسیکه بسبب درود گفتن بروی بهره مند شویم درین دنیا و در آخرت۔",
+        "fr": "Ô Allah, prie sur celui qui par la prière sur lui on est heureux ici-bas et dans l'au-delà.",
+        "tr": "Allahım, kendisine okunan salavâtla hem bu dünyâda hem âhirette nîmetlere erişilen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1140.5
+    },
+    {
+      "id": "hizb-2-mardi-124",
+      "num": 124,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ بِالصَّلَاةِ عَلَيْهِ تُنَالُ رَحْمَةُ العَزِيزِ الغَفَّارِ.",
+      "translit": "Allāhumma ṣalli ʿalā man biṣṣalāti ʿalayhi tunālu raḥmatul ʿazīzil ghaffār.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dengan bershalawat atas Beliau SAW memperoleh Rahmat Tuhan yang Maha Mulia dan banyak ampunannya.",
+        "en": "O Allah, exalt him through whose exaltation mercy is gained from the Almighty, the Oft-Forgiving.",
+        "fa": "خدایا درود بفرست بر کسیکه بسبب درود گفتن بروی رسید و میشود بخشش خدایراکه غالبست آمزرگار۔",
+        "fr": "Ô Allah, prie sur celui qui par la prière sur lui on atteint la miséricorde du Puissant dans sa noblesse, de l'Absoluteur.",
+        "tr": "Allahım, kendisine okunan salavâtla Azîz ve Ğaffâr olan Allâh'ın rahmetine erişilen zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1151.5
+    },
+    {
+      "id": "hizb-2-mardi-125",
+      "num": 125,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المَنْصُورِ المُؤَيَّدِ.",
+      "translit": "Allāhumma ṣalli ʿalāl manṣūril muʾayyad.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang diperkuat pertolongannya.",
+        "en": "O Allah, exalt the Victorious One, the [Divinely-]Aided One.",
+        "fa": "خدایا درود بفرست بر یاری داد شدۂ و قوت داده شده۔",
+        "fr": "Ô Allah, prie sur celui qui est doté de la victoire et du soutien.",
+        "tr": "Allahım, kendisine yardım olunmuş ve düşmanların kalbine korku salmakla güçlendirilmiş olan o zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1161
+    },
+    {
+      "id": "hizb-2-mardi-126",
+      "num": 126,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى المُخْتَارِ المُمَجَّدِ.",
+      "translit": "Allāhumma ṣalli ʿalāl mukhtāril mumajjad.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang dipilih dan dimuliakan/ditinggikan.",
+        "en": "O Allah, exalt the Elect, the Illustrious.",
+        "fa": "خدایا درود بفرست بر برگزیدۂ بزرگی داده شده۔",
+        "fr": "Ô Allah, prie sur le Meilleur, le glorifié.",
+        "tr": "Allahım, seçilmiş, azâmet ve şeref sâhibi olan zâta salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1165
+    },
+    {
+      "id": "hizb-2-mardi-127",
+      "num": 127,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā wa mawlānā Muḥammad.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda Kami Nabi Muhammad SAW.",
+        "en": "O Allah, exalt our Master and Patron Muḥammad.",
+        "fa": "خدایا درود بفرست بر سردار مایان و مالک مایان محمدؐ۔",
+        "fr": "Ô Allah, prie sur Saïdina et Maoulana Mohammad.",
+        "tr": "Allahım, efendimiz ve gönül sultânımız Muhammed'e salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1170.5
+    },
+    {
+      "id": "hizb-2-mardi-128",
+      "num": 128,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى مَنْ كَانَ إِذَا مَشَى فِي البَرِّ الأَقْفَرِ تَعَلَّقَتِ الوُحُوشُ بِأَذْيَالِهِ.",
+      "translit": "Allāhumma ṣalli ʿalā man kāna idha mashā fīl barril aqfari taʿallaqatil wuḥūshu biʾadhyālihi.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Nabi yang berjalan di gurun maka binatang liar menggantungkan ekornya.",
+        "en": "O Allah, exalt him to whose robe-hems wild animals clung as he walked in desert lands.",
+        "fa": "خدایا درود بفرست برکسیکه بود وقتیکه میرفت در بیابان خالی از آب و گیاه می آمیختند جانوران رمیده بد امنهامی مبارک او۔",
+        "fr": "Ô Allah, prie sur celui qui, lorsqu'il marchait en plein désert, les bêtes s'accrochaient à ses pans de vêtements.",
+        "tr": "Allahım, Issız çöllerde yürüdüğü vakit, yaban hayvanlarının eteklerine sarıldığı o zata salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1176
+    },
+    {
+      "id": "hizb-2-mardi-129",
+      "num": 129,
+      "ar": "اللَّهُمَّ صَلِّ عَلَيْهِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ تَسْلِيمًا كَثِيرًا، وَالحَمْدُ لِلَّهِ رَبِّ العَالَمِينَ.",
+      "translit": "Allāhumma ṣalli ʿalayhi wa ʿalā ālihi wa ṣaḥbihi wa ṣallim tasliman kathira, walḥamdu liLlāhi rabbil ʿālamīn.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas beliau SAW, keluarga dan sahabat. Dan limpahkanlah kesejahteraan yang sebenarnya. Segala Puji Bagi Allah Tuhan Sekalian Alam.",
+        "en": "O Allah, exalt and bestow abundant salutations on him, his Family, and his Companions. And all praise be to Allah, Lord of the Worlds.",
+        "fa": "خدایا درود بفرست بروی و بر آل وی و یاران وی و سلام بفرست سلام فرستادنی و تمام تعریف خدایراست که پروردگار عالمیان است۔",
+        "fr": "Ô Allah, prie sur lui, sur sa famille, ses compagnons et salue les abondamment. Les louanges appartiennent à Allah, le Seigneur des mondes",
+        "tr": "Allahım! Ona, ailesine ve ashabına salât eyle ve çokça selam eyle. Hamd âlemlerin Rabbi olan Allâh'a mahsûstur."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1185.5
+    },
+    {
+      "id": "hizb-2-mardi-130",
+      "num": 130,
+      "ar": "الحَمْدُ لِلَّهِ عَلَى حِلْمِهِ بَعْدَ عِلْمِهِ، وَعَلَى عَفْوِهِ بَعْدَ قُدْرَتِهِ.",
+      "translit": "AlḥamduliLlahi ʿalā ḥilmihi, baʿda ʿilmihi, wa ʿalā ʿafwihi baʿda qudratihi.",
+      "tr": {
+        "id": "Segala puji bagi Allah atas kesantuannya (terhadap orang yang berdosa), setelah mengetahui perbuatan orang yang durhaka melebur kejelekan (tidak segera menyiksa)",
+        "en": "All praise be to Allah for His forbearance despite His Knowledge, and His forgivingness despite His Omnipotence.",
+        "fa": "ستایش مر خدایراست بر بردباری وی با وجودانستن وی و بر در گذشتن وی با وجود توانا بودن وی۔",
+        "fr": "Louanges à Allah, pour son indulgence malgré son savoir, et pour la dispense de son pardon malgré son pouvoir.",
+        "tr": "Hamd (her türlü övgü ve senâ) bilmesine rağmen hilm ile muamele eden, gücü yetmesine rağmen affeden Allah'adır."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1202.5
+    },
+    {
+      "id": "hizb-2-mardi-131",
+      "num": 131,
+      "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الفَقْرِ إِلَّا إِلَيْكَ، وَمِنَ الذُّلِّ إِلَّا لَكَ، وَمِنَ الخَوْفِ إِلَّا مِنْكَ، وَأَعُوذُ بِكَ أَنْ أَقُولَ زُورًا، أَوْ أَغْشَى فُجُورًا، أَوْ أَكُونَ بِكَ مَغْرُورًا، وَأَعُوذُ بِكَ مِنْ شَمَاتَةِ الأَعْدَاءِ، وَعُضَالِ الدَّاءِ، وَخَيْبَةِ الرَّجَاءِ، وَزَوَالِ النِّعْمَةِ، وَفُجَاءَةِ النِّقْمَةِ.",
+      "translit": "Allāhumma inni aʿūdhu bika minal faqri illā illayka, wa minadhulli illā laka, wa minal khawfi illā minka, wa aʿūdhu bika an aqūla zūra, aw aghsha fujūra, aw akūna bika maghrūra, wa aʿūdhu bika min shamātatil aʿdāʾi, wa ʿuḍāliddāʾi wa khaybatir rajāʾi, wa zawālin niʿmati, wa fujāʾatin niqmah.",
+      "tr": {
+        "id": "Ya Allah, sesungguhnya aku mohon perlindungan dengan Engkau dari kefakiran (membutuhkan sesuatu), kecuali mohon perlindungan kepada Engkau. Dan dari kehinaan, kecuali mohon perlindungan dari engkau dan aku mohon perlindungan dengan Engkau berbicara bohong, syirik dan batil atau keluar dari ketaatan atau aku berbuat tipuan di hadapan Engkau. Dan aku berlindung dengan Engkau dari ketakutan terhadap musuh, bahaya penyakit, gagalnya pengharapan hilangnya nik'mat dan balasan/serangan tiba-tiba.",
+        "en": "O Allah, I seek refuge in You from all poverty except in relation to You; and from all humility which is not towards You, and from all fear that is not fear of You. I seek refuge in You from speaking falsehoods, from being deceitful and immoral, and from being deluded about You. And I seek refuge in You from my enemies gloating over me, from chronic illness, from hopes being dashed, from the disappearance of blessings, and from affliction by disaster.",
+        "fa": "خدایا بدرستیکه من پناه میگرم بتو از احتیاج مگر بسوی تو و از خوار بودن مگر برای تو و از ترسیدن مگر از تو و پناه میگیرم بتو از گفتن دروغ یا آنکه آیم من بدکار یا آنکه باشم من بکرم تو فریب داده شده و پناه میگیرم بتو از خوشی دشمنان و درد سخت و نایافته آرزو - و نیست شدن خیر و خوبی و ناگاه رسیدن عقوبت مصیبت۔",
+        "fr": "Ô Allah, je me protège par toi de la pauvreté, de l'humiliation, et de la peur. Je me protège par toi de dire le faux, de couvrir une débauche ou de tomber dans la fatuité en voyant ton indulgence; et je me protège par toi, de la réjouissance des ennemis, des maladies incurables, de la déception, de la disparition des bienfaits, et de la brusquerie de la vengeance.",
+        "tr": "Allahım! senden başkasına muhtaç olmaktan, senden başkasına karşı zillet içinde olmaktan ve senden başkasından korkmaktan Sana sığınırım. Yalan söylemekten, bir kötülüğe bulaşmaktan veya Sana karşı aldanmış olmaktan Sana sığınırım. Düşmanların (başa gelen kötü bir duruma) sevinmesinden, devasız hastalıktan, umudun boşa çıkmasından, nimetin elden gitmesinden ve ansızın gelecek azaptan Sana sığınırım."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1210
+    },
+    {
+      "id": "hizb-2-mardi-132",
+      "num": 132,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَسَلِّمْ عَلَيْهِ، وَاجْزِهِ عَنَّا مَا هُوَ أَهْلُهُ حَبِيبُكَ (3)",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa sallim ʿalayhi wajzihi ʿannā mā huwa ahluhu ḥabībuka (3).",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim dan kesejateraan atas Baginda Nabi Muhmammad SAW kekasih Engkau dan balaslah beliau SAW dari kami, karena beliau SAW berhak menerimanya 3X",
+        "en": "O Allah, exalt and preserve our Master Muḥammad, and reward him on our behalf as much as he deserves, being Your Beloved. (x3)",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ و سلام بفرست بر وی و پاداش ده از مایان چیزیکه او سزاوار آنست دوست تست (این را بگو سه بار)۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, salue-le, et récompense-le de ce dont il est digne, lui ton bien-aimé.",
+        "tr": "Allahım! Efendimiz Muhammed'e salât ve selam eyle. Onu bizim yerimize, Senin habîbin olarak layık olduğu en yüce şekilde mükafatlandır. (3 kere)"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1244.5
+    },
+    {
+      "id": "hizb-2-mardi-133",
+      "num": 133,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَسَلِّمْ عَلَيْهِ، وَاجْزِهِ عَنَّا مَا هُوَ أَهْلُهُ خَلِيلُكَ (3)",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Ibrāhīma wa ṣallim ʿalayhi wajhzihi ʿanna ma huwa ahluhu khalilūka (3).",
+      "tr": {
+        "id": "Ya Allah, berkahilah Sayyidina Ibrahim dan beri dia kedamaian, dan beri dia pahala atas nama kami dengan apa yang layak dengannya sebagai kekasih Mu. (3 kali)",
+        "en": "O Allah, exalt and preserve our Master Abraham, and reward him on our behalf as much as he deserves, being Your Close Friend. (x3)",
+        "fa": "خدایا  درود بفرست بر سردار مایان ابراهیمؑ و سلام بفرست بر وی و پاداش ده از مایان چیزیکه او سزاوار آنست دوست تست (ااین را بگو سه بار)۔",
+        "fr": "Ô Allah, prie sur Saïdina Ibrahim et salue-le, et récompense-le de ce dont il est digne, lui ton confident.",
+        "tr": "Allahım! Efendimiz İbrahim'e salât ve selam eyle. Onu bizim yerimize, Senin seçkin dostun (Halîl'in) olarak layık olduğu o en yüce karşılıkla mükafatlandır. (3 kere)"
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1256
+    },
+    {
+      "id": "hizb-2-mardi-134",
+      "num": 134,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ وَرَحِمْتَ وَبَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيمَ وَعَلَى آلِ سَيِّدِنَا إِبْرَاهِيمَ فِي العَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ، عَدَدَ خَلْقِكَ وَرِضَاءَ نَفْسِكَ وَزِنَةَ عَرْشِكَ وَمِدَادَ كَلِمَاتِكَ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin wa ʿalā āli sayyidinā Muḥammadin kamā ṣallayta wa raḥimta wa bārakta ʿalā sayyidinā Ibrāhīma wa ʿalā āli sayyidinā Ibrahima fīl ʿālamīna innaka ḥamīdun majīd,ʿadada khalqika wa riḍāʾa nafsika wa zinata ʿarshika wa midāda kalimātika.",
+      "tr": {
+        "id": "Ya Allah, limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad dan keluarganya SAW sebagaimana Engkau melimpahkan Rahmat, Kasih Sayang dan berkah atas nabi Ibrahim as. Di seluruh alam, sesungguhnya Engkau Maha Terpuji dan Mulia yaitu sebanyak bilangan makhluk Engkau, Ridho Engkau hiasan Arasy Engkau dan tulisan kalimat Engkau.",
+        "en": "O Allah, exalt our Master Muḥammad and the Family of our Master Muḥammad as You exalted, were merciful to, and blessed our Master Abraham and the Family of our Master Abraham in [all] the realms of Being. You are All-Praiseworthy, All-Glorious. [All these exaltations being] as numerous as Your creation and as is pleasing to You, by the weight of Your Throne, and by the ink of Your Words.",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ و بر آل سردار مایان محمدؐ چنانکه درود فرستادۂ و رحمت کردۂ تو و برکت دادۂ تو بر ابرهیمؑ در عالمیان بدرستیکه تو ستوده شده بزرگواری بشمار آفرنیش خود و مقدار خوشنووی ذات خود و بوزن عرش خود و مقدار سخنان خود۔",
+        "fr": "Ô Allah, répands ta prière sur Saïdina Mohammad et sur la famille de Saïdina Mohammad, comme tu as répandu ta prière, ta miséricorde et ta bénédiction sur Saïdina Ibrahim dans les univers. Tu es louable et glorieux; autant que le nombre de tes créatures, que ta propre satisfaction, que le poids de ton Trône et l'encre nécessaire à écrire tes paroles.",
+        "tr": "Allahım, mahlûkâtının adedi sayısınca, arşının ağırlığı, kelimelerinin sayısı ve tamâmen hoşnutluğunla bütün âlemlerde efendimiz İbrâhîm'e salât, merhamet ve bereket ihsân ettiğin gibi, efendimiz Muhammed'e ve onun âl-i'ne de salât eyle. Şüphesiz sen methedilmeye layık, azâmet ve şeref sâhibisin."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1266
+    },
+    {
+      "id": "hizb-2-mardi-135",
+      "num": 135,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَنْ صَلَّى عَلَيْهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin ʿadada man ṣalla ʿalayhi.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan orang yang bershalawat atas Beliau SAW.",
+        "en": "O Allah, exalt our Master Muḥammad by the sum of those who have exalted him.",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ بشمار کسانیکه درود فرستادند بروی۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, au nombre de ceux qui ont prié sur lui.",
+        "tr": "Allahım, efendimiz Muhammed'e salât okuyanların sayısınca ona salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1300.7
+    },
+    {
+      "id": "hizb-2-mardi-136",
+      "num": 136,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَنْ لَمْ يُصَلِّ عَلَيْهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin ʿadada man lam yuṣalli ʿalayhi.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan orang yang tidak bershalawat atas Beliau SAW.",
+        "en": "O Allah, exalt our Master Muḥammad by the sum of those who have not exalted him.",
+        "fa": "خدایا  درود بفرست بر سردارا مایان محمدؐ بشمار کسیکه درود نفرستاده است بروی۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, au nombre de ceux qui n'ont pas prié sur lui.",
+        "tr": "Allahım, efendimiz Muhammed'e salât okumayanların sayısınca ona salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1307.5
+    },
+    {
+      "id": "hizb-2-mardi-137",
+      "num": 137,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ مَا صُلِّيَ عَلَيْهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin ʿadada mā ṣulliya ʿalayhi.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda kami Nabi Muhammad SAW sebanyak bilangan apa saja yang bershalawat atas Beliau SAW.",
+        "en": "O Allah, exalt our Master Muḥammad as many times as he has been exalted.",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ بشمار درود های که فرستاده شده بروی۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, au nombre des prières qui ont été faites sur lui.",
+        "tr": "Allahım, efendimiz Muhammed'e okunan salât sayısınca ona salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1314.5
+    },
+    {
+      "id": "hizb-2-mardi-138",
+      "num": 138,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ أَضْعَافَ مَا صُلِّيَ عَلَيْهِ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin aḍʿāfa mā ṣulliya ʿalayhi.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda Nabi Muhammad SAW berlipat gandanya sesuatu yang bershalawat atas beliau SAW.",
+        "en": "O Allah, exalt our Master Muḥammad as many times as he has been exalted, and many times over.",
+        "fa": "خدایا درود بفرست بر سردار مایان محمدؐ دوچندان انچه درود فرستاده شده است بروی۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, des multiples du nombre des prières qui ont été faites sur lui.",
+        "tr": "Allahım, efendimiz Muhammed'e okunan salavâtın katlarınca ona salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1322
+    },
+    {
+      "id": "hizb-2-mardi-139",
+      "num": 139,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ كَمَا هُوَ أَهْلُهُ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin kamā huwa ahluhu.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda Nabi Muhammad SAW sebagaimana beliau berhak padanya.",
+        "en": "O Allah, exalt our Master Muḥammad as he deserves.",
+        "fa": "خدایا درود بفرست بر رئیس مایان محمدؐ چنانچه وی سزاوار آنست۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad, tel qu'il en est digne.",
+        "tr": "Allahım, efendimiz Muhammed'e lâyık olduğu şekilde salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1329.5
+    },
+    {
+      "id": "hizb-2-mardi-140",
+      "num": 140,
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ كَمَا تُحِبُّ وَتَرْضَى لَهُ.",
+      "translit": "Allāhumma ṣalli ʿalā sayyidinā Muḥammadin kamā tuḥibbu wa tarḍā lahu.",
+      "tr": {
+        "id": "Ya Allah limpahkanlah Rahmat Ta'zhim atas Baginda Nabi Muhammad SAW sebagaimana Engkau cinta dan Ridho kepadanya SAW.",
+        "en": "O Allah, exalt our Master Muḥammad as You like and as You are content with for him.",
+        "fa": "خدایا  درود بفرست بر سردار مایان محمدؐ چنانچه دوست داری تو و خوشنود شوی تو برای او۔",
+        "fr": "Ô Allah, prie sur Saïdina Mohammad comme tu veux et tu le lui souhaite.",
+        "tr": "Allahım, efendimiz Muhammed'e sevdiğin ve onun için râzı olduğun şekilde salât eyle."
+      },
+      "kind": "prose",
+      "audio": "/content/audio/dalail/hizb-2-mardi.mp3",
+      "audioStart": 1336.5
+    }
+  ]
+}
