@@ -5,8 +5,10 @@ import { getDakhiraUrl } from "@/lib/dakhira";
 
 type Params = { volume: string };
 
-// Revalider toutes les 10 minutes — le mapping blob peut évoluer
-export const revalidate = 600;
+// Pas de prérendu à build-time — la résolution Blob se fait à la première
+// requête seulement (sinon Next.js spamme l'API Vercel Blob pendant le build
+// et timeout sur Vercel).
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,

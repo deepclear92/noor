@@ -20,16 +20,27 @@ async function fetchBlobMap(): Promise<Map<number, string>> {
     return cachedBlobMap;
   }
   if (!process.env.BLOB_READ_WRITE_TOKEN) {
+    // Pas de token (build local sans config) → fallback immédiat
     return new Map();
   }
   try {
     // Import dynamique pour éviter d'embarquer @vercel/blob côté client
     const { list } = await import("@vercel/blob");
     const map = new Map<number, string>();
+
+    // Timeout global de 5s sur la résolution complète — pour ne pas bloquer
+    // les builds Vercel si l'API Blob est lente.
+    const withTimeout = <T>(p: Promise<T>, ms = 5000): Promise<T> =>
+      Promise.race([
+        p,
+        new Promise<T>((_, rej) =>
+          setTimeout(() => rej(new Error("blob list timeout")), ms),
+        ),
+      ]);
+
     let cursor: string | undefined;
-    // Pagination — récupère tous les blobs
     do {
-      const result = await list({ limit: 1000, cursor });
+      const result = await withTimeout(list({ limit: 1000, cursor }));
       for (const b of result.blobs) {
         // Match dakira01.pdf à dakira56.pdf, peu importe le dossier
         const m = b.pathname.match(/dakira(\d{1,2})\.pdf$/i);
