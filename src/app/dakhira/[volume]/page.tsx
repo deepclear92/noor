@@ -14,6 +14,17 @@ export async function generateMetadata({
   return { title: `Dakira — Volume ${Number(num)}` };
 }
 
+/**
+ * URL de base pour les PDFs Dakhira.
+ *  - En production (Vercel) → archive.org direct (les PDFs ne sont pas dans le repo)
+ *  - En dev local → `/content/dakhira` si les PDFs ont été téléchargés via le script
+ *
+ * Override possible via `NEXT_PUBLIC_DAKHIRA_BASE_URL`.
+ */
+const DAKHIRA_BASE =
+  process.env.NEXT_PUBLIC_DAKHIRA_BASE_URL ||
+  "https://archive.org/download/Dakhirat-almuhtaj";
+
 export default async function DakiraVolumePage({
   params,
 }: {
@@ -30,7 +41,7 @@ export default async function DakiraVolumePage({
     );
   }
   const padded = String(num).padStart(2, "0");
-  const pdfPath = `/content/dakhira/dakira${padded}.pdf`;
+  const pdfPath = `${DAKHIRA_BASE}/dakira${padded}.pdf`;
 
   const prev = num > 1 ? `/dakhira/dakira-${String(num - 1).padStart(2, "0")}` : null;
   const next = num < 56 ? `/dakhira/dakira-${String(num + 1).padStart(2, "0")}` : null;

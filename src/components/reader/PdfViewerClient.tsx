@@ -66,8 +66,19 @@ export function PdfViewer({
   const setLastRead = useReaderStore((s) => s.setLastRead);
 
   // Vérifie l'existence du fichier
+  // Pour les URL cross-origin (ex: archive.org), on skippe le HEAD préflight
+  // (CORS peut le bloquer même si le GET fonctionne) — PDF.js gère l'erreur.
   useEffect(() => {
     let cancelled = false;
+    const isCrossOrigin =
+      /^https?:\/\//.test(src) &&
+      typeof window !== "undefined" &&
+      !src.startsWith(window.location.origin);
+
+    if (isCrossOrigin) {
+      setExists(true);
+      return;
+    }
     fetch(src, { method: "HEAD" })
       .then((r) => !cancelled && setExists(r.ok))
       .catch(() => !cancelled && setExists(false));
